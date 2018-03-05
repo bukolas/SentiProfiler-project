@@ -1,0 +1,9 @@
+We're leaving one  hot, dirty, sandstorm-riddled area in Africa and are headed to a hot, dirty sandstorm riddled area in the gulf.   Why?? for the love of all that's holy WHY? YOU ASK!? (as did I?)  Because (a) Stupid Sudan is having national elections soon and I am supposed to be here so I can pretend to care deeply about the "issues" facing Sudan so I can't be gone long; and (b) Josh is participating in a triathlon in Abu Dhabi.  -- Which is apparently why he insisted on hoggin the mail fairy so his "gear" could arrive and he could be prepared for his race and not die.  I'm guessing I probably shouldn't have eaten his power bars...but seriously, who could have known! 
+
+There should have been a sign.
+
+And finally (since I really don't have anything to say) I would just like to point out that we watched a movie this weekend (which I also realize you guys probably all saw like 6 months ago, but just be polite and pretend to listen) "The Road"  with that one guy who was in Hidalgo and used to be soo dreamy until I found out that he likes to write poetry and commune with Nature (that's not my way).    Did you guys see this?? The world is basically dying (I'm still not sure why, or what happened frankly) and that guy in Hidalgo and his son try to go south and avoid cannibals (why are cannibals always depicted like they're from West Virginia?  And why do people from West Virginia always manage to LIVE when everyone else dies off...the inbred people seem to thrive in a catastrophe.....someone should really study that or something.  Learn their secret.)
+
+ANYWAY, I'm not sure what happened, or why I watched that movie.  All I know is that I am going to hoard some shoes (?? No, I'm not sure what happened to everyone's shoes frankly) and some canned fruit cocktail.  Don't ask questions.....trust me.  Just do it. 
+
+You never know when something will happen that will make all the animals die and

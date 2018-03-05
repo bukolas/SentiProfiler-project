@@ -1,0 +1,3 @@
+The Invention of Hugo Cabret was one of the most amazing children’s books of the last 10 years. A beautifully illustrated book, told as much through its imagery as its narrative, it is also a book with a love for the early days of film, particularly French filmmakers.
+
+The book won the Caldecott Medal for “Best Illustrated Children’s Book,” but I don’t know which Scorsese will make the movie. Will it be the visual master of “Raging Bull” or the talented hack who made “Shutter Island”?

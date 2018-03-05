@@ -1,0 +1,1 @@
+I borrowed this dress from my roommate. It is typical American Apparel, which means it is pretty comfortable and looks good. It's perfect for those mornings when I have to rush to my 8AM class. I got this shirt about two years ago at a thrift store. It is the perfect shirt for spring. Today was the first warm day since I've been back in Vermont. Spring is certainly on it's way.

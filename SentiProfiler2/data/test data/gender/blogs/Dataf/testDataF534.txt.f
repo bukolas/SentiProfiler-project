@@ -1,0 +1,1 @@
+Oh man, that was one of the very few things I din't like about this movie. The hero's name. Karthik is a veryyyyyyyyyy common name and I would want directors to chose something apart from the regular ones.

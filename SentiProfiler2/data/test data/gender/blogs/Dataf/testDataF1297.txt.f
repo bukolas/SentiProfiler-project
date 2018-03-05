@@ -1,0 +1,3 @@
+Regular readers of this blog, and I am happy to say that it as many as five people, have been pointing out that it has remained unupdated for over two months. A very devoted reader, horror of horrors, even threatened blogultery, if I did not come up with a post soon. I know how hard I have toiled to build readership to such impressive levels and I feel terrified at the prospect of losing it all.
+
+I do have a good reason for not blogging. I was away on a holiday for three weeks and while I did contemplate writing about it, I decided against doing so. What, I felt, could I possibly say about London that hasn’t already been said? After all, the very wonderful city attracts an impressive 30 million tourists every year.

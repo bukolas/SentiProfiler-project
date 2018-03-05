@@ -1,0 +1,1 @@
+At one point in my life, I literally thought that you must be insane to pay for audio programming...why pay for something that is available for free on any AM/FM radio?  That was until all of that same AM/FM programming became very stale and I became annoyed with what seemed like endless commercial breaks.

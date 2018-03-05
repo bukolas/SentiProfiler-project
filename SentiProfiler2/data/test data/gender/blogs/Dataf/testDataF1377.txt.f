@@ -1,0 +1,1 @@
+The first time I saw One Night With The King was on January 1 2008 and I loved it.  The movie is about the story of Esther and how she became queen.  The set, the actors, the actresses... everything was very beautiful and I couldn't wait for the DVD to come out so I could watch it again.  And when the DVD came out, I did watch it.  Over and over and over again.

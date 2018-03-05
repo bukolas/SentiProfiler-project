@@ -1,0 +1,1 @@
+The new Our Cancer community has been live for less than 24 hours and I'm happy to report that people are beginning to use it. As of this morning, around 50 of you have joined the group, and a number of you have started posting introductions about yourselves.

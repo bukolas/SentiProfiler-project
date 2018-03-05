@@ -1,0 +1,5 @@
+We now know how Conan O’Brien plans to leverage the huge swell of support he found online in the wake of being forced out at NBC: a nationwide comedy tour.
+
+The comedian announced on his Twitter account this morning the launch of TeamCoco.com, where fans can buy tickets to one of 30 shows, kicking off in Eugene, Oregon, on April 12. The tour, fittingly enough, is called “The Legally Prohibited From Being Funny on Television Tour,” a reference to the deal he made with NBC that keeps O’Brien off the air until the fall.
+
+A comedy tour has been rumored since shortly after Conan stepped down, and we suspected something might be in the works when he finally joined Twitter (Twitter) (and immediately found a huge fan base, and changed one random girl’s life along the way). Now, Conan officially has an outlet to keep the momentum going while he determines his next move on TV.

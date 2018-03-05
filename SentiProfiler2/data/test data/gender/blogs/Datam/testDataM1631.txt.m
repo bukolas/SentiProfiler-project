@@ -1,0 +1,4 @@
+I'm getting older every day and I am trying to photograph as many of those days as possible. I am Husband to 1, Daddyo to 5, Grand (Poppy) to another 5 (so far). I use Nikon Cameras and Lenses ... but I really believe that anyone can be a great photographer with ANY kind of camera.
+Photography has been great therapy for me throughout my life. It has allowed me to get away on my own and with close friends to see the wonders of creation. I am trying to record something in photography that will live longer than myself. I think it would be really fantastic if my great-great grand-children could see the photos I capture and in effect "see through my eyes" but for a moment.
+Thank you so much for your kind words of support and encouragement. I hope you enjoy what you see and are challenged in new ways to improve your own skills. All of your photos help me learn and improve in that same way.
+God bless you all.NikonSniper Steve

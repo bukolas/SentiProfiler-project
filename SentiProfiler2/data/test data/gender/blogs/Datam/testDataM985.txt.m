@@ -1,0 +1,7 @@
+Another reason in my opinion is that beginning in the fifties many people started to confuse Homosexuals with
+Pedophiles. People not only got the "gays are sinners" message but also the "eww you disgusting perverts" message. It also didn’t help that Homosexuality was listed as a mental health disorder(they thought it was a defect in the brain like schizophrenia, or Bi polar) till like sometime in the nineties. so up until the middle of the 1990s we had all these arrogant idiots telling people to hate us.
+And the cause of it all? LACK OF EDUCATION!!!
+It seems like such a simple thing right?
+Guess not because people still refuse to educate themselves about homosexuality before forming an opinion.
+Now granted things are a lot better, in Canada we can marry, there are numerous programs in the city where we can get help, counselling, and hang out with others like us, pride celebrations are in most cities now a days, and most peoples attitudes are better than they used to be. It's just that the people whose attitudes haven't changed that is keeping us back from achieving a better life for gays everywhere. The only thing it would take is education in the schools about homosexuals and homosexuality and I think that slowly attitudes would change. Also an absolute no nonsense policy on homophobic remarks and bullying.
+Now if I haven't completely bored you and your still reading I hope u have enjoyed my rantings.

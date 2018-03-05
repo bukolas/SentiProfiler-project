@@ -1,0 +1,1 @@
+The resort was also affordable with about less than a thousand pesos per cottage a night (that’s about $20). I think they also rent out diving equipment for divers and boats for those who want to go to Apo Island.

@@ -1,0 +1,1 @@
+Our local public High School is pretty good. Nice facilities, gang & drug problems that are either non-existent or invisible, and motivated teachers. My wife and I stay pretty involved in our kids educations. One of the things we do, when able and required, is to go over their tests with them to see where things went astray.

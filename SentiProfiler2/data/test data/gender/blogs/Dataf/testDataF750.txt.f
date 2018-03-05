@@ -1,0 +1,1 @@
+"The reality is there are no plans to do it because of the way that our games our serviced," Kim said in an interview with UGO. "The nature of our games are live, and in order to get them running right and to deliver that same experience, we're going to have to update monthly and adapt it on the fly. I don't think consoles are capable of that yet."

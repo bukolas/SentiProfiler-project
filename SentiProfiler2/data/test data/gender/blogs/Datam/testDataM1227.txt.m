@@ -1,0 +1,3 @@
+Facebook’s f8 conference  is shaping up to have quite a few improvements in store for developers, and we think we’ve come across another one: a change to Facebook’s data retention policy. Yesterday, Facebook employee Monica Keller (who left MySpace to join  the company last month), took part in a conversation on Twitter that seemed to indicate that developers may no longer have to delete user data. The possible change came to light after Gnip CEO Eric Marcoullier gently chided Keller about developers being unable to store any user data, to which she responded, “come to f8!”.
+
+Since that tweet, we’ve heard further whispers about a change to Facebook’s 24 hour policy retention, and that Facebook is already briefing developers on the upcoming changes.

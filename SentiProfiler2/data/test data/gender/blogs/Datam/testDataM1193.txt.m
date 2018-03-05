@@ -1,0 +1,5 @@
+I awoke to all the snow reports in the area reading between two and four inches. Then it was off to the webcams and CDOT cams. Vail Pass looked snowy and so did the top of Sun Up, I was head over the pass today for some more turns at Vail. 
+
+Conditions were awesome, or crappy, depending on who you rode with on the chair. I will go with the former as will my new friend I made on High Noon. We lapped the chair a couple times together and both decided that although there was a definite crust under that few inches of fluff, it was pretty damn good skiing. 
+
+The outside parts of the feet started to get to the point of ice bricks and the wind was biting my face. After four hours of powder hunting I decided it was time to head to the front side and get back to the truck. Stopped to buy the essentials for some chili, now off to tend to that.

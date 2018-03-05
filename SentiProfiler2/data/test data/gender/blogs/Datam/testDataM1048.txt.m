@@ -1,0 +1,1 @@
+This Saturday, February 13th from 11-5PM is the first LA Street Food Fest. I will be setting up the Mr Toast booth This is going to be a crazy cool show with 30 food trucks and 30 designer vendors (including our friends Spicy Brown). It is $5 to get in and they are expecting a crowd! It is near downtown at the Center Studios.

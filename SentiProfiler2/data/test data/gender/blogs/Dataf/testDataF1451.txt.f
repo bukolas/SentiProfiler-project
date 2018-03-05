@@ -1,0 +1,1 @@
+Paula Begoun is the creator and innovative force behind Paula's Choice skin care and cosmetics. She is the author of 18 best-selling books including Don't Go to the Cosmetics Counter Without Me, Blue Eyeshadow Should Be Illegal, The Original Beauty Bible, and Don't Go Shopping for Hair-Care Products Without Me. Paula’s books have sold more than 2.5 million copies worldwide.

@@ -1,0 +1,1 @@
+Miss.World,Miss universe,Miss Asia pacific,,,no no this is not wat she deservess...she is MISS.BLUSHING....a good,caring frnd,,,always tries to control my temper but it ll end doing the opposite..Mrs.Rep of our class..Vasool rani--thats the perfect name for her(expert in getting treat n collecting money)....hey wat else charanya ...i wrote wat u wan me to write .

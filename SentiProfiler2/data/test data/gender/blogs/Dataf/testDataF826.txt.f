@@ -1,0 +1,2 @@
+It is fine unless you have to deal with customer service and then the experience starts to go downhill.  They range from unfriendly and unhelpful to completely inconsistent and give conflicting advice and information.
+And heaven forbid you don't notice damage to the car before you take it out because you will then be stuck with the $500 fine- I'd rather take a cab and not have the hassle.

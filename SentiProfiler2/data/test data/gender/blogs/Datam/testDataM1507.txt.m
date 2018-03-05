@@ -1,0 +1,2 @@
+"The Mis-Education of the Negro", by Carter G. Woodson.
+This is going to be a great book and will make for a great topic of discussion in our next meeting. In my opinion this is a must read for all African Americans. It will bring insight into a lot of issues that plight us as a people. And what you will find even more interesting is that this book was published in 1933 but still incredibly relevant to the problems we face today almost 80 years later.

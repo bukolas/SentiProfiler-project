@@ -1,0 +1,7 @@
+With despair gripping New York Democrats over ethical scandals claiming Governor David Patterson, Rep. Charlie Rangel (D-NY), and Rep. Eric Massa (D-NY), New York’s Attorney General Andrew Cuomo cuts a heroic figure as the presumptive heir to the governorship.
+
+But catching up with Cuomo is his relationship with the mortgage meltdown that nearly destroyed the American economy. Appointed by Bill Clinton as secretary of the U.S. Department for Housing and Urban Development (HUD), Andrew Cuomo has been called “the father of the subprime crisis” for the policies he orchestrated.
+
+It was Cuomo’s directives that mandated HUD to vastly increase the amount of risky home loans bought by quasi-governmental housing giants Fannie Mae and Freddie Mac. Now, Cuomo may be haunted by his tenure as HUD secretary, where he planted the seeds for the nation’s housing collapse.
+
+Though America’s financial fortunes suffered after Cuomo’s time at HUD, his own personal fortune soared. The bulk of this financial “windfall” came courtesy of Andrew Farkas, the billionaire real estate developer who helped Cuomo amass his wealth as a business partner and campaign fundraiser. Farkas — now Cuomo’s financial chairman as he circles the governorship — has personally given Cuomo at least $1.8 million in cash.

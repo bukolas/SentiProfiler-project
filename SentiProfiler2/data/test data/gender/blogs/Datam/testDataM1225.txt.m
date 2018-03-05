@@ -1,0 +1,7 @@
+Back during the 2008 presidential campaign, then-Sen. Joe Biden, the Democratic nominee for vice president said it was "patriotic" for people to pay more taxes, in an interview on ABC's "Good Morning America." But what if you don't have to pay more taxes legally?
+
+Biden's reasoning was simplistic - that we all need to "jump in, time to be part of the deal, time to help get America out of the rut." But according to CNBC's Jim Cramer, based on legal precedence, the Internal Revenue Service encourages people to pay as little tax as possible, as long as it is within the boundaries of the seemingly endless U.S. tax code.
+
+"The government has made it very clear in a series of tax rulings since the income tax started - and I learned this at law school - that it is actually well within your patriotic right to try and pay as little tax legally," Cramer said on CNBC's March 12 "Street Signs." "See, tax avoidance is actually part of the IRS - says listen tax avoidance, you can do it. Tax evasion is against the law. Tax avoidance, the IRS has always said listen you have every right to try and have tax avoidance. And believe me, I'm going to take advantage of it."
+
+Read more: http://newsbusters.org/blogs/jeff-poor/2010/03/12/biden-debunked-cramer-declares-avoiding-taxes-patriotic-duty#ixzz0iPLll5FX

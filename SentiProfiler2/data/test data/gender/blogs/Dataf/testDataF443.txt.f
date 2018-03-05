@@ -1,0 +1,1 @@
+We chuckled with him when he talked about losing his hair and we told him there was no shame in admitting he was just plain scared. He came for advice and he got that, too. His journey was a short one, but he made an impression. He left his mark, and that's what it's all about.

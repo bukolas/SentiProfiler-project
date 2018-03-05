@@ -1,0 +1,1 @@
+Sri Lanka's cricket history is replete with fast bowlers, both in the pre-Test era and after, but they have never produced anyone of genuine pace, although many believe DS Jayasundera, a right-arm fast bowler in the 1930s and 40s, was genuinely sharp, and there have been none faster since.

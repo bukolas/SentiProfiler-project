@@ -1,0 +1,1 @@
+Kathmandu, has changed very little since my last visit except that things are slightly more expensive and there is even less electricity and more garbage. People seem to have given up on the idea that government will be solving their problems any time soon. As a result, there are more electric generators at shops and restaurants.

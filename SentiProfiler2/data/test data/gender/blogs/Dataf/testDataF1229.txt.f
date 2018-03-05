@@ -1,0 +1,1 @@
+It was a long drive and if we weren’t careful, we could have missed the small path at our left which leads to Kusina Salud. It would be convenient to go there by private vehicle because the restaurant was a bit secluded.

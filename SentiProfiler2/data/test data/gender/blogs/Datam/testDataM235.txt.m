@@ -1,0 +1,5 @@
+At the tail end of our GDC interview with Lionhead's Peter Molyneux, we remembered one more question we simply had to know: How well did Fable 2's episodic experiment go? We'll refresh your memory: Last August, Molyneux announced plans to release Fable 2 as a series of five downloadable "episodes," with the first one given away and the subsequent four priced at $10 each.
+
+Molyneux's response: "That was hugely successful. There were something like over half a million. I think it was 600,000 downloads of the first episode, which was very, very cool." Of course, the first episode was free so how was the conversion rate? "It was a much higher than a normal conversion rate," Molyneux smiled. "Massively, massively successful, and I really love this relationship, which is much more sliced into episodes with consumers."
+
+Of course, knowing where we were going with this particular line of questioning, Molyneux preemptively offered an answer."But we're not announcing whether that's coming out in this release," he said, tossing a smile towards the attentive PR people behind me.

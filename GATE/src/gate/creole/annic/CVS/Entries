@@ -1,0 +1,16 @@
+/Constants.java/1.1/Thu Jan 13 16:52:15 2011//
+/HTMLGenerator.java/1.1/Thu Jan 13 16:52:15 2011//
+/Hit.java/1.1/Thu Jan 13 16:52:15 2011//
+/IndexException.java/1.1/Thu Jan 13 16:52:15 2011//
+/Indexer.java/1.1/Thu Jan 13 16:52:15 2011//
+/Parser.java/1.1/Thu Jan 13 16:52:15 2011//
+/Pattern.java/1.1/Thu Jan 13 16:52:15 2011//
+/PatternAnnotation.java/1.1/Thu Jan 13 16:52:15 2011//
+/SearchException.java/1.1/Thu Jan 13 16:52:15 2011//
+/Searchable.java/1.1/Thu Jan 13 16:52:15 2011//
+/SearchableDataStore.java/1.1/Thu Jan 13 16:52:15 2011//
+/Searcher.java/1.1/Thu Jan 13 16:52:15 2011//
+/Term.java/1.1/Thu Jan 13 16:52:15 2011//
+D/apache////
+D/lucene////
+D/test////

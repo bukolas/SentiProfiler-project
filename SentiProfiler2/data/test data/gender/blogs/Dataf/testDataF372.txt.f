@@ -1,0 +1,1 @@
+It was a good thing that I studied downtown San Francisco very intently before I embarked on this trip or I could have been lost under its dark, starry night. But what also made it easier for me was that Hilton was located about two blocks from the metro station.

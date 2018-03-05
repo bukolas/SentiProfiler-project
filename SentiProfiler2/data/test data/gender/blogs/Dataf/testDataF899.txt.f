@@ -1,0 +1,7 @@
+Having forgotten to take my book on the Metro this morning, and then discovering that the battery in my MP3 player was dead, I spent 20 minutes investigating what my fellow travellers were reading! Yes, I was bored.
+
+Top place went to the variety of free newspapers that can be picked up outside various shops, or are handed out on the streets (20 Minutos, Que and ADN). I normally get a copy of 20 Minutos at the top of the Metro stairs on the way to my early class at the Ministry of the Environment. It's handed to me by a man whose face I have never seen. Come rain or shine, he's bundled up in a waterproof jacket, gloves, hat and a scarf that's wrapped around his face only leaving his eyes exposed. Still, his eyes appear to be smiling and there's usually a muffled "Hola". Maybe once summer comes, I'll actually find out what he looks like!
+
+One very geeky, terribly small, thin man who looked about as far removed from a football fan as anyone I've ever seen was dissecting his copy of Marca, the Real Madrid official paper.
+
+No less than 3 people were reading whatever that damn red and black book is by the author that died before publication of the final part (someone please tell me what it is!).

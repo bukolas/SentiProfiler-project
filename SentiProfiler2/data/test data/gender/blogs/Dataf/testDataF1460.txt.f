@@ -1,0 +1,19 @@
+My heart broke once I made a decision. I knew I could second guess my decision forever, so I promised myself not to dwell on it. We bought Pikachu and brought her home. Just like with the stuffed dogs, I wish I could have brought all the guinea pigs home and spoiled them like I am and will do to Pikachu.
+
+It's only been two days since we brought her home, and I already can't imagine what it would have been like if I'd chosen the other guinea pig.
+
+Guinea pigs are more like cats than dogs, in the sense that you have to earn their love. They're also prey animals so they're skittish and wary of humans. But Pikachu is adjusting to her new life. She wouldn't eat the first day when we were in the room, but overnight she ate a little. Now she's drinking water and eating lettuce and squeaking happily when we pet her behind her ears.
+
+When I was researching guinea pigs online, everyone who owned them and talked about them on forums and websites were really.. I don't know how to put it, but attached I guess? You can tell they think of them like family. Just like people think of dogs like family, but maybe a little more obsessed. Some people give their guinea pigs entire rooms instead of cages. But now I can see where they're coming from because I do love Pikachu like she's family already. I doubt I'd ever have a room for guinea pigs, but I'm totally creepy guinea pig lady over Pikachu ;)
+Posted by caitlyndelaney at 12:34 AM 0 comments
+Tuesday, July 28, 2009
+I'm going to get a guinea pig.
+One night, I randomly looked into getting some dwarf hamsters because I remember going to Pet Co. last year and thinking they were cute. I just want a small pet because I can't have a dog and I miss having a pet. The more research I did about dwarf hamsters, though, the less appealing they became. They're appartently not very tame and have only been domesticated for about a decade. They also are cannibalistic toward their young. However, I never wanted or looked into a guinea pig because I thought they were too big but I had heard great things about them.
+
+Then I went to visit Mike's sister Nicki and she has one named Yoshime. I'd never really paid much attention to her before, but I really fell in love with her. Nicki let her out and let her run around and she was adorable. So then I started researching and Mike even said he'd be interested in getting one now.
+
+I got really excited like a little kid and I got my hopes up. Then we started talking about how our apartment building wouldn't allow pets. We thought about hiding it from them, but the landlords and maintenance burst into our apartments all the time unannounced so it would basically be impossible. I lost all hope, but decided to call anyway and check, even though our lease says "NO PETS AT ALL. ANY PETS FOUND WILL RESULT IN AN IMMEDIATE FINE OF $1,500 AND THE PET MUST BE REMOVED."
+
+I called our apartment the next day, completely prepared. I had my confident voice and I had all my rebuttals ready. Once they said no, I was going to tell them that I could certainly understand, but that I was willing to pay a pet deposit and that I would let them check up on the guinea pig at any time. However, I never had to use any of those rebuttals. The lady answered the phone and I asked if guinea pigs were allowed. She asked, "Will it be in a cage?" and I said, "Of course." And then she said it would be allowed.
+
+So then I decided that I'm definitely going to get a guinea pig. I'm going to wait until we move into our new apartment on the 21st. Hopefully this isn't just a phase for me and a guinea pig will be a wonderful and friendly addition to the new apartment.

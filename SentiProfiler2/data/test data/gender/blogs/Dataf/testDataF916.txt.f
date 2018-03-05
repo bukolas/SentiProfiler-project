@@ -1,0 +1,11 @@
+Things have been going well out here. Unfortunately, I don't have very steady wind but I'm still managing to make some progress. Its starting to get really cold! Its still quite possible that I'll be up on deck reading a book when rounding Cape Horn, but I'm beginning to think that while out there I'll be in an Eskimo suit...not a swim suit.
+
+I was surprised by how fast the temperature changed. Just two days or so ago it was nice and warm but all of a sudden it got right down to 60F. Its not just the temperature that has changed. Everything around me from the constantly breaking waves to the grey sky is different. Not more than three days ago there was still the bright blue water, clear sunny skies, and warm wind. Things may not have started to roar the minute I entered the 40s but the past few days have made it evident that I'm in them.
+
+Its cold, and rather then everything being bright blue as it had on the equator, everything has now turned grey. Its an all together less inviting sight than the equator, but its exciting and it feels like I'm really getting into my trip now.
+
+I've spent the day checking up on things; belts, filter, lines, and sails. I did a little housework as well. I cleaned out the cupboard under the sink, pulled out some warmer clothes so they're easy to get to when I need them, and checked out all three of my heaters to make sure they're working. I've also been working on drying out my boots. They got soaked inside and out so while covered from head to, well, ankle, in foulies my feet have been very uncomfortable when I'm outside!!
+
+I've been keeping the boat closed up tight and compared to outside its very warm (I'm not sure the temperature outside, my thermometer is down below). With the companionway door closed the windows fog up and the roof is wet from condensation. I usually leave the one little window above my bed open. It does let in a little cold breeze but I'd rather a cold breeze than suffocating. I have had quite a bit of time to think out here. Suffocating would be a pretty miserable ending to my trip so I'm really very happy to put up with a little cold air!
+
+I know a lot of you are watching the wild weather that is brewing down here. More on that tomorrow.

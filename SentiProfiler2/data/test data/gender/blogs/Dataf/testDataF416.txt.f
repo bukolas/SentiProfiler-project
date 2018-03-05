@@ -1,0 +1,1 @@
+My dear friend Carol, who walks with me, made an interesting comment as we were finishing our six mile jaunt. She said before she got into walking in the winter with me, she only thought of it as something she had to get through to reach Spring.

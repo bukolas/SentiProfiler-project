@@ -1,0 +1,1 @@
+You could have dated a man, supposedly hung like a horse, who traveled abroad and cheated on you - despite being given various outs - who proceeded to lie about it and didn't resist, until he discovered he had chlamydia - and even then lied, meanwhile, he lied about his only witness being in love with you to avoid contact.

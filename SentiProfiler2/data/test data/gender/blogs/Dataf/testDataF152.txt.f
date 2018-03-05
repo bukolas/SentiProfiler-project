@@ -1,0 +1,14 @@
+Sadly, my four day weekend has come to an end.  Booo.  I will join the rest of the world and go to work tomorrow.  Again with the booo.
+
+I did do a few fun things!
+
+Friday I hung out with Linda and Shelly.  This hanging out included trash tv, girl talk, and frozen yogurt!  
+Saturday included cleaning, grocery shopping and a whole lot of waiting.  Jesse got home (!!!) 8pm that night and I made BBQ Chicken Pizza.  This is the same pizza I made last weekend.  It's so good though!  We sat around eating and watching tv.  I love having him here!
+Sunday we braved the crowds with three kids and went to the Kite Fest.  Man, was there a lot of people!  We parked allll the way by the animal shelter and walked alllll the way to Zilker.  It's not bad at all to walk, but kids make it a little harder to take on.  We got there and right away got all 3 kites in the air.  Mia was so excited!  She was just laughing!  She's never flown a kite {heck I've never flown a kite!} and it was fun to see her reaction.  Here are a couple of pics from that day.
+Sunday night Jesse and I headed over to our friend's house.  Scott & Becky were so kind to invite us over and make us dinner.  One of the sides was couscous.  It was my first time trying it & I thought it was really good.  It'll probably make its way into next week's menu!  But anyway!  On  to the fun part...we got to meet their daughter Avery Elizabeth!!  She is just too cute!  Sorry, I didnt get any pics of the little one, but believe me...she's precious!  
+Monday we got to sleep in.  It felt good!  Normally I cant sleep past 730am, but that morning I slept til 930!  I'm sure it had a lot to do with the time change.  But still, it felt good!  After our coffee and cereal we decided to be productive.  He worked out on the yard, while I worked out indoors.  Nice little workout.  We went out and ran a few errands then picked up Hai Ky.  Yum!  I always seem to get the same thing when I go there{vermicelli bowl with pork}so I think that next time I'm gonna try something different.  I'm already excited!  We took the food home to enjoy and watched the Invention of Lying.  Good movie!  This was actually my second time seeing it.  I watched it on Saturday while I was waiting for Jesse to get here.  But, it was funny enough to watch again.  :)
+Tuesday we did a whole lotta nothin'!  The weather called for laziness so we didn't fight it.  I did get Jesse to put up a shelf in the laundry area.  I've had a couple of ideas in my head for what to do about this small space.  Of course things dont always go accordingly so I'm having to figure something else out.  *sigh*  We did get out for a couple of hours!  We went to see She's Out of Your League.  Pretty funny movie!
+
+Four days goes by quickly, let me tell ya!  The only good thing about the return of work is that I'll do better with my eating and my diet.  Work keeps my routine in order.
+
+So cheers to a good week!

@@ -1,0 +1,3 @@
+Mathura, well i know her rite from kinder garden she is one of my best frens..She is one big time padips, but she too have fun..it wud be gr8 when she is around..The best thing i like in her, she is very frank to her frens ..Believe me, she is not a bookworm, but still she tops the class..But once she slept, thats all, she will forget the whole world..i had a superb experience!!
+
+She ll do anything for frens..She ll kalachify ppl like anything..If she says something, we shld have a closer look on it, cos it wont be the same what we assume She always thinks very practical....She is punctuality personified..Very lucky to get such a awesome fren like Mathura..Be the way u r !!

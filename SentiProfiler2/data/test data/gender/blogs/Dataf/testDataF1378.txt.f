@@ -1,0 +1,1 @@
+Things have been crazy. I've been of course working on my 365days project but a new distraction has come up. The Sims 3. I'm re-addicted to this game. In fact right after I post this I'm going to play it. But it's fine because my homework is done, room semi-clean, and chores have been complete. Now I'm off! Goodbye for now!

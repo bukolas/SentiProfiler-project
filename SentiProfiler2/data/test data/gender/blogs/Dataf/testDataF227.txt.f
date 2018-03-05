@@ -1,0 +1,9 @@
+Comprehensive health care reform will cost the federal government $940 billion over a ten-year period, but will increase revenue and cut other costs by a greater amount, leading to a reduction of $138 billion in the federal deficit over the same period, according to an analysis by the Congressional Budget Office, a Democratic source tells HuffPost. It will cut the deficit by $1.2 trillion over the second ten year period.
+
+The source said it also extends Medicare’s solvency by at least nine years and reduces the rate of its growth by 1.4 percent, while closing the doughnut hole for seniors, meaning there will no longer be a gap in coverage of medication. The CBO also estimated it would extend coverage to 32 million additional people.
+
+The CBO score is the last piece House Speaker Nancy Pelosi (D-Calif.) was waiting on before putting the puzzle together on the House floor. A contingent of Blue Dogs has been holding out support, insisting that the bill be fully paid for and not increase the deficit. The numbers give a major boost to Pelosi and her leadership team, which can now begin the whip count in earnest and can specifically point to the cost savings.
+
+With the CBO score released, the Democratic whip team has a specific, thoroughly-analyzed bill to show to undeclared members who can no longer claim they are “waiting to see the language.” Pelosi has very little room for error and needs to move nearly every undecided voter to a solid “yes.”
+
+Since the House last passed legislation in November, three Democrats who opposed it — John Tanner and Bart Gordon of Tennessee and Brian Baird of Washington — have announced their retirements, relieving them of some political pressure to oppose the bill. Pelosi may end up drawing on those exiting members for a cushion of support.

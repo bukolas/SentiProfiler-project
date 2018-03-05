@@ -1,0 +1,2 @@
+Nice moon , is it ? While I was waiting for my friends to reach the car park of my school , I saw this big moon ! haha ... luckily i brought my tripod , so i can take a nice moon photo ! :)
+This is Chap Goh Meh , the last day of Chinese New Year , in China today was valentine day . :) like previous year ( last year ) , we went out for dinner , the different was this year we didn't go to temple after dinner .

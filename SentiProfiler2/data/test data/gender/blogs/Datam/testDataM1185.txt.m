@@ -1,0 +1,7 @@
+Aol launched Lifestream, a social aggregator and publisher, as part of their AIM platform at TechCrunch50 Last Fall. Since then it has gained nearly 2 million users, say Aol. Based on that success Aol is now launching Lifestream as a standalone product at lifestream.aol.com.
+
+Like Friendfeed, Lifestream aggregates a number of third party social networks – Facebook, Twitter, MySpace, Foursquare, Delicious, Digg, Flickr, YouTube, etc., so if you follow a Lifestream user you’ll see all of the content that user publishes on those networks, and Lifestream automatically pulls in content from people you already follow on those various social networks, so you don’t have to create yet another new friend list. Lifestream isn’t yet integrated with Google Buzz, but Aol says it may be coming soon.
+
+Users can filter out content from specific networks if they like, on a per user or broad basis. A way to think about this – “noise cancellation for social networks.”
+
+Lifestream also lets users publish back to social networks. Status updates posted to Lifestream can be posted back to Facebook, Myspace and/or Twitter. Lifestream also optionally notes your location in your status updates via GPS on mobile devices, or you can manually add it instead.

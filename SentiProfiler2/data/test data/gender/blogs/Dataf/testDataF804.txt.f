@@ -1,0 +1,1 @@
+You never go into an ultrasound thinking there will be something wrong, at least I never did. It's the whole "This happens to other people, not me" disease. The idea that my baby isn't in perfect health and may have to endure pain during the first few days of his life is scary, or that he could even be enduring pain now.

@@ -1,0 +1,1 @@
+The next day, we embarked on a trip to another small island close to Bonito. The waves were rough despite the short distance. The island we were visiting was uninhabited save for the light house that stood at the middle of it. The underwater life there was livelier than the corals at Bonito but the current was stronger.

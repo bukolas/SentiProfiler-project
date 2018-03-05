@@ -1,0 +1,1 @@
+The majority of the work on my blog has been digital stuff. From here on out, no more photoshop posts. All traditional, I want to test myself if I can commit.

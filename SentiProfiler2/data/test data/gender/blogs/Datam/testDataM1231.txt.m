@@ -1,0 +1,7 @@
+Maybe Thomson Reuters was feeling nostalgic about the flurry of negative attention that both the New York Times and the Washington Post got last year when they came out with policies on the use of social media tools such as Twitter and Facebook. For whatever reason, the wire service recently issued new guidelines for its staff, and they suffer from many of the same problems that both the NYT and WaPo policies did. All of these flaws boil down to one thing: A desire to control something that fundamentally can’t be controlled, and a fear of what happens when that control is lost. Without even bothering to enumerate the positive aspects of social media use, the policy starts in with the warnings right away:
+
+    We want to encourage you to use social media approaches in your journalism but we also need to make sure that you are fully aware of the risks — especially those that threaten our hard-earned reputation for independence and freedom from bias or our brand.
+
+The risks, of course, are everywhere — someone might say something embarrassing, or post a tweet that others could twist to disparage Reuters:
+
+    The advent of social media does not change your relationship with the company that employs you — do not use social media to embarrass or disparage Thomson Reuters. Our company’s brands are important; so, too, is your personal brand. Think carefully about how what you do reflects upon you as a professional and upon us as an employer of professionals.

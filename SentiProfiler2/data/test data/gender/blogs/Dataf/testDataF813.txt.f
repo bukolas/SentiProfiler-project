@@ -1,0 +1,1 @@
+I grew up in a small town in Connecticut the second of four children. When it was time to "spread my wings," I attended Ricks College in Rexburg, ID. At the end of those two years, I transferred to Southern Utah University in Cedar City, UT where I graduated with a BS degree in teaching, emphasis on Physical Education.

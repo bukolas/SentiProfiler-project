@@ -1,0 +1,5 @@
+Gamma-synuclein is a protein that in humans is encoded by the SNCG gene.[1][2][3]
+
+Synuclein-gamma is a member of the synuclein family of proteins, which are believed to be involved in the pathogenesis of neurodegenerative diseases. High levels of SNCG have been identified in advanced breast carcinomas suggesting a correlation between overexpression of SNCG and breast tumor development.[3] Gamma-synuclein is a synuclein protein found primarily in the peripheral nervous system (in primary sensory neurons, sympathetic neurons, and motor neurons) and retina.[4] It is also detected in the brain, ovarian tumors, and in the olfactory epithelium. Gamma-synuclein is the least conserved of the synuclein proteins.[5]
+
+Gamma-Synucleins expression in breast tumors is a marker for tumor progression[6] as mammalian gamma-synuclein was first identified as breast cancer-specific gene 1 (BCSG1). A change in the expression of gamma-synuclein has been observed in the retina of patients with Alzheimer's disease. The normal cellular function of gamma-synuclein remains unknown.[4]

@@ -1,0 +1,10 @@
+As I'm writing this, I'll have been in Spain a full year (plus about 3 hours!). March 13th 2009 was a big day. I was hugely excited about my big adventure, but at the same time I was completely terrified. I think I said in my first blog that for someone who had been in the same job for 19 years and 11 months, had never been out of the UK for longer than about 4 weeks, and who generally didn't do anything alone, I appeared to be confronting all those things in one huge hit.
+
+I've been trying to remember what it felt like on my first afternoon here, but it's difficult. Everything here is now so familiar and normal, that casting my mind back to how it was to be new is really hard. I know I remember that everything smelt, sounded and looked, well, just different. That's always the case in a foreign country but usually it's accompanied by a feeling of "Well, it's just a couple of weeks on holiday". But this time, no. This was it. Home. One way or another, I was staying.
+
+I have no intention of rehashing what's happened in the last year - most of it is on this blog anyway.
+
+All I'll say is that I want to thank each and every person who encouraged me, supported me, practically pushed me in some cases, to take the plunge and come here. It's not all been plain sailing, but then staying in the UK probably wouldn't have been either. So thanks to everyone in the UK for wishing me well, keeping in touch and not telling me I'm mad even if you think I am. And thanks to all my friends in Spain for welcoming me, helping me out and making the last year such a memorable one.
+
+Without wishing to sound like an Oscar acceptance speech, I want to mention (in no particular order):
+Louise, Andy, Debbie, Cathy, Dade, Sid, Julie, Mum, Hannah, Dad, Eve, Jorge, Nacho, Ann, Pedro (both of them!), Richi, Bev, Kim, Donna, Krizstina, Mariano, Gabriel, Lizzie, Javi, José Luis, Richard, Max, Alex, Nat and Moira. Without you I either wouldn't be here at all, or wouldn't be having as much fun!!!

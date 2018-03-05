@@ -1,0 +1,1 @@
+I recently received an email regarding being Catholic and boycotting the latest instalment of the series that sent many a devout Catholic seething into pits of Rage (one of the 7 deadly sins, ironically). Funny though, in a related link, the Vatican doesn't seem to care too much. Is this a case of a different kind of crucifixion in today's age of finding an identity?

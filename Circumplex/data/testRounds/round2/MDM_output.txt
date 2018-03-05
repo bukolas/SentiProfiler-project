@@ -1,0 +1,70 @@
+'a bit fair', Angle: 30.963758, Intensity: 0.260000
+'abandon', Angle: 135.658539, Intensity: 0.250000
+'abandoned', Angle: 164.180817, Intensity: 0.250000
+'abhorred', Angle: 250.974396, Intensity: 0.250000
+'absolutely amoral', Angle: 213.188217, Intensity: 0.760000
+'abuse', Angle: 180.000000, Intensity: 0.250000
+'abused', Angle: 173.345581, Intensity: 0.240000
+'accident', Angle: 180.000000, Intensity: 0.250000
+'accidentally', Angle: 270.000000, Intensity: 0.250000
+'accusation', Angle: 180.458359, Intensity: 0.500000
+'accused', Angle: 270.000000, Intensity: 0.260000
+'admiration', Angle: 356.820160, Intensity: 0.500000
+'admire', Angle: 22.963774, Intensity: 0.260000
+'afraid', Angle: 241.792511, Intensity: 0.500000
+'agonizing', Angle: 191.580612, Intensity: 0.500000
+'agony', Angle: 180.462051, Intensity: 0.500000
+'aimless', Angle: 89.060814, Intensity: 0.240000
+'amazing', Angle: 317.602570, Intensity: 0.500000
+'amoral', Angle: 101.309929, Intensity: 0.240000
+'anger', Angle: 259.777832, Intensity: 0.250000
+'angry', Angle: 260.018188, Intensity: 0.510000
+'annoying', Angle: 185.984955, Intensity: 0.500000
+'asshole', Angle: 205.127823, Intensity: 0.500000
+'awesome', Angle: 333.845673, Intensity: 0.500000
+'bad', Angle: 112.479431, Intensity: 0.250000
+'bliss', Angle: 343.739807, Intensity: 0.500000
+'brutal', Angle: 224.672607, Intensity: 0.490000
+'dishonest', Angle: 127.234833, Intensity: 0.250000
+'envy', Angle: 204.934296, Intensity: 0.500000
+'extremely agonizing', Angle: 209.971497, Intensity: 0.750000
+'extremely angry', Angle: 260.537659, Intensity: 0.750000
+'extremely bad', Angle: 117.181107, Intensity: 0.500000
+'fair', Angle: 85.462227, Intensity: 0.250000
+'filthy ', Angle: 175.314102, Intensity: 0.240000
+'gentle', Angle: 15.572543, Intensity: 0.250000
+'he has been abused', Angle: 134.039825, Intensity: 0.510000
+'he is slightly angry', Angle: 261.740570, Intensity: 0.250000
+'he was abused', Angle: 135.327393, Intensity: 0.490000
+'he was angry', Angle: 180.000000, Intensity: 0.240000
+'honesty', Angle: 85.462227, Intensity: 0.250000
+'hostility', Angle: 246.740784, Intensity: 0.500000
+'just amazing', Angle: 355.389343, Intensity: 0.500000
+'not abandoned', Angle: 74.427460, Intensity: 0.250000
+'not afraid', Angle: 53.310280, Intensity: 0.250000
+'not that admirable', Angle: 185.984955, Intensity: 0.500000
+'not that angry', Angle: 258.407837, Intensity: 0.160000
+'pretty sarcastic', Angle: 108.575722, Intensity: 0.520000
+'quite alone', Angle: 157.714417, Intensity: 0.530000
+'quite satisfied', Angle: 29.577841, Intensity: 0.510000
+'relief', Angle: 354.930573, Intensity: 0.500000
+'she is annoying', Angle: 198.579269, Intensity: 0.500000
+'she was accused', Angle: 135.320084, Intensity: 0.510000
+'she was annoyed', Angle: 158.895172, Intensity: 0.240000
+'she was annoying', Angle: 129.920395, Intensity: 0.260000
+'spite', Angle: 244.846878, Intensity: 0.510000
+'terrible', Angle: 159.390305, Intensity: 0.500000
+'terrific', Angle: 341.125458, Intensity: 0.490000
+'totally abandoned', Angle: 156.562012, Intensity: 0.750000
+'totally aimless', Angle: 90.458359, Intensity: 0.500000
+'totally awesome', Angle: 339.623566, Intensity: 0.750000
+'unfairness', Angle: 113.682083, Intensity: 0.250000
+'utmost admiration', Angle: 6.546291, Intensity: 0.740000
+'very admirable', Angle: 3.366461, Intensity: 0.750000
+'very afraid', Angle: 242.054596, Intensity: 0.740000
+'very angry', Angle: 260.739777, Intensity: 0.750000
+'very annoying', Angle: 201.407440, Intensity: 0.760000
+'very bad', Angle: 134.039825, Intensity: 0.510000
+'very brutal', Angle: 249.835175, Intensity: 0.750000
+'wrong', Angle: 89.060814, Intensity: 0.240000
+'you are being unfair', Angle: 198.145584, Intensity: 0.500000

@@ -1,0 +1,1 @@
+No matter what measuring stick we use, we have all come here and found a place that is our safehouse. We can talk about death, we can talk about treatments, we can laugh, and we certainly know we can cry together.

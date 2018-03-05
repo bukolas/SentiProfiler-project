@@ -1,0 +1,1 @@
+This stuff is great; I found it through a friend and well never take aspirin again. Not only is hyland a great company, the products that they offer are budget conscious and effective. It is not necessarily a great head ache cure but it does sooth my daily aches, when necessary.

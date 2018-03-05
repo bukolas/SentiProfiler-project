@@ -1,0 +1,5 @@
+During the review of the Environmental Protection Agency budget in today’s Senate Environment and Public Works Committee hearing, both Senator Barbara Boxer — the chair of the committee — and EPA Administrator Lisa Jackson distanced themselves from the Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report (AR4).
+
+Boxer and Jackson’s statements, in addition to being a striking change in policy, are problematic because U.S. climate science is very closely tied to the IPCC reports (as Christopher Horner showed in his recent PJM series on the NASA FOIA emails.)
+
+The statements by Boxer and Jackson followed Senator Inhofe’s release (see the PJM exclusive report) in his opening statement of a minority staff report documenting many flaws in the IPCC report and the other evidence revealed in the Climategate files. (See the full hearing on CSPAN here; the exchanges with Senator Boxer and Inhofe, and Administrator Jackson begin at about 56 minutes into the video.)

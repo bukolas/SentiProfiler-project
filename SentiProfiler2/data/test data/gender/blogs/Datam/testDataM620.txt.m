@@ -1,0 +1,3 @@
+sanjeev" the name thts often mis-spelled or mispronounced.. a man of elegance, never gets carried away by accolades(though he has had umpteen in his early days) and even never winces in pain.. this ingenius guy can mesmerize any person, with his gracefull talk and amiable nature...ths indefatigable person, does everything with atmost commitment and allegiance..
+
+"friendship"- we've given a new definition for tht.. paradoxical attitudes and unsynchronized thoughts..nevertheless we stand for each other... i thank the almighty for bringing this person into my life... without him, my college life would hv been a nighmare.... to be straight- he is the GODFATHER for me... (an ardent ajith fan too)..

@@ -1,0 +1,2 @@
+My picky eater of an English Bulldog LOVES this food! Plus it's made specifically for his breed.
+His coat is so much softer, his energy levels are amazing (he keeps up with my 3 year old son!). Wonderful brand, no by products. Worth every penny!

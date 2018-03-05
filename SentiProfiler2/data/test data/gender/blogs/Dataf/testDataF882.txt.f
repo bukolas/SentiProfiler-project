@@ -1,0 +1,13 @@
+Austin is 6 months already! I can't believe how quickly he is growing up! Now I can't imagine life without him. He is such a blessing to us and we just love him so much. Here are some of the things Austin has been doing lately: 
+-On our last day in Texas over the holidays, Austin rolled over! Now he is a rolling machine. Only he won't do it on command. 
+-He loves to laugh and coo all the time. 
+-He is going through a rough phase with sleeping during the night but hopefully it will pass soon. 
+-Austin loves books and he tries to read them to me now whenever I pull them out. It's so cute! 
+-He weighs about 18 pounds.
+-Does not enjoy bath time.
+-His new trick is spitting and he thinks it's really funny.
+-He is getting so good at grabbing and playing with toys.
+-We have started him on eating cereal. He hasn't quite got the hang of it yet.
+-He has been teething but no teeth have come through yet.
+-He loves being out and about and seeing new things.
+-He loves music and songs especially if they have actions to go along with them.

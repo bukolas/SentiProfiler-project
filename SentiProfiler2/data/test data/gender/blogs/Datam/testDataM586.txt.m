@@ -1,0 +1,1 @@
+hey!! Niyaz here ur junior!! U studyin in UIC only le? I got admit in UIC fr CS. But I have got limited standing status. They have not mentioned antg abt the courses I have to take for changing from limited to full. I need more info on that wat shud I do now? Give me ur email Id ill send the details of my admit letter.

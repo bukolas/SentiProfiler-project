@@ -1,0 +1,1 @@
+Then there’s the guy, he has to be a guy, he’s not a man, not a boy. He’s trudging round the endless marble malls in his sneakers with a backpack on his back and a computer bag slung over his shoulder.

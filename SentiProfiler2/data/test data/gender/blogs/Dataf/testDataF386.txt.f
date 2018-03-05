@@ -1,0 +1,1 @@
+But what was even wonderful in this island is the rich marine life. I fed several fishes, including a rainbow-colored fish, which the locals called pico de loro. Our guide brought us around the coral reef and found numerous colorful species of corals that came in different designs and sizes.

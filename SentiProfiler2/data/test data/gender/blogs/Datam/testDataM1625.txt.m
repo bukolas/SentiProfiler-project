@@ -1,0 +1,5 @@
+Like i used to disgard people coming back complaining of pain after a hernia op, asking for lots of painkillers, until i had it done myself and geee, i started to appreciate the real pain; since then i always believed in people, apart from the occasionals who are blatently whingers.
+
+I have thought nothing of the nausea of Mefloquine as an anti-malarial until ... about now. I have just taken one tablet 2 wks before flying away to Kenya and already i am feeling.... soooo sick, not yet a vomit, but sick. Im feeling the tablet blubbling up and burning in my stomach and i keep on burping. May be i shouldn't have taken it with an empty stomach.
+
+This concludes that the most caring doctor in town is one suffering from multiple problems him/herself; it doens't make the doctor the most capable, but certainly most empathetic. I am one. Eeerrughhhhhh! *retches* oh thats my breakfast looking blended!

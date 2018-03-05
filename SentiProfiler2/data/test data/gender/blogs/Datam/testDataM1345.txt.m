@@ -1,0 +1,1 @@
+Finally we broke through to the calmer side of the island, The rain was lighter here, waves calmer, we could see the coast of Thailand in the distance and everyone seemed to breath easier now we were sheltered on this side of the island.

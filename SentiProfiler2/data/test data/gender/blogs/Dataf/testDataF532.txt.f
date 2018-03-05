@@ -1,0 +1,1 @@
+my pal ryt from the 1st sem.. a gal with a lot of values..n who lives upto them..a nice jovial gal..but not always:P..she can b very short tempered too...but most of the time..she's very innocent(i dont mean ignorant:P) n a very sweet person...a very funny n easy goin gal..likes to b funny n to appreciate funny things too..a gal impossible to forget!charanya does it all!..:)

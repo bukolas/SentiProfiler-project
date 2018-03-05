@@ -1,0 +1,1 @@
+That is showing tremendous relative strength, as well as there is a buy signal with our two other indicators. We use Stochastic and On Balance Volume to confirm a move, and they both show buy signals. Place a stop loss order under $16.00 and our target for this company is $25.00

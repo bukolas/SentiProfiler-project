@@ -1,0 +1,2957 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://somewere/emotions/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://somewere/emotions/frighten_off">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/belligerently">
+    <rdf:type rdf:resource="http://somewere/emotions/belligerence"/>
+    <rdf:type rdf:resource="http://somewere/emotions/hostility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dislike">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/general-dislike"/>
+    <rdf:type rdf:resource="http://somewere/emotions/dislike"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/trepidly">
+    <rdf:type rdf:resource="http://somewere/emotions/trepidation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dysphoria">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/depression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/dysphoria"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/guilty_conscience">
+    <rdf:type rdf:resource="http://somewere/emotions/guilt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/class-feeling">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hostility"/>
+    <rdf:type rdf:resource="http://somewere/emotions/class-feeling"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jittery">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/restive">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/in_suspense">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/apprehensively">
+    <rdf:type rdf:resource="http://somewere/emotions/anxiousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/apprehension"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hapless">
+    <rdf:type rdf:resource="http://somewere/emotions/misery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/maddened">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anger"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/despondently">
+    <rdf:type rdf:resource="http://somewere/emotions/despondency"/>
+    <rdf:type rdf:resource="http://somewere/emotions/despair"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/aggravate">
+    <rdf:type rdf:resource="http://somewere/emotions/aggravation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jumpy">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/inimical">
+    <rdf:type rdf:resource="http://somewere/emotions/unfriendliness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/distressing">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bother">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bitterness">
+    <rdf:type rdf:resource="http://somewere/emotions/resentment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sick">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/revulsion">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fear-intimidation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-fear"/>
+    <rdf:type rdf:resource="http://somewere/emotions/fear-intimidation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/crawl">
+    <rdf:type rdf:resource="http://somewere/emotions/creeps"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/drab">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hopelessly">
+    <rdf:type rdf:resource="http://somewere/emotions/hopelessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hopelessness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/despair"/>
+    <rdf:type rdf:resource="http://somewere/emotions/hopelessness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/frustration">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/annoyance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/alienation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/dislike"/>
+    <rdf:type rdf:resource="http://somewere/emotions/alienation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/timidity">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-fear"/>
+    <rdf:type rdf:resource="http://somewere/emotions/timidity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/edginess">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/affright">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fawn">
+    <rdf:type rdf:resource="http://somewere/emotions/creeps"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/doleful">
+    <rdf:type rdf:resource="http://somewere/emotions/dolefulness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/mournfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/premonition">
+    <rdf:type rdf:resource="http://somewere/emotions/foreboding"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/provoked">
+    <rdf:type rdf:resource="http://somewere/emotions/aggravation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/low-spirited">
+    <rdf:type rdf:resource="http://somewere/emotions/downheartedness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/see_red">
+    <rdf:type rdf:resource="http://somewere/emotions/anger"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/resignedly">
+    <rdf:type rdf:resource="http://somewere/emotions/resignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/aggravation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/annoyance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/aggravation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/submit">
+    <rdf:type rdf:resource="http://somewere/emotions/resignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hostile">
+    <rdf:type rdf:resource="http://somewere/emotions/hostility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/vile">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/alienate">
+    <rdf:type rdf:resource="http://somewere/emotions/alienation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/warpath">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/belligerence"/>
+    <rdf:type rdf:resource="http://somewere/emotions/warpath"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/desperate">
+    <rdf:type rdf:resource="http://somewere/emotions/despair"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/anger">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/general-dislike"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anger"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pestered">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/stupefied">
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/shadow">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/foreboding"/>
+    <rdf:type rdf:resource="http://somewere/emotions/shadow"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fury">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anger"/>
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misogynic">
+    <rdf:type rdf:resource="http://somewere/emotions/misogyny"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fearsome">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/persecute">
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/harassment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/murderousness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hate"/>
+    <rdf:type rdf:resource="http://somewere/emotions/murderousness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/abhor">
+    <rdf:type rdf:resource="http://somewere/emotions/abhorrence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hardheartedness">
+    <rdf:type rdf:resource="http://somewere/emotions/heartlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sore">
+    <rdf:type rdf:resource="http://somewere/emotions/huffiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/roiled">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/uncheerfulness">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/penitently">
+    <rdf:type rdf:resource="http://somewere/emotions/repentance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repellant">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/with_hostility">
+    <rdf:type rdf:resource="http://somewere/emotions/belligerence"/>
+    <rdf:type rdf:resource="http://somewere/emotions/hostility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/vexatious">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/maddening">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heartlessly">
+    <rdf:type rdf:resource="http://somewere/emotions/heartlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/despairingly">
+    <rdf:type rdf:resource="http://somewere/emotions/despondency"/>
+    <rdf:type rdf:resource="http://somewere/emotions/despair"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/revengefully">
+    <rdf:type rdf:resource="http://somewere/emotions/vindictiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cheerlessly">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disoriented">
+    <rdf:type rdf:resource="http://somewere/emotions/alienation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grizzle">
+    <rdf:type rdf:resource="http://somewere/emotions/sulkiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/annoyance">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anger"/>
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/oppressively">
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pathetic">
+    <rdf:type rdf:resource="http://somewere/emotions/misery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disquieted">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misocainea">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/misoneism"/>
+    <rdf:type rdf:resource="http://somewere/emotions/misocainea"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/distress">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/awfully">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/uneasily">
+    <rdf:type rdf:resource="http://somewere/emotions/anxiousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/apprehension"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/envy">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/resentment"/>
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/harassed">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/frighten_away">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/glooming">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dysphoric">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+    <rdf:type rdf:resource="http://somewere/emotions/dysphoria"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/vexing">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/temper">
+    <rdf:type rdf:resource="http://somewere/emotions/pique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unquiet">
+    <rdf:type rdf:resource="http://somewere/emotions/anxiousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anxiety"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grievous">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/solicitude">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/solicitude"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/anxiety">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/rue">
+    <rdf:type rdf:resource="http://somewere/emotions/repentance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/annoyed">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exasperating">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gloomily">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/wroth">
+    <rdf:type rdf:resource="http://somewere/emotions/wrath"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/direful">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/loathsome">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misogamy">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hate"/>
+    <rdf:type rdf:resource="http://somewere/emotions/misogamy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/offense">
+    <rdf:type rdf:resource="http://somewere/emotions/umbrage"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/prehensile">
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/downtrodden">
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/loathe">
+    <rdf:type rdf:resource="http://somewere/emotions/abhorrence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cruelty">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/heartlessness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/cruelty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heartache">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/discompose">
+    <rdf:type rdf:resource="http://somewere/emotions/discomfiture"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/daze">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/despairing">
+    <rdf:type rdf:resource="http://somewere/emotions/despair"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/despondency">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/depression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/despondency"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/rage">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/foreboding">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/apprehension"/>
+    <rdf:type rdf:resource="http://somewere/emotions/foreboding"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enragement">
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/malefic">
+    <rdf:type rdf:resource="http://somewere/emotions/maleficence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horrify">
+    <rdf:type rdf:resource="http://somewere/emotions/alarm"/>
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sorrowful">
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/baffled">
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+    <rdf:type rdf:resource="http://somewere/emotions/discouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fright">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hysteria">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-fear"/>
+    <rdf:type rdf:resource="http://somewere/emotions/hysteria"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/solicitousness">
+    <rdf:type rdf:resource="http://somewere/emotions/solicitude"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/offend">
+    <rdf:type rdf:resource="http://somewere/emotions/pique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/boding">
+    <rdf:type rdf:resource="http://somewere/emotions/foreboding"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/poor">
+    <rdf:type rdf:resource="http://somewere/emotions/misery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/demeaningly">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/alienated">
+    <rdf:type rdf:resource="http://somewere/emotions/alienation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enviable">
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/guilty">
+    <rdf:type rdf:resource="http://somewere/emotions/guilt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grief">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/lost-sorrow"/>
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disdain">
+    <rdf:type rdf:resource="http://somewere/emotions/contempt"/>
+    <rdf:type rdf:resource="http://somewere/emotions/despisal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/diffident">
+    <rdf:type rdf:resource="http://somewere/emotions/diffidence"/>
+    <rdf:type rdf:resource="http://somewere/emotions/shyness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/timidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/vengefully">
+    <rdf:type rdf:resource="http://somewere/emotions/vindictiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hysterical">
+    <rdf:type rdf:resource="http://somewere/emotions/hysteria"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/begrudging">
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dazed">
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/shamefaced">
+    <rdf:type rdf:resource="http://somewere/emotions/guilt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/regret">
+    <rdf:type rdf:resource="http://somewere/emotions/repentance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/edgy">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/detached">
+    <rdf:type rdf:resource="http://somewere/emotions/isolation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mercilessness">
+    <rdf:type rdf:resource="http://somewere/emotions/cruelty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disheartenment">
+    <rdf:type rdf:resource="http://somewere/emotions/discouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nervy">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/harass">
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/harassment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/despising">
+    <rdf:type rdf:resource="http://somewere/emotions/despisal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/plaintively">
+    <rdf:type rdf:resource="http://somewere/emotions/plaintiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horridly">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grief-stricken">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disquiet">
+    <rdf:type rdf:resource="http://somewere/emotions/anxiousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/covet">
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/overstrung">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/despisal">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hate"/>
+    <rdf:type rdf:resource="http://somewere/emotions/despisal"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/inquietude">
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repentant">
+    <rdf:type rdf:resource="http://somewere/emotions/repentance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dander">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anger"/>
+    <rdf:type rdf:resource="http://somewere/emotions/dander"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sorrowfulness">
+    <rdf:type rdf:resource="http://somewere/emotions/mournfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heartbreak">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/malevolent">
+    <rdf:type rdf:resource="http://somewere/emotions/maleficence"/>
+    <rdf:type rdf:resource="http://somewere/emotions/malice"/>
+    <rdf:type rdf:resource="http://somewere/emotions/malevolence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/alarm">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-fear"/>
+    <rdf:type rdf:resource="http://somewere/emotions/alarm"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/frightened">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+    <rdf:type rdf:resource="http://somewere/emotions/panic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misfortunate">
+    <rdf:type rdf:resource="http://somewere/emotions/misery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unfriendliness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/dislike"/>
+    <rdf:type rdf:resource="http://somewere/emotions/unfriendliness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disquietude">
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/self-reproach">
+    <rdf:type rdf:resource="http://somewere/emotions/compunction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/wrathful">
+    <rdf:type rdf:resource="http://somewere/emotions/wrath"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/blue">
+    <rdf:type rdf:resource="http://somewere/emotions/downheartedness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/afraid">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+    <rdf:type rdf:resource="http://somewere/emotions/antipathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/suffering">
+    <rdf:type rdf:resource="http://somewere/emotions/misery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/despondent">
+    <rdf:type rdf:resource="http://somewere/emotions/despondency"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/resigned">
+    <rdf:type rdf:resource="http://somewere/emotions/resignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/penance">
+    <rdf:type rdf:resource="http://somewere/emotions/repentance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/wrothful">
+    <rdf:type rdf:resource="http://somewere/emotions/wrath"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/diffidence">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/timidity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/diffidence"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/scary">
+    <rdf:type rdf:resource="http://somewere/emotions/chill"/>
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nauseate">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repulse">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/depress">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/saddening">
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sinking_feeling">
+    <rdf:type rdf:resource="http://somewere/emotions/sinking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/panic-stricken">
+    <rdf:type rdf:resource="http://somewere/emotions/panic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/envious">
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jealousy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/overcome">
+    <rdf:type rdf:resource="http://somewere/emotions/defeatism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/angst">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/angst"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/huffy">
+    <rdf:type rdf:resource="http://somewere/emotions/huffiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/consternation">
+    <rdf:type rdf:resource="http://somewere/emotions/alarm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hideously">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/solicitously">
+    <rdf:type rdf:resource="http://somewere/emotions/solicitude"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unhappy">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+    <rdf:type rdf:resource="http://somewere/emotions/dysphoria"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sadness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/solicitous">
+    <rdf:type rdf:resource="http://somewere/emotions/solicitude"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nauseated">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/downcast">
+    <rdf:type rdf:resource="http://somewere/emotions/downheartedness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/antagonism">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hostility"/>
+    <rdf:type rdf:resource="http://somewere/emotions/antagonism"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/turn_off">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/loathly">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/despair-intimidation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/discouragement"/>
+    <rdf:type rdf:resource="http://somewere/emotions/despair-intimidation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grievously">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heartburning">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/resentment"/>
+    <rdf:type rdf:resource="http://somewere/emotions/heartburning"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bad_blood">
+    <rdf:type rdf:resource="http://somewere/emotions/animosity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/belligerence">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hostility"/>
+    <rdf:type rdf:resource="http://somewere/emotions/belligerence"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heartsickness">
+    <rdf:type rdf:resource="http://somewere/emotions/despondency"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/demoralising">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hackles">
+    <rdf:type rdf:resource="http://somewere/emotions/dander"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/deplorably">
+    <rdf:type rdf:resource="http://somewere/emotions/woe"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sadness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mourning">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dispiritedness">
+    <rdf:type rdf:resource="http://somewere/emotions/downheartedness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disapprove">
+    <rdf:type rdf:resource="http://somewere/emotions/disapproval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/penitent">
+    <rdf:type rdf:resource="http://somewere/emotions/repentance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/panic_attack">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/discourage">
+    <rdf:type rdf:resource="http://somewere/emotions/discouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bothersome">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/awful">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/devil">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fed_up">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/rag">
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unsure">
+    <rdf:type rdf:resource="http://somewere/emotions/shyness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/timidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/humbling">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/terror">
+    <rdf:type rdf:resource="http://somewere/emotions/panic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grasping">
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/plaintive">
+    <rdf:type rdf:resource="http://somewere/emotions/plaintiveness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/mournfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/contrition">
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/uneasy">
+    <rdf:type rdf:resource="http://somewere/emotions/anxiousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anxiety"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repellent">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gravel">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/maliciousness">
+    <rdf:type rdf:resource="http://somewere/emotions/malice"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/long-faced">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/estranged">
+    <rdf:type rdf:resource="http://somewere/emotions/alienation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/woefully">
+    <rdf:type rdf:resource="http://somewere/emotions/woe"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sadness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/stewing">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-agitation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/stewing"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/discomposure">
+    <rdf:type rdf:resource="http://somewere/emotions/discomfiture"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/worrying">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/displeasingly">
+    <rdf:type rdf:resource="http://somewere/emotions/displeasure"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sick_of">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/melancholy">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sadness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/melancholy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/furiously">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cower">
+    <rdf:type rdf:resource="http://somewere/emotions/creeps"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/execration">
+    <rdf:type rdf:resource="http://somewere/emotions/abhorrence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/get_down">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tyrannous">
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enfuriate">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/outrage">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/indignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/detest">
+    <rdf:type rdf:resource="http://somewere/emotions/hate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/distressed">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+    <rdf:type rdf:resource="http://somewere/emotions/dysphoria"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/impatiently">
+    <rdf:type rdf:resource="http://somewere/emotions/impatience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/self-deprecating">
+    <rdf:type rdf:resource="http://somewere/emotions/self-depreciation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/loathing">
+    <rdf:type rdf:resource="http://somewere/emotions/abhorrence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/penitence">
+    <rdf:type rdf:resource="http://somewere/emotions/repentance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/stage-fright">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-fear"/>
+    <rdf:type rdf:resource="http://somewere/emotions/stage-fright"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sadness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sadness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/anxious">
+    <rdf:type rdf:resource="http://somewere/emotions/anxiousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/apprehension"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dreadfully">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/huffishness">
+    <rdf:type rdf:resource="http://somewere/emotions/sulkiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/detestation">
+    <rdf:type rdf:resource="http://somewere/emotions/abhorrence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/terrified">
+    <rdf:type rdf:resource="http://somewere/emotions/panic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heartbreaking">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/outraged">
+    <rdf:type rdf:resource="http://somewere/emotions/umbrage"/>
+    <rdf:type rdf:resource="http://somewere/emotions/indignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lamentably">
+    <rdf:type rdf:resource="http://somewere/emotions/woe"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sadness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/maliciously">
+    <rdf:type rdf:resource="http://somewere/emotions/malice"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/malign">
+    <rdf:type rdf:resource="http://somewere/emotions/maleficence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/world-weariness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/melancholy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/world-weariness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/defeat">
+    <rdf:type rdf:resource="http://somewere/emotions/defeatism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dreaded">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/apprehensive">
+    <rdf:type rdf:resource="http://somewere/emotions/anxiousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/apprehension"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/execrate">
+    <rdf:type rdf:resource="http://somewere/emotions/abhorrence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/resentment">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hostility"/>
+    <rdf:type rdf:resource="http://somewere/emotions/resentment"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dread">
+    <rdf:type rdf:resource="http://somewere/emotions/apprehension"/>
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nauseating">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misology">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hate"/>
+    <rdf:type rdf:resource="http://somewere/emotions/misology"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/restlessness">
+    <rdf:type rdf:resource="http://somewere/emotions/fidget"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/anxiousness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anxiousness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/rancour">
+    <rdf:type rdf:resource="http://somewere/emotions/resentment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/animus">
+    <rdf:type rdf:resource="http://somewere/emotions/animosity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nettlesome">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misgiving">
+    <rdf:type rdf:resource="http://somewere/emotions/scruple"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/trepid">
+    <rdf:type rdf:resource="http://somewere/emotions/trepidation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/rueful">
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/alien">
+    <rdf:type rdf:resource="http://somewere/emotions/alienation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/restless">
+    <rdf:type rdf:resource="http://somewere/emotions/fidget"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/world-weary">
+    <rdf:type rdf:resource="http://somewere/emotions/world-weariness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hesitance">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/diffidence"/>
+    <rdf:type rdf:resource="http://somewere/emotions/hesitance"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/vexation">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/high-strung">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/depressing">
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/get_to">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pitilessness">
+    <rdf:type rdf:resource="http://somewere/emotions/cruelty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disaffection">
+    <rdf:type rdf:resource="http://somewere/emotions/alienation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grovel">
+    <rdf:type rdf:resource="http://somewere/emotions/creeps"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unkind">
+    <rdf:type rdf:resource="http://somewere/emotions/cruelty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/plaintiveness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/mournfulness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/plaintiveness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misery">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sadness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/misery"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/coldheartedness">
+    <rdf:type rdf:resource="http://somewere/emotions/heartlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sorry_for">
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/isolation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/alienation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/isolation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/desolation">
+    <rdf:type rdf:resource="http://somewere/emotions/forlornness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dingy">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/peeved">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/laden">
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/wicked">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/infuriation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anger"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cynical">
+    <rdf:type rdf:resource="http://somewere/emotions/cynicism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hostilely">
+    <rdf:type rdf:resource="http://somewere/emotions/belligerence"/>
+    <rdf:type rdf:resource="http://somewere/emotions/hostility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dolourous">
+    <rdf:type rdf:resource="http://somewere/emotions/weepiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/weepiness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sadness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/weepiness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hardhearted">
+    <rdf:type rdf:resource="http://somewere/emotions/heartlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/detestably">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/discouraged">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+    <rdf:type rdf:resource="http://somewere/emotions/discouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sorrowfully">
+    <rdf:type rdf:resource="http://somewere/emotions/dolefulness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horror-struck">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/frustrate">
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dispiriting">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/alarmed">
+    <rdf:type rdf:resource="http://somewere/emotions/alarm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/oppressed">
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repel">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sadden">
+    <rdf:type rdf:resource="http://somewere/emotions/sadness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/frustrated">
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+    <rdf:type rdf:resource="http://somewere/emotions/defeatism"/>
+    <rdf:type rdf:resource="http://somewere/emotions/discouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/frighteningly">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/joylessness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/cheerlessness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/joylessness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/uneasiness">
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/timorously">
+    <rdf:type rdf:resource="http://somewere/emotions/trepidation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gloomful">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/huffily">
+    <rdf:type rdf:resource="http://somewere/emotions/huffiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nark">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/plaguey">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/revoltingly">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/estrange">
+    <rdf:type rdf:resource="http://somewere/emotions/alienation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/contempt">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/dislike"/>
+    <rdf:type rdf:resource="http://somewere/emotions/contempt"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/oppressiveness">
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/stun">
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fidgetiness">
+    <rdf:type rdf:resource="http://somewere/emotions/fidget"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/aversion">
+    <rdf:type rdf:resource="http://somewere/emotions/antipathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/negative-emotion">
+    <rdf:type rdf:resource="http://somewere/emotions/negative-emotion"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pesky">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/foiled">
+    <rdf:type rdf:resource="http://somewere/emotions/defeatism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disgust">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/dislike"/>
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/trepidation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/apprehension"/>
+    <rdf:type rdf:resource="http://somewere/emotions/trepidation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/woefulness">
+    <rdf:type rdf:resource="http://somewere/emotions/woe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gloominess">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fidget">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-agitation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/fidget"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/angrily">
+    <rdf:type rdf:resource="http://somewere/emotions/anger"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bad">
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/vexed">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nervousness">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/atrocious">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/reject">
+    <rdf:type rdf:resource="http://somewere/emotions/disapproval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disconsolateness">
+    <rdf:type rdf:resource="http://somewere/emotions/despondency"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/despair">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/despair"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disconcertion">
+    <rdf:type rdf:resource="http://somewere/emotions/discomfiture"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dolefully">
+    <rdf:type rdf:resource="http://somewere/emotions/dolefulness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/ungratefulness">
+    <rdf:type rdf:resource="http://somewere/emotions/ingratitude"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/animosity">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hostility"/>
+    <rdf:type rdf:resource="http://somewere/emotions/animosity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sulky">
+    <rdf:type rdf:resource="http://somewere/emotions/sulkiness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/huffiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cast_down">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/green-eyed_monster">
+    <rdf:type rdf:resource="http://somewere/emotions/jealousy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/drear">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/incensed">
+    <rdf:type rdf:resource="http://somewere/emotions/umbrage"/>
+    <rdf:type rdf:resource="http://somewere/emotions/indignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/amuck">
+    <rdf:type rdf:resource="http://somewere/emotions/murderousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/deplorable">
+    <rdf:type rdf:resource="http://somewere/emotions/woe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/crucify">
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pessimistically">
+    <rdf:type rdf:resource="http://somewere/emotions/pessimism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/apprehensiveness">
+    <rdf:type rdf:resource="http://somewere/emotions/apprehension"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horrendous">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/resign">
+    <rdf:type rdf:resource="http://somewere/emotions/resignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disgusted">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/presage">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/foreboding"/>
+    <rdf:type rdf:resource="http://somewere/emotions/presage"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/frightening">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disappointed">
+    <rdf:type rdf:resource="http://somewere/emotions/defeatism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nettled">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/worrisome">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/weight">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/oppression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/weight"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/panic">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-fear"/>
+    <rdf:type rdf:resource="http://somewere/emotions/panic"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heavyheartedness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/melancholy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/heavyheartedness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/down">
+    <rdf:type rdf:resource="http://somewere/emotions/downheartedness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repugnance">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/disgust"/>
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/somberness">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hysterically">
+    <rdf:type rdf:resource="http://somewere/emotions/hysteria"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/humble">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/resentful">
+    <rdf:type rdf:resource="http://somewere/emotions/resentment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sadly">
+    <rdf:type rdf:resource="http://somewere/emotions/woe"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sadness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horrifying">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/humiliate">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/low-spiritedness">
+    <rdf:type rdf:resource="http://somewere/emotions/downheartedness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/timorous">
+    <rdf:type rdf:resource="http://somewere/emotions/trepidation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/appall">
+    <rdf:type rdf:resource="http://somewere/emotions/alarm"/>
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/quick_temper">
+    <rdf:type rdf:resource="http://somewere/emotions/irascibility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/remorseful">
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/despise">
+    <rdf:type rdf:resource="http://somewere/emotions/contempt"/>
+    <rdf:type rdf:resource="http://somewere/emotions/despisal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/isolated">
+    <rdf:type rdf:resource="http://somewere/emotions/isolation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/contrite">
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/downheartedness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sadness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/downheartedness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/foul">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sickeningly">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/umbrage">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anger"/>
+    <rdf:type rdf:resource="http://somewere/emotions/umbrage"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pestiferous">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tired_of">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/oppressive">
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/timorousness">
+    <rdf:type rdf:resource="http://somewere/emotions/timidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/forlornness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sadness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/forlornness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/distressful">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/low">
+    <rdf:type rdf:resource="http://somewere/emotions/downheartedness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repulsively">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dispiritedly">
+    <rdf:type rdf:resource="http://somewere/emotions/hopelessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/creep">
+    <rdf:type rdf:resource="http://somewere/emotions/creeps"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mournful">
+    <rdf:type rdf:resource="http://somewere/emotions/dolefulness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/plaintiveness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/mournfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/panicky">
+    <rdf:type rdf:resource="http://somewere/emotions/panic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/oppress">
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/harassment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/blue-devils">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/despondency"/>
+    <rdf:type rdf:resource="http://somewere/emotions/blue-devils"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pall">
+    <rdf:type rdf:resource="http://somewere/emotions/chill"/>
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/annoying">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/stunned">
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/scared">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fidgety">
+    <rdf:type rdf:resource="http://somewere/emotions/fidget"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mournfulness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/lost-sorrow"/>
+    <rdf:type rdf:resource="http://somewere/emotions/mournfulness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/shamed">
+    <rdf:type rdf:resource="http://somewere/emotions/guilt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/ruthlessness">
+    <rdf:type rdf:resource="http://somewere/emotions/cruelty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sulkiness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/resentment"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sulkiness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/irascible">
+    <rdf:type rdf:resource="http://somewere/emotions/irascibility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/brood">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sulkiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/woe">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/mournfulness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/woe"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/scare_away">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bored">
+    <rdf:type rdf:resource="http://somewere/emotions/world-weariness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/self-depreciation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/humility"/>
+    <rdf:type rdf:resource="http://somewere/emotions/self-depreciation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repentance">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/compunction"/>
+    <rdf:type rdf:resource="http://somewere/emotions/repentance"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/aggressive">
+    <rdf:type rdf:resource="http://somewere/emotions/belligerence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grabby">
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/aggressiveness">
+    <rdf:type rdf:resource="http://somewere/emotions/aggression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heavyhearted">
+    <rdf:type rdf:resource="http://somewere/emotions/heavyheartedness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/evil">
+    <rdf:type rdf:resource="http://somewere/emotions/maleficence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/abhorrence">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hate"/>
+    <rdf:type rdf:resource="http://somewere/emotions/abhorrence"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/worryingly">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/compunction">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/regret-sorrow"/>
+    <rdf:type rdf:resource="http://somewere/emotions/compunction"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sickish">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/noisome">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/woebegone">
+    <rdf:type rdf:resource="http://somewere/emotions/woe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/insecure">
+    <rdf:type rdf:resource="http://somewere/emotions/insecurity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/contemn">
+    <rdf:type rdf:resource="http://somewere/emotions/contempt"/>
+    <rdf:type rdf:resource="http://somewere/emotions/despisal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/loneliness">
+    <rdf:type rdf:resource="http://somewere/emotions/forlornness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/angry">
+    <rdf:type rdf:resource="http://somewere/emotions/anger"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disheartening">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cringe">
+    <rdf:type rdf:resource="http://somewere/emotions/creeps"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/chafe">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/displeasure">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/annoyance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/displeasure"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heartlessness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-unconcern"/>
+    <rdf:type rdf:resource="http://somewere/emotions/heartlessness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mournfully">
+    <rdf:type rdf:resource="http://somewere/emotions/mournfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/offensive">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jumpiness">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/discomfited">
+    <rdf:type rdf:resource="http://somewere/emotions/discomfiture"/>
+    <rdf:type rdf:resource="http://somewere/emotions/defeatism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fearful">
+    <rdf:type rdf:resource="http://somewere/emotions/trepidation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/outrageous">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horror-stricken">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/execrable">
+    <rdf:type rdf:resource="http://somewere/emotions/woe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sulk">
+    <rdf:type rdf:resource="http://somewere/emotions/sulkiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/stew">
+    <rdf:type rdf:resource="http://somewere/emotions/grudge"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sulkiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cheerless">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unassertiveness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/diffidence"/>
+    <rdf:type rdf:resource="http://somewere/emotions/unassertiveness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mortified">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disinclination">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/dislike"/>
+    <rdf:type rdf:resource="http://somewere/emotions/disinclination"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/covetously">
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jealousy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disconcert">
+    <rdf:type rdf:resource="http://somewere/emotions/discomfiture"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/vex">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/embarrassed">
+    <rdf:type rdf:resource="http://somewere/emotions/discomfiture"/>
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/timidness">
+    <rdf:type rdf:resource="http://somewere/emotions/timidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pessimistic">
+    <rdf:type rdf:resource="http://somewere/emotions/pessimism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dolefulness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sadness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/dolefulness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/perturbing">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/frightful">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/overjealous">
+    <rdf:type rdf:resource="http://somewere/emotions/jealousy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enmity">
+    <rdf:type rdf:resource="http://somewere/emotions/hostility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/abject">
+    <rdf:type rdf:resource="http://somewere/emotions/resignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bedaze">
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/penitentially">
+    <rdf:type rdf:resource="http://somewere/emotions/repentance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/shyly">
+    <rdf:type rdf:resource="http://somewere/emotions/timidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/guilt">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/compunction"/>
+    <rdf:type rdf:resource="http://somewere/emotions/guilt"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sad">
+    <rdf:type rdf:resource="http://somewere/emotions/sadness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/belligerent">
+    <rdf:type rdf:resource="http://somewere/emotions/belligerence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/spiteful">
+    <rdf:type rdf:resource="http://somewere/emotions/vindictiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sinking">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sinking"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/defeated">
+    <rdf:type rdf:resource="http://somewere/emotions/defeatism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/frustrating">
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bad-temper">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anger"/>
+    <rdf:type rdf:resource="http://somewere/emotions/bad-temper"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disinclined">
+    <rdf:type rdf:resource="http://somewere/emotions/disinclination"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/demoralization">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/depression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/glum">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nausea">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/disgust"/>
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/angered">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anger"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/humility">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cheerlessness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sadness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/cheerlessness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disheartened">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+    <rdf:type rdf:resource="http://somewere/emotions/discouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hostility">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hate"/>
+    <rdf:type rdf:resource="http://somewere/emotions/hostility"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sickening">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/untune">
+    <rdf:type rdf:resource="http://somewere/emotions/discomfiture"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/riled">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disapproving">
+    <rdf:type rdf:resource="http://somewere/emotions/disapproval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hesitatingly">
+    <rdf:type rdf:resource="http://somewere/emotions/hesitance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enraged">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anger"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tearful">
+    <rdf:type rdf:resource="http://somewere/emotions/weepiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/remorsefully">
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/vengefulness">
+    <rdf:type rdf:resource="http://somewere/emotions/vindictiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/self-distrust">
+    <rdf:type rdf:resource="http://somewere/emotions/diffidence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disaffect">
+    <rdf:type rdf:resource="http://somewere/emotions/alienation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/livid">
+    <rdf:type rdf:resource="http://somewere/emotions/lividity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/humbleness">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sicken">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/contriteness">
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unassertively">
+    <rdf:type rdf:resource="http://somewere/emotions/unassertiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/reconcile">
+    <rdf:type rdf:resource="http://somewere/emotions/resignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/shivery">
+    <rdf:type rdf:resource="http://somewere/emotions/chill"/>
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disconsolate">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/belligerency">
+    <rdf:type rdf:resource="http://somewere/emotions/belligerence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/regret-sorrow">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sorrow"/>
+    <rdf:type rdf:resource="http://somewere/emotions/regret-sorrow"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tyrannical">
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/covetous">
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jealousy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/infuriated">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anger"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lost-sorrow">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sorrow"/>
+    <rdf:type rdf:resource="http://somewere/emotions/lost-sorrow"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misanthropical">
+    <rdf:type rdf:resource="http://somewere/emotions/misanthropy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/cynicism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/vindictive">
+    <rdf:type rdf:resource="http://somewere/emotions/vindictiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dash">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/diffidently">
+    <rdf:type rdf:resource="http://somewere/emotions/diffidence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/thwarted">
+    <rdf:type rdf:resource="http://somewere/emotions/defeatism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/woeful">
+    <rdf:type rdf:resource="http://somewere/emotions/woe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/resentfully">
+    <rdf:type rdf:resource="http://somewere/emotions/resentment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unfriendly">
+    <rdf:type rdf:resource="http://somewere/emotions/unfriendliness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/negative-unconcern">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-fear"/>
+    <rdf:type rdf:resource="http://somewere/emotions/negative-unconcern"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/forlorn">
+    <rdf:type rdf:resource="http://somewere/emotions/forlornness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/odium">
+    <rdf:type rdf:resource="http://somewere/emotions/abhorrence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/spitefulness">
+    <rdf:type rdf:resource="http://somewere/emotions/malice"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bereaved">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dolour">
+    <rdf:type rdf:resource="http://somewere/emotions/dolor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pique">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/annoyance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/pique"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/raring">
+    <rdf:type rdf:resource="http://somewere/emotions/impatience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misanthropic">
+    <rdf:type rdf:resource="http://somewere/emotions/misanthropy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/cynicism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/stupor">
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tumult">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-agitation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/tumult"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/weeping">
+    <rdf:type rdf:resource="http://somewere/emotions/weepiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/ill_will">
+    <rdf:type rdf:resource="http://somewere/emotions/hostility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dolorous">
+    <rdf:type rdf:resource="http://somewere/emotions/weepiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/torment">
+    <rdf:type rdf:resource="http://somewere/emotions/harassment"/>
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/timid">
+    <rdf:type rdf:resource="http://somewere/emotions/shyness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/timidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cynicism">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/pessimism"/>
+    <rdf:type rdf:resource="http://somewere/emotions/cynicism"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/scarey">
+    <rdf:type rdf:resource="http://somewere/emotions/chill"/>
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tearfulness">
+    <rdf:type rdf:resource="http://somewere/emotions/weepiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disconcertment">
+    <rdf:type rdf:resource="http://somewere/emotions/discomfiture"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jitteriness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/despondence">
+    <rdf:type rdf:resource="http://somewere/emotions/despondency"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/forlornly">
+    <rdf:type rdf:resource="http://somewere/emotions/forlornness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/abase">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/helplessness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/depression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/helplessness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horror">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-fear"/>
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/piteous">
+    <rdf:type rdf:resource="http://somewere/emotions/misery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/restiveness">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/harried">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/chill">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/apprehension"/>
+    <rdf:type rdf:resource="http://somewere/emotions/chill"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/rile">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/get_at">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/aggression">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hostility"/>
+    <rdf:type rdf:resource="http://somewere/emotions/aggression"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nettle">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disgusting">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disgustful">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/indignantly">
+    <rdf:type rdf:resource="http://somewere/emotions/indignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grudging">
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/set-apart">
+    <rdf:type rdf:resource="http://somewere/emotions/isolation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/frighten">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disgustingly">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horribly">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/malice">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/malevolence"/>
+    <rdf:type rdf:resource="http://somewere/emotions/malice"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/antipathy">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/dislike"/>
+    <rdf:type rdf:resource="http://somewere/emotions/antipathy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disincline">
+    <rdf:type rdf:resource="http://somewere/emotions/disinclination"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fulgurant">
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/demoralizing">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dazzlingly">
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jealously">
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jealousy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/huffish">
+    <rdf:type rdf:resource="http://somewere/emotions/sulkiness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/huffiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/discouraging">
+    <rdf:type rdf:resource="http://somewere/emotions/disapproval"/>
+    <rdf:type rdf:resource="http://somewere/emotions/discouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/guilt_trip">
+    <rdf:type rdf:resource="http://somewere/emotions/guilt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pitying">
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unhappiness">
+    <rdf:type rdf:resource="http://somewere/emotions/sadness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/distressfully">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/infuriate">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/harassment">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/annoyance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/harassment"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/galling">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hangdog">
+    <rdf:type rdf:resource="http://somewere/emotions/guilt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disturbed">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/stupid">
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dreary">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/balked">
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+    <rdf:type rdf:resource="http://somewere/emotions/discouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/spleen">
+    <rdf:type rdf:resource="http://somewere/emotions/irascibility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/distaste">
+    <rdf:type rdf:resource="http://somewere/emotions/antipathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grieving">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exasperation">
+    <rdf:type rdf:resource="http://somewere/emotions/aggravation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/alert">
+    <rdf:type rdf:resource="http://somewere/emotions/alarm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/choleric">
+    <rdf:type rdf:resource="http://somewere/emotions/irascibility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nauseous">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/discomfit">
+    <rdf:type rdf:resource="http://somewere/emotions/discomfiture"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/daunt">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/teasing">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mad">
+    <rdf:type rdf:resource="http://somewere/emotions/huffiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bashfully">
+    <rdf:type rdf:resource="http://somewere/emotions/timidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heartless">
+    <rdf:type rdf:resource="http://somewere/emotions/heartlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/greedy">
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/annoy">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/monstrously">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mortifying">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mortify">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/negative-concern">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/negative-concern"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/joyless">
+    <rdf:type rdf:resource="http://somewere/emotions/joylessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/ugly">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/indispose">
+    <rdf:type rdf:resource="http://somewere/emotions/disinclination"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/anxiously">
+    <rdf:type rdf:resource="http://somewere/emotions/anxiousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/apprehension"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repugnant">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/worry">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/indignation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anger"/>
+    <rdf:type rdf:resource="http://somewere/emotions/indignation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fit">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/bad-temper"/>
+    <rdf:type rdf:resource="http://somewere/emotions/fit"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bedevil">
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/miserably">
+    <rdf:type rdf:resource="http://somewere/emotions/misery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/uncheerful">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/discouragement">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/despair"/>
+    <rdf:type rdf:resource="http://somewere/emotions/discouragement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/creeps">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-fear"/>
+    <rdf:type rdf:resource="http://somewere/emotions/creeps"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repentantly">
+    <rdf:type rdf:resource="http://somewere/emotions/repentance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/contritely">
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/estrangement">
+    <rdf:type rdf:resource="http://somewere/emotions/alienation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/avaricious">
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/self-pity">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/lost-sorrow"/>
+    <rdf:type rdf:resource="http://somewere/emotions/self-pity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/shuddery">
+    <rdf:type rdf:resource="http://somewere/emotions/chill"/>
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pestering">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misogyny">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hate"/>
+    <rdf:type rdf:resource="http://somewere/emotions/misogyny"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misogynism">
+    <rdf:type rdf:resource="http://somewere/emotions/misogyny"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/deject">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/depressed">
+    <rdf:type rdf:resource="http://somewere/emotions/downheartedness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/panicked">
+    <rdf:type rdf:resource="http://somewere/emotions/panic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/short_temper">
+    <rdf:type rdf:resource="http://somewere/emotions/irascibility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/queasy">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/incense">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gloomy">
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/trouble">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/qualm">
+    <rdf:type rdf:resource="http://somewere/emotions/scruple"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/shy">
+    <rdf:type rdf:resource="http://somewere/emotions/shyness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/timidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/painfully">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/begrudge">
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/ruefully">
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/itchy">
+    <rdf:type rdf:resource="http://somewere/emotions/fidget"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/depression">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sadness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/demoralized">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+    <rdf:type rdf:resource="http://somewere/emotions/discouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grudge">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/resentment"/>
+    <rdf:type rdf:resource="http://somewere/emotions/grudge"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horrified">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misanthropy">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hate"/>
+    <rdf:type rdf:resource="http://somewere/emotions/misanthropy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dismal">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/malicious">
+    <rdf:type rdf:resource="http://somewere/emotions/malice"/>
+    <rdf:type rdf:resource="http://somewere/emotions/malevolence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/wrathfully">
+    <rdf:type rdf:resource="http://somewere/emotions/wrath"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dudgeon">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/indignation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/dudgeon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/irritate">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dun">
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/churn_up">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hesitantly">
+    <rdf:type rdf:resource="http://somewere/emotions/hesitance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/self-doubt">
+    <rdf:type rdf:resource="http://somewere/emotions/diffidence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tantrum">
+    <rdf:type rdf:resource="http://somewere/emotions/fit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/joylessly">
+    <rdf:type rdf:resource="http://somewere/emotions/joylessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dolor">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/grief"/>
+    <rdf:type rdf:resource="http://somewere/emotions/dolor"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/scene">
+    <rdf:type rdf:resource="http://somewere/emotions/fit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hateful">
+    <rdf:type rdf:resource="http://somewere/emotions/hate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/demeaning">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/resignation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/despair"/>
+    <rdf:type rdf:resource="http://somewere/emotions/resignation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/wretched">
+    <rdf:type rdf:resource="http://somewere/emotions/woe"/>
+    <rdf:type rdf:resource="http://somewere/emotions/misery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/worried">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/aggravated">
+    <rdf:type rdf:resource="http://somewere/emotions/aggravation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disgustedly">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/vindictiveness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/malevolence"/>
+    <rdf:type rdf:resource="http://somewere/emotions/vindictiveness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gall">
+    <rdf:type rdf:resource="http://somewere/emotions/resentment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horrific">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/discomfiture">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/discomfiture"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/scarily">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/abominably">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/the_green-eyed_monster">
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/revolting">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/shock">
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/malignity">
+    <rdf:type rdf:resource="http://somewere/emotions/malevolence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/distressingly">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dispirit">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enviably">
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/oppression">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/depression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/score">
+    <rdf:type rdf:resource="http://somewere/emotions/grudge"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/negative-suspense">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/apprehension"/>
+    <rdf:type rdf:resource="http://somewere/emotions/negative-suspense"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repulsive">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/impatient">
+    <rdf:type rdf:resource="http://somewere/emotions/impatience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/displease">
+    <rdf:type rdf:resource="http://somewere/emotions/displeasure"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/chilling">
+    <rdf:type rdf:resource="http://somewere/emotions/chill"/>
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repulsion">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/turmoil">
+    <rdf:type rdf:resource="http://somewere/emotions/tumult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/irritated">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/revolt">
+    <rdf:type rdf:resource="http://somewere/emotions/nausea"/>
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/ingratitude">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/ingratitude"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/depressive">
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misopedia">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hate"/>
+    <rdf:type rdf:resource="http://somewere/emotions/misopedia"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/aggrieve">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dire">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/spite">
+    <rdf:type rdf:resource="http://somewere/emotions/malice"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dispirited">
+    <rdf:type rdf:resource="http://somewere/emotions/downheartedness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/terrible">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/desolate">
+    <rdf:type rdf:resource="http://somewere/emotions/forlornness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/chagrin">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/Weltschmerz">
+    <rdf:type rdf:resource="http://somewere/emotions/world-weariness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/detestable">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/malevolently">
+    <rdf:type rdf:resource="http://somewere/emotions/malevolence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repent">
+    <rdf:type rdf:resource="http://somewere/emotions/repentance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nervous">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anxiousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anxiety"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/furious">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anger"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/defeatism">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/resignation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/defeatism"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hate">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/general-dislike"/>
+    <rdf:type rdf:resource="http://somewere/emotions/hate"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unhopeful">
+    <rdf:type rdf:resource="http://somewere/emotions/resignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lividly">
+    <rdf:type rdf:resource="http://somewere/emotions/lividity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/timidly">
+    <rdf:type rdf:resource="http://somewere/emotions/timidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/humiliating">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pessimism">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/despair"/>
+    <rdf:type rdf:resource="http://somewere/emotions/pessimism"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sorry">
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bereft">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/abhorrent">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unassertive">
+    <rdf:type rdf:resource="http://somewere/emotions/unassertiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/appal">
+    <rdf:type rdf:resource="http://somewere/emotions/alarm"/>
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/venom">
+    <rdf:type rdf:resource="http://somewere/emotions/malice"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/anomic">
+    <rdf:type rdf:resource="http://somewere/emotions/alienation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/melancholic">
+    <rdf:type rdf:resource="http://somewere/emotions/melancholy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/attrition">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/regret-sorrow"/>
+    <rdf:type rdf:resource="http://somewere/emotions/attrition"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pitiable">
+    <rdf:type rdf:resource="http://somewere/emotions/misery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tantalize">
+    <rdf:type rdf:resource="http://somewere/emotions/frustration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dwell">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/abjectly">
+    <rdf:type rdf:resource="http://somewere/emotions/resignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sorrow">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sadness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/wrath">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/wrath"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/distastefully">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pitiful">
+    <rdf:type rdf:resource="http://somewere/emotions/misery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/surrender">
+    <rdf:type rdf:resource="http://somewere/emotions/resignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dreadful">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/shyness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/timidity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/shyness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fretful">
+    <rdf:type rdf:resource="http://somewere/emotions/fidget"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/stung">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horrid">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/meekness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/humility"/>
+    <rdf:type rdf:resource="http://somewere/emotions/meekness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/impatience">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/fidget"/>
+    <rdf:type rdf:resource="http://somewere/emotions/impatience"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fulgurous">
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cruelly">
+    <rdf:type rdf:resource="http://somewere/emotions/cruelty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/insecurity">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/insecurity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pout">
+    <rdf:type rdf:resource="http://somewere/emotions/sulkiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heartsick">
+    <rdf:type rdf:resource="http://somewere/emotions/despondency"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disturbing">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grieve">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/demoralize">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/panic-struck">
+    <rdf:type rdf:resource="http://somewere/emotions/panic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/scorn">
+    <rdf:type rdf:resource="http://somewere/emotions/contempt"/>
+    <rdf:type rdf:resource="http://somewere/emotions/despisal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dark">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/insecurely">
+    <rdf:type rdf:resource="http://somewere/emotions/insecurity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/brokenheartedness">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lachrymose">
+    <rdf:type rdf:resource="http://somewere/emotions/weepiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/ruthfulness">
+    <rdf:type rdf:resource="http://somewere/emotions/mournfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/malevolence">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hate"/>
+    <rdf:type rdf:resource="http://somewere/emotions/malevolence"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/madness">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/maleficence">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/malevolence"/>
+    <rdf:type rdf:resource="http://somewere/emotions/maleficence"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/high_dudgeon">
+    <rdf:type rdf:resource="http://somewere/emotions/dudgeon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/covetousness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/envy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/abomination">
+    <rdf:type rdf:resource="http://somewere/emotions/abhorrence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pissed">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/uptight">
+    <rdf:type rdf:resource="http://somewere/emotions/jitteriness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/edginess"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dislikable">
+    <rdf:type rdf:resource="http://somewere/emotions/dislike"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heartrending">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/guilt_feelings">
+    <rdf:type rdf:resource="http://somewere/emotions/guilt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jealous">
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jealousy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/apprehension">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-fear"/>
+    <rdf:type rdf:resource="http://somewere/emotions/apprehension"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/despiteful">
+    <rdf:type rdf:resource="http://somewere/emotions/vindictiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/rancor">
+    <rdf:type rdf:resource="http://somewere/emotions/resentment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/separated">
+    <rdf:type rdf:resource="http://somewere/emotions/isolation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/odiously">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/vindictively">
+    <rdf:type rdf:resource="http://somewere/emotions/vindictiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/displeased">
+    <rdf:type rdf:resource="http://somewere/emotions/displeasure"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grim">
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/indignant">
+    <rdf:type rdf:resource="http://somewere/emotions/umbrage"/>
+    <rdf:type rdf:resource="http://somewere/emotions/indignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/amok">
+    <rdf:type rdf:resource="http://somewere/emotions/murderousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gloom">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/melancholy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gloom"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/scruple">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/scruple"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/general-dislike">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/general-dislike"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/upset">
+    <rdf:type rdf:resource="http://somewere/emotions/discomfiture"/>
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hopeless">
+    <rdf:type rdf:resource="http://somewere/emotions/hopelessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/umbrageous">
+    <rdf:type rdf:resource="http://somewere/emotions/umbrage"/>
+    <rdf:type rdf:resource="http://somewere/emotions/indignation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dismay">
+    <rdf:type rdf:resource="http://somewere/emotions/demoralization"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+    <rdf:type rdf:resource="http://somewere/emotions/discouragement"/>
+    <rdf:type rdf:resource="http://somewere/emotions/alarm"/>
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/abominate">
+    <rdf:type rdf:resource="http://somewere/emotions/abhorrence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/remorse">
+    <rdf:type rdf:resource="http://somewere/emotions/compunction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/miserable">
+    <rdf:type rdf:resource="http://somewere/emotions/woe"/>
+    <rdf:type rdf:resource="http://somewere/emotions/misery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/disapproval">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/dislike"/>
+    <rdf:type rdf:resource="http://somewere/emotions/disapproval"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exasperate">
+    <rdf:type rdf:resource="http://somewere/emotions/aggravation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sorrowing">
+    <rdf:type rdf:resource="http://somewere/emotions/grief"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sorrow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/humiliatingly">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/irascibility">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/bad-temper"/>
+    <rdf:type rdf:resource="http://somewere/emotions/irascibility"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/negative-agitation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anxiety"/>
+    <rdf:type rdf:resource="http://somewere/emotions/negative-agitation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cruel">
+    <rdf:type rdf:resource="http://somewere/emotions/cruelty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lorn">
+    <rdf:type rdf:resource="http://somewere/emotions/forlornness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/irritation">
+    <rdf:type rdf:resource="http://somewere/emotions/pique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dazzling">
+    <rdf:type rdf:resource="http://somewere/emotions/daze"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/presentiment">
+    <rdf:type rdf:resource="http://somewere/emotions/foreboding"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/scare_off">
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/downhearted">
+    <rdf:type rdf:resource="http://somewere/emotions/downheartedness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/depression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/with_impatience">
+    <rdf:type rdf:resource="http://somewere/emotions/impatience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/negative-fear">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/negative-fear"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hatred">
+    <rdf:type rdf:resource="http://somewere/emotions/hate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/ire">
+    <rdf:type rdf:resource="http://somewere/emotions/anger"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/obscene">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grievance">
+    <rdf:type rdf:resource="http://somewere/emotions/grudge"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/troubling">
+    <rdf:type rdf:resource="http://somewere/emotions/distress"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/irritating">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/persecuted">
+    <rdf:type rdf:resource="http://somewere/emotions/oppression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lividity">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/lividity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jealousy">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/envy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jealousy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enviously">
+    <rdf:type rdf:resource="http://somewere/emotions/covetousness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jealousy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horrifyingly">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/plaguy">
+    <rdf:type rdf:resource="http://somewere/emotions/annoyance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/infuriating">
+    <rdf:type rdf:resource="http://somewere/emotions/fury"/>
+    <rdf:type rdf:resource="http://somewere/emotions/infuriation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enviousness">
+    <rdf:type rdf:resource="http://somewere/emotions/envy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/scare">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/negative-fear"/>
+    <rdf:type rdf:resource="http://somewere/emotions/scare"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/godforsaken">
+    <rdf:type rdf:resource="http://somewere/emotions/forlornness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hatefully">
+    <rdf:type rdf:resource="http://somewere/emotions/hate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/humiliated">
+    <rdf:type rdf:resource="http://somewere/emotions/humility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/displeasing">
+    <rdf:type rdf:resource="http://somewere/emotions/displeasure"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hesitancy">
+    <rdf:type rdf:resource="http://somewere/emotions/hesitance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/murderously">
+    <rdf:type rdf:resource="http://somewere/emotions/murderousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/huffiness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anger"/>
+    <rdf:type rdf:resource="http://somewere/emotions/huffiness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/green-eyed">
+    <rdf:type rdf:resource="http://somewere/emotions/jealousy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/choler">
+    <rdf:type rdf:resource="http://somewere/emotions/anger"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/yucky">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/distasteful">
+    <rdf:type rdf:resource="http://somewere/emotions/disgust"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/misoneism">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/hate"/>
+    <rdf:type rdf:resource="http://somewere/emotions/misoneism"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/horrible">
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hideous">
+    <rdf:type rdf:resource="http://somewere/emotions/repugnance"/>
+    <rdf:type rdf:resource="http://somewere/emotions/horror"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exacerbate">
+    <rdf:type rdf:resource="http://somewere/emotions/aggravation"/>
+  </rdf:Description>
+</rdf:RDF>

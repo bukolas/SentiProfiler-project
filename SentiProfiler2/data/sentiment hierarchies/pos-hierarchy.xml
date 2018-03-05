@@ -1,0 +1,150 @@
+<categ-list>
+  <categ name="positive-emotion" isa="emotion"/>
+  <categ name="joy" isa="positive-emotion"/>
+  <categ name="love" isa="positive-emotion"/>
+  <categ name="affection" isa="positive-emotion"/>
+  <categ name="liking" isa="positive-emotion"/>
+  <categ name="enthusiasm" isa="positive-emotion"/>
+  <categ name="gratitude" isa="positive-emotion"/>
+  <categ name="self-pride" isa="positive-emotion"/>
+  <categ name="levity" isa="positive-emotion"/>
+  <categ name="calmness" isa="positive-emotion"/>
+  <categ name="fearlessness" isa="positive-emotion"/>
+  <categ name="positive-expectation" isa="positive-emotion"/>
+  <categ name="positive-fear" isa="positive-emotion"/>
+  <categ name="positive-hope" isa="positive-emotion"/>
+
+  <categ name="amusement" isa="joy"/>
+  <categ name="elation" isa="joy"/>
+  <categ name="exultation" isa="joy"/>
+  <categ name="exhilaration" isa="joy"/>
+  <categ name="exuberance" isa="joy"/>
+  <categ name="happiness" isa="joy"/>
+  <categ name="bonheur" isa="joy"/>
+  <categ name="gladness" isa="joy"/>
+  <categ name="merriment" isa="joy"/>
+  <categ name="rejoicing" isa="joy"/>
+  <categ name="belonging" isa="joy"/>
+  <categ name="cheerfulness" isa="joy"/>
+  <categ name="contentment" isa="joy"/>
+
+  <categ name="euphoria" isa="elation"/>
+
+  <categ name="triumph" isa="exultation"/>
+
+  <categ name="bang" isa="exhilaration"/>
+  <categ name="titillation" isa="exhilaration"/>
+
+  <categ name="hilarity" isa="merriment"/>
+  <categ name="jocundity" isa="merriment"/>
+  <categ name="jollity" isa="merriment"/>
+
+  <categ name="comfortableness" isa="belonging"/>
+  <categ name="closeness" isa="belonging"/>
+
+  <categ name="togetherness" isa="closeness"/>
+
+  <categ name="buoyancy" isa="cheerfulness"/>
+  <categ name="carefreeness" isa="cheerfulness"/>
+
+  <categ name="satisfaction" isa="contentment"/>
+
+  <categ name="satisfaction-pride" isa="satisfaction"/>
+  <categ name="complacency" isa="satisfaction"/>
+  <categ name="fulfillment" isa="satisfaction"/>
+  <categ name="gloat" isa="satisfaction"/>
+
+  <categ name="smugness" isa="complacency"/>
+
+  <categ name="attachment" isa="affection"/>
+  <categ name="protectiveness" isa="affection"/>
+  <categ name="regard" isa="affection"/>
+  <categ name="soft-spot" isa="affection"/>
+
+  <categ name="sympathy" isa="liking"/>
+  <categ name="fondness" isa="liking"/>
+  <categ name="captivation" isa="liking"/>
+  <categ name="preference" isa="liking"/>
+  <categ name="friendliness" isa="liking"/>
+  <categ name="approval" isa="liking"/>
+  <categ name="admiration" isa="liking"/>
+
+  <categ name="positive-concern" isa="sympathy"/>
+  <categ name="kindheartedness" isa="sympathy"/>
+  <categ name="compatibility" isa="sympathy"/>
+  <categ name="empathy" isa="sympathy"/>
+
+  <categ name="softheartedness" isa="positive-concern"/>
+
+  <categ name="identification" isa="empathy"/>
+
+  <categ name="weakness" isa="preference"/>
+
+  <categ name="amicability" isa="friendliness"/>
+  <categ name="good-will" isa="friendliness"/>
+  <categ name="brotherhood" isa="friendliness"/>
+
+  <categ name="favor" isa="approval"/>
+
+  <categ name="hero-worship" isa="admiration"/>
+
+  <categ name="gusto" isa="enthusiasm"/>
+  <categ name="eagerness" isa="enthusiasm"/>
+  <categ name="exuberance" isa="enthusiasm"/>
+
+  <categ name="enthusiasm-ardor" isa="eagerness"/>
+
+  <categ name="worship" isa="love"/>
+  <categ name="love-ardor" isa="love"/>
+  <categ name="amorousness" isa="love"/>
+  <categ name="puppy-love" isa="love"/>
+  <categ name="devotion" isa="love"/>
+  <categ name="benevolence" isa="love"/>
+  <categ name="lovingness" isa="love"/>
+  <categ name="loyalty" isa="love"/>
+
+  <categ name="beneficence" isa="benevolence"/>
+
+  <categ name="warmheartedness" isa="lovingness"/>
+
+  <categ name="gratefulness" isa="gratitude"/>
+
+  <categ name="self-esteem" isa="self-pride"/>
+  <categ name="ego" isa="self-pride"/>
+  <categ name="amour-propre" isa="self-pride"/>
+
+  <categ name="playfulness" isa="levity"/>
+
+  <categ name="placidity" isa="calmness"/>
+  <categ name="coolness" isa="calmness"/>
+  <categ name="tranquillity" isa="calmness"/>
+
+  <categ name="peace" isa="tranquillity"/>
+  <categ name="easiness" isa="tranquillity"/>
+
+  <categ name="positive-languor" isa="easiness"/>
+
+  <categ name="security" isa="fearlessness"/>
+
+  <categ name="confidence" isa="security"/>
+
+  <categ name="anticipation" isa="positive-expectation"/>
+
+  <categ name="positive-suspense" isa="anticipation"/>
+
+  <categ name="frisson" isa="positive-fear"/>
+
+  <categ name="hopefulness" isa="positive-hope"/>
+  <categ name="encouragement" isa="positive-hope"/>
+  <categ name="optimism" isa="positive-hope"/>
+
+  <categ name="sanguinity" isa="optimism"/>
+
+    <categ name="commiseration" isa="compassion"/>
+  <categ name="tenderness" isa="compassion"/>
+  <categ name="mercifulness" isa="compassion"/>
+
+  <categ name="forgiveness" isa="mercifulness"/>
+
+</categ-list>
+

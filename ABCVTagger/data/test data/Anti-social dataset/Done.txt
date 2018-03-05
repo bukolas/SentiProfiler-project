@@ -1,0 +1,171 @@
+#Remorse & regret
+fault	-2
+I had hurt	-2
+spoiling	-2
+
+# Killing
+assassinate*	-3
+liquiditate
+you have x deaths on your credit
+take her life
+take his life
+taken their lives	-3
+took their lives	-3
+killed people	-4
+I pop ya	-4
+slit her throat	-4
+slit his throat	-4
+burned alive	-4
+lynching	-4
+lynch mob	-4
+slain	-3
+slay	-3
+bloodthirsty	-3
+massacre	-2
+crucified	-2
+crucify	-2
+
+# Serial killings
+school shooting	-5
+serial killer	-5
+
+#Crime
+carjack	-5
+
+# Violence
+extermination	-3
+carnage	-4
+violent-minded	-3
+mugged	-3
+chop off your	-3
+spilled their blood	-4
+blood is spilled	-4
+blood was spilled	-4
+shed the blood	-4
+smashing the heads	-4
+stab	-4
+mugging	-4
+sabotage	-3
+harm someone	-4
+harming them	-4
+harming someone	-4
+spilled their blood	-4
+spill their blood	-4
+
+
+#War
+inflicted heavy losses	-3
+
+# Suicide
+kill myself	-5
+take my life	-5
+slashed my wrists	-5
+fired a gun at my head	-5
+fire a gun at my head	-5
+no further point in continuing my life	-2
+no point in continuing my life	-3
+to end my life	-4
+I just want to leave this world	-4
+I have to die	-4
+I can't make it right by living	-4
+now I shall die	-4
+now I will die	-4
+I must die	-4
+my wish to die	-3
+I wish to die	-3
+I leave this world	-3
+take their own lives	-4
+take my own life	-4
+
+#Hopelesness
+I have nothing.	-3
+I have nothing left.	-3
+I've lost everything	-3
+there is nothing to live for	-4
+I can't take it any longer	-4
+determination to fight on has left me	-3
+will to fight on has left me	-3
+I am tired of this life	-3
+I'm tired of this life	-3
+I still had much to live for	-2
+I had much to live for	-2
+can't fight any longer	-3
+why should I bother trying anymore	-3
+I'm tired of trying	-3
+there's no hope left	-4
+I can't stand this empty feeling	-4
+cannot endure this agonizing pain any longer	-4
+loses his lust for life	-3
+lost his lust for life	-3
+loses her lust for life	-3
+lost her lust for life	-3
+is more than I can bear	-3
+I feel I have lived long enough	-3
+sick of it all	-4
+
+#Lost love
+I loved her so much
+I loved him so much
+I loved you
+I loved the children
+how I loved you
+
+#Mental health problems
+I would break down	-3
+I would break down	-3
+I broke down	-3
+something snapped in me	-3
+going mad	-2
+hear voices	-4
+mental disorder	-3
+I'm breaking into pieces	-3
+paranoid	-4
+paranoia	-4
+anger issues	-4
+psychological disorder	-3
+
+# Pain inside
+tired of hurting	-3
+hurt so bad inside	-3
+
+# Hurting oneself
+hurt myself	-4
+self harm	-3
+razor going across my skin	-3
+
+# Dying
+kick the bucket	-3
+afraid to die	-3
+afraid of dying	-3
+leaving the world to be a better place	-3
+deserves to die	-3
+dieing	-4
+chosen to die	-4
+
+# Death
+morbidity	-1
+mortality	-1
+perish	-3
+
+#Blame
+you didn't respect me	-3
+
+# Threat
+rot in hell	-5
+better watch your back	-4
+
+# Disappointment
+it was not to be	-3
+
+# Crime
+gangster	-1
+
+# Sickness
+too sick to go on	-3
+was in a coma	-3
+permanent brain damage	-4
+
+# Substance abuse
+Valium overdose	-4
+dope	-3
+took an overdose	-4

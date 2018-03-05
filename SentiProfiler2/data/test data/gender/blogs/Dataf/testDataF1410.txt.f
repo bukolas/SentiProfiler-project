@@ -1,0 +1,3 @@
+The Mughals had a dress code and would not wear the pant/shirt cause mostly non-believers would wear them. However, now a days even our so-called Islamically established states have the concept of the western pant/shirt deeply engraved in their societies. So what now? What do our youth do? A solution can be to take these western concepts and "Islamisize" them. A good example would be clothing. Take the western pant/shirt and make them longer, and looser.
+
+As Muslims we should look decent and healthily smart, not overly dressed to the extreme. And Muslims we should not lose our identity in the process.

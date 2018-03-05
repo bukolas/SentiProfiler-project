@@ -1,0 +1,46 @@
+'abandon', Angle: 164.890427, Intensity: 0.410000
+'absolutely gorgeous', Angle: 320.430054, Intensity: 0.750000
+'abused', Angle: 178.678024, Intensity: 0.520000
+'agitated', Angle: 252.290283, Intensity: 0.500000
+'agony', Angle: 167.872910, Intensity: 0.500000
+'appreciate', Angle: 357.273682, Intensity: 0.500000
+'arrogant', Angle: 90.924049, Intensity: 0.500000
+'beloved', Angle: 41.784515, Intensity: 0.500000
+'bittersweet', Angle: 26.565050, Intensity: 0.490000
+'calming', Angle: 32.763889, Intensity: 0.480000
+'cruel', Angle: 186.952957, Intensity: 0.500000
+'cry', Angle: 159.775146, Intensity: 0.490000
+'enraged', Angle: 265.301331, Intensity: 0.590000
+'extremely fed up', Angle: 175.186447, Intensity: 0.760000
+'extremely ugly', Angle: 102.817368, Intensity: 0.780000
+'fake', Angle: 91.332222, Intensity: 0.340000
+'fuckface', Angle: 185.920624, Intensity: 0.540000
+'furious', Angle: 255.068573, Intensity: 0.620000
+'gloom', Angle: 152.198547, Intensity: 0.500000
+'handsome', Angle: 80.299614, Intensity: 0.470000
+'he got a bit lucky this time', Angle: 21.104837, Intensity: 0.240000
+'he was getting annoyed', Angle: 193.134018, Intensity: 0.250000
+'i do like her', Angle: 13.266480, Intensity: 0.510000
+'i don't love him anymore', Angle: 90.806931, Intensity: 0.280000
+'i love her', Angle: 359.534180, Intensity: 0.490000
+'i was furious', Angle: 264.053131, Intensity: 0.580000
+'ironically', Angle: 100.042023, Intensity: 0.390000
+'irritating', Angle: 182.366241, Intensity: 0.480000
+'it was a gloomy day', Angle: 147.639069, Intensity: 0.480000
+'lucky', Angle: 356.367065, Intensity: 0.510000
+'not at all relaxed', Angle: 196.073578, Intensity: 0.490000
+'quite nervous', Angle: 211.660751, Intensity: 0.560000
+'quite ugly', Angle: 180.861526, Intensity: 0.530000
+'rage', Angle: 266.278687, Intensity: 0.490000
+'really nice', Angle: 0.830316, Intensity: 0.550000
+'relaxed', Angle: 31.363302, Intensity: 0.490000
+'she got really angry', Angle: 260.283325, Intensity: 0.590000
+'she likes him quite a bit', Angle: 329.105347, Intensity: 0.570000
+'she was feeling gloomy', Angle: 141.709839, Intensity: 0.480000
+'slightly irritating', Angle: 180.000000, Intensity: 0.240000
+'very agitated', Angle: 231.106094, Intensity: 0.610000
+'very handsome', Angle: 0.358094, Intensity: 0.640000
+'very irritating', Angle: 180.909378, Intensity: 0.760000
+'very lucky', Angle: 348.215240, Intensity: 0.570000
+'very tired', Angle: 90.392433, Intensity: 0.580000
+'we used to hate them', Angle: 132.367569, Intensity: 0.490000

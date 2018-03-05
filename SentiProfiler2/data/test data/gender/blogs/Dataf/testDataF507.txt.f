@@ -1,0 +1,2 @@
+Really! looking at my blog..i see only travelogues. Anyway, we had been to Swamimalai few weeks back. This has been a long pending visit - should have gone after our marriage. But better late than never. It is a nice temple, but after being a regular at kapaleeshwarar temple, I feel for the crowd Swamimalai is pulling, the temple could have been better maintained.
+We also stopped over at Kumbeshwarar temple in kumbakonam.

@@ -1,0 +1,5 @@
+It is surreal to have my mural here in California... and to see it 2.5 years later, after it has been battered by the elements in Eureka Springs, AR. I painted it with outdoor latex house paint so that it would hold up to rain, snow, UV rays, etc... but nature always wins eventually, and it is time for The Divine Mother to get some well-deserved TLC after all She has been through!
+While the mural is in good condition, the vibrancy of the colors have faded, and the ancient Egyptian icons I had drawn in with Sharpies had mostly washed away, leaving only their painted silhouettes behind.
+
+
+I am in the process of restoring the mural to its original vibrancy, and both the owner of the painting and I have big plans for another public showing. I don't want to simply display the mural somewhere, however; I created this mural to be displayed in the context of a themed show about icons involving many other artists. Therefore, I am dreaming of collaborating with other artists to create a new exhibit...

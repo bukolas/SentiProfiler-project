@@ -1,0 +1,1 @@
+Man...this car rocks! Push button start...automatic everything...the only downside was the speed so I upgraded mine to the 350 with exhaust and man is it one crazy ride...I still want to test drive the ISF...Anyways, bottom line= lexus engines are the best and this ride gets a lot of compliments.

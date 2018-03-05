@@ -1,0 +1,378 @@
+package analyzer;
+
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.Collections;
+import java.util.Enumeration;
+import java.util.Hashtable;
+import java.util.StringTokenizer;
+import java.util.Vector;
+
+import analyzer.alpha.Alpha;
+
+/**
+ * Reads a directory with output files created with Circumplex annotator and
+ * calculates statistics.
+ * @author Tuomo Kakkonen
+ */
+public class CircumplexResultAnalyzer {
+	Vector<String> annotators = new Vector<String>();
+	protected Hashtable<String, CircumplexResult> data = 
+		new Hashtable<String, CircumplexResult>(); 
+	protected String dirName;
+	
+	/**
+	 * Creates a new instance of the class.
+	 * @param dirName Input directory.
+	 */
+	public CircumplexResultAnalyzer(String dirName, boolean analyze) {
+		this.dirName = dirName;
+		readResults(dirName);
+		if(analyze)
+			analyzeResults();
+	}
+
+	/**
+	 * Returns the name of the annotator from the filename.
+	 * @param filename Name of the file.
+	 * @return Annotator name extracted from the filename.
+	 */
+	public String getAnnotatorName(String filename) {
+		String annotator = filename.substring(0, filename.indexOf("_"));
+		return annotator;		
+	}
+	
+	/**
+	 * Reads the input files.
+	 * @param dirName Input directory.
+	 */
+	private void readResults(String dirName) {		
+		Vector<Vector<String>> results = new Vector<Vector<String>>();
+		Vector<String> filenames = ResultReader.getFilenames(dirName);		
+		for(String filename : filenames) {
+			//CircumplexResultAnalyzer.java
+			if(filename.contains("txt") && !filename.equalsIgnoreCase("notes.txt") &&  !filename.contains(".#")) {
+				//System.out.println("filename: " + filename);
+			//if(filename.contains("txt") && (filename.contains("pos_") || filename.contains("neg_"))) {
+				annotators.add(getAnnotatorName(filename));
+				Vector<String> lines = null;
+				try {
+					lines = ResultReader.readFileToVector(dirName + File.separator + filename);
+				}
+				catch(Exception e) {
+					e.printStackTrace();
+				}
+				if(lines != null)
+					results.add(lines);		
+			}
+		}
+		
+		for(int x = 0; x < results.size(); x++) {
+			Vector<String> lines = results.get(x);
+			String annotator = annotators.get(x);
+			for(String line : lines) {
+				int endInd = line.lastIndexOf("',");
+				if(endInd != -1) {
+					String sentence = line.substring(1, endInd).trim();			
+					StringTokenizer st = new StringTokenizer(line.substring(endInd + 2));
+					while(st.hasMoreTokens()) {
+						st.nextToken();
+						float angle = getFloat(st.nextToken());
+						st.nextToken();
+						float intensity = getFloat(st.nextToken());
+						
+						//System.out.println(sentence + "\n" + intensity + ", " + angle);
+						if(intensity != -1 || angle != -1) {
+							CircumplexResult res;
+							if(!data.containsKey(sentence))
+								res = new CircumplexResult();
+							else 
+								res = data.get(sentence);
+							res.addAnnotation(annotator, angle, intensity);
+							data.put(sentence, res);
+						}
+						else
+						System.out.println("The sentence is not annotated. Skipping...");
+					}
+				}
+			}
+		}
+	}
+	
+	/**
+	 * Returns the float represented by the string given as the parameter.
+	 * @param str Input string.
+	 * @return Float represented by the input string.
+	 */
+	private float getFloat(String str) {
+		str = str.substring(0, str.length() -1);
+		str = str.replaceAll("\\,", "\\.");
+		return Float.parseFloat(str);		
+	}
+
+	/**
+	 * Prints the contents of a Hashtable in alphabetical order.
+	 * @param hash Hashtable to print out.
+	 */
+	private void printHashtable(Hashtable hash) {
+		Enumeration keys = hash.keys();
+		Vector<String> values = new Vector<String>();
+		while(keys.hasMoreElements()) {
+			Object key = keys.nextElement();
+			values.add(key + ": " + hash.get(key));
+		}
+	    Collections.sort(values);
+	    for(String value : values)
+	    	System.out.println(value);
+	}
+
+	
+	public ResultCollector getResults() {
+		return new ResultCollector(annotators, 30.0, 0.151, 0.2);	
+	}
+	
+	/**
+	 * Prints out statistics.
+	 */
+	private void analyzeResults() {
+		ResultCollector collector = getResults(); 
+		Enumeration<String> keys = data.keys();
+		System.out.println("*******************************");
+		System.out.println("Average angles and intensities:");
+		while(keys.hasMoreElements()) { 
+			String key = keys.nextElement();
+			System.out.println(key);
+			CircumplexResult res = data.get(key);
+			System.out.println("Annotations: " + res.getAnnotations());
+			int retVal = collector.add(key, res);	
+			switch(retVal) {
+				case 0 : {
+					System.out.println("Avg of the closest two angles: " + res.getAvgAngleForTopPair());
+					System.out.println("Avg of the two closest intesities: " + res.getAvgIntensityForTopPair());
+					System.out.println("************\n");
+					break;
+				}
+				case -1: {
+					System.out.println("Annotators did not agree on angle or intensity!");
+					break;
+				}
+				case -2: {
+					System.out.println("Annotators did not agree on the intensity!");
+					break;
+				}
+				case -3: {
+					System.out.println("Annotators did not agree on the angle!");
+					break;
+				}
+				case -4: {
+					System.out.println("Average intensity was below the threshold. Item skipped!");
+					break;
+				}
+
+			}
+		}
+		
+		System.out.println("*******************************");
+		System.out.println("Rate of agreement between all the annotators (at least two annotators agree within the thresholds): ");
+		System.out.println(collector.getGlobalRec());
+		System.out.println("**");	
+		
+		System.out.println("Pairwise comparisons of annotators: ");
+		printHashtable(collector.getGlobalPairWiseRec());
+		System.out.println("**");
+		System.out.println("Total number of items that need to be reviewed: " + collector.getAllNonMatchingCount());
+		System.out.println();
+		System.out.println("The cases in which the annotators did not agree on the angle (" + collector.getNonMatchingAngles().size() + "):");
+		printHashtable(collector.getNonMatchingAngles());
+		System.out.println("**");
+		System.out.println("The cases in which the annotators did not agree on the intensity value (" + collector.getNonMatchingIntensities().size() + "): ");
+		printHashtable(collector.getNonMatchingIntensities());
+
+		System.out.println("**");
+		System.out.println("Skipped items (intensity too low) (" + collector.getLowIntesityItems().size()  + "): ");
+		printHashtable(collector.getLowIntesityItems());
+		System.out.println();
+		
+		System.out.println();
+		System.out.println("*** Krippendorff's alpha (normal) ***");
+		System.out.println("**All annotators");
+	    getAlpha(false, 0, dirName + File.separator + "angle_annotations.csv", collector.getLowIntesityItems());
+		getAlpha(false, 1, dirName + File.separator + "intensity_annotations.csv", collector.getLowIntesityItems());
+
+		System.out.println("**Closest matching pair");
+		getAlpha(true, 0, dirName + File.separator + "angle_annotations_pair.csv", collector.getLowIntesityItems());
+		getAlpha(true, 1, dirName + File.separator + "intensity_annotations_pair.csv", collector.getLowIntesityItems());
+
+//		System.out.println();
+//		System.out.println("*** Krippendorff's alpha (mapped to classes)*** ");
+//		System.out.println("**All annotators");
+//	    getMappedAlpha(false, 0, dirName + File.separator + "angle_annotations_mapped.csv", collector.getLowIntesityItems());
+//		getMappedAlpha(false, 1, dirName + File.separator + "intensity_annotations_mapped.csv", collector.getLowIntesityItems());
+//
+//		System.out.println("**Closest matching pair");
+//		getMappedAlpha(true, 0, dirName + File.separator + "angle_annotations_pair_mapped.csv", collector.getLowIntesityItems());
+//		getMappedAlpha(true, 1, dirName + File.separator + "intensity_annotations_pair_mapped.csv", collector.getLowIntesityItems());
+
+		
+	}
+	
+	private void getAlpha(boolean onlyTopPair, int type, String filename, Hashtable<String, Vector<CircumplexAnnotation>> skipped) {
+		try {
+			writeCSV(onlyTopPair, type, filename, " ", data, skipped);							
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		if(type == 0)
+			System.out.println("Angle: ");
+		else 
+			System.out.println("Intensity: ");
+			
+		String args[] = new String[1];
+		args[0] = filename;
+		Alpha.calculate(360, args);		
+	}
+	
+	private int mapToCategory(double val, double max, int catCount) {
+		double stepSize = max / (double)catCount;
+		return (int)Math.ceil(val / stepSize);
+	}
+	
+	private void getMappedAlpha(boolean onlyTopPair, int type, String filename, Hashtable<String, Vector<CircumplexAnnotation>> skipped) {
+		Hashtable<String, CircumplexResult> mappedData = new Hashtable<String, CircumplexResult>(); 
+		
+		Enumeration<String> keys = data.keys();
+		while(keys.hasMoreElements()) {
+			String key = keys.nextElement();
+			CircumplexResult res = data.get(key);
+			Vector<CircumplexAnnotation> ans = res.getAnnotations();
+			CircumplexResult mappedRes = new CircumplexResult();
+			for(CircumplexAnnotation an : ans) {	
+				float angleCat;
+				if(Float.isNaN(an.getAngle()))
+					angleCat = Float.NaN;
+				else 
+					angleCat = mapToCategory(an.getAngle(), 360, 12);
+				//System.out.println(an.getAngle() + " mapped to " + angleCat);
+				float intCat;
+				if(Float.isNaN(an.getIntensity()))
+					intCat = Float.NaN;
+				else 
+					intCat = mapToCategory(an.getIntensity(), 1.0, 6);
+				//System.out.println(an.getIntensity() + " mapped to " + intCat);
+				mappedRes.addAnnotation(an.getAnnotator(), angleCat, intCat);
+			}
+			mappedData.put(key, mappedRes);
+		}
+
+		/*try {
+			writeCSV(onlyTopPair, type, filename, " ", mappedData, skipped);							
+		} catch (IOException e) {
+			e.printStackTrace();
+		}*/
+		
+		if(type == 0)
+			System.out.println("Angle: ");
+		else 
+			System.out.println("Intensity: ");
+			
+		String args[] = new String[1];
+		args[0] = filename;
+		if(type == 0)
+			Alpha.calculate(12, args);
+		else
+			Alpha.calculate(5, args);
+	}
+
+	
+	/**
+	 * Writes the annotations in CSV format.
+	 * @param data Annotation data.
+	 * @throws IOException 
+	 */
+	private void writeCSV(boolean onlyTopPair, int type, String filename, String separator, Hashtable<String, CircumplexResult> data,
+			Hashtable<String, Vector<CircumplexAnnotation>> skipped) throws IOException {
+		FileWriter outFile = new FileWriter(filename);
+		PrintWriter out = new PrintWriter(outFile);
+
+		Enumeration<String> keys = data.keys();
+		while(keys.hasMoreElements()) {
+			String sen = keys.nextElement();
+			//System.out.println(sen + ": ");
+			CircumplexResult res = data.get(sen);
+			// Skip items that don't have annotations from all the annotators and those that have too low average intensity
+			if(res.getAnnotations().size() == annotators.size() && !skipped.containsKey(sen)) {
+				Vector<CircumplexAnnotation> ans = res.getAnnotations();
+
+				StringBuffer line = new StringBuffer();				
+				if(onlyTopPair) 
+					getClosestPairValues(type, separator, res, line);
+				else 
+					getAllValues(type, separator, ans, line);
+				out.println(line.toString());
+			}
+		}
+		out.close();
+	}
+
+	private void getClosestPairValues(int type, String separator,
+			CircumplexResult res, StringBuffer line) {
+		Vector<Double> topPair = null;
+		Double topPair2=null;
+		if(type == 0){
+			topPair = res.getClosestAnglePair();
+			topPair2 = res.getAvgAngleForTopPair();
+			//line.append(topPair2 + separator + topPair2);
+			long foo = Math.round(topPair.get(0));
+			long foo2 = Math.round(topPair.get(1));
+			line.append(foo + separator + foo2);
+		}
+		else{
+			topPair = res.getClosestIntensityPair();
+		    line.append(Math.round(topPair.get(0)*10)/10.0d + separator + Math.round(topPair.get(1)*10)/10.0d);
+		}
+		
+	}
+
+	private void getAllValues(int type, String separator,
+			Vector<CircumplexAnnotation> ans, StringBuffer line) {
+		long foo = 0;
+		double foo2 =0;
+		for(CircumplexAnnotation an : ans) {
+			if(type == 0){
+				foo = Math.round(an.getAngle());
+				//System.out.println(foo + " :foo ");
+				line.append(foo + separator);
+			}
+			else {
+				if(an.getIntensity() > 0){
+					foo2=Math.round(an.getIntensity()*10)/10.0d;
+					line.append(foo2 + separator);
+				}
+				else
+					line.append("nan" + separator);
+			}						
+		}
+		line.deleteCharAt(line.length() - 1);
+	//	System.out.println(line + " :line ");
+	}
+	
+	public Hashtable<String, CircumplexResult> getData() {
+		return data;
+	}
+	
+	/**
+	 * Main method for running the class. 
+	 * @param args
+	 */
+	public static void main(String args[]) {
+		//String dir = "data/testRounds/round2";
+
+		String dir = "data/genInquirerAnnotResults/negAnnot/8/initial/";
+
+		CircumplexResultAnalyzer analyzer = 
+			new CircumplexResultAnalyzer(dir, true);		
+	}	
+}

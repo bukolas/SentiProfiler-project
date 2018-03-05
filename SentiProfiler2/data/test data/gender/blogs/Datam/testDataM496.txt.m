@@ -1,0 +1,1 @@
+So why, I hear you ask, would anyone go through a formal legal separation? Maybe because some states require that a couple seeking a divorce have been separated for some period of time. Also, some couples need to remain legally married, perhaps so one can continue to be insured for medical or other purposes by the other's company. Formal legal separation makes this possible.

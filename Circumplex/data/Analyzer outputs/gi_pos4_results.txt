@@ -1,0 +1,1014 @@
+*******************************
+Average angles and intensities:
+decorative
+Annotations: [ck: 327.2315, 0.41, mdm: 359.5453, 0.5, tk: 339.26477, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 333.2481384277344
+Avg of the two closest intesities: 0.5
+************
+
+durability
+Annotations: [ck: 29.5115, 0.49, mdm: 32.295975, 0.5, tk: 339.26477, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 30.90373706817627
+Avg of the two closest intesities: 0.5
+************
+
+distinction
+Annotations: [ck: 269.43274, 0.4, mdm: 31.908106, 0.5, tk: 298.8108, 0.3]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 0.0]
+Avg of the closest two angles: 284.12176513671875
+Avg of the two closest intesities: 0.45000000298023224
+************
+
+efficiency
+Annotations: [ck: 278.53076, 0.49, mdm: 338.5371, 0.5, tk: 322.29205, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 330.4145812988281
+Avg of the two closest intesities: 0.5
+************
+
+distinct
+Annotations: [ck: 90.572945, 0.4, mdm: 33.81825, 0.5, tk: 300.17352, 0.33]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 0.0]
+Annotators did not agree on the angle!
+defender
+Annotations: [ck: 298.26852, 0.48, mdm: 299.01035, 0.5, tk: 283.4652, 0.24]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 298.6394348144531
+Avg of the two closest intesities: 0.48999999463558197
+************
+
+enchant
+Annotations: [ck: 332.22037, 0.51, mdm: 270.46964, 0.49, tk: 302.08707, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Annotators did not agree on the angle!
+ethics
+Annotations: [ck: 56.181755, 0.5, mdm: 28.49564, 0.32, tk: 13.943231, 0.5]
+[[ck, mdm]: 1.0, 0.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 21.219435214996338
+Avg of the two closest intesities: 0.5
+************
+
+enjoy
+Annotations: [ck: 332.60764, 0.5, mdm: 6.088528, 0.6, tk: 348.893, 0.56]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 340.7503204345703
+Avg of the two closest intesities: 0.5800000131130219
+************
+
+enjoyment
+Annotations: [ck: 332.22037, 0.51, mdm: 352.6476, 0.5, tk: 347.4712, 0.58]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 350.0594024658203
+Avg of the two closest intesities: 0.5049999952316284
+************
+
+exalt
+Annotations: [ck: 330.01837, 0.48, mdm: 318.90048, 0.5, tk: 297.26587, 0.49]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 324.4594268798828
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+earnestness
+Annotations: [ck: 15.819195, 0.5, mdm: 11.04094, 0.5, tk: 341.93155, 0.49]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 13.430067539215088
+Avg of the two closest intesities: 0.5
+************
+
+divine
+Annotations: [ck: 325.85248, 0.56, mdm: 359.23096, 0.6, tk: 360.0, 0.71]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 359.615478515625
+Avg of the two closest intesities: 0.5800000131130219
+************
+
+dear
+Annotations: [ck: 344.30508, 0.5, mdm: 9.2004, 0.58, tk: 359.65897, 0.56]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 184.42968320846558
+Avg of the two closest intesities: 0.5699999928474426
+************
+
+endear
+Annotations: [ck: 335.0657, 0.5, mdm: 317.8624, 0.57, tk: 339.72443, 0.56]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 337.3950653076172
+Avg of the two closest intesities: 0.5649999976158142
+************
+
+deduce
+Annotations: [ck: 280.88553, 0.42, mdm: 279.4623, 0.24, tk: 269.19305, 0.24]
+[[ck, mdm]: 1.0, 0.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 280.1739196777344
+Avg of the two closest intesities: 0.23999999463558197
+************
+
+decent
+Annotations: [ck: 18.13808, 0.49, mdm: 359.5453, 0.5, tk: 25.545055, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 21.841567993164062
+Avg of the two closest intesities: 0.5
+************
+
+encourage
+Annotations: [ck: 303.2994, 0.49, mdm: 317.63245, 0.49, tk: 316.90012, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 317.2662811279297
+Avg of the two closest intesities: 0.49000000953674316
+************
+
+deal
+Annotations: [ck: 269.4383, 0.41, mdm: 270.0, 0.49, tk: 236.30994, 0.01]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 0.0, 0.0]
+Avg of the closest two angles: 269.7191467285156
+Avg of the two closest intesities: 0.45000000298023224
+************
+
+dauntless
+Annotations: [ck: 343.47913, 0.49, mdm: 336.3179, 0.5, tk: 321.7571, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 339.8985137939453
+Avg of the two closest intesities: 0.5
+************
+
+enable
+Annotations: [ck: 279.62814, 0.45, mdm: 317.63245, 0.49, tk: 301.02954, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 309.33099365234375
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+energetic
+Annotations: [ck: 279.84583, 0.49, mdm: 292.83365, 0.49, tk: 287.35403, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 290.0938415527344
+Avg of the two closest intesities: 0.49000000953674316
+************
+
+deference
+Annotations: [ck: 338.51456, 0.4, mdm: 22.056433, 0.5, tk: 345.49335, 0.49]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 342.0039520263672
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+dedication
+Annotations: [ck: 333.43494, 0.48, mdm: 316.30194, 0.5, tk: 359.61023, 0.49]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 324.8684387207031
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+excellent
+Annotations: [ck: 16.001022, 0.57, mdm: 332.81888, 0.5, tk: 323.5938, 0.74]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 328.2063446044922
+Avg of the two closest intesities: 0.5349999964237213
+************
+
+endow
+Annotations: [ck: 279.54037, 0.48, mdm: 314.029, 0.5, tk: 301.02954, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 307.5292663574219
+Avg of the two closest intesities: 0.5
+************
+
+divinity
+Annotations: [ck: 322.57617, 0.58, mdm: 360.0, 0.6, tk: 360.0, 0.51]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 360.0
+Avg of the two closest intesities: 0.5900000035762787
+************
+
+deservedly
+Annotations: [ck: 269.26547, 0.31, mdm: 270.0, 0.5, tk: 206.21675, 0.49]
+[[ck, mdm]: 1.0, 0.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 269.6327362060547
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+extraordinary
+Annotations: [ck: 17.850319, 0.5, mdm: 347.5549, 0.59, tk: 360.0, 0.74]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 353.77745056152344
+Avg of the two closest intesities: 0.5449999868869781
+************
+
+embrace
+Annotations: [ck: 321.2675, 0.49, mdm: 337.6938, 0.51, tk: 346.05676, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 341.8752746582031
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+extol
+Annotations: [ck: 319.34747, 0.49, mdm: 319.24844, 0.5, tk: 326.9016, 0.54]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 319.29795837402344
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+empower
+Annotations: [ck: 339.9779, 0.5, mdm: 279.30994, 0.49, tk: 279.26022, 0.31]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 279.2850799560547
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+discreet
+Annotations: [ck: 21.370623, 0.49, mdm: 64.04662, 0.5, tk: 13.26333, 0.48]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 17.31697654724121
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+enjoyable
+Annotations: [ck: 333.02716, 0.5, mdm: 6.842773, 0.5, tk: 347.03076, 0.56]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 340.0289611816406
+Avg of the two closest intesities: 0.5
+************
+
+exuberant
+Annotations: [ck: 321.55695, 0.5, mdm: 318.04184, 0.59, tk: 309.0194, 0.75]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 319.7993927001953
+Avg of the two closest intesities: 0.5449999868869781
+************
+
+entertain
+Annotations: [ck: 323.6955, 0.49, mdm: 316.9306, 0.5, tk: 329.49567, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 326.5955810546875
+Avg of the two closest intesities: 0.5
+************
+
+entertainment
+Annotations: [ck: 320.6122, 0.49, mdm: 316.63657, 0.5, tk: 332.5669, 0.49]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 318.6243896484375
+Avg of the two closest intesities: 0.49000000953674316
+************
+
+dexterity
+Annotations: [ck: 332.3933, 0.49, mdm: 299.4072, 0.51, tk: 323.4369, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 327.91510009765625
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+desirous
+Annotations: [ck: 281.2149, 0.47, mdm: 292.83365, 0.49, tk: 314.73102, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 287.02427673339844
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+effective
+Annotations: [ck: 270.0, 0.49, mdm: 346.9708, 0.5, tk: 323.97263, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 335.4717102050781
+Avg of the two closest intesities: 0.5
+************
+
+descry
+Annotations: [ck: 295.2777, 0.48, mdm: 270.46207, 0.5, tk: 270.0, 0.12]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 270.2310333251953
+Avg of the two closest intesities: 0.48999999463558197
+************
+
+donate
+Annotations: [ck: 327.60016, 0.49, mdm: 321.55695, 0.5, tk: 327.99463, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 327.7973937988281
+Avg of the two closest intesities: 0.5
+************
+
+doubtless
+Annotations: [ck: 24.874153, 0.48, mdm: 71.56505, 0.25, tk: 360.0, 0.25]
+[[ck, mdm]: 0.0, 0.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 192.43707656860352
+Avg of the two closest intesities: 0.25
+************
+
+economize
+Annotations: [ck: 279.0395, 0.36, mdm: 340.25317, 0.5, tk: 213.69006, 0.01]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 0.0, 0.0]
+Annotators did not agree on the angle!
+ecstatic
+Annotations: [ck: 300.96375, 0.75, mdm: 315.50702, 0.64, tk: 304.1806, 0.54]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 302.5721740722656
+Avg of the two closest intesities: 0.5900000035762787
+************
+
+endorse
+Annotations: [ck: 269.53036, 0.49, mdm: 298.426, 0.5, tk: 283.04562, 0.28]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 276.2879943847656
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+dig
+Annotations: [ck: NaN, 0.0, mdm: 270.0, 0.5, tk: 270.0, 0.02]
+[[ck, mdm]: 0.0, 0.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 0.0]
+Average intensity was below the threshold. Item skipped!
+devotion
+Annotations: [ck: 298.01788, 0.49, mdm: 314.34894, 0.5, tk: 321.8864, 0.49]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 318.11767578125
+Avg of the two closest intesities: 0.49000000953674316
+************
+
+encouragement
+Annotations: [ck: 304.84094, 0.5, mdm: 319.54803, 0.5, tk: 317.98428, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 318.7661590576172
+Avg of the two closest intesities: 0.5
+************
+
+enhancement
+Annotations: [ck: 301.9081, 0.5, mdm: 315.3274, 0.49, tk: 302.5011, 0.49]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 302.20460510253906
+Avg of the two closest intesities: 0.49000000953674316
+************
+
+everlasting
+Annotations: [ck: 90.0, 0.3, mdm: 345.41705, 0.51, tk: 297.77963, 0.42]
+[[ck, mdm]: 0.0, 0.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Annotators did not agree on the angle!
+defense
+Annotations: [ck: 298.23746, 0.49, mdm: 280.1408, 0.5, tk: 285.25513, 0.42]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 282.6979675292969
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+earnest
+Annotations: [ck: 15.945395, 0.5, mdm: 8.852004, 0.49, tk: 346.05676, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 12.398699760437012
+Avg of the two closest intesities: 0.5
+************
+
+equity
+Annotations: [ck: 35.59078, 0.5, mdm: 31.723602, 0.26, tk: 359.20978, 0.48]
+[[ck, mdm]: 1.0, 0.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 0.0]
+Avg of the closest two angles: 33.65719032287598
+Avg of the two closest intesities: 0.48999999463558197
+************
+
+dedicate
+Annotations: [ck: 332.1524, 0.48, mdm: 317.26474, 0.5, tk: NaN, 0.0]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 0.0, 0.0]
+Avg of the closest two angles: 324.7085723876953
+Avg of the two closest intesities: 0.48999999463558197
+************
+
+eloquent
+Annotations: [ck: 296.56506, 0.48, mdm: 340.68814, 0.5, tk: 330.90884, 0.51]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 335.7984924316406
+Avg of the two closest intesities: 0.5049999952316284
+************
+
+darling
+Annotations: [ck: 345.18652, 0.5, mdm: 9.462322, 0.61, tk: 0.34936, 0.55]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 4.905841112136841
+Avg of the two closest intesities: 0.5250000059604645
+************
+
+eminent
+Annotations: [ck: 12.925999, 0.5, mdm: 341.42072, 0.5, tk: 3.073333, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 7.999665856361389
+Avg of the two closest intesities: 0.5
+************
+
+deserve
+Annotations: [ck: 268.43063, 0.29, mdm: 270.4735, 0.48, tk: 207.24509, 0.5]
+[[ck, mdm]: 1.0, 0.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 269.4520721435547
+Avg of the two closest intesities: 0.48999999463558197
+************
+
+embellish
+Annotations: [ck: 339.22775, 0.5, mdm: 335.0657, 0.5, tk: 326.0989, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 337.146728515625
+Avg of the two closest intesities: 0.5
+************
+
+exotic
+Annotations: [ck: NaN, 0.0, mdm: 343.7398, 0.5, tk: 360.0, 0.32]
+[[ck, mdm]: 0.0, 0.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Annotators did not agree on the intensity!
+enlightenment
+Annotations: [ck: 299.10046, 0.49, mdm: 306.22925, 0.5, tk: 302.7909, 0.41]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 304.51007080078125
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+desirable
+Annotations: [ck: 331.7925, 0.5, mdm: 293.86835, 0.49, tk: 313.09988, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 322.4461975097656
+Avg of the two closest intesities: 0.5
+************
+
+decency
+Annotations: [ck: 20.063072, 0.49, mdm: 347.96942, 0.5, tk: 25.545055, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 22.80406379699707
+Avg of the two closest intesities: 0.5
+************
+
+enthusiastic
+Annotations: [ck: 300.3236, 0.49, mdm: 306.55246, 0.58, tk: 315.71915, 0.56]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 303.4380340576172
+Avg of the two closest intesities: 0.5699999928474426
+************
+
+delicate
+Annotations: [ck: 22.899868, 0.5, mdm: 14.931418, 0.5, tk: 6.476125, 0.62]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 18.915643215179443
+Avg of the two closest intesities: 0.5
+************
+
+empathy
+Annotations: [ck: 354.47247, 0.5, mdm: 28.790976, 0.51, tk: 15.422161, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 22.106568336486816
+Avg of the two closest intesities: 0.5
+************
+
+essential
+Annotations: [ck: 72.72826, 0.5, mdm: 56.68937, 0.5, tk: 360.0, 0.38]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 64.70881271362305
+Avg of the two closest intesities: 0.5
+************
+
+endurance
+Annotations: [ck: 278.78116, 0.5, mdm: 299.6872, 0.49, tk: 280.12466, 0.28]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 279.4529113769531
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+dignity
+Annotations: [ck: 17.549004, 0.49, mdm: 340.68814, 0.5, tk: 15.892831, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 16.720917224884033
+Avg of the two closest intesities: 0.5
+************
+
+enhance
+Annotations: [ck: 299.91922, 0.49, mdm: 315.65106, 0.5, tk: 305.23544, 0.51]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 302.57733154296875
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+eagerness
+Annotations: [ck: 299.28143, 0.49, mdm: 293.07822, 0.5, tk: 299.78958, 0.53]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 299.53550720214844
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+distinctive
+Annotations: [ck: 90.56171, 0.41, mdm: 30.089685, 0.49, tk: 306.7142, 0.49]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Annotators did not agree on the angle!
+ethical
+Annotations: [ck: 57.319447, 0.5, mdm: 321.48306, 0.5, tk: 16.330248, 0.55]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Annotators did not agree on the angle!
+expert
+Annotations: [ck: 283.36694, 0.42, mdm: 305.2176, 0.5, tk: 339.32556, 0.57]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 294.2922668457031
+Avg of the two closest intesities: 0.5349999964237213
+************
+
+efficacy
+Annotations: [ck: 277.5326, 0.49, mdm: 340.25317, 0.5, tk: 321.6942, 0.51]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 330.97369384765625
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+dote
+Annotations: [ck: 270.0, 0.5, mdm: 331.0561, 0.6, tk: 359.23608, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 345.1460876464844
+Avg of the two closest intesities: 0.5
+************
+
+excite
+Annotations: [ck: 311.22772, 0.52, mdm: 313.36343, 0.5, tk: 298.87543, 0.52]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 312.2955780029297
+Avg of the two closest intesities: 0.5199999809265137
+************
+
+energize
+Annotations: [ck: 281.04092, 0.5, mdm: 288.00415, 0.5, tk: 275.94687, 0.48]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 278.493896484375
+Avg of the two closest intesities: 0.5
+************
+
+decipher
+Annotations: [ck: 296.822, 0.4, mdm: 273.75174, 0.24, tk: 236.30994, 0.01]
+[[ck, mdm]: 1.0, 0.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 0.0, 0.0]
+Annotators did not agree on the intensity!
+efficient
+Annotations: [ck: 279.38553, 0.49, mdm: 335.70905, 0.5, tk: 324.59692, 0.49]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 330.1529846191406
+Avg of the two closest intesities: 0.49000000953674316
+************
+
+decoration
+Annotations: [ck: 330.8324, 0.39, mdm: 334.6758, 0.5, tk: 338.99033, 0.49]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 332.7541046142578
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+dependable
+Annotations: [ck: 15.499275, 0.49, mdm: 329.34933, 0.5, tk: 16.959846, 0.49]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 16.22956085205078
+Avg of the two closest intesities: 0.49000000953674316
+************
+
+devout
+Annotations: [ck: 299.5115, 0.49, mdm: 18.434948, 0.51, tk: 318.0128, 0.49]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 308.76214599609375
+Avg of the two closest intesities: 0.49000000953674316
+************
+
+eminence
+Annotations: [ck: 12.479073, 0.5, mdm: 9.235559, 0.5, tk: 4.543758, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 10.857316017150879
+Avg of the two closest intesities: 0.5
+************
+
+enlighten
+Annotations: [ck: 297.8241, 0.49, mdm: 308.51694, 0.5, tk: 304.43, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 306.4734649658203
+Avg of the two closest intesities: 0.5
+************
+
+elaboration
+Annotations: [ck: 279.4623, 0.49, mdm: 277.71188, 0.39, tk: 303.4763, 0.25]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 278.58709716796875
+Avg of the two closest intesities: 0.4399999976158142
+************
+
+distinguished
+Annotations: [ck: 338.72504, 0.49, mdm: 282.926, 0.25, tk: 321.34018, 0.6]
+[[ck, mdm]: 0.0, 0.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 0.0]
+Avg of the closest two angles: 330.03260803222656
+Avg of the two closest intesities: 0.5450000166893005
+************
+
+diligent
+Annotations: [ck: 278.6732, 0.48, mdm: 299.6872, 0.49, tk: 298.11786, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 298.90252685546875
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+dignify
+Annotations: [ck: 343.7398, 0.5, mdm: 340.83984, 0.5, tk: 359.63272, 0.52]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 342.2898254394531
+Avg of the two closest intesities: 0.5
+************
+
+excellence
+Annotations: [ck: 15.708637, 0.53, mdm: 333.43494, 0.49, tk: 320.7106, 0.57]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 327.07276916503906
+Avg of the two closest intesities: 0.5099999904632568
+************
+
+exhilaration
+Annotations: [ck: 311.48346, 0.51, mdm: 308.15723, 0.5, tk: 304.58215, 0.53]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 309.8203430175781
+Avg of the two closest intesities: 0.5049999952316284
+************
+
+delightful
+Annotations: [ck: 338.99033, 0.59, mdm: 347.79953, 0.61, tk: 345.4196, 0.6]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 346.60955810546875
+Avg of the two closest intesities: 0.6050000190734863
+************
+
+establish
+Annotations: [ck: 279.4623, 0.49, mdm: 281.12918, 0.5, tk: 279.0665, 0.32]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 279.264404296875
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+eager
+Annotations: [ck: 303.04343, 0.49, mdm: 294.10223, 0.5, tk: 298.74966, 0.55]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 300.89654541015625
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+effectiveness
+Annotations: [ck: 269.5265, 0.48, mdm: 343.30075, 0.5, tk: 320.14545, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 331.7230987548828
+Avg of the two closest intesities: 0.5
+************
+
+excel
+Annotations: [ck: 303.4595, 0.55, mdm: 332.41193, 0.5, tk: 317.81555, 0.58]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 310.6375274658203
+Avg of the two closest intesities: 0.5649999976158142
+************
+
+decorate
+Annotations: [ck: 328.43103, 0.39, mdm: 335.94266, 0.49, tk: 339.71744, 0.49]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 337.8300476074219
+Avg of the two closest intesities: 0.49000000953674316
+************
+
+enchantment
+Annotations: [ck: 331.574, 0.5, mdm: 269.53796, 0.5, tk: 301.70145, 0.4]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 316.6377258300781
+Avg of the two closest intesities: 0.5
+************
+
+discuss
+Annotations: [ck: 269.48383, 0.44, mdm: 296.98022, 0.25, tk: 270.0, 0.18]
+[[ck, mdm]: 1.0, 0.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 269.7419128417969
+Avg of the two closest intesities: 0.2150000035762787
+************
+
+edible
+Annotations: [ck: 17.271744, 0.5, mdm: 0.451139, 0.51, tk: 360.0, 0.28]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 180.2255695015192
+Avg of the two closest intesities: 0.5049999952316284
+************
+
+educational
+Annotations: [ck: 339.82056, 0.5, mdm: 14.697319, 0.5, tk: 334.4703, 0.25]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 0.0, 0.0]
+Avg of the closest two angles: 337.1454315185547
+Avg of the two closest intesities: 0.5
+************
+
+devote
+Annotations: [ck: 298.04468, 0.48, mdm: 283.92477, 0.5, tk: 296.3925, 0.49]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 297.2185821533203
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+etiquette
+Annotations: [ck: 321.34018, 0.41, mdm: 28.44293, 0.33, tk: 320.88245, 0.39]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 321.11131286621094
+Avg of the two closest intesities: 0.3999999910593033
+************
+
+dreamland
+Annotations: [ck: 13.924773, 0.5, mdm: 50.839493, 0.5, tk: 360.0, 0.58]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 186.96238660812378
+Avg of the two closest intesities: 0.5
+************
+
+dynamic
+Annotations: [ck: 284.14948, 0.49, mdm: 315.64374, 0.5, tk: 300.50436, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 308.0740509033203
+Avg of the two closest intesities: 0.5
+************
+
+elegance
+Annotations: [ck: 16.966146, 0.49, mdm: 10.954062, 0.51, tk: 21.43686, 0.58]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 19.201502799987793
+Avg of the two closest intesities: 0.5
+************
+
+dazzle
+Annotations: [ck: 278.92398, 0.49, mdm: 270.46964, 0.49, tk: 304.76895, 0.49]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 274.6968078613281
+Avg of the two closest intesities: 0.49000000953674316
+************
+
+equitable
+Annotations: [ck: 49.89909, 0.5, mdm: 32.927864, 0.5, tk: 0.75884, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 41.41347694396973
+Avg of the two closest intesities: 0.5
+************
+
+ensemble
+Annotations: [ck: NaN, 0.0, mdm: 58.276398, 0.26, tk: 360.0, 0.23]
+[[ck, mdm]: 0.0, 0.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 0.0, 1.0]
+Average intensity was below the threshold. Item skipped!
+empowerment
+Annotations: [ck: 337.16635, 0.49, mdm: 280.76254, 0.49, tk: 279.4623, 0.34]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 280.1124267578125
+Avg of the two closest intesities: 0.49000000953674316
+************
+
+exuberance
+Annotations: [ck: 320.90613, 0.49, mdm: 319.31604, 0.6, tk: 309.4147, 0.75]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 320.111083984375
+Avg of the two closest intesities: 0.5450000166893005
+************
+
+definitive
+Annotations: [ck: 1.818303, 0.25, mdm: 63.22885, 0.5, tk: 300.20325, 0.26]
+[[ck, mdm]: 0.0, 0.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 0.0]
+Annotators did not agree on the angle!
+delicacy
+Annotations: [ck: 25.346176, 0.5, mdm: 16.966146, 0.49, tk: 7.535064, 0.64]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 21.156161308288574
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+dignified
+Annotations: [ck: 343.92642, 0.49, mdm: 343.16833, 0.5, tk: 14.372779, 0.55]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 343.54737854003906
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+elegant
+Annotations: [ck: 14.149477, 0.49, mdm: 10.060689, 0.5, tk: 22.435888, 0.56]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 12.105082988739014
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+discretion
+Annotations: [ck: 19.025606, 0.49, mdm: 52.853313, 0.5, tk: 11.702902, 0.48]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 15.364253997802734
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+elaborate
+Annotations: [ck: 280.561, 0.48, mdm: 278.2192, 0.36, tk: 301.26373, 0.33]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 279.3901062011719
+Avg of the two closest intesities: 0.3450000137090683
+************
+
+defend
+Annotations: [ck: 298.46017, 0.49, mdm: 299.4072, 0.51, tk: 286.736, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 298.9336853027344
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+distinguish
+Annotations: [ck: 269.44376, 0.41, mdm: 285.67953, 0.24, tk: 297.8241, 0.27]
+[[ck, mdm]: 1.0, 0.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 291.75181579589844
+Avg of the two closest intesities: 0.255000002682209
+************
+
+dependability
+Annotations: [ck: 16.966146, 0.49, mdm: 348.95905, 0.5, tk: 16.517815, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 16.74198055267334
+Avg of the two closest intesities: 0.5
+************
+
+exquisite
+Annotations: [ck: 13.924773, 0.5, mdm: 322.31903, 0.62, tk: 360.0, 0.75]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 186.96238660812378
+Avg of the two closest intesities: 0.5600000023841858
+************
+
+exact
+Annotations: [ck: 52.057846, 0.3, mdm: 359.1186, 0.26, tk: 360.0, 0.26]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 359.5592956542969
+Avg of the two closest intesities: 0.25999999046325684
+************
+
+esteem
+Annotations: [ck: 341.12546, 0.49, mdm: 352.5885, 0.5, tk: 338.76938, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 339.9474182128906
+Avg of the two closest intesities: 0.5
+************
+
+equality
+Annotations: [ck: 49.248455, 0.5, mdm: 36.229237, 0.5, tk: 360.0, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 42.73884582519531
+Avg of the two closest intesities: 0.5
+************
+
+envision
+Annotations: [ck: 269.4032, 0.38, mdm: 340.55997, 0.5, tk: 300.25644, 0.32]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 0.0]
+Annotators did not agree on the angle!
+entrust
+Annotations: [ck: 269.06082, 0.49, mdm: 315.32007, 0.51, tk: 322.53506, 0.45]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 318.9275665283203
+Avg of the two closest intesities: 0.5
+************
+
+exultation
+Annotations: [ck: 319.24844, 0.5, mdm: 318.90048, 0.5, tk: 320.8101, 0.68]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 319.074462890625
+Avg of the two closest intesities: 0.5
+************
+
+ensure
+Annotations: [ck: 337.67133, 0.48, mdm: 278.3929, 0.49, tk: 274.08563, 0.33]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 0.0]
+Avg of the closest two angles: 276.23927307128906
+Avg of the two closest intesities: 0.48499999940395355
+************
+
+easy
+Annotations: [ck: 38.873066, 0.5, mdm: 346.62866, 0.5, tk: 39.85454, 0.5]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 39.36380386352539
+Avg of the two closest intesities: 0.5
+************
+
+elate
+Annotations: [ck: 318.5967, 0.5, mdm: 320.68372, 0.6, tk: 322.75317, 0.51]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 321.71844482421875
+Avg of the two closest intesities: 0.5049999952316284
+************
+
+excitement
+Annotations: [ck: 311.30862, 0.53, mdm: 313.3819, 0.5, tk: 304.5085, 0.58]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 312.3452606201172
+Avg of the two closest intesities: 0.5149999856948853
+************
+
+ecstasy
+Annotations: [ck: 300.96375, 0.75, mdm: 332.4328, 0.61, tk: 305.423, 0.58]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 303.19337463378906
+Avg of the two closest intesities: 0.5949999988079071
+************
+
+durable
+Annotations: [ck: 29.458405, 0.5, mdm: 30.724693, 0.49, tk: 335.14478, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 0.0, 1.0]
+Avg of the closest two angles: 30.091548919677734
+Avg of the two closest intesities: 0.5
+************
+
+exult
+Annotations: [ck: 320.25378, 0.49, mdm: 316.90012, 0.6, tk: 323.3013, 0.67]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 321.7775421142578
+Avg of the two closest intesities: 0.6350000202655792
+************
+
+discern
+Annotations: [ck: 295.48413, 0.47, mdm: 282.926, 0.25, tk: 303.04813, 0.33]
+[[ck, mdm]: 1.0, 0.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 299.26612854003906
+Avg of the two closest intesities: 0.2900000065565109
+************
+
+educated
+Annotations: [ck: 14.370001, 0.5, mdm: 20.714176, 0.51, tk: 359.24115, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 17.542088508605957
+Avg of the two closest intesities: 0.5
+************
+
+entrepreneurial
+Annotations: [ck: 278.53076, 0.49, mdm: 283.4778, 0.5, tk: 326.30994, 0.23]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 0.0, 0.0, [mdm, tk]: 0.0, 0.0]
+Avg of the closest two angles: 281.00428771972656
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+ease
+Annotations: [ck: 38.589157, 0.51, mdm: 34.46082, 0.49, tk: 39.262264, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 38.925710678100586
+Avg of the two closest intesities: 0.5049999952316284
+************
+
+delight
+Annotations: [ck: 341.31265, 0.58, mdm: 350.38788, 0.5, tk: 349.17255, 0.62]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 349.78021240234375
+Avg of the two closest intesities: 0.5999999940395355
+************
+
+enthusiasm
+Annotations: [ck: 299.91922, 0.49, mdm: 305.5908, 0.5, tk: 314.19305, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 302.7550048828125
+Avg of the two closest intesities: 0.5
+************
+
+experience
+Annotations: [ck: 268.8767, 0.41, mdm: 333.64178, 0.5, tk: 346.5838, 0.37]
+[[ck, mdm]: 0.0, 1.0, [ck, tk]: 0.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 340.11279296875
+Avg of the two closest intesities: 0.39000000059604645
+************
+
+education
+Annotations: [ck: 339.0627, 0.49, mdm: 19.832129, 0.26, tk: 358.74097, 0.3]
+[[ck, mdm]: 0.0, 0.0, [ck, tk]: 1.0, 0.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 348.90184020996094
+Avg of the two closest intesities: 0.2800000011920929
+************
+
+enrich
+Annotations: [ck: 338.3691, 0.5, mdm: 315.33118, 0.49, tk: 316.86478, 0.51]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 316.0979766845703
+Avg of the two closest intesities: 0.4950000047683716
+************
+
+enrichment
+Annotations: [ck: 339.22775, 0.5, mdm: 315.0, 0.5, tk: 319.65018, 0.49]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 317.32508850097656
+Avg of the two closest intesities: 0.5
+************
+
+donation
+Annotations: [ck: 327.45825, 0.5, mdm: 319.844, 0.5, tk: 326.94418, 0.5]
+[[ck, mdm]: 1.0, 1.0, [ck, tk]: 1.0, 1.0, [mdm, tk]: 1.0, 1.0]
+Avg of the closest two angles: 327.2012176513672
+Avg of the two closest intesities: 0.5
+************
+
+*******************************
+Rate of agreement between all the annotators (at least two annotators agree within the thresholds): 
+[, ]: 0.9444444444444444, 0.9861111111111112
+**
+Pairwise comparisons of annotators: 
+[ck, mdm]: [ck, mdm]: 0.6180555555555556, 0.8958333333333334
+[ck, tk]: [ck, tk]: 0.6944444444444444, 0.7777777777777778
+[mdm, tk]: [mdm, tk]: 0.7222222222222222, 0.8125
+**
+The cases in which the annotators did not agree on the angle: 
+*definitive: [ck: 1.818303, 0.25, mdm: 63.22885, 0.5, tk: 300.20325, 0.26]
+*distinct: [ck: 90.572945, 0.4, mdm: 33.81825, 0.5, tk: 300.17352, 0.33]
+*distinctive: [ck: 90.56171, 0.41, mdm: 30.089685, 0.49, tk: 306.7142, 0.49]
+*economize: [ck: 279.0395, 0.36, mdm: 340.25317, 0.5, tk: 213.69006, 0.01]
+*enchant: [ck: 332.22037, 0.51, mdm: 270.46964, 0.49, tk: 302.08707, 0.5]
+*envision: [ck: 269.4032, 0.38, mdm: 340.55997, 0.5, tk: 300.25644, 0.32]
+*ethical: [ck: 57.319447, 0.5, mdm: 321.48306, 0.5, tk: 16.330248, 0.55]
+*(amb)everlasting: [ck: 90.0, 0.3, mdm: 345.41705, 0.51, tk: 297.77963, 0.42]
+**
+The cases in which the annotators did not agree on the intensiy value: 
+*decipher: [ck: 296.822, 0.4, mdm: 273.75174, 0.24, tk: 236.30994, 0.01]
+(exotic dancer, filter out) exotic: [ck: NaN, 0.0, mdm: 343.7398, 0.5, tk: 360.0, 0.32]
+**
+Skipped items (intensity too low): 
+*dig: [ck: NaN, 0.0, mdm: 270.0, 0.5, tk: 270.0, 0.02]
+*ensemble: [ck: NaN, 0.0, mdm: 58.276398, 0.26, tk: 360.0, 0.23]

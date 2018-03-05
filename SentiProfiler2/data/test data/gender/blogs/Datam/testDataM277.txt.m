@@ -1,0 +1,15 @@
+The Xphone IIm takes the existing form factor of the Xphone II and gives it an iPod-style makeover. Depending on your personal preferences, that's either a canny marketing decision or a cynical bit of cheap design trickery. The silver and grey styling of the buttons and sides of the phone don't sit quite as well with the otherwise glossy white colour scheme of the phone, although again that's a matter of personal preference.
+
+The Xphone IIm is a candybar form factor smartphone that's fairly reminiscent of most of Sony Ericsson's designs, right down to the largish 2.2 inch screen and small button array. Most functions are controlled via the tiny directional joystick that sits in the middle of the phone, in the same style as the Xphone II itself. The major button difference between the IIm and II is the addition of four dedicated function buttons. These are mapped to Internet Explorer and Windows Media Player functions.
+
+The Xphone IIm weighs in at 106.5g with battery and measures 46.83 x 107.76 x 19.58 mm. The real advantage with this style of smartphone over the massed army of iPaq form factor clones is that they'll fit comfortably in any pocket and don't immediately look like a PDA - although that's an approach that does have its drawbacks, which we'll get to shortly.
+
+Features
+As a phone, the Xphone IIm is a tri-band GSM phone with GPRS capabilities and Bluetooth connectivity. The whole platform's running on the somewhat aging Microsoft Windows Mobile 2003 Smartphone Edition software, which both manages usual phone functionality as well as PDA-style applications. The IIm also features an integrated VGA camera located on the back of the phone.
+
+The supplied application package - predominantly Pocket Outlook and Internet Explorer - isn't that exciting in PDA terms, although at least running on the Windows Mobile 2003 platform means that there's plenty of potential add-on software out there to bolster the phone's capabilities. The trick there, however, will be making sure that you can control said software via the tiny joystick, as the IIm offers no touchscreen capabilities, unlike larger PDA-style smartphones.
+
+Performance
+There's not too much that can be said about the IIm's phone performance, as it worked well enough during our testing for both phone calls and SMS/MMS messaging. Our one complaint is a relatively minor one, in that while the phone itself supports Windows Media player, it doesn't support MP3 ring tones; quite how annoying you'll find that is up to you.
+
+As a PDA, the IIm has some distinct drawbacks, centred mainly around the mandatory use of the joystick. It takes quite a bit of use to get accustomed to using the joystick for menu navigation, especially if you're used to touchscreen smartphones. If you're in possession of small and nimble fingers you'll have no problems with the IIm's joystick, but our rather meatier digits found it irksome, especially as it's all too easy to hit the function buttons above it by accident when scrolling upwards. There are also some applications, such as the normally highly addictive Jawbreaker, that work very poorly through a joystick interface.

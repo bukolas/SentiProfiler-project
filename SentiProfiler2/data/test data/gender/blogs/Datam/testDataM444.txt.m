@@ -1,0 +1,1 @@
+The problem with universal health care is there inevitably becomes a huge backlog of patients waiting for surgery to be approved and there is the tendancy to use less expensive methods of treatment which can and often does, does nothing for the patient. (cancer treatments, heart, hiv/aids etc...)

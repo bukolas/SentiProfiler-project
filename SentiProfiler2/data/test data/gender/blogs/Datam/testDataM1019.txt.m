@@ -1,0 +1,5 @@
+I am going to share with you something that I experienced this summer that made me realize that life isn't short, it's just delicate.
+
+When I got home from school for the summer this year I only had a few days to relax before I started a job that my brother was gracious enough to bestow upon me. The position was as a safety representative/site supervisor for a general contractor that was renovating an existing structure into a Bed Bath & Beyond. The title was a bit of a glorification as my knowledge of construction is limited. However, I caught on quickly enough to hold onto the job that nepotism acquired for me.
+
+The first thing I learned was that the hours for this position are long. I was waking up at 5:45 am to get to work for 7 (It was a bit of a shlep to get there) and usually working till about 4:30 or 5, sometimes I'd be there until 6 pm. The kicker is that much of this industry employs a "hurry up and wait" strategy so much of this time was spent...well, waiting. Other times I was so busy I wished that there were 4 of me to get everything done that I needed to. Regardless of the type of day I had I was always ready for bed when I got home.

@@ -1,0 +1,1 @@
+So remember, you might know what you like and indeed like what you know, but down that route ultimately lies boredom and repetition. Take the power to change unto yourself and make the first steps to trying a new place and enjoy the journey as well as the destination. Live for change and the excitement that novel things can bring. You’ll not regret it in the least!

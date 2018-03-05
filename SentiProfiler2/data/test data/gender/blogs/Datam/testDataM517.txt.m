@@ -1,0 +1,1 @@
+My name is Andy Carvin, and I'm part of the team that coordinates NPR's online communities. You may remember that I wrote a blog post several months ago talking about the possibility of creating a new space for members of the My Cancer community that would give them new ways to interact and support each other. Today, we're launching that new space. It's called Our Cancer.

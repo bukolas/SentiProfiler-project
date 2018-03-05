@@ -1,0 +1,1 @@
+Don't expect to put chemicals in your body and expect to stay healthy. There's enough chemicals in the air and in the water as it is. Remember we're living in a chemical world of industrialization and profit. If you want to help clean your body try some prunes or lots of watermelon it tastes good or load up on live digestive enzymes.

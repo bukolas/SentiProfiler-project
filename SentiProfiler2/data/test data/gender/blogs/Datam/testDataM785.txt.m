@@ -1,0 +1,1 @@
+I made some major changes to my schedule so a good part of my afternoon was spent packaging up textbooks to send back to Amazon, then ordering new ones.  And by "ordering new ones" I mean stealing Matt's IFP books from last year.  Shhhhhhh

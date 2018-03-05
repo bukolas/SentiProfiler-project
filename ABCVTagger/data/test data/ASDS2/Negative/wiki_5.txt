@@ -1,0 +1,5 @@
+In mathematics, Marden's theorem, named after Morris Marden, gives a geometric relationship between the zeroes of a third-degree polynomial with complex coefficients and the zeroes of its derivative.
+
+A cubic polynomial has three zeroes in the complex number plane, which in general form a triangle, and the Gauss–Lucas theorem states that the roots of its derivative lie within this triangle. Marden's theorem states their location within this triangle more precisely:
+
+    Suppose the zeroes z1, z2, and z3 of a third-degree polynomial p(z) are non-collinear. There is a unique ellipse inscribed in the triangle with vertices z1, z2, z3 and tangent to the sides at their midpoints: the Steiner inellipse. The foci of that ellipse are the zeroes of the derivative p'(z). 

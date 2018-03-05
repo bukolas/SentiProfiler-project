@@ -1,0 +1,1 @@
+-I recently learned that Caesar dressing has anchovies and raw egg yolk in it and that salmonella can be carried on the shell of an egg, not inside. So if you wash an egg with antibacterial soap before cracking it, you lower your chances of getting salmon

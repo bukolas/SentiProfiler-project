@@ -1,0 +1,16 @@
+kardaani	kartaani
+kardaane	kartaane
+joystick	joistikki
+hinta-laatusuhde	hinta laatusuhde	hintalaatusuhde
+takavanne	takavenne
+hydraul	hydrayl
+polttoaineen mittar	polttoainemittar
+toiminut	toimintu
+elektron	elektroon
+pitäisi	pitäs
+tahtonut	tahtinut
+polttoaine	poltto-aine
+peräöljy	perä-öljy
+toiminut	tominut
+on mielessä	on milessä
+hyvässä mielessä	hyvässä milessä

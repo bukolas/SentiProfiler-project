@@ -1,0 +1,1 @@
+steffi .. sweet,caring & sentimental char like all nagercoilians .. always want to be n pick of things .. wants to go out with friends most times .. a more & more sentimental easy going type .. wants to mingle with family members .. more to write & speak abt her .. i can assure u she gives value 4 fship ..

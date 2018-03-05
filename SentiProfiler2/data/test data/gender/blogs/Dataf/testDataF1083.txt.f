@@ -1,0 +1,10 @@
+For some, sales is arguably the hardest job in the world. For others, however, the adrenalin of the roller coaster ride that is the sales process, keeps most on the edge of their seat for their entire careers. 
+The real question are however, do businesses truly recognize and properly rate the critical importance of their sales people; and, do businesses ensure that their sales people are skilled and motivated enough to sell in a more than ordinary fashion? 
+It's hard to find any businesses in the world who don't have something to sell and don't want to make money and succeed. It doesn't matter whether the company is selling services or products, if they don't have sales people who "feed" the business, the business won't exist. So, as most can imagine, motivating, training and energizing the salesforce should be as critical to a business as advertising and promotion. Without a strong sales force them, businesses can't close a sale and book revenue. 
+With that said, here are some tips to help motivate and empower a collective salesforce. 
+Give your team the power of positive feedback. 
+Executives are fooling themselves if they think a sales force will work forever on financial motivation alone, but that's simply not true. Most sales people are a personality type that requires feedback. They emotionally connect with their customers, peers and networks, constantly seeking approval, satisfaction and achievement. 
+The business owner or manager’s role is to support and reinforce the efforts of a motivated sales person. Without realizing it, a manager can drain the motivation right out of a team. A manager can strip away motivation them by creating a stressful, negative work environment. 
+
+Guide and support them in building their own approach
+Many people "fall" into sales as a career, finding themselves to be good at it early on. As they improve their techniques and confidence, they gradually work their way higher and higher up the food chain of a business until they reach the ceiling and seek entrepreneurial opportunity.

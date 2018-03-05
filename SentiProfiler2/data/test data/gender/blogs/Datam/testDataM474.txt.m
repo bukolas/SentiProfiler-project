@@ -1,0 +1,1 @@
+We turned to the left, or Port side, for land, which was a useless phrase right now as there was no port, just a bay of rocks, mangrove and the thick jungle of the tip of Koh Chang.

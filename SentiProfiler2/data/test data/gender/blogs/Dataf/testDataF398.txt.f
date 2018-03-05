@@ -1,0 +1,1 @@
+I like thinking back to where I was a year ago. Not only is it an opportunity to relive a dream, it's an opportunity to think of someplace warm. I don't like the cold and having had a year of mild temperatures enables me to always think warm when reminiscing.

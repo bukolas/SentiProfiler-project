@@ -1,0 +1,3 @@
+When I wrote that the first half of the film and the second half of the film are of contrasting genres – the first being a B-movie adventure (that works because of the chemistry and sexual tension between the trio) and the second half turning into a dark, Chosen One epic war film, I didn’t really mean to say that’s the problem.
+
+From Dusk Till Dawn and Teen Deewarein are fine examples of completely changing genre halfway and pulling the rug from right below your feet. So I don’t really have a problem with a filmmaker choosing to change genre halfway. The problem is that the filmmaker here has no idea of how to do it smart.

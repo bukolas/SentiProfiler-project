@@ -1,0 +1,5 @@
+She loves to wear dresses while she plays trains and cars. She tromps through the mud in her pink tights. Rarely leaves the house without a necklace or bracelet, but runs faster than the boys and hasn't met a jungle gym she can't conquer, even at 2 3/4.
+
+The day I snapped this shot with my phone, we spent quite a bit of time shoe shopping, just for fun. She loves red heels, just like I do. (I would have bought these, but they were too big for both of us.) We giggled and pranced in the isles of Ross, trying on silly shoes we didn't need just because it was fun and they were really inexpensive, anyway.
+
+I am so proud of my little girl. She is her Grandma Judeen's granddaughter. I have no doubt that she, too, will be bailing hay in a miniskirt or stomping across the cow pasture without looking down, perfectly accessorized.

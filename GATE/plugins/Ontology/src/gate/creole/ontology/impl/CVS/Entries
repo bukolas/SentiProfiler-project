@@ -1,0 +1,28 @@
+/AbstractOntologyImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/AllValuesFromRestrictionImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/AnnotationPropertyImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/AnonymousClassImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/CardinalityRestrictionImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/DatatypePropertyImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/HasValueRestrictionImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/LiteralOrONodeIDImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/MaxCardinalityRestrictionImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/MinCardinalityRestrictionImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/OClassImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/OInstanceImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/OResourceImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/OValueImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/ObjectPropertyImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/OntologyService.java/1.1/Fri Jan 14 10:28:52 2011//
+/OntologyUtilities.java/1.1/Fri Jan 14 10:28:52 2011//
+/Property.java/1.1/Fri Jan 14 10:28:52 2011//
+/PropertyValue.java/1.1/Fri Jan 14 10:28:52 2011//
+/RDFPropertyImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/ResourceInfo.java/1.1/Fri Jan 14 10:28:52 2011//
+/SomeValuesFromRestrictionImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/SymmetricPropertyImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/TransitivePropertyImpl.java/1.1/Fri Jan 14 10:28:52 2011//
+/Utils.java/1.1/Fri Jan 14 10:28:52 2011//
+/package-info.java/1.1/Fri Jan 14 10:28:52 2011//
+D/sesame////
+D/test////

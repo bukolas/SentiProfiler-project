@@ -1,0 +1,3 @@
+The last few days have been an emotional rollercoaster for the team behind the show. The producer of the show Roshni Menon died twenty days before the opening night leaving them completely shocked and shattered. Until they realised that the best tribute they could give their friend was make her dream come true.
+
+“We had the first audition on the first weekend of November, and had a callback in the second weekend and started rehearsals by the third week. But before the rehearsals, I spoke to Shaun Roberts to get the music ready and Mike (Michael Muthu) about the set design,” recalls Denver.

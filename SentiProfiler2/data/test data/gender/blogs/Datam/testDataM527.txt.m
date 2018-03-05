@@ -1,0 +1,1 @@
+Cooling down with a little fun. If you need a break from the mayhem, head across the street to Bugis Junction and relax by the fountain. If you’re feeling hot join the kids and frolic in the impeccably timed water dancing about.

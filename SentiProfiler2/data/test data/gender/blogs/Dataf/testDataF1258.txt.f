@@ -1,0 +1,5 @@
+Firstly, I congratulate you on winning the prestigious Booker prize. It is a remarkable achievement indeed for a young first-time novelist.
+
+I started reading “White tiger” but was straight away baffled by a work in English that begins, “Neither I nor you speak any English, but there are some things that can only be said in English”. Why would a major work in the English language adopt the epistolatory voice of someone who does not know the language and be addressed to someone else who does not know both English and the language spoken by the letter writer, I wondered. But, that is not why I am writing to you. 
+
+I have read much about how you came to write this book. You have been quoted as saying,” So, where's this Shining India everyone's talking about? It was time someone broke the myth," and that “The world needed to see the other side of India."

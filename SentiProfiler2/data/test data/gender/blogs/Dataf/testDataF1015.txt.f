@@ -1,0 +1,22 @@
+Culling
+In the winter, I find myself in a state of retreat, like a tree, in an inert state of waiting. Watching. The sun ekes through the windows at the most pitiful angle. I push my writing desk right up against the window to try and absorb whatever light is going to be doled out. Inspiration trickles in droplets one by one. Inertia wanes. Daily business unfurls at its slow French city pace across my square. It is tempting to passively watch. In past years, I have always done what it takes to shake things up, to keep things from freezing over, but it's true. Winter has always been hard for me.
+
+This is my first winter with the baby. While I still won't say everything changed, something very big has shifted. A lot of time goes into animating, teaching, comforting and reassuring my little boy. I am blowing on coals. New coals. Hot coals. I am constantly moving to stay one step ahead. I must explain to him what we plan to do. The spontaneity that I used to rely on to shake things up during the winter has been transformed into my breath on these hot coals.
+
+This week in the kitchen cure, I am thinking about optimization, which translates to freedom. I'll take it wherever I can get it. I am culling equipment from the kitchen, and most of all, moving things around. I have a couple of shelves full of things I rarely use, so I am moving these things out and creating new space for the things I should have close by.
+
+Do you have any equipment on your counter that just takes up real estate? I have very little counter space. In fact, when you count that which is taken up by the grinder, the mixer, and the kettle, I don't have any at all. I have become adept at using cork mats as anchors for cutting boards along the edge of things. When I am cooking things that involve more mise en place than simple slicing and chopping on little boards along the way, my kitchen moves out to one of the two work tables outside the kitchen.
+
+Now that the sun is finally beginning to fill the house again, It's time to put the pastry table back by the window, and move my writing desk to a quiet place in the house. This is a very good time for my kitchen cure. I need to optimize my kitchen, to do away with unnecessary steps. Time is more precious now than ever.
+Labels: 2010 Kitchen Cure
+
+
+
+by Lucy Vanel | 13:50 | 2 comments  
+08 MARCH 2010
+Foraging: Thoughts on a Monday
+This talk about the people on the market who sell their foraged wild herbs got me thinking this weekend. It was cold up there and the ground is still frozen solid. I spent some cozy time indoors with a piece of tracing paper over a map of the land, dreaming about what we might try to accomplish this year in the garden. Last year we simply cleared the field by hand and spread mixed wild flower seed, and it was very nice. We also randomly planted some vegetables around here and there, and we were rewarded with some very nice zucchini, potatoes and beans. 
+
+While I am thinking about dried herbs and seeds and the ones I loved the most as I replenish my spice drawer, I realize that it's the wild ones that get me so excited at the market here in the city. One very useful task this summer will be to learn to see more wild herbs and edible plants all around us on country walks and out in the field outside the kitchen door. I often catch sight of old women out on steady and slow early morning walks in the hills when it is warm out, carrying small baskets. This I suppose is the bucolic image that causes the tourists to come and clear everything from sides of the well worn hiking trails. But in the little homey places away from the stations, the farmland and grazing paths, where we can walk all day barely seeing anybody, it can't hurt to cut a sprig here or there. 
+
+Foraging anything takes a bit of method in thoughtfulness. For example, when out picking herbs, have the sense enough to use a field knife and cut them, leaving the base in tact. Leave the roots, and cut only what you need. There's no need to rip any plant whole from the ground, effectively exterminating it. Give it a chance to grow back. Last year I did transplant some wild strawberries that spread and grew from their little sheltered spot under the cherry tree. But I was careful about it, and did it with respect for the path I was walking on. Mindful of my intention to nurture this plant as a special project, I took the whole plant from a place where thousands more were growing.

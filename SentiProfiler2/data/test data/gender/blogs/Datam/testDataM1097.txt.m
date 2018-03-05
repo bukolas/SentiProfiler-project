@@ -1,0 +1,7 @@
+Life is an illusion, as the Buddhists say. Life is simply a test, as the Christians suggest. Yet with its horrors and glories combined, it is a wondrous experience with tearing negativity and soothing hands that caress in a way that can only be described as yin-and-yang… I am here.
+
+    This feeling in me, is of none I have ever experienced. I once lie in my bed, dreading the morning, wishing to myself that this all be a dream. I had pondered whether or not I was just a thought, an illusion, a dream in the mind of the creator. Pain and anguish flourished in my life: I hoped that reality (my reality) was a dream.
+
+    As I lay here, in another’s bed, cast out of the tides of ravish: into the stream of consciousness -- I feel like the world is passing me by. Helplessness overcomes me as I sit on the bottom of the stream and the currents of my life pass me rapidly. The rivers of time will erode me into sad, dust. Yet as everybody around me comes and goes like seasons -- how they spring to life, stabilize, grow weary, and then fade into the cold -- I am in the midst of a Renaissance.
+
+    Like my younger days, I lie in bed thinking life to be a dream, I hold my pillow close saying, “five more minutes.”

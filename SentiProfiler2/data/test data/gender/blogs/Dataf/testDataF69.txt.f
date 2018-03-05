@@ -1,0 +1,12 @@
+To Die For...
+Tic Tac Tic !!!
+Well!!! its not the clock I am talking about, neither its that silly game of cross and zeros.
+I am talking about those sexy heels which make a women look seductive and adds to that omph... factor
+Silly thought I know... but its quite enticing as well (in men's perspective of course it is ;))
+First thing that pops in my mind is the sex diva 'MERLIN MONROE ' her white halter dress with a visibly evident cleavage accessoried with those great pair of jimmy choo pencil heels. Is so avid in my mind :) and just a wild thought but in my opinion it was the heels that made her look so stunning and suggestive. It was only that heels that accentuated her very shapely calves and made them look so desirous . Had she been in a normal peep toe or wedge heel she would have looked so ordinary. But the whole ensemble with her luscious red lips and a pout to die for and halter backless dress and don't forget those heels in my opinion has been the most seductive and orgasmic female ever. ( Just her mere glimpse can make a man hard)
+Lets not restrict ourselves to yesteryear ladies we will explore nut before that talking of celluloid and 70 mm silver screen it was Hollywood that gave sex to the film industry worldwide and were the first to make it so buyable ... with not just raunchy explicit and hot scenes but otherwise... And heels played an integral part in this even classics like "sound of music" and "my fair lady" it was out an out a heely affair with those drappy gowns well covered necklines very elegantly put accessories was indeed a fine mix but it used to be the pointed pencil shoes in those shiny colors wine red and ebony black that made the entire look so grand.
+Heels are commodity every women craves for and its makes the men to crave for her ;) Thanks to Versace and Armani that they widened their horizons and went beyond just designing outfits. Thanks to Gucci for those lovely boots and every well known designer who now dabbles in shoes. From flats to wedge heels, from block to pencil heels and kitten heels to peep toe there is a wide range for girls and ladies to satiate their thirst to look and feel sexy.
+Now you not just need a sexy or a lacy lingerie to impress your man even heels could do wonders... :)
+
+so...
+to woo a man it's not silk and ooze its simple ' JUST STILETTOS' ;)

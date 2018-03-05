@@ -1,0 +1,1 @@
+Besides a couple shots of delicious meals and desserts consumed and neatly arranged market produce encountered during my travels, I rarely take many food photographs, but the next few weeks will find me photographing a variety of raw meats, poultry, and seafood for a new non-travel related client based in Nigeria so I’m pretty excited about this venture.

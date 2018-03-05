@@ -1,0 +1,30 @@
+
+Phase:jitterMetterRemover
+Input: Lookup 
+Options: control = all
+
+Rule: Removing
+
+(
+({Lookup}):lookup
+
+)
+-->
+{
+// getting annotation set
+gate.AnnotationSet lookup = (gate.AnnotationSet) bindings.get("lookup");
+gate.Annotation ann = (gate.Annotation) lookup.iterator().next();
+
+// iterating through the lookups in the set
+//Iterator lookupsIter = inputAS.get(ann.getStartNode().getOffset()).get("Lookup").iterator();
+
+// retreiving the needed string
+String clase = (String)ann.getFeatures().get("classURI");
+
+// removing the unwanted lookup
+if(clase==null)
+{
+inputAS.remove(ann);
+}
+
+}

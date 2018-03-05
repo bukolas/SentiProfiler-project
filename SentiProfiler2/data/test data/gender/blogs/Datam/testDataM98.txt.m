@@ -1,0 +1,7 @@
+Excess - There is an old saying in sanskrit, "Ati sarwagya warjyate". That means excess of anything is bad.
+
+We can handle things in two ways, one is using it and another is misusing it. Nuclear reactions can be used for getting power (electricity) and also can be used in nuclear bombs. One of my friend had some disease in which he was growing thinner. Doctor suggested him to drink beer, 3 teaspoons daily. Then for 5 years he drunk beer, which gave him no harm. Medicines have alcohol in them, for removing illness. But, alcohol taken in EXCESS is injurious to health. These things were created or invented for some good reason, but everything depends in the way we are using it.
+
+Sugar(glucose) is meant for getting instant energy, but excess of it can cause diabetes. Excess of everything is bad. Teasing a friend in front of all other friend for fun is good and grow relations closer, but excess of teasing can make the person angry and can break friendship. Excess of gaming, sleeping, talking and even studying are also not good.
+
+Sometimes excess of love is also not good[;)]. After a long time, when I went to my home, my mom fed me with all the stuffs, which she knew I like. I was trying to control myself, but, as love was involved in it so I couldn't say NO, and ate everything. And at last I vomited all of it out. Then she realised, its excess.

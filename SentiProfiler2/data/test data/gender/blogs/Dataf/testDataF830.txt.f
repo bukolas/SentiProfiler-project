@@ -1,0 +1,1 @@
+Yesterday, I cleaned up Joyce Road , so today I cleaned my street ( Campbell) because it was full of trash and it was very awful and gross. I thought it is time for me to get up and clean up this street before it gets worse.

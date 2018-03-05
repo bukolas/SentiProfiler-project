@@ -1,0 +1,20 @@
+Saga of the Golconda Fort!! "Everything that goes up comes down" said someone. The famous saying resonates in my mind each time I visit a fort. There are 2 reasons for it.
+1) The glory of the once glamorous fort becomes the memories of the bygone days where as the fort is a new example of gloom in the present.
+2)We climb a fort (panting) and come down (refreshed).
+
+The above thoughts revisited me today when I was at Golconda. It is a famous fort in Hyderabad. I visited it with a friend who is a history maniac :) so effortlessly I got to know about the Golconda without a real guide. He told me that he has been to Golconda 6 times before. In one of those times the guides to the fort thought he is a new guide and questioned him......Sometimes knowledge can land you in unforeseen circumstances.
+
+It was too hot in Hyderabad today as May is one of the hottest months here. The temperature and the staircase to the fort almost took my breathe. I was panting and my face all red. The brain demanding for more oxygen......Why I chose May to be here and why not some other cooler months...Huh! My dream to save myself was close now as I reached the top of the fort and there was a cold drink shop I can see vaguely. My friend Saptarshi climbed without much effort; would have become a habit.....how can I forget he has been here 6 times already.
+
+I sat down and requested him to get cold drink.....Drank...What a relief...Phew! :) After that we saw the whole Hyderabad from above the fort. It was beautiful. After all pain it was worth it. Captured the view in my eyes as we did not take Camera and we came down the fort........and hey I was running down the fort......"I hope you do not want your medical reimbursement tomorrow" he chuckled.
+
+There was a light and sound show in the eve which depicts the complete history of the Golconda fort in the voice of the Big B. We thought to go there before time so that we can get the front seats. Alas! we are late but not too late we got seats in the second row along with a Cat sitting beside me on a chair. I was fumbled when I saw that the cat`s fur, cat`s eyes and the chair colour matched. It was light brown.
+
+We two were waiting for the show to begin. Ahead of us was a gang of 5 people from a company and they were waiting for 3 girls who would join them. We never talked to them but since they talked loudly.......so I have ears people. The 3 beauties stepped in and one of them OMG I know her...............or may be I dont.....may be we both do not....or may be just me...."Thanks to orkut" I smirked and thought. She is the girlfriend of my school senior and I saw her in his photo album.
+After a long time thinking should I or should I not ask her I decided to ask her....I enquired "Hi ! Do you know ______? ". I felt her heart pounded and she asked who are you. I was his junior in school and blah blah explanation. I found her good. Good choice senior :)
+
+The show began finally.......It was awesome with voice of Amitabh Bachchan as a guide explaning to visitors. In between we had ghazals and bhajans sung by Jagjeet Singh and Kavita Krishnamoorthy(only the audio). The Golconda Fort came back to life with the lights specifying the stories narrated in the background. I could actually imagine the king , the queens, the soldiers, the plots, the plays. I got an Idea these people should include real actors as well to give more realistic images. May be I should send them this idea. All in all the SAGA of the Golconda fort came to an end with Aurangzeb the merciless ruler who destroyed the the prosperous regime of the Golconda empire. What a fantastic day for me! :D I came to know so many stories today. The rocks of the fort have seen them all but they stay calm and quite as ever.
+
+We returned the saga was over and now the butterflies of hunger were hurting my stomach. We had prawns and chicken and I came back home after that............and here I am writing down the experience.
+
+THE MIGHTY SAGA OF THE GOLCONDA FORT WILL LIVE FOREVER.......as the fort will never die.

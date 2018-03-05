@@ -1,0 +1,1 @@
+We hardly knew him. He joined our community on December 16th. It was his birthday weekend and the beast had found him. Randy had an openness about him. I think he was shocked to find himself in this place, so he got down to the business of cancer right away. He wanted the road map through this world and this group was ready to lead him.

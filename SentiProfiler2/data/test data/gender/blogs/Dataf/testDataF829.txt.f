@@ -1,0 +1,1 @@
+I have been used for almost 4 years. The car is just "nice". I remember it never made me " "terrible". I would say that it is economical. More, the size is meet to family riding. I mean the utility is kind of "a Choice". Frankly speaking, I never dissapoint to put my money for this " marvelous car

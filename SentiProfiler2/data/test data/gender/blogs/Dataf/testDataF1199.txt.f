@@ -1,0 +1,1 @@
+A "lengthening tally of losses." That's how Maureen put it into words in her comments to the blog yesterday. She was reacting to the news of Randy's death. His name has been added to the others who have passed through our community. Some stayed with us in time measured in years, or in Randy's case, measured in weeks.

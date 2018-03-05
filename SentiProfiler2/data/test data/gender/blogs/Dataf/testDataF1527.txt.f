@@ -1,0 +1,3 @@
+Ok so you know how when you to anywhere they want to know what you're allergic to? Well my answer was always nothing. But now I have an answer. Anything in the Factive family. It took two trips to the hospital and alot of itching to figure it out. I have a few pictures in the "people you know abulm" for you to see but man it's a you had to of been there kind of thing. But with the great nurse I have helping me with my oatmeal baths and slathering down of the old sticky lotion I'll make it through just fine. Man you got to love a good nurse!
+
+2-9-08 You know I'm still not sure that I was having a reaction. I have had sooo many kids with the same rash at school. Poor kids!

@@ -1,0 +1,3 @@
+As a collector and dealer, sometimes things happen that are pretty hard to believe. Over fifteen years ago, I purchased an amazing Superman Pep cereal advertising sign. As a cereal collector, this is one of those once in a lifetimes finds. I held on to the sign for a number of years but ended up selling it.
+
+Now years later I was able to buy a second one of these signs. I am sure they made a few thousand of these back in 1947. They were put up in grocery stores and then ended up in the trash. But as with all things, a few were saved, and somehow I have had two end up in my possession. This is the reason I love collecting, you get to be a part of recovering a bit of the past and giving it new home.

@@ -1,0 +1,2 @@
+On a 'business' jaunt to Moscow for 2 weeks. Remains to be seen how the next two weeks pass by.
+Have the following weeks to see the place. Luckily the weather is not bad 10 deg in the morning and around 0 deg C in the nights. Apparently, my hotel is in the middle of the city and so, all the good locations are nearby. Normally, I plan out what to do in such trips. Having come alone, am yet to look up even a Moscow map.

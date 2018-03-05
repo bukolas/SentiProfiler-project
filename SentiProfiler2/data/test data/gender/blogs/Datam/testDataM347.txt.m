@@ -1,0 +1,11 @@
+Ah yes, famed technology writer Bruce Emmerling. Famed technology writer Bruce Emmerling who can’t grammar or spell-check his work, and writes with a mastery of his subject akin to that of a 6th grader rushing to complete a paper on a book he hasn’t even read.
+
+Honestly, this is what tops Google’s “news” results in science and technology? If that’s the case, we should be kinda worried. We’re quickly moving from citizen journalism (a dangerous / questionable proposition to begin with) to bot journalism… at least that’s how the above article reads.
+
+Remember, you may be discerning, but most people aren’t, and most people will take a story like this — poorly sourced, poorly written — and digest it as fact. Now, there’s nothing particularly inaccurate about this piece of news — except that it’s written like garbage and essentially cites no sources. Plus, most media outlets reported on this last week, so why is it front page news now? And why does the article refer to “reviewers” when no one has actually used or reviewed the device? And who the fuck is Bruce Emmerling?
+
+Examiner.com (and sites like it, hello Associated Content) should be closely watched by those who care about honest reporting and reliable sources. Here is a site that mixes random, unknown entries with aggregated (er, scraped) content from CBS and sites like ours. It is a dangerous and dishonest mixture which most people won’t catch.
+
+I know, some of you will call foul here. Say I’m being hypocritical. Claim Engadget is guilty of all the offenses I’m griping about. But, of course, you’ll be wrong whether you believe it or not. Sure, we’re not a traditional media outlet — not the kind the world has known for hundreds of years — but we do have a stringent process for both reporting news and choosing the people on staff who write that news. It’s not a perfect process — nothing is — but it’s a process. I’m not sure the same can be said for Examiner.
+
+Look, a shifting perception of media / journalism is one thing, but we’re starting to dismantle the basic structures in which we test the validity news, provide an editorial process, and at least pretend to care about some diligence and transparency. With arm-chair enthusiasts cranking out a tsunami of edit-free noise like the above story, being able to find the real story — or dry land — will soon seem like a distant memory.

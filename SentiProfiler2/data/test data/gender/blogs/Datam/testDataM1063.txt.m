@@ -1,0 +1,3 @@
+As we all know, Guangzhou is a large city, it’s very modern, nearly you can find everything what you want here, you can see the high buildings or you can live in the most luxurious house if you are rich enough. Even like this, there are many dreams you can't come true here.
+       Some people prefer to live in a cozy little home rather than in a big mansion, its wonderful living in the village, from here you can embrace with the nature, have a good mood and smiling all the time, what's more, we find the inspiration better which it's important to our study and work. It's so noisy in the large city that we always feel annoyed.
+       Beautiful village, beautiful mood.

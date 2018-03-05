@@ -1,0 +1,23 @@
+Expressed briefly, making a great wine is rather quite simple. You find the right piece of ground; you put the right grapes in; you tend them well and harvest them at the right time; and then you smash them together and nudge the product gently away from its tendency towards vinegar.
+
+For some people, the most important step is finding the right piece of ground, and for anyone looking to start a winery, it is certainly the first step. It's really important. If you get it wrong, the rest of the stuff doesn't matter.
+
+At least, that's the way that winemaker Robert Brittan approached it when he packed his brittan_logo.gifbags and closed the chapter of his life that might have been entitled Man Meets Cabernet: 25 Years in Napa.
+
+Brittan first started making wine for the same reason many do: to get chicks. He was a physics major at Oregon State University, and like many in the same situation, he couldn't get a date. But one day he noticed that the guys across the hall had removed all of their furniture and replaced their couches and chairs with two important items: a Harley Davidson motorcycle and a still. They'd brew a batch of whiskey during the week, and on the weekends their room would be crawling with girls.
+
+Brittan couldn't afford to compete with free everclear and a Harley, but the envious and enterprising young man thought he might just do one better by going highbrow: he would make wine instead. So Brittan got a 2.5 gallon glass demijohn and started fermenting everything he could get his hands on, wrapping his electric blanket around the jug to keep the fermentation going. And wouldn't you know it, the first time he actually managed to make something drinkable, he got a date.
+
+Of course, then he had to take it to the next level. Thinking that if he made better wine, he might get better dates, Brittan took a job for a harvest in California's Central Valley, and not only learned a thing or two about how to make real wine, but discovered, as he puts it, "an entire lifestyle that I immediately knew I wanted."
+
+It was 1974, and California wine was at an inflection point in its growth that would forever change the state, the country, and even the world. Some of the legendary winemakers of Napa were still plying their craft, and people like Robert Mondavi were busy convincing a generation of Americans to drink wine instead of martinis.
+
+"It was just an exciting time to be in the wine business," says Brittan. "There was the whole science aspect of it that appealed to my monkey mind, and then the creative component that felt very artistic, and then there was this lifestyle -- a way of living that wasn't about getting rich, but was about living really well."
+
+Brittan enrolled in U.C. Davis, and upon graduating, began his career as a winemaker, eventually ending up at St. Andrew's winery at the very southern end of the Silverado Trail in Napa. When the winery was sold, Brittan agreed to stay on for the new owner, but his heart wasn't in it. Brittan had passing fantasies of heading back north to Oregon. But then what was just going to be a casual conversation with Carl Doumani about a new vineyard that he had acquired turned into a job offer and a 16-year stint as the winemaker for Stag's Leap Winery.
+
+But after those 16 years, Brittan found himself wanting a new challenge, and decided that he wanted to try his hand at Pinot Noir, a grape that he had flirted briefly with in his career, but never fully explored.
+
+So in 2004, after looking as far afield as France and California's Central Coast Brittan and his wife Ellen returned to Oregon and fell in love with a windy, overgrown knoll in the McMinnville AVA (American Viticultural Area) of the Willamette Valley. There Brittan found an exposed, cold 128 acres with nutrient-poor soils that he thought would be perfect for Pinot Noir. An 18-acre vineyard had been planted, but only about nine acres was still alive and salvageable. Coddled, nurtured, and coaxed, those nine acres yielded their first wine in 2006.
+
+The grapes are picked when Brittan thinks they're ready. He believes in the concept of physiological ripeness, but is quick to admit that the phrase has been used to the point of cliché. He tastes, and when they taste ripe, he picks. Simple as that. The fact that his grapes are lower in sugar when he picks (compared to most of his neighbors) he simply chalks up to having found "the right piece of ground." The grapes are crushed and given a five-day cold soak before fermentation is started. After the wines have fermented dry they are racked into French oak barrels, of which roughly 35% are new, and aged for approximately 9 months following the completion of a secondary fermentation.

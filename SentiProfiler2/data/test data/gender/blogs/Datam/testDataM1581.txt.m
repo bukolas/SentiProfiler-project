@@ -1,0 +1,1 @@
+I can still remember hearing about Terrorist attacks against Westerners in Saudi Arabia while I was in boarding school and wondering if my parents and brother and sister were alright. Both my parents seemed to be vulnerable at different times to being in the wrong place at the wrong time. It was always such a relief to hear their voice after one of the attacks that got close.

@@ -1,0 +1,1 @@
+Did not win on Friday. In fact, only got one digit right. And another work week starts and it still counts what I do at work. As you can see I didn't "open the box" by playing those numbers. I guess I'm lucky! Let's see if 2010 brings some surprises. not much news. did not get struck by lightning (yay), did not win the lottery (yay, not). anyway...we'll try again

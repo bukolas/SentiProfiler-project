@@ -1,0 +1,10 @@
+TODAY is a good day now. Woke up to a dream screaming two days ago someone close to me said I was yelling like I was being ambushed and attacked. I can’t remember the dream at the time like everyone else that talks in their sleep once in awhile. But hours passed as I awoke from that hell and now days passed and now I feel that that was my own soul breaking back out, breaking outa the darkness and understanding what life is really about...If we live in the past all we do in the end is waist time and never move forward. If we focus on waiting for the other to feel that pain you yourself felt, you never feel life again. If you focus on your wants and needs too much, in the end you never get anything but broken dreams and wasted time. If you get blinded by what you lost you will never regain who you really are. We are all human, we need love and when love fails we NEED to Find it or else be by our selves having no one to be there when we feel lonely if ever again.
+
+As I break outa my darkness, I know NOW that other person is breaking back down into theirs, as they fall deeper and deeper into what they did to get a small tad of right(the wrong way) they will discover soon that they just outweighed it with wrong. I know now I don’t have to cause that persion pain to get myself a good feeling, in the end I would be no better then them. In the end let them do it to themselves and hope that they don’t do anything stupid like they told you yourself to do on their last days in your heart. I now feel sadness for that persion, they will never have the life I will, they will always have to work hard to maintain what they did was right, we all know that a LIER cant maintain a truth if there is no truth in what they did....
+
+My life is getting better, my life is working out. I have my real family and I have people that care as well. Living with someone for 8 years and never feeling the feeling I now feel without them has opened my eyes and opened my heart to just let it all fade
+
+If any one reads this, I hope you learn from it
+
+thank you for your time
+Der Vater von Aleya

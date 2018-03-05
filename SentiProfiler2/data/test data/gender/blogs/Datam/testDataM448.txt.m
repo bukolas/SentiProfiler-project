@@ -1,0 +1,1 @@
+Michael Scherer tells me that Obama aides expect that the president will meet with Senate and House Dems at some point this week. Not sure where or when -- I just put it in here as there was nothing else going on Wednesday and it seemed the most likely date.

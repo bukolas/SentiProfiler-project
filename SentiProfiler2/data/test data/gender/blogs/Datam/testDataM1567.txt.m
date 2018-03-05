@@ -1,0 +1,3 @@
+Where am I? Middle of no where? Where is coffee shop? Oh... no GPS… First day, we spent all the day in a 15 passenger van.
+Second day, we only prepare things, such as we went to Wal-mart for foods, pray and get some tools ready for the school.
+We brought 363 dollars food. Thanks for the campus ministry taxes free sponsor. I was impressed how Abbey Novak got everything ready by her own, especially meals for all of us and for all the kids who are invited to come.

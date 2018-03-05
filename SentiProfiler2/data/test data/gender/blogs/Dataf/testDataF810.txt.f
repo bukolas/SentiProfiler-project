@@ -1,0 +1,1 @@
+I took jetblue on my way home from Italy, and the service was excellent. The flight attendant kept the passengers laughing the whole trip with her comedy routine. She was hilarious, and extremely friendly. Also, the unlimited snacks is a bonus what with airlines giving up on serving meals...overall a great experience.

@@ -1,0 +1,11 @@
+Specifically, something Hawks coach Joel Quenneville said after throwing minor-league call-up Corey Crawford into the net against the Ducks on Wednesday. Crawford made one mistake, running off the leash and giving up a short-handed goal, but even in losing the horrifically officiated game, the kid played well enough that you know he’ll get another start.
+
+In fact, he might get it even after Cristobal Huet is sufficiently recovered from the flu. Yeah, that would give the Hawks three goalies, and man, you talk about a crisis of confidence, but Quenneville’s post-mortem on Crawford makes me think it’s coming.
+
+Quenneville said Crawford “looked comfortable’’ and “looked big.’’ Those might seem to be harmless phrases because it comes down to stopping the puck and winning games, but here’s the thing: A coach doesn’t know that until it’s too late, until after the game, so he has to make a decision based on stats and gut feeling, not always in that order and not always equally.
+
+In Quenneville’s case, the “looked comfortable’’ part is code for a coach feeling comfortable. The “looked big’’ part is how much net the goalie leaves open, especially after he drops to the ice. If there has been one significant reason that Quenneville continually turns to rookie Antti Niemi when looking for a goalie to get hot and make him feel comfortable, it’s that. How much net can you cover when you’re vulnerable?
+
+Niemi and Crawford each are listed at 6-foot-2, an inch taller than Huet, but Niemi and Crawford play bigger and wider when they go down. Shooters appear to have less space up top against them than against Huet. Anybody can play goalie if the Hawks are going to check the way they smothered the Kings --- good thing, too, what with their lousy passing and puck handling --- but nobody can do that every night and goalies have to win games, or at least look like they can do it in difficult situations.
+
+Bigger goalies do that. Or goalies who appear to be bigger targets. Size matters. So, you watch, Crawford will be coming to a net near you. I would tell Huet to get well quickly, but I don’t know if it will matter.

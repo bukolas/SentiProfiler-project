@@ -1,0 +1,49 @@
+
+Phase:jitterMetterMap
+Input: Token Lookup Lookup2
+Options: control = appelt 
+
+MACRO:NEGATIVE
+(
+({Token.category==MD})?
+({Token.root=="n't"}|{Token.root=="not"}|{Token.root=="dont"}|{Token.root=="doesnt"}|{Token.root=="wont"}|{Token.root=="doesn't"}|{Token.root=="never"})
+({Lookup.type==instance}|{Lookup2})
+)
+
+Rule: Mapping
+(
+(NEGATIVE)
+):map -->
+{
+
+// getting gate annotations set
+gate.AnnotationSet map = (gate.AnnotationSet)bindings.get("map");
+gate.Annotation mapAnn =(gate.Annotation)map.iterator().next();
+
+// iterating through the lookups set
+Iterator lookupsIter = inputAS.get(mapAnn.getStartNode().getOffset()).get("Lookup").iterator();
+
+// while there is a lookup, get the annotations from it and insert a negation rule
+while(lookupsIter.hasNext()){
+gate.Annotation anAnnot = (gate.Annotation)lookupsIter.next();
+gate.FeatureMap features = anAnnot.getFeatures();
+
+features.put("rule", "Negation");  // this is the new feature to insert
+anAnnot.setFeatures(features);  // this line inserts a new feature into lookup
+
+}
+
+Iterator lookupsIter2 = inputAS.get(mapAnn.getStartNode().getOffset()).get("Lookup2").iterator();
+
+while(lookupsIter2.hasNext()){
+gate.Annotation anAnnot2 = (gate.Annotation)lookupsIter2.next();
+gate.FeatureMap features2 = anAnnot2.getFeatures();
+
+features2.put("rule", "Negation");  // this is the new feature to insert
+anAnnot2.setFeatures(features2);  // this line inserts a new feature into lookup2
+
+}
+
+
+}
+

@@ -1,0 +1,1 @@
+Terrorism. global warming, natural disasters, the economy .....troubles ahead.....worry, fret, stress; the constant struggle to compete.....to keep up.....to survive. This is modern reality for the vast majority of the American population. We are constantly sensually bombarded; seem perpetually connected; almost universally psychoanalyzed; and thoroughly medicated.

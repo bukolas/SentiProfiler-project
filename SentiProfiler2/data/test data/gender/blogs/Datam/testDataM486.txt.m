@@ -1,0 +1,1 @@
+Just when I thought I could relax a bit and enjoy the Christmas season, I get more bad news. For every cancer patient, this can happen at the worst of times. But for a disease that seems to attack indiscriminately, there's no reason to expect it to honor holidays.

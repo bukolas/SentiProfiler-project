@@ -1,0 +1,49 @@
+Phase:cleanerBother
+Input: Lookup Token
+Options: control = all
+
+
+Rule: cleaningBother
+//Priority:30
+
+
+({Token.root=="bother", Lookup.rule=="Negation"}):unBother
+({Token.category != "PRP"})?//{Token.category==~"VB.*"})
+
+-->
+{
+
+
+gate.AnnotationSet unBother = (gate.AnnotationSet) bindings.get("unBother");
+gate.Annotation ann7 = (gate.Annotation) unBother.iterator().next();
+Iterator lookupsIter7 = inputAS.get(ann7.getStartNode().getOffset()).get("Lookup").iterator();
+
+while(lookupsIter7.hasNext()){
+gate.Annotation anAnnot7 = (gate.Annotation)lookupsIter7.next();
+inputAS.remove(anAnnot7);
+}
+
+
+}
+
+Rule: addingBother
+
+({Token.category==NN})?
+({Token.string=="bothers", !Lookup}
+{Token.category == "PRP"}):botherUp
+
+-->
+{
+gate.AnnotationSet botherUp = (gate.AnnotationSet) bindings.get("botherUp");
+gate.FeatureMap newFeatures= Factory.newFeatureMap();
+newFeatures.put("URI","http://somewhere/emotions/bother");
+newFeatures.put("classURI","http://somewhere/emotions/annoyance");
+newFeatures.put("classURIList","[http://somewhere/emotions/annoyance]");
+newFeatures.put("heuristic_level","0");
+newFeatures.put("majorType","");
+newFeatures.put("type","instance");
+outputAS.add(botherUp.firstNode(),botherUp.lastNode(),"Lookup", newFeatures);
+
+
+}
+

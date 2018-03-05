@@ -1,0 +1,1 @@
+Last week, a friend said to me, "Are you excited about Vancouver?" And I looked at him blankly, desperately trying to remember when this new movie Vancouver was coming out and what the plot was. Don't make my mistake. Vancouver is a city in British Columbia. British Columbia is a province of Canada. Canada is basically part of the United States. Just kidding about the last part.

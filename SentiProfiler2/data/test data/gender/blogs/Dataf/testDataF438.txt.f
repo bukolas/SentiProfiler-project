@@ -1,0 +1,1 @@
+It's been a weekend of bright blue beautiful days. Very cold but spectacular days. Walking on the C & O canal, I look up into a sky that is so clear. No clouds. Just the bare branches of the trees in their deep winter sleep, reaching up to the heavens.

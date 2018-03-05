@@ -1,0 +1,5 @@
+Sorry for the lack of posts. I've been doing more stuff on facebook these days then updating my blog (sorry)! So if you're on there, send me a friend request I'm on there as Aimee Olson and I'll add you (if I know you)... LOL
+
+All is well at our house. We made it through the holiday's but started off the New Year a little rocky. We thought that the little Jetta that could had finally went to its final resting place. However, she was able to be resurrected. I'm pretty happy as I love driving her to work! So then, our GMC got wrecked suckin' crap! It doesn't have a lot of cosmetic damage but the young man that hit Kyle, hit the truck in a really bad spot so it goes into the shop this week so we'll wait and see what they have to say. I'll keep you all posted! Our work is just plugging along for both of us. I applied for a new job with the state but we're on a hiring freeze right now so we'll wait and see what happens. I'll be happy if a I get it but I'm also content where I'm at right now. It's a win win situation for me either way.
+
+Ok... don't have a lot of time this morning so I'll share a few new pics. Hope all is well with everyone. Loves....

@@ -1,0 +1,1 @@
+There are a few possibilities for this problem. The first one is that the little switch that is behind the burner knob either went bad or got water in it. To isolate the switch that is the problem you can pull one of the wires off of behind the burner knobs one at a time till it stops. That one is the one that is bad.

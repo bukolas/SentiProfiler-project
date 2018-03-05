@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<shortcuts>
+
+  <programGroup defaultName="GATE $APP_VER" location="applications"/>
+
+   <shortcut
+     name="GATE $APP_VER GUI"
+     target="$INSTALL_PATH/bin/gate.sh"
+     programGroup="yes"
+     desktop="yes"     
+     workingDirectory="$INSTALL_PATH"
+     description="Starts the GATE $APP_VER GUI"
+     initialState="normal"
+     iconFile="$INSTALL_PATH/icons/gate-icon.png"
+     type="Application"
+     Categories="Development;GATE;"
+     encoding="UTF-8">
+     <createForPack name="Core"/>
+   </shortcut>
+
+   <shortcut
+     name="GATE User Guide"
+     target="xdg-open"
+     programGroup="yes"
+     desktop="yes"
+     workingDirectory="$INSTALL_PATH"
+     url="$INSTALL_PATH/tao.pdf"
+     commandLine="$INSTALL_PATH/tao.pdf"
+     description="The GATE User Guide"
+     iconFile="$INSTALL_PATH/icons/mime-application-pdf.png"
+     type="Application"
+     encoding="UTF-8">
+     <createForPack name="User guide"/>
+   </shortcut>
+</shortcuts>

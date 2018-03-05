@@ -1,0 +1,3 @@
+I never watched The Wire when it was on TV, just didn't think I'd get into it~
+My husband Netflixed the entire series last summer and we watched it together and all I can say is WOW ~ How did this series not win all of the Emmy awards each season?
+We could hardly wait for each disc to arrive while we were watching it, not just for Season One either, for every single season~The drug trade and people on the streets were enacted so realistically that I actually felt like I was THERE with each episode~ I especially enjoyed the characters of Marlow, Stringer Bell, and all of the detectives and policemen.

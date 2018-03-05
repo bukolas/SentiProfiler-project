@@ -1,0 +1,6 @@
+I like to think of myself as a creative individual, though at times I become frustrated with one or more of my endeavors. I find myself to be quite capable as a writer, instrumentalist, poet and you name what else, but drawing anything with a direct intent has always been something that eludes me.
+
+My typical art, originally conceived of as a method to stay awake in history class in high school, manifests itself in the form of a variety of swirls, reflective spheres and curved and jagged triangles, such as this:
+Photobucket
+
+While at dinner some point last semester, I was diagramming a ludicrous plan to place magnifying glasses into orbit which would focus the sun onto an equatorial ring of solar panels that would power the entire world. I was struck by the resemblance of the positioning of the lenses to eyes which inspired me to finish the sketch off of a man made entirely of planets. Despite the fact I probably have lost the napkin, I do have this sketch I drew while in the calculus class I was taking that semester:

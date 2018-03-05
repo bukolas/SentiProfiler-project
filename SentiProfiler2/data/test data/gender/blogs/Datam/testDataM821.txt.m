@@ -1,0 +1,1 @@
+XM Satellite Radio, with its over 130 stations (most commercial-free) can appeal to anyone, but it has real appeal to those of use who do some long distance driving.  you know, those drives that leave you hitting the scan button on your AM/FM radio looking for a signal, any signal that will pierce the night. 

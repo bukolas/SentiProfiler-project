@@ -1,0 +1,1 @@
+For the last couple, maybe three weeks I have become crazy watching movies during the weekends. I just turn on the television and start watching the movie that is currently playing, usually its one of the cute ones with Steve Martin, Sanjay Dutt, Paresh Rawal or Lindsay Lohen.

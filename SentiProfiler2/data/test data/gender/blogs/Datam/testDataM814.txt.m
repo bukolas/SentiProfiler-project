@@ -1,0 +1,1 @@
+Coast is a great sushi restaurant in the Damen/Armitage area of Bucktown.  The atomsphere is relaxed, modern, and dark and the sushi is top notch.  The only minor downside is that it's BYOB, and we never remember that.  Of course, there's a liquor store a block away if you need to snag a quick bottle of wine.

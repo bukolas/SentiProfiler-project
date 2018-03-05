@@ -1,0 +1,1 @@
+In 1970 I got out of the Navy..... and at that time met my soon to be wife Deborah she was a school teacher. One year later we were married. For the next 2 years Debbie was teaching high school so that I could go to culinary arts school to become a chef.

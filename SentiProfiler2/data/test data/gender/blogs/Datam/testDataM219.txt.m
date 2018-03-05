@@ -1,0 +1,11 @@
+Glenn Beck says Christians should leave churches that use the word "social justice." He says social justice is a code word for communism and Nazism.
+
+But since the Catholic Church, the Black Churches, the Mainline Protestant churches, more and more Evangelical and Pentecostal churches including Hispanic and Asian-American congregations all consider social justice central to biblical faith, Glenn Beck is telling all those Christians to leave their churches. Of course, Christians may disagree about what social justice means in our current political context -- and that conversation is an important one -- but the Bible is clear: from the Mosaic law of Jubilee, to the Hebrew prophets, to Jesus Christ, social justice is an integral part of God's plan for humanity.
+
+Beck says Christians should leave their social justice churches, so I say Christians should leave Glenn Beck. I don't know if Beck is just strange, just trying to be controversial, or just trying to make money. But in any case, what he has said attacks the very heart of our Christian faith, and Christians should no longer watch his show. His show should now be in the same category as Howard Stern. Stern practices pornography and Beck denies the central teachings of Jesus and the Bible. So Christians should stop watching the Glenn Beck show and pray for him and Howard Stern.
+
+Beck also said that if his church was about "social justice" he would report his church to the church authorities. What authorities? Church bodies as diverse in their theology as the U.S. Conference of Catholic Bishops and the National Association of Evangelicals have explicitly endorsed social justice as a biblical imperative.
+
+So here's an idea: how about reporting ourselves to Glenn Beck as church members and pastors who practice and preach social justice.
+
+Since Sojourners' mission is "to articulate the biblical call to social justice," I'll be the first to turn myself in. And I invite you to join me in turning yourself in to Glenn Beck as a Christian who believes in social justice. Let's send him thousands of names.

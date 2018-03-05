@@ -1,0 +1,10 @@
+I'm back from my trip overseas and had a blast! But fun was coupled with sadness as day 1 I lose my phone :( That screwed a bit with my plans to tour around as I lost my handy internet-in-pocket device. Germany was great, meetings went really well and the weather was great. Then onto Amsterdam for vacation where it rained a bit everyday, but was still decent weather (and much better than home, so no complaints). One of the work guys ended up coming with me and we met up with friends from his old job. It was definitely a blast being down there with a big group of Canadians right in the middle of the Olympics. Especially since everywhere but North America lists the medal count by # of Golds, so Canada was #1.
+
+Don't really want to type out any stories from the trip, but small 'highlights' were:
+Losing phone, breaking glasses, waking up in a small pool of blood (lol), yummy schnitzel, a million gorgeous Audis, Dutch girls > German girls, Casino fun / insane beats, crazy last minute bookings and contingency plans, touring Red Light district, shopping, etc etc.
+
+Really can't wait for another trip like this, I love travelling...but the downside, I missed my son like crazy! It was SO nice when I got him back. We've had a lot of fun so far since I got back especially because the weather's starting to be nice finally. We're spending a lot of time outside as he chases down birds and plays with rocks etc. He chases me down the street with his hands up to his head like horns or antlers all the while growling as loud as he can. It's hilarious and passerby's can't help but laugh too. On my trip there were so many times I wish I had him with me, love being reunited.
+
+
+
+BUT you know what's insanely stupid?!?! Ex never went to visit her family. No road trip, nothing. Ie, absolutely no reason to use the piece of L's luggage I requested and was adamantly denied since she "needed" it. Such BS!

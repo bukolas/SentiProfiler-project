@@ -1,0 +1,3 @@
+O'Brien got the live show started as a way to help his staff of about 40 keep busy and employed. NBC gave up an extra $12 million for the staff. Considering that the staffers uprooted their families and pulled their kids out of schools in New York and moved them across the country -- only to see NBC end Conan's Tonight Show run after only seven months, they deserve whatever extra gig they can get until O'Brien resurfaces behind a desk for another network.
+
+In New York, the tour hits Radio City Music Hall and Madison Square Garden in June, venues that sold out quickly. Hey, maybe Conan will return to Gotham when he lands the next job. Things were going great for him until he left.

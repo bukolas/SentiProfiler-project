@@ -1,0 +1,3 @@
+We bought our Lexus RX 300 here many years ago and then traded it in for the Lexus RX 330 which I now drive.  Each and every time I have gone back to the dealership for service, they have been amazing.  They are fast.  They are efficient.  They drive me to my office at no cost and then reimburse the cost of a cab when I come back.
+
+At the dealership they have a cafe with reading chairs, flat screens etc. And to top it all off, they give free car washes to their customers.

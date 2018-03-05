@@ -1,0 +1,3 @@
+I'm sitting at a conference and my phone does it's little vibraty thing. I pick it up because I'm in the midst of fighting fires at work and dreading the update from the product manager (or is it project manager... I always forget). But there is no email, there is a message from my wife - it's a picture message. I first read the caption and see "Cheese DaDa" only to see the picture load to punch me in the emotional daddy face. There is my beautiful little girl with the cutest grin.
+
+My first reaction is "awwww", but immediately follows the, "Holy crap I miss them."

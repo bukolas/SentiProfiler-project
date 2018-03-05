@@ -1,0 +1,5 @@
+My last post made me realize that I've made it easy for myself to bash relationships and friendships simply because they never worked out the way that I wanted them to, and that I should instead look to the friendships that touch my heart and keep me, for the most part, sane. So I'm going to dedicate this post to Gwen.
+
+My favorite book happens to be Divine Secrets of the Ya-Ya Sisterhood. Corny, I know. But the reason I love this book, aside from the mother-daughter-feud dynamic, is the fact that friendships can last throughout the years. Friends can stay friends, even if at some point or another they end up threatening each other's lives. It is possible to have a friend to go through life's stages with, and still be able to sit down one day when we're old and gray over a cup of tea (most likely laced with rum) and talk about how our years progressed and how we changed so much.
+
+The person I see sitting across the table from me when I'm old and gray would be Gwen. Sure, there are other people I want sitting at that table with us, but for the most part Gwen is the clearest image I can see so far.

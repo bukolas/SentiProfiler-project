@@ -1,0 +1,7 @@
+The building next to us is finally getting its windows cleaned.  It's been one year since ours were last done.  The little platform that the cleaners used has been rusting outside so I guess these simple repairs take time around here.  Maybe we shouldn't complain as a friend of ours says his building's windows have not been cleaned since he moved in almost three years ago.
+
+On Tuesday we attended a fancy dinner reception that honored America's President's Day.  It was sponsored by the U.S. Embassy in Abu Dhabi and we saw many diplomats and army/navy brass.  I met a librarian from the State Department here and he kindly put me on his mailing list. 
+
+On Friday morning I and a friend walked in the annual Terry Fox Run.  It took place along the Corniche and it was nice to be outside walking.  I used sunscreen and wore a long brimmed Tilley hat but one part of my neck still got sunburned.    
+
+Darcy is nearing the end of Week 30 of the pregnancy.   Only 10 weeks to go before The Arrival.  We finished reading a couple of baby names books and we're now looking at each others' lists.  We only wrote down a couple of names that were the same but it should be fun trying to narrow down the list of boy and girl first and middle names.  Of course this is based on the assumption that the name will fit the baby after s/he is born. It will have to have a name before we can do all the paperwork and leave the hospital.

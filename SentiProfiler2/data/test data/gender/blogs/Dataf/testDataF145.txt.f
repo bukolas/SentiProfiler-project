@@ -1,0 +1,11 @@
+Elvis decided to consume a baby blue zebra. More like a teenager actually. Maybe the teenager was mouthing off, telling Elvis he was an idiot and generally behaving as teenagers do. Maybe Elvis just had a sudden snack attack and couldn't control himself. Either way, when I got up yesterday, the above picture represents how I found Elvis.
+
+At first I wasn't too worried about it. Fish are not notoriously picky eaters. The only criteria that food really has to meet is that it fits in their mouth. I regularly lose babies to the bigger fish in my tank and I'm okay with that. Circle of life, extra protein snack, whatever, it's all good. 
+
+But Elvis apparently either over estimated the size of his own mouth or under estimated the size of the other fish. Because he swam around with that dead teenager in his mouth for hours. Like, twelve of them. 
+
+I started getting a little worried after the first five or six hours. At one point I even netted Elvis and tried removing the dead one by hand. I know right? Who lives the life of Riley? Who? That's right people, I do. Unfortunately, when faced with his insane keeper trying to "save" him, Elvis chomped down harder on his prize and refused to give it up. So I tossed him back in the tank and resigned myself to losing him when he finished choking to death on his snack. Honestly, I'm not even sure fish can choke to death what with their gills and all, but you get my point.
+
+Twelve hours after first seeing Elvis in his predicament I saw him swim into the plants and come up with an empty mouth. I immediately checked the tank and saw the dead fish laying behind the plants. Yay! I scooped the body out and deposited it into the appropriate burial location. Yes, the kitchen trash can, wrapped in paper towel and stuffed in a plastic bag. Then I went to check to see how Elvis was doing, and had to laugh. Because now he was swimming around with his mouth wide open like he couldn't close it. I started wondering if that was going to be permanent, him swimming around looking like a slack jawed idiot, but this morning he's back to normal.
+
+So at the end of the day, what have we learned? Fish are gluttonous half-wits with no spatial comprehension. Guess that's as good a lesson as any

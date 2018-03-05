@@ -1,0 +1,1 @@
+If the answers to these questions are mostly negative then it could be a sign that your relationship is on the rocks. It's certainly not healthy for a relationship to consist of frequent arguments, violence or demeaning behaviour. If you are experiencing any emotional, verbal or physical abuse, then it's definitely time to call it quits.

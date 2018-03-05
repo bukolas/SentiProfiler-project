@@ -1,0 +1,7 @@
+bangalore trip feb 20-23 - I went to Bangalore to meet friends.. let me say i rather started to meet a friend whom i m longing to see for the past so many years.. a really valuable friend of mine but missing every time.... but rather this time i made it.. went to mcD's as soon as i got down my bus :P... trip on the whole was really beautiful and as usual over budget :P... planned for a day and made it 3 days.. had real fun... have seen leader thrice :P.. its rather another movie of sekhar kammula genre.. neatly woven.. heroine s amazing... rana looks handsome... a single beautiful dialog has covered the expressionless action of rana... cant expect more frm d first movie frm his part.. background music in d movie s super cool... some dialogs r so captivating.. n i appreciate sekhar's guts in showing the movie to the present day politicians where he has directly shown up the corruption in politicians... had a day out wid my school friends.. away frm gtalk n laptop after a long time for the whole 4 days.. journey one way was great and the other i slept like a log.. had a good time wit my bro and an open talk about lots of general stuff... i dont rem leavin my lap even for a day in d past 3 years... kids are really fun stuff i think i m nt as anti as i think to d kids.. :P...
+
+
+P.S.:
+1. WANNA HAV ANOTHER TRIP TO CHENNAI AS SOON AS POSSIBLE...
+2. HAVE TO WATCH LEADER AGAIN ATLEAST FOR THAT BACKGROUND MUSIC AND RANA IN THE THEATRE HOPE IT LL MAKE A GOOD NUMBER OF DAYS AT THEATRES.. 
+3. I M NT GONNA WASTE ANY DAY OF MY LIFE FRM NW TILL MAY 21st. :P

@@ -1,0 +1,3 @@
+Mahesh is a very nice guy and he is very sincere not only to his work but to everyone.He will do anything for u if ur his frnd. He is a gem of a person i m very happy to hv him as ma frnd. He gives u confidence and never lets u down.
+He is very sensitive so be careful while talking to him because i dont want anyone to hurt him as he thinks abt others."Mahesh fell pannadha da" thats wat we say usually to him.
+I tell u whoever is his frnd u r very very lucky.

@@ -1,0 +1,47 @@
+Phase:cleanerTrouble
+Input: Lookup Token
+Options: control = all
+
+
+Rule: addingTroubles
+
+(
+({Token.string=="troubles", !Lookup})
+({Token.category==~"PRP.*"})
+):troubleUp
+
+-->
+{
+gate.AnnotationSet troubleUp = (gate.AnnotationSet) bindings.get("troubleUp");
+gate.FeatureMap newFeatures= Factory.newFeatureMap();
+newFeatures.put("URI","http://somewhere/emotions/trouble");
+newFeatures.put("classURI","http://somewhere/emotions/distress");
+newFeatures.put("classURIList","[http://somewhere/emotions/distress]");
+newFeatures.put("heuristic_level","0");
+newFeatures.put("majorType","");
+newFeatures.put("type","instance");
+outputAS.add(troubleUp.firstNode(),troubleUp.lastNode(),"Lookup", newFeatures);
+
+
+
+}
+
+Rule: cleanningTrouble
+
+(
+{Token.category=="NN",Token.string=="trouble",Lookup}
+):unTrouble
+
+-->
+{
+gate.AnnotationSet unTrouble = (gate.AnnotationSet) bindings.get("unTrouble");
+gate.Annotation ann6 = (gate.Annotation) unTrouble.iterator().next();
+Iterator lookupsIter6 = inputAS.get(ann6.getStartNode().getOffset()).get("Lookup").iterator();
+
+while(lookupsIter6.hasNext()){
+gate.Annotation anAnnot6 = (gate.Annotation)lookupsIter6.next();
+inputAS.remove(anAnnot6);
+}
+
+}
+

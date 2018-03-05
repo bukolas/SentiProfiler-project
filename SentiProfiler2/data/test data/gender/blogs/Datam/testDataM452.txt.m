@@ -1,0 +1,1 @@
+We were on holiday recently and my partner was navigating. It was dark and she wasn't really sure of where we were or how to get to our destination. On several occasions I was tempted to ridicule her efforts to find her way and laugh outright at her method of navigating.

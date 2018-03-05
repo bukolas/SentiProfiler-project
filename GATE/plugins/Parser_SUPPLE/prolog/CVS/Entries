@@ -1,0 +1,20 @@
+/best_parse.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/compile_grammar.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/dynamic.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+D/grammar////
+/mkparser_plcafe.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/mkparser_sicstus.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/mkparser_swi.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/ne_rules.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/parse_file.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/plcafe_supple_io.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/plcafe_utils.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/semantics.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/sicstus3_utils.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/sicstus4_utils.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/supple.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/supple_io.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/supple_runtime.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/supple_utils.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/swi_utils.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/
+/update_name_match.pl/1.1/Fri Jan 14 11:50:47 2011/-kb/

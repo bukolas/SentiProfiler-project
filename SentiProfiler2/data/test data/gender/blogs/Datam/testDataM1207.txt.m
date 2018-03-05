@@ -1,0 +1,9 @@
+This has been the long, hot summer of ObamaCare. The president’s plan to change our health care system has led to ugly confrontations between ardent supporters and those who want no part of it. Repeatedly, arguments have broken out where opponents object to some provision and the president’s zealots retort that they’re lying or have been duped.
+
+I would like to suggest that such arguments are beside the point. The specifics of the legislation are shifting and liable to change. What’s really important is the overall concept. We’re used to hearing that “the devil is in the details,” but in this instance, we should instead concentrate on the big picture.
+
+Here is the big picture: Do we want a health care system that’s overwhelmingly political in nature? President Obama believes we need a system mainly directed by federal mandates and prohibitions. If he has his way, our already somewhat politicized system would become heavily politicized. Supposedly that would be in the public interest.
+
+There are many Americans, however, who think that a heavily politicized health care system would be much worse. I’m among them. We believe, fundamentally, that systems of any kind that are dominated by politics do not do a good job of satisfying human needs. Whether it’s health care, food, housing, or anything else, government intrusion leads to increasing costs, declining quality, and the loss of freedom.
+
+We get far better results from systems based on freedom and voluntary exchange. When individuals make decisions, they know their own circumstances and will either benefit from good choices or suffer the consequences of bad ones. That creates a strong incentive to make good choices and quickly change when you realize you’ve made a mistake.

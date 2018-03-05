@@ -1,0 +1,1 @@
+I've had a lot on my mind these past few days. And so I haven't spent much time actually blogging about my relationship with Birdie and/or Kelley. To be honest, it's all just a little bit confusing to me at the moment. I like what we've done so far, but for some reason I'm ambivalent about moving forward.

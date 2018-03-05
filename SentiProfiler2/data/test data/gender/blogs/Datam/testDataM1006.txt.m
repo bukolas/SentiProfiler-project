@@ -1,0 +1,1 @@
+After falling in love for Art and Photography I decided to open this Blog. I moved from Italy to Holland in 2007 for my studies, trying to find my own space within my Soul and my H-earth. This blog will be my creative expression while living here and will create new ways of seeing the Earth through the eyes of my Hearth.

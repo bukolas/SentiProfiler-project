@@ -1,0 +1,1 @@
+I'm not saying that America is this terrible disgusting country. Well I'm not completely saying that. What I am commenting on is the the patriotism of American's that seem to always offend other countries when speaking of how great America is. You don't see African's saying look at those Indonesians starving bastards! No because it's almost like the pot calling the kettle black.

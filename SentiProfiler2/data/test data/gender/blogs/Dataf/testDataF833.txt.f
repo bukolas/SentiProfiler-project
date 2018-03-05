@@ -1,0 +1,2 @@
+At the Game Developers Conference, which just wrapped up yesterday, many attendees wondered about one of the final sessions held at the show. Little was known about it, except its title, "Metaphysics of Game Design," and its speaker, someone called "Phaedrus."
+It turned out that the mysterious session was being headed by none other than SimCity and Spore creator Will Wright."I am not Phaedrus," Wright said, as he made his way to center stage amid thunderous applause.

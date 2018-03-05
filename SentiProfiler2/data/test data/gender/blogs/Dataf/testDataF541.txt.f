@@ -1,0 +1,2 @@
+i gotta go drop madam highness in d hot sun half d tym..contibutes a lot towards our "bitching abt DBG sessions"..reads a lot,sportive[ we did damage her badly by sticking up a note on her back ]..stays rite down my road, so we ve got lots more crazy things to come up with!!!thats it arch, idhukumela cant resist dis sugarcoated stuff..u better appreciate that i held back a hundered other things i wanted to say abt u:):)...!!!!
+so ppl, whatya waiting for, come n get to know "ARCHANA"...and contribute to her underfed scrapbook!!heehee

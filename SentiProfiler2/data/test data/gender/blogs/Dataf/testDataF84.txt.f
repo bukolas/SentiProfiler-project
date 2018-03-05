@@ -1,0 +1,3 @@
+I am done for the month! No more freaking exams until april. But then, I am still constantly tortured by never ending homework and assignments and of course, the one and only true love, professional exams! Ugh! I wonder when it can end.... It would be so nice to not needing to wake up in the morning and go like "professional exams again". No no, it would be nice to not needing an alarm clock to make you get up from bed.
+
+Owh well,

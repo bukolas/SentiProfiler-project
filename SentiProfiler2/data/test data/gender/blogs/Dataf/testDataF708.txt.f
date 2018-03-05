@@ -1,0 +1,1 @@
+With Easter almost on it's way I wanted to be sure that I made some beaded eggs this year. So I thought what better way to use up some of my Bead Stash. I used the flower motif for one and added some daisies. The other is just free form. I do still want to make a few more before Easter if I find the time, but here's a couple of them for starters.

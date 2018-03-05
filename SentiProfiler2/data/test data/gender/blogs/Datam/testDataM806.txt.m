@@ -1,0 +1,1 @@
+Well I have been working on a lot of thing. Finishing up the semester and trying to get my master degree program started as well as my freelance, but i am always working in 3D on something else. Here is something that I made last night in ZBrush. The Hair I am sure about, but i will more then likely change.

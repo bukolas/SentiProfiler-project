@@ -1,0 +1,19 @@
+/DefaultIndexDefinition.java/1.1/Thu Jan 13 16:52:10 2011//
+/DocumentContentReader.java/1.1/Thu Jan 13 16:52:10 2011//
+/FeatureReader.java/1.1/Thu Jan 13 16:52:10 2011//
+/IREngine.java/1.1/Thu Jan 13 16:52:10 2011//
+/IndexDefinition.java/1.1/Thu Jan 13 16:52:10 2011//
+/IndexException.java/1.1/Thu Jan 13 16:52:10 2011//
+/IndexField.java/1.1/Thu Jan 13 16:52:10 2011//
+/IndexManager.java/1.1/Thu Jan 13 16:52:10 2011//
+/IndexStatistics.java/1.1/Thu Jan 13 16:52:10 2011//
+/IndexedCorpus.java/1.1/Thu Jan 13 16:52:10 2011//
+/PropertyReader.java/1.1/Thu Jan 13 16:52:10 2011//
+/QueryResult.java/1.1/Thu Jan 13 16:52:10 2011//
+/QueryResultList.java/1.1/Thu Jan 13 16:52:10 2011//
+/Search.java/1.1/Thu Jan 13 16:52:10 2011//
+/SearchException.java/1.1/Thu Jan 13 16:52:10 2011//
+/SearchPR.java/1.1/Thu Jan 13 16:52:10 2011//
+/Term.java/1.1/Thu Jan 13 16:52:10 2011//
+/TestIndex.java/1.1/Thu Jan 13 16:52:10 2011//
+D/lucene////

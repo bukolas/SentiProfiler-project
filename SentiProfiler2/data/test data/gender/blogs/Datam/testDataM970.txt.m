@@ -1,0 +1,3 @@
+During the span of the last two days, I met with over 200 companies, and most of them said they had a really great show. After attending the furniture show two weeks ago, and this fashion show this week, I can't help but get the sense that business conditions are slowly but steadily improving. There were a lot of smiling company owners at both shows. Things are look'n up!
+
+Unfortunately, covering so much ground, and talking with so many companies, my camera didn't come out of my pocket nearly enough. However, this next photo just had to be taken...

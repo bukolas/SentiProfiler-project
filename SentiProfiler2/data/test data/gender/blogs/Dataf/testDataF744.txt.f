@@ -1,0 +1,2 @@
+Undefining moments have defined the moment when I fell in love with you. An interest in everything but yourself is to be sought after by a fine messiah. Public agents are unworthy in the fact that they are not private.
+Sound documents are useless to those who have failed their ears. I never think about you because I always see you.

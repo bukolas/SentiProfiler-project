@@ -1,0 +1,133 @@
+Positive Emotions Female
+29 Gratitude
+16 Exhilaration
+11 Easiness
+10 Amorousness
+9 Fondness
+8 Security
+8 Admiration
+8 Sympathy
+7 Fearlessness
+6 Warmheartedness
+6 Gladness
+5 Rejoicing
+5 Optimism
+5 Gusto
+5 Cheerfulness
+4 Self-pride
+4 Smugness
+3 Worship
+3 Placidity
+3 Eagerness
+3 Playfulness
+3 Favor
+3 Encouragement
+2 Elation
+2 Anticipation
+2 Peace
+2 Devotion
+1 Warmheartness
+1 Captivation
+1 Friendliness
+1 Euphoria
+1 Carefreeness
+
+Positive Emotions Female ONLY - when compared with male
+Exhilaration 16
+Fearlessness 7
+Gladness 6
+Cheerfulness 5
+Worship 3
+Playfulness 3
+Elation 2
+Warmheartness 1
+
+Positive Emotions Female MORE FREQUENT than male
+Gratitude 29
+Exhilaration 16
+Easiness 11
+Amorousness 10
+Fondness 9
+Security 8
+Admiration 8
+Sympathy 8
+Fearlessness 7
+Warmheartedness 6
+Gladness 6
+Rejoicing 5
+Optimism 5
+Gusto 5
+Cheerfulness 5
+Self-pride 4
+Smugness 4
+Worship 3
+Placidity 3
+Playfulness 3
+Elation 2
+Peace 2
+Warmheartness 1
+Captivation 1
+Euphoria 1
+
+Positive Emotions Male
+PosM:    18 Encouragement
+PosM:    13 Satisfaction
+PosM:    12 Anticipation
+PosM:    11 Regard
+PosM:    11 Eagerness
+PosM:     8 Amorousness
+PosM:     8 Easiness
+PosM:     5 Security
+PosM:     4 Admiration
+PosM:     4 Favor
+PosM:     4 Friendliness
+PosM:     4 Sympathy
+PosM:     3 Optimism
+PosM:     3 Gusto
+PosM:     3 Fulfillment
+PosM:     3 Approval
+PosM:     3 Fondness
+PosM:     3 Devotion
+PosM:     3 Carefreeness
+PosM:     2 Rejoicing
+PosM:     2 Warmheartedness
+PosM:     2 Gratitude
+PosM:     2 Self-pride
+PosM:     2 Comfortableness
+PosM:     1 Preference
+PosM:     1 Placidity
+PosM:     1 Empathy
+PosM:     1 Peace
+PosM:     1 Captivation
+PosM:     1 Kindheartedness
+PosM:     1 Smugness
+PosM:     1 Euphoria
+
+Positive Emotions Male ONLY - when compared with female
+Satisfaction 13
+Regard 11
+Fulfillment 3
+Approval 3
+Comfortableness 2
+Preference 1
+Empathy 1
+Kindheartedness 1
+
+Positive Emotions Male MORE FREQUENT than female
+Encouragement 18
+Satisfaction 13
+Anticipation 12
+Regard 11
+Eagerness 11
+Favor 4
+Friendliness 4
+Fulfillment 3
+Approval 3
+Devotion 3
+Carefreeness 3
+Comfortableness 2
+Preference 1
+Empathy 1
+Captivation 1
+Kindheartedness 1
+Euphoria 1

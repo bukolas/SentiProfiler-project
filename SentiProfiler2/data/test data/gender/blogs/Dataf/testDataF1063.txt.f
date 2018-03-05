@@ -1,0 +1,9 @@
+Tomorrow, the Special Envoy for Malaria at the United Nations will be announcing a special Social Media Envoy group that will use the power of social media over the next year to raise awareness for malaria control in African countries.
+
+The special envoy is made up of well-known figures from both the social web and broadcast media, including Mashable’s own Pete Cashmore. Those that have joined the group have pledged to take one “social” action — such as a tweet or a Facebook (Facebook) post — every month for the next year starting from World Malaria Day on April 25, which last year saw Malaria No More also use Twitter for the cause.
+
+The hope is that the tweets, posts and other social actions will inspire and motivate social media audiences in support of malaria control. The UN’s goal is to provide all endemic African countries with malaria control interventions by the end of 2010, working towards the aim of near-zero deaths from malaria by 2015.
+
+We’re very happy to see the UN enlist the power of social media in the fight against Malaria. The disease kills one million people each year with over 90% of the world’s malaria deaths occurring in Sub-Saharan Africa. Universal bed net coverage is the UN’s chosen prevention tool to fight the diseases; it has delivered over 192 million insecticidal mosquito nets since 2007, covering nearly 400 million people.
+
+However, there is more money to be raised and more work to be done. We hope that the social media envoy will go even farther than their commitment to one social action per month, because Malaria is a battle where every little bit helps.

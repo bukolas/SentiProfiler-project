@@ -1,0 +1,7 @@
+I'm sitting here at eleven thirty at night thinking about what to write. I started to write something but it wasn't "Gigglemedicine" appropriate. I'm not trying to be funny I want this blog to be natural not contrived but comedy and tragedy are connected. I could go off on a some witty examples: comedy and tragedy like Alien and Aliens, Peter Sellers and Steve Martin the Guess Who and Come back! I think you get it. 
+  I was up watching "Behind Enemy Lines" on Spike. I was inspired to play with the premise:
+"Apathy."  I don't know if my indifference came from watching Owen Wilson in a War movie or watching the Oilers lose their fifteenth game in a row with three seconds left. But here I am locked on indifference.
+   I like the premise. If I can get up in a stage and say I feel nothing. That's a better place then being the wonky Sea Monkey - that comedian that's on auto pilot. I love comedy. Even after all these years I can hop in a 78 Taurus and burn across the prairies . I'm not worried about the destination. God will tell me the punch line.
+   I've never really thought about being discovered. And what does that mean? Like how hard was it for that guy who discovered the Moon? "There's Ted he pointed up."
+I've had twenty plus years in Comedy I teach it and I still feel like my big  comedy discoveries
+ are in front of me- I know what they are: letting go, moving into the unknown, rehearsing, being prepared. I'll keep chipping away it's right around the corner inside a 78 Taurus.

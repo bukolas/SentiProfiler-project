@@ -1,0 +1,1 @@
+This was an awesome show that I was turned on to a little late.  I did not start watching until the 3rd season and was immediately hooked.  Awesome show that shows what it really is like to grow up in the streets of Baltimore, shady politicians, and corrupt officers.  It also show the good and the people who really try to make a difference despite the obstacles.

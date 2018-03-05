@@ -1,0 +1,1 @@
+Remarkably inventive, animated masterpiece from Hayao Miyazaki who has been responsible for 3 or 4 of the finest animated films I have ever seen and at leas half a dozen excellent ones as well.Spirited Away is the best known and it has been dubbed by a well cast group of English speaking actors so that you will not need to read subtitles to enjoy this new classic.

@@ -1,0 +1,1 @@
+jet blue is by far the best airlines i have ever taken i have travel many other but with the rising cost of air-fair i traveled to fl from Boston for only 100 and was hooked they even serve  my favorite coffee dunk-ins while you kick back and watch TV or movies how much better can it get for 100 bucks please tell me if you can beat that lol thanks Jeannie

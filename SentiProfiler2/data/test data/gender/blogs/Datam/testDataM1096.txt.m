@@ -1,0 +1,9 @@
+I desperately wanted to do some photography this weekend. But every time I stepped out of the house I became uninspired by this bleak New England winter, the colorless landscape, the harsh mid-day lights, and all the ugly people. I don't know why anyone would want to come to America.
+
+So I spent much of my weekend watching Boys over Flowers (Korean drama). Plus I did my taxes, spent a lot of time in my kitchen cooking, ran some errands, and join some friends for dinner at their house Saturday night for hotpot. Overall, an uneventful weekend.
+
+Most of the time, I sat there by my phone wondering when someone would call me up to go hang out. I was too proud to call anyone else up of course. Anything would have done really. It's been awhile since I've experienced this kind of isolation. But I guess you need these kind of weekends once in awhile to put life into perspective. One day when everyone is settled down with family there'll be no one around to hang out with, no snowboarding trips, no birthday dinners with friends, no clubbing, and no meeting up for lunch.
+
+I know I tell everyone that I rather be single; that family life just seems so boring. I make a lot of excuses of why I rather not be in a relationship or ask this or that girl out. But after much thought about this I realized that I'm terrified. Not of asking a girl out, but that I'll end up in another relationship where I'll be miserable and she ends up breaking my heart again. So I've been avoiding relationships like the plague.
+
+But if I don't overcome this fear, then I'll end up seeing more of my weekends like this one when everyone finally settles down. What will I do then?

@@ -1,0 +1,1 @@
+Our coral watching continued as we proceeded to the Coral Garden. It was a sloping reef that also had several coral varieties. It was truly like a garden beneath the sea. Spiky corals, fluffy ones, round ones—you name it and you’ll find them dancing with the waves underwater.

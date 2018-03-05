@@ -1,0 +1,45 @@
+Phase: mergeClassDoc
+Input: Gender Document FScore
+Options: control = all
+
+Rule: mergingClassDoc
+(
+{Gender}
+{FScore}
+{Document}
+):tmp
+-->
+//:tmp.HereRule={rule=fired},
+{
+gate.AnnotationSet tmp = (gate.AnnotationSet) bindings.get("tmp");
+
+// get document bindings
+gate.AnnotationSet docAS = inputAS.get("Document",tmp.firstNode().getOffset(),tmp.lastNode().getOffset());
+
+// get gender bindings
+gate.AnnotationSet gen = inputAS.get("Gender",tmp.firstNode().getOffset(),tmp.lastNode().getOffset());
+
+// get gender annotations
+gate.Annotation ann = (gate.Annotation) gen.iterator().next();
+
+// get score bindings
+gate.AnnotationSet score = inputAS.get("FScore",tmp.firstNode().getOffset(),tmp.lastNode().getOffset());
+
+// get fscore annotation
+gate.Annotation annS = (gate.Annotation) score.iterator().next();
+
+// create feature map to hold the joined features
+ 
+gate.FeatureMap features = Factory.newFeatureMap();
+
+// put features in the map (get the gender class from gender annotation in bindings)
+features.put("class", ann.getFeatures().get("Class"));
+features.put("fScore", annS.getFeatures().get("measure"));
+features.put("annotation", "Doc");
+
+// put features in new Document annotation
+outputAS.add(docAS.firstNode(),docAS.lastNode(),"Document",features);
+
+// remove old document annotation (that only had one feature)
+inputAS.removeAll(docAS);
+}

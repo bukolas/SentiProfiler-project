@@ -1,0 +1,7 @@
+And when I speak German, I have to express myself in exactly the same way. I can't convey the dark subtleties of  my inner-being to the person in front of me. I ask. I get. Simple as. So naturally, my personality and view of the world, how others percieve me and how I percieve myself, changes automatically.
+
+When I visit a restaurant and my meal isn't quite right, I have to tell the staff, as clear as day, what's wrong with it. Straight off. If I were in England, given the nature of our language, I would be ridiculously apologetic for any inconvenience I may have caused them. If I said roughly the same thing in German, the waiter would look at me quizzically and ask what I'd done to it. In English I "remember"; in German I "remind myself".
+
+In English, I am the height of politeness. In German, I am constantly apologising for things I haven't done - and therefore just a bit weird. And in French? I am a German - over-rolling my "r"s and sticking verbs at the end of sentences. The languages I speak: as much as I may try to contort the words into something understandable to a native, you can guarantee that the words are contorting me twice as much.
+
+Foreign languages - the best and quickest way to contract multiple personality disorder, what say you?

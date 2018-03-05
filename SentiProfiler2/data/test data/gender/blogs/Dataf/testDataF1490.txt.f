@@ -1,0 +1,3 @@
+Friends? 
+
+I'm the chewing gum stuck to your sole. I'm the rain that soaks your trousers. I'm the crumbs in your bed. I'm the shoelace that breaks when you're in a hurry. I'm the rubbish you forgot to put in the bin. I'm the person who forgets to listen when you talk. I'm the glob of toothpaste on your newly-washed sweater. I'm the song you can't get out of your head. I'm the monotonous sound that wakes you up when you've taken the morning off. I'm the clothes you've become tired of. I'm the shoe that chafes your foot. I'm the food with too many calories. I'm the wind that wrecks your hairdo. I'm all the people who stare when you're feeling sad. I'm the headache the day after. I'm the telephone that rings when you've just fallen asleep. Will you still be my friend?

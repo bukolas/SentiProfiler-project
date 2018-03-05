@@ -1,0 +1,7 @@
+I remember so much about the island; the large Lighthouse that helped me fall asleep so many nights as I counted the flashes of light, that were a steady pattern all through the night, reassuring me. If I woke with it very dark soon that beam of light would move across me and my room. This light shined up to 20 miles out as it swirled around warning ships that they’ve come to close to those deadly shoals and often chasing away the nightmares of my childhood. She was strong and comforting. Funny I call her a she?!
+
+
+ I remember the sky; often full of puffy white clouds, lying on my back in the sand, or stretched flat floating in the water, looking for pictures in them. I remember the sunrises leaving u to anticipate the day and sunsets, so rich in color often leaving one breathless, vibrant colors; reds, oranges, shades of pink and purple swirling or streaking across the sky. I often found myself anticipating the beginning of such a beautiful show, free of cost.   At night the sky was more often then not clear, the moon strong and bright(really there was very little need for night lights, street lights, or security lights,) the sky full of life, with thousands of stars to gaze upon, too many to count, and many a falling star was searched for.
+
+
+I remember a rich childhood full of many blessings!

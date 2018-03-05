@@ -1,0 +1,11 @@
+Goonj~ ek unsuni cheekh !!
+Goonj an echo I heard within me when I saw the most nervewracking cliping of my life...
+Two ladies came to aur old campus fondly called the (VKC) from a NGO called goonj. Due to torrential rains my spirits were equally dampened as the roads of our city. My step grew heavy as I entered our studio and saw two ladies, one salt and papper hair and the other a lovely damsel made the ambience very mirthful and informal with their spontaneous chutzpah...
+Like all other lectures they had the usualy projector and had something to show. But inside it they had something which I never sensed or see.
+Though a very bizzare way of telling what this organization dose but was a relevation of a kind.
+Goonj worked on the concept of "Kapda, Roti, Makkan" and focus on primarily on Kapda.
+The gooseflesh story began when the head of goonj came in forefront to address the crowd.
+"I know I am discussing a topic which in the 21st century is still considered a taboo and I want it to a dining table issue" He talked about how the rural female survives those five days evry month. Yes I am talking about the mensuration cycle. Well you will be surprized to know that they use the same cloth repeatedly for days or pices of rags. The terror is hear to come when I heard that a women dies of titnis they also use sand and due to different cycles in a family women use the same cloth.
+I know its awful, I would never have gathered enough courage to out it on my blog but this is where we as human beings need to be aware.
+Everybody tallks of education, sanitaion, health and literacy but we never ponder about the taboo subjects. Now the owner of this NGO says that " we have so many festivals like diwali, dushera and other but there should be a giving festival where we give". So Goonj has started a nation wide drive from 27th september to 4th october. So give and celebrate. Collect material from clothing to paper. Goonj is now working for 2 decades and have done immense work acrooss india. Be it Bihar or Tsunami hot victims down south. The NGO is working endlessly making rugs out of audio tapes, skipping ropes from duppattas, Under garments so on and so forth. School bags from discarded demins and many other things.
+This Goonj within me will never fade. My soul will always burn since I envision to make this unheard goonj heard.

@@ -1,0 +1,1 @@
+So I was in charge of preschool yesterday and I think it went well. My topic was fire safety. First I had a candle burning and I showed them (from a safe distance) what fire looks like. Then I blew it out and showed them what smoke looked and smelled like. Then I talked about how they should neve touch it because it is hot and can hurt/burn skin, clothing, hair, rugs, etc.

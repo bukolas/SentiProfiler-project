@@ -1,0 +1,7 @@
+Happy Spring Equinox everyone! It's a beautiful day here in NY -- the sun is shining brightly, there's a light breeze blowing through, and hibernating flowers are just starting to poke their way up from the softened earth. I feel like cartwheeling on the grass, lying on the ground with the face turned toward the sun, and dancing to my own music. Yep, spring fever has hit me!
+
+Last night I was lucky enough to witness an amazing performance of Tao: The Martial Art of Drumming. The performance was brilliant, electric, mesmerizing, mind-blowing and I'm still riding high from the energetic burst that I got from the performance. If you're not familiar with Taiko drumming, check out this video of a Tao performance: Not only was the performance music to my ears (literally) but it was also a feast for sight and feeling. The synchronized movements of the drummers kept me mesmerized and the beat reverberating through the auditorium and my body kept me literally humming with energy. 
+
+That's what spring feels like to me -- everything is alive, a feast for the senses.
+
+Yet so often we hold back aliveness for fear of feeling good. Think about yoga practices gone stale -- a practitioner pushes him/herself until the practice no longer feels good but is a routine without engagement of the senses.

@@ -1,0 +1,9 @@
+If 2010 proves to be a “wave” election for the GOP, conservatives can expect more than a few half-as-much Republicans to sweep into Congress.  What’s a half-as-much Republican? One who’s willing to do half as much as liberals on big government initiatives. Guys like John McCain and his sidekick, Lindsey Graham, for instance.  Or Maine’s Susan Collins and Olympia Snowe. Or departing Senator George Voinovich.
+
+But there’s an effective way to put half-as-much Republicans on notice: defeat a couple of them in upcoming primaries, especially in high-profile Senate contests.
+
+Sending a couple of half-as-muchers to summertime defeats would create quite a stir and cause other such critters, like Mark Kirk (IL) and Mike Castle (DE), to pause. Kirk and Castle are the likely GOP Senate nominees in their states. It would also be a shot across the bow of the GOP Senate leadership, which otherwise might generously want to accommodate its half-as-much brethren in the 112th Congress.
+
+The aforementioned John McCain and Florida Governor Charlie Crist are both ripe for the picking. Both face stiff primary challenges. Senator McCain is squaring off against former U.S. Representative JD Hayworth. Crist is already battling for his political life against former Florida House Speaker Marco Rubio.
+
+No conservative worth his salt is unaware of the notorious “independence” of John McCain, Arizona’s senior senator. Having long ago wiggled from his conservative cocoon, the senator prides himself on his eclectic policy choices. He is gainst government-run health care but for cap and trade (and then against it as the 2008 election progressed). He’s a true blue warrior in the war on terror but squishy in the war to secure the nation’s southern border.

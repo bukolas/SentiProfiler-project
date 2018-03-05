@@ -1,0 +1,1 @@
+With only the moon and the stars to light our way, we stopped by a souvenir shop that glowed through its fire-lit lamp. The waves were our only reminder of our location. We walked along the beach with our bags in tow and rested at a medium-size open-air hut filled with soft lights. The sound of a big lizard kept our senses alert.

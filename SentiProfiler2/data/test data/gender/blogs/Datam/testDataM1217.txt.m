@@ -1,0 +1,7 @@
+Howell Raines lost his executive editor’s job at The New York Times for promoting the career of Jayson Blair, a black drug addict and fantasist who invented entire stories describing the hills of West Virginia from a saloon down the street in New York. But somehow Raines still imagines himself a media bigfoot who can pronounce on the State of Journalism, a one-man Pulitzer Prize panel. This is a little like a White House chef who poisoned an entire state-dinner crowd mounting a soapbox to lecture that the new chefs can’t be trusted.
+
+Of course, that soapbox must be provided first. So who would give this naked man a fig leaf of respectability? The Washington Post would.
+
+The Posties awarded Raines their marquee venue – the Sunday Outlook section -- to denounce Fox News Channel and its owner Rupert Murdoch. Announcing this was tugging at his "professional conscience" (thus suggesting he has one), Raines demanded to know "Why can't American journalists steeped in the traditional values of their profession be loud and candid about the fact that Murdoch does not belong to our team?"
+
+Read more: http://newsbusters.org/blogs/brent-bozell/2010/03/16/bozell-column-fraud-fights-fox-news#ixzz0iPJT7cDM

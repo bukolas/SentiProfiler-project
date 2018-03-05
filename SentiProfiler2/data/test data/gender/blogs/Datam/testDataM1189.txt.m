@@ -1,0 +1,5 @@
+I am so surprised, that this early in March, we are already seeing very warm weather. In fact, we did not see the normal Canadian winter that I am used to, and the one that I was dreading. I guess it is nice to get a year off, every now and then.
+
+There is still a lot of snow on the ground that needs to melt, but it is certainly well on its way. I go outside, and keep thinking that there is still so much snow to melt, but then I simply have to remember how much snow we had prior to the melt starting, and I know things are going down well.
+
+I wonder though, if a milder winter this year, means a more intense winter next year? If That is the case, Zhifang will be in for a real eye opener, as Canada's winter can be something on the extreme side. Winter storms hit with a fury, and when all is said and done, the only thing you can do, is find your shovel and start digging out.

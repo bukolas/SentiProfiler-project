@@ -1,0 +1,3 @@
+Seems my sRGB conversion was causing that fireflies from previous images.
+
+Btw. I was wondering why the farthest I've ever get in ray tracing (excluding fixed path MLT in C++) was when I was using OCaml. Say what You want, but that functional language thing fitted ray tracing very well. Also, but that's maybe caused by my nature - now when I have dozens of ways to implement something I start to wonder what way to choose, what would lead to better design. Too many options confuse me, and slow me down big time.

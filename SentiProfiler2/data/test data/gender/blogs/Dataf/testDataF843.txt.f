@@ -1,0 +1,9 @@
+Its been a lot of fun out here the past few days. I've had around 30 knots, I'm headed almost right for Cape Horn, and I'm going fast!! Yesterday I got up to 16.6 knots! Today has been a little lighter but not much. Though doing any work is pretty difficult and it had been gray and rainy, I'm really enjoying everything out here.
+
+I've got seas of about 15 feet, not that huge, but they definitely make for a bumpy ride! The cushion on my nav station seat keeps sliding under the desk everytime a big wave comes. Its making writing this a little difficult, typing a few sentences in between sliding under the desk.... I'll have to rig up something to hold it in place.
+
+I was informed by a friend the other day that its spring break, so I decided that its about time I pulled out the school books. That lasted for a good half hour, then I decided that I shouldn't over do it on the first day, climbed into all my foul weather gear and spent the next few hours up on deck. I love being outside weather its flat clam or rough. Its my favorite thing to do whether I'm working on something out there or just sitting on deck watching water rush under Wild Eyes. Even on the worst of days, when you're not feeling so great about being in the middle of the ocean all by your self, there is something about being up on deck that makes any sad or lonely thoughts disappear almost immediately.
+
+Yesterday I went out to try and get some good pictures for the blog. I ended up spending a good hour out there, getting soaked, and not getting one picture that showed what its really like out here right now. Pictures are great and do show what things are like out here better than I could ever describe them, but they still don't seem show it as it really is.
+
+Its about 70 degrees out right now!! Better go find my jacket!

@@ -1,0 +1,4 @@
+This concludes that the most caring doctor in town is one suffering from multiple problems him/herself; it doens't make the doctor the most capable, but certainly most empathetic. I am one. Eeerrughhhhhh! *retches* oh thats my breakfast looking blended!Last night hanging out with friends was awesome! Derek and I cruised through our Alma Mater, went to the mall, cruised back through, told stories, laughed, had genuine great conversation, and then met friends for pizza. It was awesome. I saw people I hadn't seen in years. My abs hurt this morning because I laughed so much yesterday. I think Derek is the funniest person I know.
+And that was amazing.
+And then today I get a letter in the mail from unemployment. I've been denied benefits. FML.
+And tonight we're getting together for an "I have too much alcohol in my house and you all should come drink it" party at my friend Katie's house. So...it's perfect timing.

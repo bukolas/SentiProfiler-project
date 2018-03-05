@@ -1,0 +1,1 @@
+Yet, after speaking of God’s intimate knowledge- he asks him to search him. He asks him to see things we normally want to hide from the Almighty- anxious thoughts, offensive ways. Yet, the psalmist knows what we all know- we cannot hide from God. So if we can’t hide from Him, then we should ask His help to overcome our faults and weaknesses.

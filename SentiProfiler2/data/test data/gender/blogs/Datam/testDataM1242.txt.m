@@ -1,0 +1,4 @@
+Being busy with a lot of open projects at work and school has made me a bit tired. I get off work and have to go to school. I finish an exam at school and I have to deal with a tight deadline at work. Sometimes, I want to “pause” what’s going on around me and go and walk for couple of hours. I need to get my thoughts organized and defragged. I feel a subtle touch of fear in missing deadlines or missing important tasks. I’m always repeating/reviewing my Todo’s list in an effort to prevent any missed task. I hope I can stretch my mind over all these tasks and get to a level where I can handle
+Multi- Multi -tasking .
+
+As Oliver Wendell Holmes puts: A mind that is stretched by a new experience can never go back to its old dimension

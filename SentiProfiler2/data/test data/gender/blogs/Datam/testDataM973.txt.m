@@ -1,0 +1,5 @@
+So I think I may have finally decided what I'd like to actually do for a living in the now-not-so-distant-future.
+
+I've never really known, as other people seem to. I mean everyone as a kid dreams of being say, a football player, a racing driver, an astronaut, a princess(?) or a ludicrously good-looking actor/famous guy. I'd only be qualified for the last one really. But then I'm not so great at acting, as a recent 'great idea' for a personal media project has proven.
+
+But those things are just silly kid things, no-one in their right mind ever believes that such ideas will ever actually come to fruition, right? I certainly never did anyway. In fact I'd never really even given thought to what I'd be doing when I was older, I was always content to get the heck on with my English homework.Those kinds of careers you kind of have to be born into, or get into by sheer accident. Malcolm Gladwell might disagree with his success = sheer dint of hard work and effort theory, but at the end of the day that's going to be the case 95% of the time.

@@ -1,0 +1,3 @@
+After weeks of planning the day is finally here. Yesterday we hung the decorations and started getting everything ready. The party starts tonight at 7PM. You can grab some food at the Grilled Cheese Truck which will be parked outside. Inside Japan LA will be lots of Mr Toast products to check out, including a new black Shaky Bacon shirt which was printed up at the last minute by Monkey in a Dryer!
+
+Next door to Japan LA is the Mr Toast Party Space, a whole empty store to hang out in. We will have a DJ, free Pabst Blue Ribbon beer and even Mr Toast hanging out so you can take you picture with him. It should be a fun, wonderful, silly event.

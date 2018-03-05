@@ -1,0 +1,1 @@
+Make it more accessible for people so they do not have to lie about their situation. For example an unmarried pregnant female has a nice car, nice appt. and is in school but her job is a private nanny and therefor has no health insurance. In order for her to receive health care she would have to sell her car and downgrade her appt. before she can be accepted.

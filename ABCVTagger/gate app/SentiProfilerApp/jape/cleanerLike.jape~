@@ -1,0 +1,112 @@
+
+Phase:cleanerLike
+Input: Lookup Token
+Options: control = all
+
+Rule: cleaningLike
+(
+//({Token.category==~"NN.*"} | {Token.category ==~ "VB.*"})
+//({Token.category!="PRP"} | {Token.category !=~ "NN.*"})
+//({Token.root!="do"})
+//({Token.root!="n't"})
+//((({Token})[1,3]))?
+(({Token.root=="like",Lookup.type=="instance"})|({Token.root=="baby-like"})):unlike
+//({Token.category ==~ "NN.*"}|{Token.category =="RB"})?
+)
+-->
+{
+
+gate.AnnotationSet unlike = (gate.AnnotationSet) bindings.get("unlike");
+gate.Annotation ann = (gate.Annotation) unlike.iterator().next();
+Iterator lookupsIter = inputAS.get(ann.getStartNode().getOffset()).get("Lookup").iterator();
+
+while(lookupsIter.hasNext()){
+gate.Annotation anAnnot = (gate.Annotation)lookupsIter.next();
+inputAS.remove(anAnnot);
+}
+
+}
+
+Rule: showLike
+(
+(({Token.root=="do"})|{Token.root=="really"})
+({Token.root=="n't"})?
+({Token.root=="like"}):more
+)
+-->
+//:more.hereLike={rule="here like"}
+{
+gate.AnnotationSet more = (gate.AnnotationSet) bindings.get("more");
+gate.FeatureMap newFeatures3= Factory.newFeatureMap();
+newFeatures3.put("URI","http://somewhere/emotions/like");
+newFeatures3.put("classURI","http://somewhere/emotions/liking");
+newFeatures3.put("classURIList","[http://somewhere/emotions/liking]");
+newFeatures3.put("heuristic_level","0");
+newFeatures3.put("majorType","");
+newFeatures3.put("type","instance");
+outputAS.add(more.firstNode(),more.lastNode(),"Lookup2", newFeatures3);
+
+
+}
+
+Rule: moreLike
+(
+({Token.category=="PRP",Token.root == "i"} | {Token.category == "NNP"}|{Token.category=="PRP",Token.root == "you"}|{Token.category=="PRP",Token.root == "she"}|{Token.category=="PRP",Token.root == "he"}|{Token.category=="PRP",Token.root == "I"}|{Token.category=="PRP",Token.root == "we"}|{Token.category=="PRP",Token.root == "they"})
+({Token.string=="like"}):here
+)
+-->
+{
+gate.AnnotationSet here = (gate.AnnotationSet) bindings.get("here");
+gate.FeatureMap newFeatures4= Factory.newFeatureMap();
+newFeatures4.put("URI","http://somewhere/emotions/like");
+newFeatures4.put("classURI","http://somewhere/emotions/liking");
+newFeatures4.put("classURIList","[http://somewhere/emotions/liking]");
+newFeatures4.put("heuristic_level","0");
+newFeatures4.put("majorType","");
+newFeatures4.put("type","instance");
+outputAS.add(here.firstNode(),here.lastNode(),"Lookup2", newFeatures4);
+
+
+}
+
+
+
+Rule: addLike
+(
+
+(
+({Token.category=="PRP",Token.root == "i"} | {Token.category == "NNP"}|{Token.category=="PRP",Token.root == "you"}|{Token.category=="PRP",Token.root == "she"}|{Token.category=="PRP",Token.root == "he"}|{Token.category=="PRP",Token.root == "I"}|{Token.category=="PRP",Token.root == "we"}|{Token.category=="PRP",Token.root == "they"})
+
+((({Token})[0,2]))
+
+({Token.root=="like"}):tmp 
+) 
+
+)
+-->
+{
+
+gate.AnnotationSet tmp = (gate.AnnotationSet) bindings.get("tmp");
+gate.FeatureMap newFeatures= Factory.newFeatureMap();
+newFeatures.put("URI","http://somewhere/emotions/like");
+newFeatures.put("classURI","http://somewhere/emotions/liking");
+newFeatures.put("classURIList","[http://somewhere/emotions/liking]");
+newFeatures.put("heuristic_level","0");
+newFeatures.put("majorType","");
+newFeatures.put("type","instance");
+outputAS.add(tmp.firstNode(),tmp.lastNode(),"Lookup", newFeatures);
+}
+
+Rule: takeLike
+(
+//((({Token})[1,2]))
+(({Token.root == "that"})|({Token.root == "feel"})|({Token.root == "sound"})|({Token.root == "seem"})|({Token.root == "be"})|({Token.root == "wonder"})|({Token.root == "n't"})|({Token.root == "doesnt"})|({Token.root == "dont"}))
+({Token.root=="like", Lookup})
+
+):offLike
+-->
+{
+//:offLike.falseLike={rule="feeling like"}
+}
+
+

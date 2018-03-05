@@ -1,0 +1,7 @@
+I have a question for all the commenters out there: Would you star in a porn film if someone asked you? A real porn film that gets posted on the Internet and everywhere else. You get paid. Like say, two hundred bucks. And you get to have sex with a top tier porn star, like Lisa Ann or someone like that. It all sounds great, but would you really go through with it?
+
+I've asked myself this question a lot. Obviously, I'm married now, so I'd never accept such an offer. But I always posit all sexual hypotheticals to the alternate dimension version of myself that is NOT married with kids. I think, back when I was 18 and a virgin, and back before all porn was on the web, I would have said yes. Immediately. And then I would have failed to get an erection on camera and spent the rest of my life chewing out my genitals.
+
+But I wonder if I'd accept so quickly in the Internet age. Every guy DREAMS of starring in a porno, of course. But you see the fucking lechers and creeps who actually go through with it, and it's hard to want to join them. Plus, you gotta go through blood tests. And you have to take direction. People are staring at you. And you have to worry about people stumbling upon it somewhere down the line. Spouses. Siblings. Parents. Is it worth all that to spend five quality minutes on camera with Sylvia Saint?
+
+Yeah, probably. Onto your letters.

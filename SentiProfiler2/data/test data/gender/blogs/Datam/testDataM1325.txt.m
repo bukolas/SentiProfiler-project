@@ -1,0 +1,1 @@
+Hi everyone.  As you no doubt noticed, we pretty much shut down over the Christmas holidays.  I did this on purpose as I really wanted (needed) to focus on having an incredible Christmas and some complete down time.  In addition, I wanted to focus on launching my new book!  I'm pleased to say that I was successful on all fronts.

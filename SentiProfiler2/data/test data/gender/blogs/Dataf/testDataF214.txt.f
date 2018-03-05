@@ -1,0 +1,5 @@
+According to the 2009 Internet Auto Award from AutoScout24, Europe’s favourite car is the Opel Insignia. We perhaps would have placed our bets on the Opel Astra, but clearly a sedan is still more popular than a hatchback.
+
+The trophy is known as the ‘Carolina’ and was accepted by the company at an awards ceremony in Munich. Carl-Peter Forster, chairman of the Supervisory Board of Adam Opel GmbH, said: “This new award for the Insignia proves that our blend is right: sporty, elegant design combined with innovative technology. The new Opel philosophy also resonates with the customer.”
+
+Opel has already sold more than 150,000 Insignia in Europe, and the Astra is also a big-selling model for the company, taking up a third of its sales volume. It begs the question as to why General Motors really wants to sell the brand, and whether the sales success with this model design will continue with new owners. Opel Insignia OPC in the pics.

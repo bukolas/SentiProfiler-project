@@ -1,0 +1,23 @@
+Phase: mergeLookup
+Input: Lookup2
+Options: control = all
+
+Rule: mergingLookup
+
+({Lookup2}):lookup2
+-->
+{
+ gate.AnnotationSet lookup2 = (gate.AnnotationSet) bindings.get("lookup2");
+ gate.Annotation ann = (gate.Annotation) lookup2.iterator().next();
+ FeatureMap lookupFeatures = ann.getFeatures();
+ gate.FeatureMap features = Factory.newFeatureMap();
+ features.putAll(lookupFeatures);
+ //features.remove("majorType");
+ try{
+   outputAS.add(lookup2.firstNode().getOffset(),lookup2.lastNode().getOffset(),"Lookup", features);
+ }catch(InvalidOffsetException e){
+   throw new LuckyException(e);
+ }
+ //remove old lookup
+ inputAS.remove(ann);
+}

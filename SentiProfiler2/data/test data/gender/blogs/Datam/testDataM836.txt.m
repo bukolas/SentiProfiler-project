@@ -1,0 +1,1 @@
+This story now in it's last season5, chronicles the city of Baltimore from 4 distinct angles.  The Street, the Law, the Jgovernment, and now the Media.  It shows how all are intertwined. It is a robust offering and packs plenty of power. 

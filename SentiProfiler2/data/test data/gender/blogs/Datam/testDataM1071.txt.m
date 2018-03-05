@@ -1,0 +1,3 @@
+My elder brother was an excellent student when he was at school and at home he was a good brother who took good care of me, thank you, my dear brother, I’d appreciate it.
+       Time flies! my elder brother will be father soon, but what he said and what he did were clearly standing in my mind, there was one thing left a deep impression on me, I remembered my brother never used the school bag when he went to school, instead of it he preferred a plastic bag which was used for holding the clothes, it looked very nice and suited him even more......
+       I imitated him today, I held my books with the plastic bag, and it could recycle for many times. Ha, I hope I am as excellent as my brother.

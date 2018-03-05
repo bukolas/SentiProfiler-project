@@ -1,0 +1,3 @@
+Jokes apart!! There s an idiom 'being in one's own shoes'. Not many ppl in the world kno wat it really means!! Sumi s one among that very few.(idhuku mela enaku enna solradunu theriyala!!.. Rs.50 ku solla vendiadha solliten!! :P.. idhuve romba over!).. ok.. jus kidding!!..She cooks so well!! Jus like her mom!! .. She ll always be ther when u need some care!!.. (U hv always been ther for me.. no matter how many ever times i scold u , how many ever times we fight!!) As somebody said 'but unga approach enaku romba pudichiruku!!':)..seriously sometimes she thinks a lot abt ppl. She observes and learns a lot abt the ppl around her!!
+
+She has been askin me for this testi for such a long time now!! So finally !! Here it s!! ...:):)...

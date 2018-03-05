@@ -1,0 +1,1 @@
+In Autumn 2007 I moved to Russia and began teaching English. Working crazy hours for good pay I was able to save up enough money after 9 months to travel for a year. The beginning of that year is where this blog begins. After that year of traveling I returned to Russia, where I am now, to do the same thing again.

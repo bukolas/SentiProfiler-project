@@ -1,0 +1,5 @@
+The honorable mention of the day was a girl who came in complaining about abdominal pains. The killer here is that she said she was mainly having cold symptoms like runny nose and congestion, but nonchalantly mentions the fact that she hasn't pooped in a week. She also said that was normal for her. O_O Didn't poop for an entire week! Wouldn't you be a little freaked out by that?! I just about lost it. I couldn't get over it...I still can't.
+
+I also think I had drank the most coffee in one day than I ever had in my life. It was three cups. It wasn't because I was tired or anything. Caffeine has minimal effect of me. The coffee just tasted sooo good. In the physician's lounge, scribes are allowed to go in on the weekends because it's not as busy I guess. Anyway, they have coffee machines that have these little one-cup packet thingies that you insert into the machine. I forget the brand name of them, but they taste amazing.
+
+That's pretty much I had to say about Saturday I guess. It's harder to blog about it the day after, I suppose. Anyhoo, until next time.

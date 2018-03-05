@@ -1,0 +1,1 @@
+When I was younger, my Dad would take me for drives in the car. He never had a particular destination, it was just his way of spending one on one time with me. Usually he wanted to talk about something or just talk about the day, and sometimes he would just drive and we would listen to the oldies on the radio. I didn't truly get it back then, but I get it now.

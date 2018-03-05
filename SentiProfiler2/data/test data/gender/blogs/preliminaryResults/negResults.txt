@@ -1,0 +1,239 @@
+Negative Emotions Female
+   32 Gloom
+   18 Frustration
+   16 Scare
+   12 Daze
+   12 Edginess
+   11 Panic
+   10 Humility
+   10 Fury
+    8 Shyness
+    7 Impatience
+    6 Isolation
+    6 Timidity
+    6 Creeps
+    6 Despisal
+    6 Pique
+    6 Apprehension
+    5 Jealousy
+    5 Cruelty
+    5 Hysteria
+    5 Attrition
+    5 Huffiness
+    5 Repentance
+    5 Cynicism
+    4 Disapproval
+    4 Insecurity
+    4 Discouragement
+    3 depreciation
+    3 Covetousness
+    3 Woe
+    3 Defeatism
+    3 Demoralization
+    3 Nausea
+    3 Hopelessness
+    3 Self
+    3 Chill
+    3 Mournfulness
+    3 Umbrage
+    3 Abhorrence
+    2 Heartlessness
+    2 Malice
+    2 Forlornness
+    2 Alienation
+    2 Oppression
+    2 Grief
+    1 Despondency
+    1 Aggression
+    1 Displeasure
+    1 Regret
+    1 Maleficence
+    1 Deomoralization
+    1 Resignation
+    1 Sulkiness
+    1 Lividity
+    1 Diffidence
+    1 Envy
+    1 Trepidation
+    1 sorrow
+
+Negative Emotions Female ONLY - when compared with male
+Gloom 32
+Fury 10
+Timidity 6
+Apprehension 6
+Woe 3
+Mournfulness 3
+Alienation 2
+Despondency 1
+Aggression 1
+Displeasure 1
+Deomoralization 1
+Resignation 1
+Envy 1
+
+Negative Emotions Female MORE FREQUENT than male
+Gloom 32
+Frustration 18
+Scare 16
+Edginess 12
+Panic 11
+Humility 10
+Fury 10
+Shyness 8
+Impatience 7
+Timidity 6
+Creeps 6
+Despisal 6
+Pique 6
+Apprehension 6
+Cruelty 5
+Hysteria 5
+Attrition 5
+Huffiness 5
+Repentance 5
+Cynicism 5
+Disapproval 4
+Insecurity 4
+depreciation 3
+Woe 3
+Nausea 3
+Hopelessness 3
+Self 3
+Chill 3
+Mournfulness 3
+Umbrage 3
+Heartlessness 2
+Alienation 2
+Despondency 1
+Aggression 1
+Displeasure 1
+Deomoralization 1
+Resignation 1
+Lividity 1
+Diffidence 1
+Envy 1
+
+
+Negative Emotions Male
+   13 Daze
+   13 Discouragement
+   12 Malice
+    8 Defeatism
+    7 Isolation
+    7 Impatience
+    7 Horror
+    7 Jealousy
+    7 Covetousness
+    6 Oppression
+    5 Panic
+    5 Humility
+    5 Pessimism
+    5 Repentance
+    5 Resentment
+    5 Scare
+    5 sorrow
+    4 Disgust
+    4 Forlornness
+    4 Demoralization
+    4 Hysteria
+    4 Huffiness
+    4 Regret
+    4 Pique
+    4 Edginess
+    4 Trepidation
+    4 Abhorrence
+    3 Shyness
+    3 Cruelty
+    3 Creeps
+    3 Disapproval
+    3 Insecurity
+    3 Maleficence
+    3 Hopelessness
+    3 Cynicism
+    3 Foreboding
+    3 Grief
+    2 Nausea
+    2 Sulkiness
+    2 Antipathy
+    2 Unfriendliness
+    2 Repugnance
+    1 Heartlessness
+    1 Vindictiveness
+    1 Frustration
+    1 depreciation
+    1 Forlorness
+    1 Attrition
+    1 Despisal
+    1 Self
+    1 Chill
+    1 Jelousy
+    1 Ingratitude
+    1 Lividity
+    1 Murderousness
+    1 Umbrage
+    1 Diffidence
+    1 Guilt
+    1 Animosity
+    1 Lost
+    1 Misery
+
+Negative Emotions Male ONLY - when compared with male
+Horror 7
+Pessimism 5
+Resentment 5
+Disgust 4
+Foreboding 3
+Antipathy 2
+Unfriendliness 2
+Repugnance 2
+Vindictiveness 1
+Forlorness 1
+Jelousy 1
+Ingratitude 1
+Murderousness 1
+Guilt 1
+Animosity 1
+Lost 1
+Misery 1
+
+Negative Emotions Male MORE FREQUENT than female
+Daze 13
+Discouragement 13
+Malice 12
+Defeatism 8
+Isolation 7
+Impatience 7
+Horror 7
+Jealousy 7
+Covetousness 7
+Oppression 6
+Pessimism 5
+Repentance 5
+Resentment 5
+sorrow 5
+Disgust 4
+Forlornness 4
+Demoralization 4
+Regret 4
+Trepidation 4
+Abhorrence 4
+Maleficence 3
+Hopelessness 3
+Foreboding 3
+Grief 3
+Sulkiness 2
+Antipathy 2
+Unfriendliness 2
+Repugnance 2
+Vindictiveness 1
+Forlorness 1
+Jelousy 1
+Ingratitude 1
+Lividity 1
+Murderousness 1
+Diffidence 1
+Guilt 1
+Animosity 1
+Lost 1
+Misery 1

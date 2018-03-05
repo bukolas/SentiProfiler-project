@@ -1,0 +1,12 @@
+let me just start off by saying:
+do not. i repeat. DO NOT go to the bathroom when there is NO toilet paper to be found in the house. that is just not a good situation to be in. trust me. just experienced it first hand. it not only makes you angry, it makes you sad. and confused. b/c it's like, "wtf do i do now???"
+but i digress....
+just practiced some guitar. have my lesson tomorrow. i'm a really bad music student. can i just say that?? i like, never, practice what i'm really supposed to. i just practice whatever i want. that's prob why my technique is so awful. i should really be playing my book stuff. but i don't. b/c that's boring. instead i have printed off tabs and am practicing that. haha currently trying to learn bubbly by colbie caillat. i have kinda taught myself every rose by poison as well as blackbird by the beatles. i can't play them WELL. but i can muddle my way through them. i should prob practice what i'm supposed to though....eh. moving on.
+
+contemplating keeping in contact with my bro...it's a tough decision for me to make. i've talked to him a few times while my rents have been in england...(oh ya ps, my rents are in england and i've been house/dog sitting). i feel guilty but at the same time am so angry at him. it is quite the conundrum.
+this week was week one of working out. i have gotten up every morning at 530 am and gone to the gym for an hour. then i went to work from 830-6 ish every night. i'm pretty tired. but so proud of myself for going! :o) but it's not going to do much good if i can't change my diet. hahaha prob should work on that too....one thing at a time! i have cut down on drinking! lol i don't drink every weekend anymore. just a couple times a month. lol that's pleasing.
+omg i got pulled over! ya. totally forgot that happened. it's a $90 ticket for running a red light people. so don't do that. if my insurance goes up i might be livid....
+has anyone else noticed that i just merely ramble when i blog??? lol i just did. there is no point whatsoever to this or any other blog i've ever written. hahahahahahahahahahahahahaha i just talk and talk and talk about nothing. lol!! i'm literally hysterical as i write this. lol lol lol holy shit. *sigh*
+that's all i think....probably going to bed now. lol
+oh! i have a subscription to Cosmo. :o) *smiles* love that dirty magazine. ha!
+until next time.

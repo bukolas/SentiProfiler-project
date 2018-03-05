@@ -1,0 +1,55 @@
+/AccessRightsDialog.java/1.1/Thu Jan 13 16:51:38 2011//
+/ActionsPublisher.java/1.1/Thu Jan 13 16:51:38 2011//
+/AnnotationDiffGUI.java/1.1/Thu Jan 13 16:51:38 2011//
+/AppearanceDialog.java/1.1/Thu Jan 13 16:51:38 2011//
+/BooleanRenderer.java/1.1/Thu Jan 13 16:51:38 2011//
+/BootStrapDialog.java/1.1/Thu Jan 13 16:51:38 2011//
+/CollectionSelectionDialog.java/1.1/Thu Jan 13 16:51:38 2011//
+/CorpusEditor.java/1.1/Thu Jan 13 16:51:38 2011//
+/CorpusFillerComponent.java/1.1/Thu Jan 13 16:51:38 2011//
+/CorpusQualityAssurance.java/1.1/Thu Jan 13 16:51:38 2011//
+/CreateIndexDialog.java/1.1/Thu Jan 13 16:51:38 2011//
+/CreateIndexGUI.java/1.1/Thu Jan 13 16:51:38 2011//
+/DocumentEditor.java/1.1/Thu Jan 13 16:51:38 2011//
+/FeatureMapEditorDialog.java/1.1/Thu Jan 13 16:51:38 2011//
+/FeaturesEditor.java/1.1/Thu Jan 13 16:51:38 2011//
+/FeaturesSchemaEditor.java/1.1/Thu Jan 13 16:51:38 2011//
+/GazetteerEditor.java/1.1/Thu Jan 13 16:51:38 2011//
+/Handle.java/1.1/Thu Jan 13 16:51:38 2011//
+/HelpFrame.java/1.1/Thu Jan 13 16:51:38 2011//
+/ListEditorDialog.java/1.1/Thu Jan 13 16:51:38 2011//
+/LogArea.java/1.1/Thu Jan 13 16:51:38 2011//
+/LuceneDataStoreSearchGUI.java/1.1/Thu Jan 13 16:51:38 2011//
+/MainFrame.java/1.1/Thu Jan 13 16:51:38 2011//
+/NameBearerHandle.java/1.1/Thu Jan 13 16:51:38 2011//
+/NewResourceDialog.java/1.1/Thu Jan 13 16:51:38 2011//
+/OkCancelDialog.java/1.1/Thu Jan 13 16:51:38 2011//
+/OptionsDialog.java/1.1/Thu Jan 13 16:51:38 2011//
+/OracleDatastoreViewer.java/1.1/Thu Jan 13 16:51:38 2011//
+/PRViewer.java/1.1/Thu Jan 13 16:51:38 2011//
+/ParameterDisjunction.java/1.1/Thu Jan 13 16:51:38 2011//
+/PluginManagerUI.java/1.1/Thu Jan 13 16:51:38 2011//
+/ResizableVisualResource.java/1.1/Thu Jan 13 16:51:38 2011//
+/ResourceParametersEditor.java/1.1/Thu Jan 13 16:51:38 2011//
+/ResourceRenderer.java/1.1/Thu Jan 13 16:51:38 2011//
+/STreeNode.java/1.1/Thu Jan 13 16:51:38 2011//
+/SchemaAnnotationEditor.java/1.1/Thu Jan 13 16:51:38 2011//
+/SearchPRViewer.java/1.1/Thu Jan 13 16:51:38 2011//
+/SerialControllerEditor.java/1.1/Thu Jan 13 16:51:38 2011//
+/SerialDatastoreViewer.java/1.1/Thu Jan 13 16:51:38 2011//
+/ShellSlacFrame.java/1.1/Thu Jan 13 16:51:38 2011//
+/Splash.java/1.1/Thu Jan 13 16:51:38 2011//
+/SyntaxTreeViewer.java/1.1/Thu Jan 13 16:51:38 2011//
+/TabBlinker.java/1.1/Thu Jan 13 16:51:38 2011//
+/TabHighlighter.java/1.1/Thu Jan 13 16:51:38 2011//
+/TextAttributesChooser.java/1.1/Thu Jan 13 16:51:38 2011//
+/TrecWebFileInputDialog.java/1.1/Thu Jan 13 16:51:38 2011//
+/UnrestrictedAnnotationEditor.java/1.1/Thu Jan 13 16:51:38 2011//
+/UserGroupEditor.java/1.1/Thu Jan 13 16:51:38 2011//
+/UserPasswordDialog.java/1.1/Thu Jan 13 16:51:38 2011//
+D/annedit////
+D/docview////
+D/jape////
+D/ontology////
+D/teamware////
+D/wordnet////

@@ -1,0 +1,1 @@
+There's hardly any sport that isn't better on horseback.  Hockey on horseback? It's called "Polo."  Instant win. Horseback riding on horseback? Even better. But no sport could benefit more than figure skating. How many times have you seen the same dips, backwards skates and triple jumps? Boring. Now imagine all of that... But on a horse. Everything old is new again!

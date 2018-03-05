@@ -1,0 +1,2 @@
+Shiv Gaad, the biggest flirt I know...besides me, of course. I like one thing about this dude - He is a hedonist. He is always looking out to have fun. So, if you are with him, chances are you will have fun too. (even more so if you are a girl ;)). He is a little bit of a wannabe but certainly tolerable. Btw, if you are not friends with Shiv yet, you should want to become friends with him since I feel Shiv is great with people whom he is just getting to know. He will ignore you after he knows you well enough. :-) 
+(the latter is not true but the former is)

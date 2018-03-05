@@ -1,0 +1,15 @@
+Time for your Tuesday edition of the Deadspin Funbag. Find more of Drew's stuff at KSK or on Twitter. Today, we're poop, menus, Minesweeper, afros, death, Gatorade, gayness, and more.
+
+I've been losing weight recently, and one of the joys of losing weight is overemphasizing my own awe at my body's transformation. "Why are my pants so loose? Why am I not sweating in my sleep? I feel stronger. More agile. WHAT'S HAPPENING TO MY BODY?" I'm not saying I'm becoming Spiderman, but I wouldn't rule out such things. Also, my old Kasabian shirt fits again. It's the little things. Onto your letters.
+
+Carlos:
+
+    Me and my brother have come to the conclusion that whoever dies first will haunt the shit out of the other person. I'm gonna be a bad motherfuckin' ghost if I die, I will pull your teeth while you sleep, you bastard. FEAR ME.
+
+Well, that's the main issue. Can you move around tangible objects when you're a ghost? Because that would be awesome. If you're a ghost, you have to be bored out of your mind, what with the whole stuck in purgatory business. The only thing there is to do if you're a ghost is spend most of your time fucking with the living. And so, like Carlos, I'd be a HUGE dick if I were a ghost. I'd turn on the faucets while you were taking a shit, just so you'd clench up, break off the turd, and get all mad. Also, I'd write out lots of vague messages on steamy bathroom mirrors. Shit like, THIS IS THE DAWN OF THE END. Also, I'd implore people in the house to avenge my death, even if I died normally. They don't know I died of a heart attack, so why not give them the illusion that I was murdered in the house, and that they must find the killer? OLD MAN JENKINS NEXT DOOR! YOU CAN'T TRUST HIM!
+
+There are times, late at night, when my wife is asleep but I'm still tossing and turning, when I wonder if our house is haunted. It's not. But what if the specter of some old lady came through the wall and just stared at me? What would I do, apart from shit my pants? I visualize that shit, and then it fucks with me the rest of the night.
+
+At college, one of the guys I sat on the football bench with told me his dorm room was haunted. One night, he was sleeping in his bed. He stirred, opened his eyes, and saw a dark figure standing by the bed. When he reached to touch the figure, his hand went through it. He turned on the light and there was nothing there. HAUNTED! Sure, he was almost certainly lying. But then again, there could have been a girl who had her throat slit by a demented professor in that very same room. I rule out nothing. Just once, I'd like to find myself in a haunted house or hotel room. Just so I can tell people of my brush with the paranormal.
+
+I get very annoyed with reality shows about ghosts (like Ghost Hunters) that supposedly track ghosts and then come up with proof that includes a video still featuring a smudge of light glare. That's no ghost, you fuckers. Where are the chains?!

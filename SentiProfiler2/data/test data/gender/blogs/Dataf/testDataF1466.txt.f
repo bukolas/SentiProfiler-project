@@ -1,0 +1,3 @@
+It has been more than one year from when I wrote my last blog. I require a lot of motivation to do this and of course a good reason as well. Today I've got both to do this again. It's my 23th birthday, which is so specially to be cherished for the rest of my life.
+
+I had it in Gottingen. Although far away from family, I've got all the friends celebrated with me at the same time. Messages from friends all over the world--- Swiss, America, Belgium, and France and for certain Home. What's so surprising is the email from Michiru who is a friend of mine in Japan. Despite the fact that she's been very busy with becoming a mother, she still remembers to send her best wishes just in time!!

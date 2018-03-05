@@ -1,0 +1,61 @@
+/ANNIEConstants.java/1.1/Thu Jan 13 16:51:26 2011//
+/ANNIETransducer.java/1.1/Thu Jan 13 16:51:26 2011//
+/APFormatExporter.java/1.1/Thu Jan 13 16:51:26 2011//
+/AbstractController.java/1.1/Thu Jan 13 16:51:26 2011//
+/AbstractLanguageAnalyser.java/1.1/Thu Jan 13 16:51:26 2011//
+/AbstractLanguageResource.java/1.1/Thu Jan 13 16:51:27 2011//
+/AbstractProcessingResource.java/1.1/Thu Jan 13 16:51:27 2011//
+/AbstractResource.java/1.1/Thu Jan 13 16:51:27 2011//
+/AbstractVisualResource.java/1.1/Thu Jan 13 16:51:26 2011//
+/AnalyserRunningStrategy.java/1.1/Thu Jan 13 16:51:26 2011//
+/AnnotationSchema.java/1.1/Thu Jan 13 16:51:26 2011//
+/AnnotationVisualResource.java/1.1/Thu Jan 13 16:51:26 2011//
+/BootStrap.java/1.1/Thu Jan 13 16:51:26 2011//
+/ConditionalController.java/1.1/Thu Jan 13 16:51:27 2011//
+/ConditionalSerialAnalyserController.java/1.1/Thu Jan 13 16:51:26 2011//
+/ConditionalSerialController.java/1.1/Thu Jan 13 16:51:26 2011//
+/ControllerAwarePR.java/1.1/Thu Jan 13 16:51:26 2011//
+/CreoleAnnotationHandler.java/1.1/Thu Jan 13 16:51:27 2011//
+/CreoleRegisterImpl.java/1.1/Thu Jan 13 16:51:27 2011//
+/CreoleXmlHandler.java/1.1/Thu Jan 13 16:51:26 2011//
+/CustomDuplication.java/1.1/Thu Jan 13 16:51:27 2011//
+/ExecutionException.java/1.1/Thu Jan 13 16:51:27 2011//
+/ExecutionInterruptedException.java/1.1/Thu Jan 13 16:51:26 2011//
+/FeatureSchema.java/1.1/Thu Jan 13 16:51:26 2011//
+/GazetteerListsCollector.java/1.1/Thu Jan 13 16:51:27 2011//
+/OntologyAwareTransducer.java/1.1/Thu Jan 13 16:51:26 2011//
+/POSTagger.java/1.1/Thu Jan 13 16:51:27 2011//
+/Parameter.java/1.1/Thu Jan 13 16:51:27 2011//
+/ParameterException.java/1.1/Thu Jan 13 16:51:26 2011//
+/ParameterList.java/1.1/Thu Jan 13 16:51:26 2011//
+/ProfilePRs.java/1.1/Thu Jan 13 16:51:27 2011//
+/RealtimeCorpusController.java/1.1/Thu Jan 13 16:51:26 2011//
+/ResourceData.java/1.1/Thu Jan 13 16:51:26 2011//
+/ResourceInstantiationException.java/1.1/Thu Jan 13 16:51:26 2011//
+/RunningStrategy.java/1.1/Thu Jan 13 16:51:27 2011//
+/SerialAnalyserController.java/1.1/Thu Jan 13 16:51:26 2011//
+/SerialController.java/1.1/Thu Jan 13 16:51:27 2011//
+/TestControllers.java/1.1/Thu Jan 13 16:51:26 2011//
+/TestCreole.java/1.1/Thu Jan 13 16:51:26 2011//
+/TestCreoleAnnotationHandler.java/1.1/Thu Jan 13 16:51:27 2011//
+/TestPR.java/1.1/Thu Jan 13 16:51:26 2011//
+/TestSplitterTagger.java/1.1/Thu Jan 13 16:51:26 2011//
+/TestXSchema.java/1.1/Thu Jan 13 16:51:26 2011//
+/Transducer.java/1.1/Thu Jan 13 16:51:27 2011//
+/VPChunker.java/1.1/Thu Jan 13 16:51:26 2011//
+D/annic////
+D/annotdelete////
+D/annotransfer////
+D/coref////
+D/dumpingPR////
+D/gazetteer////
+D/ir////
+D/metadata////
+D/ml////
+D/morph////
+D/nerc////
+D/ontology////
+D/orthomatcher////
+D/splitter////
+D/test////
+D/tokeniser////

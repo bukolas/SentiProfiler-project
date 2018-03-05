@@ -1,0 +1,6 @@
+Recently in my mummy group, all the kids have been asking about death. I have to admit that with my Elf, it's more a case of Mum, why does Darth Vader die? than What happened to your nana and grandad? I heard two funny stories this week from my group and just had to blog them for your amusement.
+
+The great fish tank in the sky
+Elf's best friend, Woody, had a fish tank for Christmas. Woody's mum said he hadn't noticed that three fish had already died in the last few weeks, but when the fourth one had the misfortune to go belly-up, she thought she'd approach the subject with Woody. In the meantime, Woody's dad had, he thought discretely, flushed it down the loo.
+
+She tried to console him by explaining that his fishie had been poorly. Woody was in floods of tears at this point, being a sensitive soul. Wondering why she'd gone down the route of trying to explain death to Woody, his mum said yes his little fishie did die, but he was going to the Great Fish Tank in the Sky and that he would be happier there.

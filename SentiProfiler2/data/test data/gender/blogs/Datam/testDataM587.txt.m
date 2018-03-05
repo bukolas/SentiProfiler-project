@@ -1,0 +1,3 @@
+Matthew Vaughn's Kick-Ass isn't going to be in theaters for over a month, but it premiered last night at the 2010 South by Southwest Film Festival to huge success. When ComingSoon.net/SuperHeroHype spoke with the movie's stars, Aaron Johnson and Christopher Mintz-Plasse, we weren't too surprised to learn there's already talk about a Kick-Ass 2 at least in terms of a second volume from creators Mark Millar and John Romita Jr. 
+
+We'll have a full review soon, but what's interesting about Vaughn's movie is that it starts and ends almost exactly like the first 8-issue volume of the comic series, so it essentially leaves Vaughn in a place where he could take what Millar and Romita do in a second volume and adapt it directly onto the big screen as a sequel.

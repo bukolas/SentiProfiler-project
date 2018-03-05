@@ -1,0 +1,1 @@
+Hai, Sasha here.To me, women was very easier to lose their weigth because everywhere we can saw no men in this world do housework accept forced. women was did the housework and its can be women was very easier to lose thier weigth....Anything you want to commentttt???????

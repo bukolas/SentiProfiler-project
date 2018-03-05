@@ -1,0 +1,7 @@
+If anyone was looking for a self-righteous extreme feminist, they found one in Angie Jackson. This is a woman who was so proud she was aborting her baby that she announced she would "tweet" her chemical-cocktail abortion live, as it happened, on Twitter. The liberal media found this made-for-TV slaughter fascinating, and not at all a controversy worthy of discussing with two sides.
+
+Newsweek’s Sarah Kliff proclaimed: "One hundred thousand people have watched Angie Jackson's abortion. Late last month, Jackson posted a video of herself to YouTube, recorded after she took RU-486, a medication used to end pregnancies." Kliff asked only "why shame remains" about the act of killing one’s baby. Jackson was honored for her courage in "demystifying" and "destigmatizing" the procedure: "We need 10,000 more of her," proclaimed Peg Johnston, chair of something called the Abortion Care Network. This desire for 10,000 more unashamed abortions is what "pro-choice" is all about.
+
+Overall, this was just another classic tale from the "news" magazine that lamented 20 years ago that "Sadly, many home [abortion] remedies could damage a fetus instead of kill it." What about the pro-life side?
+
+Read more: http://newsbusters.org/blogs/brent-bozell/2010/03/10/bozell-column-shameless-abortion-carnival#ixzz0iPK9N1ID

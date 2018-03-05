@@ -1,0 +1,1 @@
+Pick up any newspaper and you will see all the evil that our lives are currently filled with. But I know, after having traveled the world for a year, that this world is filled with incredible kindness. I know this because we were the recipient of it many times over.

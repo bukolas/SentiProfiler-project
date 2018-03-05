@@ -1,0 +1,7 @@
+This is how the weekend started.  I threw on my blue plaid shirt with the green undershirt, the one that makes my chest and arms look bigger than they are.  Then people came over to our place, and we explored the attic space I'd been too scared to look in since we moved in.  No ghosts.  We took some video and ran voice recorders, hoping to pick up some kind of EVP from our apartment ghost(s?).  So far, nothing doing.  Then we took a midnight (train to Georgia...woo woo!) trip to another friend's house.  She wasn't expecting us, and we rolled out the welcome banner we'd made while she poured us some wine.  I drank too much and got kind of silly.  It was nice to visit.
+
+Saturday, Robb and I visited the library in town.  I got some more CDs, and I was pleasantly surprised to see the daffodils (my favorite flower because the portend Spring) poking through the mud next to the walk.
+
+[DSCF0682]
+
+We hung around the apartment, mostly.  It was nice having the boy home for a change, since the ski season is officially over.  So we basked in the homey Saturdayness of the morning and afternoon, and then we headed off.  We stopped to meet friends in Manhattan (not NY) where one of them was working.  Mutual harassment ensued.  Then we went back to her place and met her new friend:

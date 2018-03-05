@@ -1,0 +1,275 @@
+annihilate	-4
+subjugate	-2
+subdue	-2
+topple	-1
+uncomplimentary	-2
+decoratory	-2
+vexatious	-3
+riffraff	-2
+was not in favour	-1
+jeopardise	-2
+disproportionate*	-1
+unworthy	-3
+threat	-2
+strain*
+pretend	-2
+inhuman*	-4
+biased against	-1
+desperate	-3
+resent*	-3
+decay*	-2
+unlawful*	-2
+godless*	-3
+homeless	-1
+forced to	-1
+forced labour	-3
+abduction	-3
+imprisonment	-1
+persecution	-3
+forcible	-2
+broke them up	-2
+broke up	-2
+razed	-3
+arrogant	-3
+hopes were dashed	-3
+hemorrhaging	-3
+coercive	-3
+coerce	-3
+intimidat*	-3
+profane	-4
+hideous	-4
+intolerant	-1
+vindictive*	-3
+revengeful*	-3
+anguish	-3
+fled	-1
+vexatious	-3
+brutal*	-2
+break-up	-1
+mourn	-3
+abrogat*	-1
+genocide	-4
+boycott	-1
+ignorance	-1
+persecution	-2
+decline	-1
+decapitulate	-3
+inquisition	-1
+discrimination	-2
+harrasment	-2
+cynic	-2
+suspicion	-1
+traitor	-3
+manipulative	-2
+misinformation	-1
+fallen	-1
+un-appealing	-2
+unappealing	-2
+extinction	-1
+overconsumption	-1
+overpopulation	-1
+bankrupt	-1
+deportation	-1
+segregation	-3
+campaigns against	-2
+armageddon	-3
+against God	-1
+infiltrate	-2
+expel*	-2
+expuls*	-2
+misfortune	-2
+insult	-3
+dislike	-2
+degrad*	-3
+dishono*	-3
+revenge	-3
+pagan	-1
+creed	-3
+vainglory	-3
+betray	-4
+disloyal*	-4
+discord	-3
+treachery	-4
+deception	-4
+usurp	-3
+unruly	-2
+disruptive	-3
+unappreciate*	-1
+conspiring*	-2
+bleak	-1
+unfair	-2
+inferior	-2
+mislead*	-1
+exile*	-2
+confrontatio*	-2
+disobedien*	-2
+hypocrit*	-2
+loom over	-1
+looms over	-1
+confront*	-2
+
+final blow	-1
+mock	-1
+not being able	-1
+deteriorate*	-2
+menacing*	-2
+disproportionate*	-1
+defeated	-1
+blame*	-2
+ruined	-2
+perverse	-2
+devastate	-3
+disadvantage	-1
+oppress*	-4
+disturbing	-4
+discriminatory	-4
+outrageous	-4
+tyranny	-4
+disempowerment	-2
+destructive	-3
+falsified	-2
+falsify	-2
+unfit	-1
+atrociti*	-4
+misconception	-1
+ravage	-4
+havoc	-4
+persecut*	-4
+pester	-4
+distorted	-3
+unwise	-1
+lie about	-3
+nonsense	-2
+bribe	-3
+wicked	-3
+torment	-2
+uninterested	-1
+ashamed	-2
+ill-equipped	-2
+misdirected	-2
+plunder	-3
+ignorant	-2
+unprotected	-1
+lied to	-3
+vulnerable	-2
+dishonour	-3
+wretched	-3
+hell	-4
+foe	-2
+abandon	-2
+onslaught	-3
+raze	-4
+capitulate	-3
+immoralit*	-3
+perpetrator	-3
+sadist*	-3
+falter*	-2
+abduct*	-3
+cripple	-1
+crippling	-2
+blind respect	-1
+loot*	-3
+deport	-2
+banish	-2
+ineffectual	-1
+unbearable	-2
+unjust*	-1
+inferior	-2
+detest*	-3
+treachery	-4
+unworthy	-2
+unpardonable	-3
+sloppy	-1
+extremism	-1
+misleading	-1
+irrelevant	-1
+mistrust	-2
+fear monger*	-3
+scare monger*	-3
+fearmonger*	-3
+fearmonger*	-3
+enrage*	-3
+arson*	-4
+threaten	-3
+evict*	-2
+harassment	-3
+persecut*	-3
+violat*	-3
+breaking law	-2
+broke the law	-2
+law-breaking	-2
+transgression	-3
+evildoing	-3
+forgery	-2
+felony	-2
+misuse*	-2
+extort*	-3
+grievance	-2
+resentment	-2
+insecurity	-1
+dehydration	-1
+cover-up	-1
+thug*	-3
+hoodlum*	-3
+ruffian*	-3
+subdue	-1
+vile	-3
+loathsome	-3
+flimsy	-2
+devastation	-3
+struggle*	-2
+was shaken	-1
+retaliate	-3
+reluctant	-2
+demise	-1
+concern	-2
+aggressor	-2
+offender	-2
+by force	-3
+captive	-1
+
+socially disruptive	-2
+conflict	-3
+
+dismember	-4
+decapitation	-4
+
+
+Islamic threat	-3
+infidel	-2
+blasphem	-2
+Jihad against	-3
+jihad campaigns	-2
+jihadist groups	-2
+
+lost their lives	-3
+put to death	-3
+
+shelling	-3
+militant	-1
+warfare	-1
+genocide	-5
+prisoners of war	-1
+prisoner of war	-1
+blitzkrieg	-1
+slaughter of civilians	-5
+levelled the city	-3
+armed resistance	-1
+militia	-1
+concentration camp	-1
+the battle of	-1
+warlike	-1
+
+torture	-4
+lynch	-4
+
+
+bandit	-2
+
+
+sexual abuse	-4
+
+giaour	-5
+gawur	-5
+ghiaour	-5
+

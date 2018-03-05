@@ -1,0 +1,1 @@
+I just found a beautiful little book of quotes called "Words of the Spirit, thoughts to live by" they are compiled from discourses from Para Pujya Ma. I am here in Kathmandu and have brought my camera, though unfortunately, I am unable to use my USB port and have no card reader, so I will have to paint the pictures with my words for now.

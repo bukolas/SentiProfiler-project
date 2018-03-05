@@ -1,0 +1,7 @@
+Sam and Max will bring their off-kilter humor to PlayStation 3 for the first time in The Devil's Playhouse: The Penal Zone, the first episode in a new season of Telltale's episodic adventure series. In a first for the PlayStation Store, the full season -- consisting of five monthly episodes -- will become available for pre-order on March 18, nearly a month before The Penal Zone launches on April 15.
+
+While PC and Mac owners will receive substantial benefits for pre-ordering the full season, including a free game episode, access to developer chats and extra downloadable goodies, Telltale noted that it also has a deal in store (you know, actually in the store) for console players. According to Telltale PR manager Chris Schmidt, pre-ordering the full pack will reduce the cost to $29.99, a minor but not unwelcome discount from the regular price of $34.95.
+
+Speaking to Joystiq at a meeting during the Game Developers Conference on Friday, Schmidt also addressed the obvious question: Will this season of Sam & Max come to Xbox 360 or Wii? He called it a "definite possibility" a few months down the line, and noted that it's in Telltale's best interest to work with more partners and deliver its games to as wide an audience as possible. Designer Chuck Jordan jokingly added that Telltale would ultimately like "to get the games on everything that has a chip in it."
+
+Forget the 360 -- what could be better than getting Sam & Max in a tube of Pringles?

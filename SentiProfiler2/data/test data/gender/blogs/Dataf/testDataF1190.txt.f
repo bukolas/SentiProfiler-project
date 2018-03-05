@@ -1,0 +1,1 @@
+Lots of things in life don't die but instead evolve or get reinvented. Such is the case with this blog. This has been a great blog to write and we have had many dedicated followers over the past one and one half years. But now it's time to move on from this blog to... another blog.

@@ -1,0 +1,5 @@
+Bella is over the chicken pox. She returned to school today. All said, it was a very manageable case. Not super-mild, but not super-bad either.
+
+Perhaps it took having the chicken pox to nudge Bella over the edge of readiness to ride a bike without training wheels. In the midst of the pox, she asked me to take the training wheels off. She practiced coasting in the driveway. The next day, she was getting the start-off and some wobbly pedaling down. Yesterday, she had nailed it. She's still perfecting the brakes, but she has completely mastered the start-off, pedaling, and steering.
+
+Now it's time to get her a bigger bike. As you can see in this video, hers is too small. I'm not sure if she'll get one for Ayyam-i-Ha, which is less than 2 weeks away. It might wait till her birthday in June. Although with us packing up to move, she might get a "bike coupon" for her birthday, redeemable in whatever city we move to.

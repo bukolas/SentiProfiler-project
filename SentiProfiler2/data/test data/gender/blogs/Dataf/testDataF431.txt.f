@@ -1,0 +1,1 @@
+We went back to Bonito to wrap up our weekend outing. Finally, beach fun was over and we were en route to the big city.  Three years ago seemed only yesterday. As I snap back from my reverie, I smile, looking forward to a beach outing this year. That’s the beauty of living in a tropical country with 7,107 islands. We have a list of options where to spend our summer.

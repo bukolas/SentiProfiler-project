@@ -1,0 +1,3 @@
+hi chinamyi nice post.. ur blog has a regular readers like me who would immed comment on ur post.. sometimes i do read jus not ur post even comments, where i find lots of people wud definitely want to put an input saying ur words has transformed their thoughts.. i do join that group. Even this particular post is a replica of my thoughts just that im not good at narrating like u. post like "thayir sadam", where even now i wud like to go back and read and jus cling on to those old dates. it is so fresh whenever u read it. 
+Dont stop blogging.. bse it is very inspiring to people like me..
+keep up the good work. WISHING U ALL SUCCESS.

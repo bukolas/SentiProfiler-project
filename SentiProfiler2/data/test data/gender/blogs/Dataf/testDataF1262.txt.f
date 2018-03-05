@@ -1,0 +1,1 @@
+hmmm.. am one extremely sensitive gal who's over possesive bout my frenz.. i hate solitude.. always need to be pampered n cared for.. 'm one music freak.. i can listen to music continuously 24*7... 'm a srtict vegetarian n cant stand ppl eatin non veg..used to b reserved but now a talkin freak.. tats it bout mi!!!

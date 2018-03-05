@@ -1,0 +1,3 @@
+Well here I go again rambling.
+ 
+The answers to my questions, the answers that only I can find are found in no other than me. They are deep and imbedded in my soul that are not easily exposed. Without me searching for these answers we are left to pounder where what and why. So here I sit in wrighting this to dwell in the depth and find myself. I look in every crevous and hole to no avail and realize the answers are not to be revealed. Instead the answers will become clear as life is lived and only if I look forward to the path of my father and live as if I have lived my life forever.

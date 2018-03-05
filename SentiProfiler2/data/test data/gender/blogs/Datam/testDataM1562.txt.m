@@ -1,0 +1,1 @@
+The turning point of the game came in the fourth quarter when Clint Sessions picked off Joe Flacco and returned it for a touchdown. And if that wasn't enough, Robert Mathis stripped Flacco on the next play and the Colts recovered.

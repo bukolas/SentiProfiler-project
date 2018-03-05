@@ -1,0 +1,7 @@
+ve been meaning to delve into the concept of "free" for some time, but I have been roused to ask a few questions about the issue after reading a recent article by Seth Godin boldly title "Malcolm is wrong" which was written in response to Malcolm Gladwell's article "Priced to Sell: Is Free the Future?" which was a review of Chris Anderson's new book "Free: The Future of a Radical Price"
+whew that was a bit of a circle...
+While there are several great points each author has made I wanted to highlight a couple that I found interesting morsels to chew on.
+Seth brings forth a great critique of a common analytical framework,
+    "should we want free to be the future?"
+    Who cares if we want it? It is. (emphasis mine)
+Too often when people see change they ask, "should we." When discussing matter of whether something "should" or "should not" be, we have to realize that often the scenario will exist whether we want it too or not. We must adapt costantly, balance is only temporary. I'm not necessarily saying free is the future, I can't say that I am knowledgeable enough to say either way. I do, however, think that it will and is playing a major role in the economy today it will have devastating effects on those old, static, monolithic companies that refuse to change.

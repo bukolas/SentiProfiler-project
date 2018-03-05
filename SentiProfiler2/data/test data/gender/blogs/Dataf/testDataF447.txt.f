@@ -1,0 +1,1 @@
+As I came upon the hotel lobby an hour close to midnight, the receptionist immediately attended to me. It was fast, something I thanked the angels.

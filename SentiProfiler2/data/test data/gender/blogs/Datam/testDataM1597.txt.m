@@ -1,0 +1,5 @@
+So this is it for another year - December 31st 2009. I don't want to spend for ever ranting on about how my year went....just a brief look back on some of the highs and lows.
+
+2008 was a rough year. 2009 wasn't a whole lot better....but, it was better. I encountered similar problems in 2009 as I did in 2008, but felt that I dealt with them better. Kept some of the demons at bay. This is partly due to the medication I had been on, Effexor XR (antidepressant). After being depressed on and off since high school, I finally gave in and tried it. It helped a lot. I hope the black dog never returns but one must always remain cautious.
+
+Sadly, 2009 was a year of confrontation. I don't consider myself to be a confrontational person but 2009 unfortunately had several war moments. Confrontation with Hannah, former student, confrontation with Elsa, my ex girlfriend and confrontation with Maree, my ex friend. I had made attempts to resolve these issues with scattered and limited success. No point going into them now, let God be the judge.

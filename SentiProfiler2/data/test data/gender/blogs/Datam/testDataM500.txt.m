@@ -1,0 +1,1 @@
+Taking shelter from the rain we shook ourselves dry underneath a hut and puzzled about where all these people were. The tidy, simple huts on stilts looked empty apart from the orange clothes hanging outside some of them. Monks robes.

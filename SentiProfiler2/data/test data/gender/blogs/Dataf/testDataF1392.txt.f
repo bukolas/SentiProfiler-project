@@ -1,0 +1,1 @@
+So this morning I came in early to try to get some work done. But some of my colleagues had the same thoughts and came in as soon as I got my door open. Sigh. Then my internet did not seem to want to work. Sigh. And my email was not responding. Sigh. But now, as you can see, everything is back to normal, including the time.

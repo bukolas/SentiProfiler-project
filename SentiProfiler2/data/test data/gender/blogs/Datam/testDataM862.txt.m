@@ -1,0 +1,1 @@
+Toxic people living in toxic environments leave toxic waste. Hurting people hurt people. In update New York there was a toxic parcel of land called the Love Canal - it is a neighborhood in Niagara Falls where 21,000 tons of industrial waste was buried and built over. The original canal project to connect the two sections of the Niagara River in the 1800's was abandoned.

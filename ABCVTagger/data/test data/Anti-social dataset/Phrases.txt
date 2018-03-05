@@ -1,0 +1,145 @@
+http://www.thefreedictionary.com/assailant
+
+# How to categorize these?
+I'm going to leave you forever
+Please think of me kindly
+I just wasn't meant for this world
+I wasn't meant for this world
+remember me for
+I have no family 
+I have no friends
+I just snapped
+
+# Phrases and words for sentiment analysis
+street demonstration	-1
+pretty hard	-1
+very serious trouble	-3
+bloodsucker	-2
+rancor	-2
+rancour	-2
+fanaticism	-1
+falsehood	-1
+deluded	-1
+viciousness	-3
+plunder	-3
+nightmare	-3
+punish	-3
+agony	-3
+suffer	-3
+intolerable	-2
+depression	-2
+misunderstood	-1
+frustrated	-1
+asswipe	-4
+nuisance	-3
+shut the f*uck up	-5
+dickhead	-4
+I'm not good enough	-1
+anxiety	-3
+feel so negative	-2
+feel negative	-2
+saying bad things	-2
+say bad things	-2
+no one cares	-3
+feel left out	-3
+hypocrisy	-3
+ignorance	-2
+enslaving	-3
+misguided	-1
+weak-minded	-1
+retarded	-1
+betraye	-3
+lousy	-3
+miserable	-3
+arrogant	-3
+selfish	-3
+disruption	-1
+discriminate	-4
+delusion	-3
+inferiority	-2
+hostility	-3
+aggression	-3
+frustration	-3
+depression	-3
+self-hatred	-3
+tragedy	-1
+scum	-3
+mindless	-3
+enslave	-2
+weak-minded	-2
+brainwash	-3
+meaningless	-1
+tyrant	-2
+propaganda	-1
+negationism	-3
+illegitimate	-1
+Holocaust	-5
+dishonest	-4
+distort	-2
+twist its words	-1
+twist words	-1
+twist his words	-1
+twist her words	-1
+falsify	-2
+violate	-3
+unrest	-1
+vexing	-3
+vexati*	-3
+forbade	-1
+persecution	-3
+demolish	-1
+discontent	-2
+attack on	-2
+uneasiness	-2
+
+riled up
+scolded
+defunct
+obscenity
+
+# Positive
+sacred	1
+benevolent*	3
+sustainab*	2
+crime prevention	1
+courageous*	3
+jubilation	3
+peace	1
+bless	3
+safeguard	3
+lofty	2
+encouraging	2
+partnership-building	1
+facilitate	2
+applaud	2
+brilliant	4
+loyal*	2
+noble	3
+honourable	3
+honorable	3
+merciful*	3
+triumph*	3
+rejoicing	2
+amnesty	1
+peaceful	1
+merciful	3
+attractive	3
+altruistic	3
+victorious	2
+righteousness	3
+compassion	1
+mercy	1
+rejoice	3
+glorify	1
+worthy	2
+overcome	1
+appropriate	1
+delight	3
+easy-going	1
+privilege	1
+tribute	2
+looking after	1
+flourish	3
+favour*	3
+enable	1
+embellish

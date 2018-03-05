@@ -1,0 +1,1 @@
+And the young people, lots of them, not all sorority types either; young, fresh and still susceptible to the allure of so much manufactured glamour. Ironically they and their indomitable youth add sauce and substance to the myth. They flesh it out and give it life.

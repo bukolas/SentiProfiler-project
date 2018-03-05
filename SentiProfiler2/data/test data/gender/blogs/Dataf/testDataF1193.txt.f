@@ -1,0 +1,1 @@
+How I missed that this time around. I miss his voice. And the new season of TV shows has started. 24 one of our favorites, is back with all cylinders firing. Jack Bauer and the gang had a huge two-night season opener, but there it sat on the TIVO. No Leroy to share it with.

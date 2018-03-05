@@ -1,0 +1,1 @@
+It's the simplest things that remind me every day just how much I miss Leroy. The chatter in our house over the Inaugural events of the past few days would have been non-stop. Recapping the coverage, sharing experiences. It's just what we did as journalists, as interested observers of history.

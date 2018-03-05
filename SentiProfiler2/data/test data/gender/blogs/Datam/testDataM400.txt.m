@@ -1,0 +1,1 @@
+Hello everyone, My stepdad Timothy Blackburn A.K.A Mistrust has just recently done a remix for New Zealand band Pitch Black. The song that he has remixed is called “Rude Mechanicals” so please listen. The song is on Mistrust's Myspace page is a sample of the song because the full song is being released on 27th of October this year. So please listen and tell me what you think.

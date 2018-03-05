@@ -1,0 +1,1 @@
+I've started a monthly Crafty Night & yesterday evening was the kickoff. (I need to come up with a catchy name. "Crafty Night" is kinda b-l-a-h.) 6 ladies joined me to make some of those popular flat-backed marble magnets. SUPER easy to make! And super DUPER fun! It felt awesomely terrific to get all crafty.

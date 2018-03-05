@@ -1,0 +1,1 @@
+The best part about being a pirate is that we don't have to explain why we do what we do. So if I laugh when saying 'poop deck', 'seacock', or 'why haven't we gotten this autopilot fixed yet?', you better not look sideways at me, or i'll keelhaul you. Also, laughing makes you live longer. And if you're a pirate, you know very well why you would want to do that.

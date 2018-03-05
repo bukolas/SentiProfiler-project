@@ -1,0 +1,8 @@
+Wow, I can't believe I haven't posted since I got engaged! At least I have an excuse. Life has been absolutely INSANE. Planning a wedding in three months wasn't quite the piece of cake that maybe I thought it was going to be. At least I'm thinking that now that the wedding is NEXT SATURDAY.
+
+But, in the midst of all of this wedding-planning craziness, at least I know I'm doing the right thing. I just love Chad from the very bottom of my heart and can think of no one else I'd rather spend eternity with. Its so nice having that feeling of belonging with him and I feel so excited to take our relationship to yet another level. We have been through a lot together in these last four years...high school, college, commutes back and forth to Provo, a mission, letters, my dating shenanigans while he was gone (so sorry Chad), new jobs, my finishing school, a new car, new apartment, engagement, and finally wedding plans. Chad has always been there for me. I feel like such a lucky girl; I don't know what I ever did to deserve him!
+
+Yay, I love being in love. I love getting married next weekend. As emotional and scary the other stuff can be (ahem...rent, bills, car loans, tuition, real adulthood, etc.) I just know without a doubt that Chad and I will always be there for each other. And that what we are doing is exatly the right thing to do. Nothing in my life has ever felt more right.
+
+
+So thanks for listening to my sappiness. I'm excited for many of you to get here and celebrate with me! Let's celebrate love!

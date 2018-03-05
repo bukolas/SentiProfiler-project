@@ -1,0 +1,1 @@
+To tell about sundar.. i m a grt fan of him,,his nakkals,,, and his comments when i give him a warning for his nakkal.. a lovely guy ,affectionate person,,comical person and above all a gud and favourite frnd of mine in v.m.j

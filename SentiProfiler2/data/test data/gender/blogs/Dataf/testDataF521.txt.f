@@ -1,0 +1,1 @@
+Emails have invaded our lives but we cannot do without mailboxes either can we? My son likes to check our mailbox to see if we have got any mails. It has now become more like a routine. Everyday as soon as his dad comes back from office, they both go and check mails.

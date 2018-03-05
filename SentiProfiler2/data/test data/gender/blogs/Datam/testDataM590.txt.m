@@ -1,0 +1,1 @@
+I'm a web developer from Lincoln, NE. I kind of fell into programming, working with a friend in the mid 90's, trying to figure out what this internet thing was all about.<br><br>		In college I was an economics major, a subject that is still of great interest to me.

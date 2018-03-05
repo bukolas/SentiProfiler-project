@@ -1,0 +1,3 @@
+How can I change the volume licensing product key on a Windows XP SP1-Based Computer?
+
+Because of changes in Windows XP Service Pack 1 (SP1), Windows XP-based computers that use a leaked product key that is known to be available to the general public may not be able to install SP1 or automatically obtain updates from the Windows Update Web site. For an easy and quick method of obtaining your own CD Key please read Quickly Retrieve Windows CD Key.

@@ -1,0 +1,14 @@
+MultiPhase:CleanerAdaptors
+Phases:
+cleanerLike
+mergeLookup
+cleanerStill
+cleanerGood
+cleanerGetTo
+cleanerScene
+cleanerBlue
+cleanerTrouble
+cleanerBother
+cleanerDown
+jitterMetterMap
+jitterMetterRemover

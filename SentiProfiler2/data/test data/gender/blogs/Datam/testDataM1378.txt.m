@@ -1,0 +1,1 @@
+archana!!! to me a very good and silent girl!!! didnt know much of her even though we were in the same bus.. she always has a look as though she has just woken up from sleep lol!! has a nice set of friends.. just chatting with them makes me feel as though i have entered their gang..maybe she talks a lot only with her close friends.. on the whole good, silent, sleepy girl

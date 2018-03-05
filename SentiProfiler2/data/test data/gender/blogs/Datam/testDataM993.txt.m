@@ -1,0 +1,5 @@
+Work progress on little Winslow. I was thinking about yesterdays post, and my comment of doing something more NY. I think this painting captures some of what I was doing while in NY and the chair figures more into what I've been doing in OR.
+
+It's not a good thing or a bad thing, it's just what's happening in my work. Back in NY, I doubt I would have thought to include the chair, here in OR, I struggled to leave any of the background out. I think because I've been painting so many environmental portraits in the past few years, it's how I'm seeing the world. I also love the feel of Don's studio where the picture was taken.
+
+Winslow is so much more than Don's studio companion and to paint him set in the studio leaves out part of the story. Painting him with only the chair makes the viewer wonder more about Winslow the dog than Winslow the studio dog. Plus, people will wonder "What is that chair doing in this painting?"

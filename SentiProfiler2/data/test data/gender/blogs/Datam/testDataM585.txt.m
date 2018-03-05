@@ -1,0 +1,1 @@
+wel,,,abt shermi,,,,i know her ryt frm ma skool dayz,,,,shez very active gal,,gets involved in lots of activities,,,,shez such a gud frend tat she beleives wat ever said 2 her,,,coz she harldy lie,,,,n her aim is 2 becom a psycho(logist),,,,n shez got gud helpin nature,,,n ofcors gud frend of mine,,,,

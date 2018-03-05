@@ -1,0 +1,37 @@
+Phase:cleannerBlue
+Input: Lookup Token
+Options: control = appelt
+
+
+Rule: cleanningBlue
+Priority: 100
+(
+(({Token.root == "feel"})|({Token.root == "feeling"}))
+(({Token})[1,3])?
+({Token.root=="blue",Lookup.type=="instance"})
+):foo
+-->
+
+:foo.blueFeeling={rule="feeling down"}
+
+
+Rule: unBlueing
+Priority: 10
+
+({Token})
+//(({Token})[1,3])? -> this was preventing the previous rule to fire
+({Token.root=="blue",Lookup.type=="instance"}):unblue
+--> 
+{
+
+gate.AnnotationSet unblue = (gate.AnnotationSet) bindings.get("unblue");
+gate.Annotation ann6 = (gate.Annotation) unblue.iterator().next();
+Iterator lookupsIter6 = inputAS.get(ann6.getStartNode().getOffset()).get("Lookup").iterator();
+
+while(lookupsIter6.hasNext()){
+gate.Annotation anAnnot6 = (gate.Annotation)lookupsIter6.next();
+inputAS.remove(anAnnot6);
+
+}
+
+}

@@ -1,0 +1,5 @@
+Who would have ever thought that "a bike" would bring me onto such a positive & life changing path?
+
+On 01 January 1994, I realized that there was more to life than: guzzling an expensive bottle of Robert Mondavi Chardonnay, being the belle of the ball, speaking of what others need to work on, and/or sitting daily on the same coach (in self pity). So, I bought a 10 year old Bianchi Road Bike. And I began a 6-month intense cycling training for a cycling event called the California AIDS Ride #2.
+
+In May of 1994, I left San Francisco with $3.00 in my pocket, no idea of how I was going to return, a questionable bike, the fear of failure, and began to cycle (along with 1500 other cyclist) toward West Hollywood. Seven days, 575 miles later, I arrived in West Hollywood. At which point, I realized it is possible to step outside of your normal routine. I realized it is possible to empower yourself while assisting others. I realized that I wasn't alone in my ideas of creating a better world. And I realized that miracles could occur (after all, I made it back home with $3.00 in my pocket).

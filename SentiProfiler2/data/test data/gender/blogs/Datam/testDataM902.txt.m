@@ -1,0 +1,1 @@
+Well started working on my game, figure out the pipe line and the game engine that I going to use. I am starting to make the assets for the first level. The plan is make the first level and see what I can do with it. It is kind of a steam punk western, that is all i am going to say for now. You can get the idea from this... it is a train.

@@ -1,0 +1,1 @@
+I have just published a new book about our year long odyssey around the world: Around the World in Easy Ways, A Guide to Planning Long-Term Travel With or Without Your Kids.

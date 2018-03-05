@@ -1,0 +1,11 @@
+So, on my long run of the week I like to contemplate things.......the meaning of life, what I'll be wearing the next day, what I need to shop for on-line......you know. Important things: Where is that road to being a good person I was looking for the other day?? You get the idea.
+
+Well, last weekend I was jamming to my uber cool running mix which you better believe includes Jay-Z. Have I mentioned that our romance back from the Hard Knock Life days has been rekindled? As his voice soothed my soul, I was trying to picture Jay-Z sitting down to write some songs............and I started laughing out loud. I mean, does he list out words that rhyme? Is he pulling out his pocket thesaurus?? I'm just having a hard time picturing this! I think it must just come out perfect when he goes to the studio the first time. That is the only way it can work out in my mind.
+
+I used to write poetry in high school, which colors my ideas about brainstorming and writing or doing anything creative. Cheers to Jay-Z for beating me at this process. I never tried to rap though. Maybe that's easier. I should add free-style rapping to my list of goals I have going. More amusing things for you to read about.
+
+Pretty sure I'll need to pick the optimal time to test out this free-style rapping, like, oh, I don't know, maybe during an interview. I will be going on lots of those soon. My future employers will need to know that I'm creative. Perfect way to show them! Or maybe I should do it at HEB the next time I go and almost die by being stampeded in the dairy section. Those people are on a MISSION I tell you. I have been trapped there on multiple occasions. I'm sure if I were rapping at people they might make a path for me, my eggs and my milk.
+
+I'm not lying when I say that I observed a very painful first date on Millionaire Match Maker which included a free style rap from the girl to the guy. He decided she was crazy. Maybe I'll be better than her.
+
+Well, I should go review common rhymes and do some brainstorming so I'm ready when the perfect opportunity presents itself. Does that negate the free-ness of the styling? I'm going with no.

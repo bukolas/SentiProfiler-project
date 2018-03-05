@@ -1,0 +1,3 @@
+How on earth did the present model of life evolve? It appears flawed in not inconsiderable ways. This post will touch upon one of the more popular models; the one based on employment. Employment, job, work, career-call it what you will-is at the core of this model. By that I mean more than 50% of waking hours of those living this model is consumed by the employment factor. 
+
+Employment typically takes place in organizations. The goal of an organization is to maximize shareholder wealth. I am not going to examine that goal. Looking at things from an employee perspective, I find that organizations function on mind bogglingly flawed principles.

@@ -1,0 +1,3 @@
+"bodhai"-(I shall not dwell into the details of how this name came about, right now) is a very down to earth guy...very intersting person to talk to...that is if u can understand him and if he is able to hear u properly ;-).good cricketer and a good friend...sometimes mokkai but has a good sense of humour otherwise...is a great fan of tamil film comedy(like me),goundamani especially.on the whole; a jovial,happy-go-lucky and cheerful guy(er..i forgot the other things he told me to write ;))....three cheers for our friendship machi!
+
+p.s.-it was during our class tour, one night he came to to one of our rooms in the middle of the night and started balbbering something like a drug addict...hence the name "bodhai"

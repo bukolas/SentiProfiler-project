@@ -1,0 +1,1 @@
+Since Our Cancer is brand-new, there isn't much content there at the moment. If you'd like to see what a community looks like once people have been using it for a while, try poking around our All Tech Considered community. It's about technology, which may not be of interest to you, but it'll give you a feel for how people use our community tools.

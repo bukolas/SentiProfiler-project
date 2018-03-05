@@ -1,0 +1,1 @@
+These are great! My husband uses them and I never hear a bad word about them. He has been using these for over five years and is a faithful customer to this faithful brand. They are so nice and comfortable. He forgets they are in many times and we have to make sure he doesn't sleep with them in.

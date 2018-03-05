@@ -1,0 +1,1 @@
+Woke up at 5.30AM and read my morning email, as always. I usually have an alarm to read it at 4.30AM but it's a Sunday. Just caught the husband leaving for an offroading on his bike and went right back to sleep, after asking him to take care. 

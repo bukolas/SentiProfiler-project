@@ -1,0 +1,1 @@
+Arrested Development is undoubtedly the best sitcom of the 21st Century, and it never even got a chance to win the hearts of America. This show had a wonderful blend of topical humor and dry wit. In its three seasons - from the pilot, which was extended and became the first episode, to the epilogue in the third season - Arrested Development delivered continuous laughs.

@@ -1,0 +1,9 @@
+Oh friends, it's finally here! I thought the month between Christmas break and midwinter break wouldn't be too slow and awful. I told myself I wouldn't take any days off, and I succeeded in that. There was a pretty rough stretch for a bit, though, with that bunch of teachers leaving.
+
+Loud Leo left our class a few weeks ago. A new boy came to the class, but has apparently left again. Buster, whom I have not yet mentioned, has remained a serious detriment to the class's focus and my patience (or lack thereof). Buster refuses to control himself most of the time. It's 'just' his mouth, but that means that when the rest of the class is quiet, he makes noise and distracts them and then never shuts up. And then other boys follow his lead and make more noise. GAH. He's really started to haunt me.
+
+We had a party on Friday, that I'm not totally certain they deserved, but lord knows it had to be better than trying to force them to learn on the Friday afternoon before a week off. Our last lesson of the day was writing Valentine acrostics. About half of kids basically did nothing, but the rest did a poem, and a few of them turned out pretty well actually.
+
+Anyway....we're here! Vacation! A whole week off! My favorite part is always the not waking up before dawn. Also the not being at school for so many hours. I didn't bring anything home with me, but I will go in for a few hours next week to work on unit planning. I've been behind for so long but too exhausted to do anything about it. I hope to remedy that, at least a little for now.
+
+Also, happy Valentine's Day today! The boy and I had a wonderful day together, out and about.

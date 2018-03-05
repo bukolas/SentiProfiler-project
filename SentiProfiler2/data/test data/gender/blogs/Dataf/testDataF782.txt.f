@@ -1,0 +1,5 @@
+I find spring here, by turns, overwhelming, irritating, and unbelievably beautiful. Every year, including this year of course, spring blows me away. There are days when I dance in shamanic alignment with the colors and shapes, when I become more vivid, put on a deep shade of pink lipstick and extra mascara. Other days I just want to run away from it all, go north or head out west past the Rockies, to places less verdant and therefore more peaceful.
+
+My respiratory system reacts as if it has been attacked which is the very reason I went forth this morning to buy bucketsfull of allergy meds. This year I'm trying Zyrtec, a more virile 24 hour concoction than the Claritin I usually take.
+
+I'm diving into the big antihistamines this year because I have a feeling that after our cold, snowy winter, this spring is going to be extra powerful. Judging by the way everything seems to be blooming all at once, I'm thinking my prediction is spot on.

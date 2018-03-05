@@ -1,0 +1,1 @@
+Quietly, Microsoft has lowered the price of its two Zune HD players by $20, according to official pricing on Microsoft's own site. The 32-Gbyte HD model now costs $269.99, while the 16-GB version now is priced at $199.99. If you visit those links, you'll also find comparison pricing that puts Amazon and other retailers even lower.

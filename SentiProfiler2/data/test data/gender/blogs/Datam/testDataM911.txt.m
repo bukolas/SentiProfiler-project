@@ -1,0 +1,1 @@
+I disagree with Ruse here, because I disagree with Dostoevsky. It's hard to prove a case in fiction, and I wasn't convinced by Crime and Punishment, where the protagonist Raskolnikov tries to prove his superiority to religious morality by robbing and killing an old woman. He botches the job, and eventually turns himself in -- just as the police are closing in on him anyway.

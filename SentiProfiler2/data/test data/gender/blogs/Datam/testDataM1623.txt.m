@@ -1,0 +1,2 @@
+Roger Conway 
+I have taught language, writing, literature and media studies from the ninth grade through graduate school. The greatest amount of my publishing has been online. I'm currently listed as Associate Prof. Emeritus at Southern Connecticut State University.

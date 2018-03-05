@@ -1,0 +1,4 @@
+For whatever reason, I was up in time to watch the trainwreck that was the "Tiger Woods Mea Culpa and Press Conference". For a time, I wasn't sure if I was watching Tiger or a repeat of the opening episode of "The Good Wife".
+For what it's worth, this wasn't a "Press Conference" so much as it was a "Public Profession of Sins and a Plea For Forgiveness". No questions were allowed. Tiger stood behind a podium, read his speech, acknowledged that he had made "mistakes" and asked for the media to leave his wife and child alone. He took all the blame upon himself (which was admirable) and dispelled the rumors that his wife, Elin, had wailed on him with a 9-iron for his indiscretions by stating that they had never had any episodes of Domestic Abuse.
+
+There were a few Tiger supporters there...but Elin was conspicuously absent.

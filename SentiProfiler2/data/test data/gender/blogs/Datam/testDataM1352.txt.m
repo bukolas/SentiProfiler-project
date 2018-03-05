@@ -1,0 +1,1 @@
+I think any universal health care plan would have to come with a income based scheme or means testing. If you can afford to pay for health care you should pay, however you would be able to recieve a percentage back through a medicare rebate scheme.

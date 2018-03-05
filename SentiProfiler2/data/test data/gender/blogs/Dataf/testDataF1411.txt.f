@@ -1,0 +1,1 @@
+evlon challenges its customers to “Get Cheeky” with their new Pinch Me Sheer Gel Blush. Being the makeup junkie that I am, I rose to the challenge and decided to give this new product a try. I did hesitate for a brief minute since I’d never heard anything positive about blush gels, but ultimately I decided to jump on in. I’m glad that I did!

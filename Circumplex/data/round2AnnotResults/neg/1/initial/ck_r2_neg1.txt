@@ -1,0 +1,155 @@
+'(pronoun/name) was buried', Angle: 180.000000, Intensity: 0.500000
+'a rough time', Angle: 197.281494, Intensity: 0.570000
+'abandon', Angle: NaN, Intensity: 0.000000
+'all hell breaks loose', Angle: 225.266479, Intensity: 0.610000
+'all hell broke loose', Angle: 224.459488, Intensity: 0.600000
+'are you nuts', Angle: 180.458359, Intensity: 0.500000
+'as crazy as they come', Angle: 103.276398, Intensity: 0.370000
+'bad', Angle: 179.541641, Intensity: 0.500000
+'bad health', Angle: 168.064392, Intensity: 0.500000
+'blocked (me/her/him/us/them)', Angle: 190.520782, Intensity: 0.570000
+'blow out of proportion', Angle: 197.487991, Intensity: 0.310000
+'blow smoke', Angle: 197.938889, Intensity: 0.580000
+'bone head', Angle: 143.767578, Intensity: 0.580000
+'boot (pronoun) out', Angle: 210.897369, Intensity: 0.590000
+'break (his/her/my/their) word', Angle: 191.611481, Intensity: 0.600000
+'break (me/her/him/us/them) down', Angle: 214.811371, Intensity: 0.620000
+'break (my/her/his) back', Angle: 205.221115, Intensity: 0.610000
+'break a law', Angle: 207.937134, Intensity: 0.600000
+'break down and cry', Angle: 187.305756, Intensity: 0.630000
+'break in on', Angle: 207.724060, Intensity: 0.620000
+'break off', Angle: 186.381561, Intensity: 0.610000
+'break off with', Angle: 186.465927, Intensity: 0.600000
+'break out in tears ', Angle: 187.976776, Intensity: 0.630000
+'break out into tears ', Angle: 187.765167, Intensity: 0.620000
+'break the law', Angle: 211.092224, Intensity: 0.610000
+'break up with', Angle: 187.969604, Intensity: 0.610000
+'break wind', Angle: 180.000000, Intensity: 0.500000
+'buckle under', Angle: 216.297775, Intensity: 0.560000
+'building fire', Angle: NaN, Intensity: 0.000000
+'choke off', Angle: 251.710846, Intensity: 0.500000
+'company entered liquidation', Angle: 179.541641, Intensity: 0.500000
+'company had entered liquidation', Angle: 180.454712, Intensity: 0.500000
+'company liquidation', Angle: 180.000000, Intensity: 0.500000
+'complete farce', Angle: 159.443954, Intensity: 0.620000
+'condone breaking the law', Angle: 180.362625, Intensity: 0.630000
+'condone using illegal', Angle: 180.000000, Intensity: 0.630000
+'condone violating', Angle: 180.763901, Intensity: 0.600000
+'condone violence', Angle: 180.000000, Intensity: 0.620000
+'confusing', Angle: 187.568390, Intensity: 0.580000
+'cost (me/you/her/him/us/them) dear', Angle: 157.709412, Intensity: 0.700000
+'cost (me/you/her/him/us/them) dearly', Angle: 158.078217, Intensity: 0.710000
+'crazy in the head', Angle: 156.317902, Intensity: 0.500000
+'descent into madness', Angle: 188.972626, Intensity: 0.620000
+'drive (me/you/her/him/us/them) crazy ', Angle: NaN, Intensity: 0.000000
+'drive (me/you/her/him/us/them) nuts', Angle: 191.813141, Intensity: 0.630000
+'dummy', Angle: 157.344757, Intensity: 0.500000
+'everlasting pain', Angle: 180.000000, Intensity: 0.750000
+'everlasting suffering', Angle: 179.691956, Intensity: 0.740000
+'extinguish any excitement', Angle: 191.458755, Intensity: 0.600000
+'extinguish any hope', Angle: 188.991241, Intensity: 0.640000
+'extinguish excitement', Angle: 188.627350, Intensity: 0.590000
+'extinguish hope', Angle: 188.627350, Intensity: 0.590000
+'extinguish joy', Angle: 187.621078, Intensity: 0.570000
+'fabricate a lie', Angle: 175.135483, Intensity: 0.570000
+'fabricate a story', Angle: 175.169586, Intensity: 0.570000
+'fabricate excuses', Angle: 180.000000, Intensity: 0.500000
+'fabricate lies', Angle: 174.732300, Intensity: 0.570000
+'fall into madness', Angle: 197.468018, Intensity: 0.600000
+'feel stress', Angle: 180.000000, Intensity: 0.570000
+'final conviction in', Angle: NaN, Intensity: 0.000000
+'fire (name/pronoun)', Angle: NaN, Intensity: 0.000000
+'fluff', Angle: NaN, Intensity: 0.000000
+'forest fire', Angle: 189.329544, Intensity: 0.570000
+'get the boot', Angle: 233.215881, Intensity: 0.530000
+'give (pronoun) the boot', Angle: 180.824341, Intensity: 0.560000
+'go nuts', Angle: 360.000000, Intensity: 0.000000
+'grave danger', Angle: 237.443329, Intensity: 0.620000
+'grave situation', Angle: 180.000000, Intensity: 0.560000
+'great worry', Angle: 188.440369, Intensity: 0.630000
+'has no principles', Angle: 135.000000, Intensity: 0.560000
+'have stress', Angle: 120.488945, Intensity: 0.500000
+'he is nuts', Angle: 341.565063, Intensity: 0.010000
+'homely child', Angle: 105.694923, Intensity: 0.500000
+'homely face', Angle: 105.018364, Intensity: 0.510000
+'horde of mosquitoes', Angle: 190.642868, Intensity: 0.610000
+'impervious to feelings of others', Angle: 180.392426, Intensity: 0.580000
+'impervious to reason ', Angle: 180.392426, Intensity: 0.580000
+'in default of', Angle: NaN, Intensity: 0.000000
+'in default on', Angle: NaN, Intensity: 0.000000
+'involuntary manslaugter', Angle: 240.642242, Intensity: 0.590000
+'involuntary participant', Angle: NaN, Intensity: 0.000000
+'involuntary resettlement', Angle: 193.760788, Intensity: 0.610000
+'involuntary servitude', Angle: 192.907410, Intensity: 0.590000
+'kick (me/you/her/him/us/them) out', Angle: 196.090820, Intensity: 0.650000
+'kick (my/your/her/his/our/their) ass', Angle: 236.944183, Intensity: 0.600000
+'kick about', Angle: 185.937424, Intensity: 0.500000
+'kick in the teeth', Angle: 188.695496, Intensity: 0.690000
+'kick the bucket', Angle: 158.133636, Intensity: 0.660000
+'lack of principles', Angle: 135.545654, Intensity: 0.590000
+'limp (n)', Angle: 150.865707, Intensity: 0.560000
+'limp (v)', Angle: 193.029190, Intensity: 0.500000
+'liquidation of the company', Angle: 180.000000, Intensity: 0.490000
+'lust for power', Angle: 192.485474, Intensity: 0.570000
+'lust of money', Angle: 194.410110, Intensity: 0.590000
+'mental block', Angle: 104.813461, Intensity: 0.500000
+'miss (pronoun)', Angle: NaN, Intensity: 0.000000
+'miss a buss', Angle: 180.465805, Intensity: 0.490000
+'miss a chance', Angle: 179.075958, Intensity: 0.500000
+'miss a day of', Angle: NaN, Intensity: 0.000000
+'miss a target', Angle: 180.000000, Intensity: 0.500000
+'miss a train', Angle: 179.541641, Intensity: 0.500000
+'miss out on', Angle: 179.545288, Intensity: 0.500000
+'miss the deadline', Angle: 180.000000, Intensity: 0.500000
+'miss the opportunity', Angle: 179.097778, Intensity: 0.510000
+'missing', Angle: 139.297394, Intensity: 0.490000
+'missing in action', Angle: 136.952515, Intensity: 0.500000
+'modest food ', Angle: 98.880661, Intensity: 0.390000
+'modest meal', Angle: 100.539185, Intensity: 0.350000
+'modest quality', Angle: 180.454712, Intensity: 0.500000
+'no such luck', Angle: 138.856796, Intensity: 0.500000
+'nuclear fallout', Angle: 180.327408, Intensity: 0.700000
+'out of date', Angle: NaN, Intensity: 0.000000
+'out of luck', Angle: 135.643738, Intensity: 0.500000
+'poor health', Angle: 158.270203, Intensity: 0.590000
+'population overflow', Angle: 180.000000, Intensity: 0.500000
+'river overflows', Angle: 190.856415, Intensity: 0.590000
+'rough (me/her/him/us/them) up', Angle: 252.143768, Intensity: 0.630000
+'rough behavior', Angle: 188.246323, Intensity: 0.560000
+'rough justice', Angle: 188.691315, Intensity: 0.640000
+'rough lesson', Angle: 188.376007, Intensity: 0.660000
+'rough up', Angle: 249.756317, Intensity: 0.600000
+'ruin [v]', Angle: 247.846649, Intensity: 0.600000
+'simpleton', Angle: 104.601273, Intensity: 0.490000
+'slip into madness', Angle: 159.573975, Intensity: 0.620000
+'smear campaign', Angle: 191.592178, Intensity: 0.640000
+'stumbling block', Angle: 114.934296, Intensity: 0.500000
+'tear [n]', Angle: NaN, Intensity: 0.000000
+'tear [v]', Angle: 213.358246, Intensity: 0.570000
+'the many cares of', Angle: 181.374832, Intensity: 0.500000
+'thrash', Angle: 103.371330, Intensity: 0.500000
+'too costly', Angle: 122.053490, Intensity: 0.500000
+'too expensive', Angle: 121.667213, Intensity: 0.500000
+'total farce', Angle: 99.796211, Intensity: 0.560000
+'tough break', Angle: 135.000000, Intensity: 0.500000
+'trap [n]', Angle: 114.934296, Intensity: 0.500000
+'trap [v]', Angle: 195.945389, Intensity: 0.500000
+'trash [n]', Angle: 104.813461, Intensity: 0.500000
+'trash [v]', Angle: 203.078217, Intensity: 0.500000
+'trial and conviction', Angle: 189.706650, Intensity: 0.620000
+'uninteresting', Angle: 123.562744, Intensity: 0.500000
+'unusable', Angle: 105.694923, Intensity: 0.500000
+'utter fabrication', Angle: 157.750977, Intensity: 0.570000
+'utter farce', Angle: 100.370735, Intensity: 0.620000
+'vice [n]', Angle: 180.000000, Intensity: 0.500000
+'went to its grave', Angle: 179.534180, Intensity: 0.490000
+'wildfire', Angle: 230.092117, Intensity: 0.570000
+'writer's block', Angle: 147.867096, Intensity: 0.570000
+'wrong', Angle: 179.587799, Intensity: 0.560000
+'wrought havoc', Angle: 228.918243, Intensity: 0.620000
+'wrought with errors', Angle: 157.932098, Intensity: 0.640000
+'wrought with evil', Angle: 157.796509, Intensity: 0.640000
+'wrought with fraud', Angle: 180.353668, Intensity: 0.650000
+'wrought with sadness', Angle: 165.027130, Intensity: 0.710000
+'you are fired', Angle: 180.309708, Intensity: 0.740000
+'you are nuts', Angle: 103.309181, Intensity: 0.380000

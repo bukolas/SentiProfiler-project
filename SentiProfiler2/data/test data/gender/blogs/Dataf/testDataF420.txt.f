@@ -1,0 +1,1 @@
+But our first priority was to enjoy a Sunday buffet lunch at Kusina Salud. I have heard of it from a friend, and was told that it was partly owned by renowned designer, Patis Tesoro. It was becoming more popular by the minute, so it was always better to make reservations ahead of time.

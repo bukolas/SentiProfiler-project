@@ -1,0 +1,1 @@
+Some years ago before my mother had passed away she loved to bead and boy did she ever bead the most beautiful of pieces! I thought that today I would show you what she had made for me one St. Patrick's Day that I really treasure now.

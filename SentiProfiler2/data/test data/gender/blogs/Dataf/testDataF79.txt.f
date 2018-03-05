@@ -1,0 +1,7 @@
+Work has been pretty exhausting lately due to the fact that lots of my students have horrid home lives, which eats me up. I think about them 24/7 and haven't even been sleeping well lately because I feel so burdened with all this. It's just not fair, and the worst part is that the system is faulty, so even when the correct people are notified, nothing changes. It's tragic. We just love on them as much as we can while they are with us, and then pray for them when they get on that bus in the afternoon. It's heart breaking. Needless to say, I am so pumped for Spring Break and I'm ready for the fun and stress-free activities. We aren't doing anything near as cool as we did last year, but we do have some good local stuff planned...
+Saturday-going out to eat and downtown (Ft. Worth) with a big group of friends. FUN!!!
+Sunday-headed to Ray Roberts Lake State Park to meet my cousins and Uncle for a day of nature and relaxing.
+Zac has track practice each morning Monday-Wednesday, but I plan on sleeping late! ;)
+Tuesday night we are taking the distance runners (the athletes Zac coaches) out to eat and to bowl. It will be lots of fun and the kids have already been asking about it.
+Thursday night Liz, Andy, Madeline and Owen will arrive to stay for the weekend. We are going to hang out and have fun around here Friday, and then Saturday the McKinney cousins and their families are coming down for the day. Yay!
+Anyways, doesn't sound like much, but I know the week will FLY by!!

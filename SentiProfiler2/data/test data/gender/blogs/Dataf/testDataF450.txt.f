@@ -1,0 +1,1 @@
+After our sumptuous meal, we proceeded to our respective huts on stilts and fell into sound sleep. The morning chill and the light peaking through the bamboo slits of our window woke us up. Dawn has come but it seemed the sun was nowhere in sight. We dressed up and went out of our cottages to be greeted by the breathtaking view of the water. So, this is Malatapay Beach.

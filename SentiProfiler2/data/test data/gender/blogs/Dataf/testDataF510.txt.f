@@ -1,0 +1,5 @@
+7th Std - that was when I knew her first and over the next four years - I did think she was this very pretty girl with a very pretty smile who could talk well, but someone with loads of attitude and someone who could get into fights & arguments at the drop of a hat.
+
+Don't know what created that opinion, but it stayed through out the four years that knew her. and then, the girls of E sections in 9th Std & 10th Std were kind of known for having attitude... and it was taken for granted she was one among them after all!
+
+But 6 years later on, meeting again in Orkut and our communication over the past 1.5 years has completely changed my opinion about her - no.. not the opinion about her being a pretty girl, but her being a fighter-cock! And now I can go all out & tell how sweet, how nice, how warm and how friendly she can be! And she has also shown how strong a person can get to be in life!

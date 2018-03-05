@@ -1,0 +1,1 @@
+I own a small natural health supplement store in San Diego and Lavada has been my top selling product by a landslide.  It contains the full array of vitamins and minerals for women's everyday health plus additional probiotics, herbs and botanicals to maintain our natural feminine health.  It's no surprise why women have been flocking to my store for Lavada.

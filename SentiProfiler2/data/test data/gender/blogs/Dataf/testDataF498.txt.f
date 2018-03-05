@@ -1,0 +1,1 @@
+PART2:He's a deep thinker,startegic decision maker and diligent worker who will ultimately become not just a manager but a humane and charismatic business leader one day.In my opinion,he is already an MBA-"Machi with the Best Attitude".I'm so lucky to have him as my friend.Buddy,Wish u thumping success in all ur endeavours.ATB....Rock on!!!!!

@@ -1,0 +1,1 @@
+First off, Dw went as part of a leadership team from our denomination to assess how exactly to plant an orphanage(s). He was told before he left, that they knew that Dw's appointment was a divine assignment because of all the orphanages he has been part of, volunteered at, and supported. They also loved that we have adopted 7 kids ourselves. {I love that part too

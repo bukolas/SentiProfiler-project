@@ -1,0 +1,3 @@
+“These stories are what Washington does,” Axelrod, a former Chicago Tribune reporter, said in an interview that aired on CNN’s State of the Union. “When people think there are political challenges, then the ‘palace intrigue’ stories get written and so on. We are a tight group. We are all committed to the same thing and I would discount those stories.”
+
+On a more personal note, Axelrod also spoke favorably of Emanuel, who has a reputation for sometimes being rough around the edges in his political dealings with allies and foes.

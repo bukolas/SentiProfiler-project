@@ -1,0 +1,1 @@
+THE CHATTERBOX, i would call her, she keeps talking throughout (interesting though) i spend my entire time in the college bus every morning, listening to music sharing a single earfone.. she is really, friendly, helpful and understanding. she helps u out even before u approach her. a great friend indeed!

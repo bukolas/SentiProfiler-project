@@ -1,0 +1,1 @@
+THe NFL Hall of Famer was one of the greatest defensive linesmen of our time when he played for the Los Angeles Rams as part of the 'fearsome foursome,' and then embarked on a successful television career.

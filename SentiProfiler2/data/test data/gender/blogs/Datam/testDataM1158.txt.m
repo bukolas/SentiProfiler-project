@@ -1,0 +1,7 @@
+1. They appear different to different eyes:
+
+Visit two homes, perhaps in the same street, in which there is similar trouble—sickness, or bereavement, or failure in business, or sore poverty. In one, all is gloom, repining, comfortless perplexity. In the other, there is light in the darkness, a rainbow on the storm.
+
+To one sufferer God’s ways are hard, dark, mysterious; he is even ready to think them unjust. The other says, “I could not bear it in my own strength, but the Lord stands by me and strengthens me. God’s will must be right. He cannot make mistakes or be unfaithful. He is my Refuge and Strength.” So with God’s government of the world and general providence. One mind fastens on the pain, sorrow, calamity, which every hour records—pestilence, earthquake, tempest, and so forth. Another sees that the universal design and general working of all natural laws is for good and happiness, not evil; that the main part of human suffering has its root in sin; that “the earth is full of the goodness of the Lord;” and trusts God for the rest.
+
+2. God’s dealings not only appear different; they are and must be different, according to the temper and attitude of our souls. To the soul that bows under God’s hand, trusts his Word, clings closer to him in trial, it is “chastening”—full of mercy, rich in result (Heb. 12:6, etc.). The proud, stubborn heart, that resents and rebels against affliction, is hardened by it, like Pharaoh.

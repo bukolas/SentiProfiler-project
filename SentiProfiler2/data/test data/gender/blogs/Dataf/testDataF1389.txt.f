@@ -1,0 +1,2 @@
+This company is great.  Its a new company but its stock will truly show just how much.  They have reached some high profit numbers.  Soon to be again, and steady!
+I look for Metro to become more diverse and expect them to take on a nice share of the cellular market from the "big guys" and make it more affordable to all.

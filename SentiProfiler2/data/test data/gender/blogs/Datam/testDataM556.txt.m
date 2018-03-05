@@ -1,0 +1,3 @@
+No, I am not going to write about what I think of God. But, I am going to talk about the gods hanging on our walls. Everyone has a calendar to give you at the beginning of the new year which has the most beautiful of god pictures on them. So, you find it cute, get it home, put it on your desk, hang it on the wall.
+
+After a year, when it has collected dust (ok maybe yours does not, mine does!) and has faded, what do you do about it?

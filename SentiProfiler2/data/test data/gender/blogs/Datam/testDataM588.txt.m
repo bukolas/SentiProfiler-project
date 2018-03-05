@@ -1,0 +1,1 @@
+Nithin a lovable friend of mine. i used to share him many matters. he too shares with me his views. He is jovial type. he does anything for a friend. he is really a care taker of mine.he is a friend of mine from LKG itself.hope we will be friends life long. we cant forget our school days in life.best of luck da mapila

@@ -1,0 +1,7 @@
+Yes, that’s an unabashed cop from the Barney Stinson playbook, but given the film in question, we’re pretty sure he’d approve, especially since among the plot keywords listed for “Bitch Slap” on IMDb are such gems as “breasts,” “sex,” “stripper,” “beautiful woman, “female nudity,” and – wait for it – “lesbian scene.” Mind you, you also get “non-linear timeline,” “nun,” “Tourette’s Syndrome,” and “yo-yo,” but let’s not lose our focus here. Here’s the two-sentence summary of “Bitch Slap” that’s been floating around the internet:
+
+When three curvaceous babes arrive at a desert hideaway to steal over $200 million from an underworld kingpin, things quickly spiral out of control. Allegiances are switched, truths are revealed, criminals are unmasked and nothing is quite what it seems as the fate of the world is precariously balanced among this trio of sexy femmes fatales.
+
+“Bitch Slap” is definitely an acquired taste, with its attempt to offer up a tongue-in-cheek version of the kind of motion pictures that are virtual parodies to begin with, but if you approach it with the right mindset, it’s a laugh riot. It also looks gorgeous, and that’s even when the aforementioned trio of curvaceous babes aren’t on the screen, but when they are…? Look out.
+
+Bullz-Eye had a chance to chat with one of those lovely ladies – Erin Cummings, who plays Hel – in conjunction with the release of “Bitch Slap” on DVD…and when we did, you can bet we made sure to ask her about as many of those plot keywords as possible.

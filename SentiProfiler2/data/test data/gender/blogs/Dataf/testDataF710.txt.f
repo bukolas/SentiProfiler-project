@@ -1,0 +1,2 @@
+I had a very bad experience at the Framingham, Massachusetts Enterprise at 298 Worcester Road. My experience at the location at 1701 West Hillsboro Boulevard in Deerfield Beach, Florida was so outstanding I have to rave.
+My mom had a fender bender so her car was in the shop. When I arrived in Florida I called Enterprise. She had already contacted them because it went through her insurance company. When I called they said they’d have Wayne are our condo within 20 minutes. Five minutes because Wayne arrived he called to let us know he was close by – and right on time.

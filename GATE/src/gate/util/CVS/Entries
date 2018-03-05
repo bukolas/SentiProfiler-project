@@ -1,0 +1,84 @@
+/AbstractFeatureBearer.java/1.1/Thu Jan 13 16:51:03 2011//
+/AbstractNameBearer.java/1.1/Thu Jan 13 16:51:03 2011//
+/AnnotationDiffer.java/1.1/Thu Jan 13 16:51:03 2011//
+/AnnotationMerging.java/1.1/Thu Jan 13 16:51:03 2011//
+/Benchmark.java/1.1/Thu Jan 13 16:51:03 2011//
+/Benchmarkable.java/1.1/Thu Jan 13 16:51:03 2011//
+/BomStrippingInputStreamReader.java/1.1/Thu Jan 13 16:51:03 2011//
+/ClassificationMeasures.java/1.1/Thu Jan 13 16:51:03 2011//
+/ClosableIterator.java/1.1/Thu Jan 13 16:51:03 2011//
+/Coordinates.java/1.1/Thu Jan 13 16:51:03 2011//
+/CorpusBenchmarkTool.java/1.1/Thu Jan 13 16:51:03 2011//
+/CorpusSaver.java/1.1/Thu Jan 13 16:51:03 2011//
+/CreoleXmlUpperCaseFilter.java/1.1/Thu Jan 13 16:51:03 2011//
+/DocumentFormatException.java/1.1/Thu Jan 13 16:51:03 2011//
+/DocumentProcessor.java/1.1/Thu Jan 13 16:51:03 2011//
+/Err.java/1.1/Thu Jan 13 16:51:03 2011//
+/ExtensionFileFilter.java/1.1/Thu Jan 13 16:51:03 2011//
+/FeatureBearer.java/1.1/Thu Jan 13 16:51:03 2011//
+/Files.java/1.1/Thu Jan 13 16:51:03 2011//
+/FindScripts.tcl/1.1/Thu Jan 13 16:51:03 2011/-kb/
+/GateClassLoader.java/1.1/Thu Jan 13 16:51:03 2011//
+/GateException.java/1.1/Thu Jan 13 16:51:03 2011//
+/GateRuntimeException.java/1.1/Thu Jan 13 16:51:03 2011//
+/GateSaxException.java/1.1/Thu Jan 13 16:51:03 2011//
+/HashMapLong.java/1.1/Thu Jan 13 16:51:03 2011//
+/HtmlLinksExtractor.java/1.1/Thu Jan 13 16:51:03 2011//
+/IdBearer.java/1.1/Thu Jan 13 16:51:03 2011//
+/InvalidDatabaseException.java/1.1/Thu Jan 13 16:51:03 2011//
+/InvalidOffsetException.java/1.1/Thu Jan 13 16:51:03 2011//
+/JarFiles.java/1.1/Thu Jan 13 16:51:03 2011//
+/Javac.java/1.1/Thu Jan 13 16:51:03 2011//
+/LanguageAnalyserDocumentProcessor.java/1.1/Thu Jan 13 16:51:03 2011//
+/LaxErrorHandler.java/1.1/Thu Jan 13 16:51:03 2011//
+/LazyProgrammerException.java/1.1/Thu Jan 13 16:51:03 2011//
+/LuckyException.java/1.1/Thu Jan 13 16:51:03 2011//
+/MethodNotImplementedException.java/1.1/Thu Jan 13 16:51:03 2011//
+/NameBearer.java/1.1/Thu Jan 13 16:51:03 2011//
+/NameComparator.java/1.1/Thu Jan 13 16:51:03 2011//
+/NoSuchObjectException.java/1.1/Thu Jan 13 16:51:03 2011//
+/ObjectComparator.java/1.1/Thu Jan 13 16:51:03 2011//
+/ObjectPool.java/1.1/Thu Jan 13 16:51:03 2011//
+/ObjectWriter.java/1.1/Thu Jan 13 16:51:03 2011//
+/OffsetComparator.java/1.1/Thu Jan 13 16:51:03 2011//
+/OntologyMeasures.java/1.1/Thu Jan 13 16:51:03 2011//
+/OpenTransactionsException.java/1.1/Thu Jan 13 16:51:03 2011//
+/OptionsMap.java/1.1/Thu Jan 13 16:51:03 2011//
+/OrderByRestriction.java/1.1/Thu Jan 13 16:51:03 2011//
+/Out.java/1.1/Thu Jan 13 16:51:03 2011//
+/Pair.java/1.1/Thu Jan 13 16:51:03 2011//
+/ProcessManager.java/1.1/Thu Jan 13 16:51:03 2011//
+/ProgressPrinter.java/1.1/Thu Jan 13 16:51:03 2011//
+/RBTreeMap.java/1.1/Thu Jan 13 16:51:03 2011//
+/RawEditorKit.java/1.1/Thu Jan 13 16:51:03 2011//
+/ReloadingClassLoader.java/1.1/Thu Jan 13 16:51:03 2011//
+/Restriction.java/1.1/Thu Jan 13 16:51:03 2011//
+/Scratch.java/1.1/Thu Jan 13 16:51:03 2011//
+/ScriptsList.tcl/1.1/Thu Jan 13 16:51:03 2011/-kb/
+/SimpleArraySet.java/1.1/Thu Jan 13 16:51:03 2011//
+/SimpleFeatureMapImpl.java/1.1/Thu Jan 13 16:51:03 2011//
+/SimpleMapImpl.java/1.1/Thu Jan 13 16:51:03 2011//
+/SimpleSortedSet.java/1.1/Thu Jan 13 16:51:03 2011//
+/Strings.java/1.1/Thu Jan 13 16:51:03 2011//
+/TemplateLaxErrorHandler.java/1.1/Thu Jan 13 16:51:03 2011//
+/TestAnnotationMerging.java/1.1/Thu Jan 13 16:51:03 2011//
+/TestApplication.java/1.1/Thu Jan 13 16:51:03 2011//
+/TestClassificationMeasures.java/1.1/Thu Jan 13 16:51:03 2011//
+/TestDiffer.java/1.1/Thu Jan 13 16:51:03 2011//
+/TestEqual.java/1.1/Thu Jan 13 16:51:03 2011//
+/TestFeatureMap.java/1.1/Thu Jan 13 16:51:03 2011//
+/TestFiles.java/1.1/Thu Jan 13 16:51:03 2011//
+/TestJavac.java/1.1/Thu Jan 13 16:51:03 2011//
+/TestRBTreeMap.java/1.1/Thu Jan 13 16:51:03 2011//
+/TestReload.java/1.1/Thu Jan 13 16:51:03 2011//
+/TestTemplate.java/1.1/Thu Jan 13 16:51:03 2011//
+/TestTools.java/1.1/Thu Jan 13 16:51:03 2011//
+/Tools.java/1.1/Thu Jan 13 16:51:03 2011//
+D/ant////
+D/compilers////
+D/persistence////
+D/profile////
+D/protocols////
+D/reporting////
+D/spring////
+D/web////

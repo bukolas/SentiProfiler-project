@@ -1,0 +1,1 @@
+I have just always been a Chevy or Gm kind of guy. The worst thing I ever did was trade in the 72 Cutless Supreme, SWEET!

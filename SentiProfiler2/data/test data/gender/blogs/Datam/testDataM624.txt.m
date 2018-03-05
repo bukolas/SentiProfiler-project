@@ -1,0 +1,3 @@
+shanks a guy who doesn't fail to astonish people with his cool balance of life.. does "evrything" ther is to do in coll & yet maintains a cool rapport about him..! easily judged for a carefree guy,.how wrong can U be.!!! his GK skills ->>infinity. has something to say about evrything!!. uses !lol! at the most inappropriate places while chatting..lol.!!.. very outspoken.,sometimes can be very obnoxious about how he uses his word power...!!(danger..!!his vocab is a double edged sword !!)
+His style of speech is somewhere between awesome & too good.(ithu podhum nenaakuraen..)
+2 sum up one hell of a pirichivudals/ulitimate guy..!! lol !!!

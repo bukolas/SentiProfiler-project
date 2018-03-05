@@ -1,0 +1,9 @@
+Well. Here's an album that should require no introduction for those of you who grew up, or reached prime headbanging age, during the grunge '90s.
+
+Houdini was The Melvins' first album for major label, Atlantic, and came out at a time when many "alternative" rock bands were riding the crest of the post-Nirvana wave. In fact, long-time friend of The Melvins and scene prince, Kurt Cobain shares a producer credit on the album and even lends instrumentation on two of its tracks.
+
+Amazing how these things work out, considering The Melvins were one of the originators of the heavy metal-punk hybrid that came to be known as "the Seattle Sound". First to wail, and among the last to get a big record deal.
+
+I listened to this album on Grooveshark the other night for what had to be the first time in over 10-12 years. Just as awesome as I remembered it, and I was surprised to find that I remembered most of the songs (I never owned a copy and was usually pulling this one out of my friends' collections). This 14 song version seems to be pulled from a Japanese CD release which includes the MC5 cover, "Rocket Reducer No. 62" .
+
+Rather than wade through a track-by-track highlight reel, let me just assure you that this album rocks heavily and should have you banging your head in no time. You may run out of steam by the time you get to the latter part of the record, with its more difficult, noisy percussion tracks. Still, the surprising catchiness and monster riffs of Houdini's earlier tunes, along with the faithfully executed MC5 closer, may leave you wondering if it's actually legal for one band to kick so much ass.

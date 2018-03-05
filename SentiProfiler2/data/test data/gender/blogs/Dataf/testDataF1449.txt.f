@@ -1,0 +1,1 @@
+I have flown with Thai Air several times and each time it has been fabulous. I always choose to fly with them even if they are more expensive than other airlines. They have great food, and a lot of it....be prepared for a minimum of 5 to 6 meals on your trans-pacific flight. Stewardess's uniforms are always colorful and very beautiful.

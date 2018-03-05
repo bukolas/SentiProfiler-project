@@ -1,0 +1,1 @@
+I was in a car accident and needed a rental car until mine was fixed. I called up Enterprise and they set me up with the same type of vehicle that I own, so I didn't have to get readjusted to another type of vehicle. They were fast, freindly, and very helpful. And just like the commercial says, I called Enterprise and they picked me up.

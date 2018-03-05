@@ -1,0 +1,1 @@
+I had planned a whole big post for yesterday, but as you may have noticed, I missed my blogligation yesterday. Yup, that's right, I fucked up again. Oh well, I'm over worrying about it these days. If I remember, I remember, if I don't I don't.

@@ -1,0 +1,1 @@
+Men have more muscle mass, which burns fat therefore their metabolism is more active allowing them to burn off calories easier. Also, Men are socialized to want different foods than women like meats and starches, its not masculine for a man to crave a box of chocolates

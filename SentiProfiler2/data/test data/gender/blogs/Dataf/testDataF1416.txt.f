@@ -1,0 +1,3 @@
+In a medium saucepan combine chicken broth, water, onion, brown rice, red pepper, and garlic.  Bring to boiling; reduce heat.  Simmer, covered, for 20 minutes.  Stir in lentils.  Simmer, covered for 25 minutes more or until rice and lentils are tender.  Remove from heat.
+2.     Add garbanzo beans to saucepan; use a potato masher to mash mixture.  Stir in oats.  Let stand for 5 minutes
+3.     Meanwhile, combine egg whites, basil, Worchestshire, and salt; add to lentil-rice mixture in pan, stirring to combine.  Stir in nuts.

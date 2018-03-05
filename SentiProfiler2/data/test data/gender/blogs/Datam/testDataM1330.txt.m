@@ -1,0 +1,1 @@
+The rain eased off and a glowing purple and red sun began to set, apologising for all the stress and danger we had been through that day. The beach was empty, peaceful and calm.

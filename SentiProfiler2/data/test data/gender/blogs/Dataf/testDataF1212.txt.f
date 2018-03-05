@@ -1,0 +1,1 @@
+Last stop was the ship wreck. It wasn’t buried deep and could be seen from the surface. Some of us circled the ship and found that the corals have claimed most of the ship. It has become a home to many fishes as well, reminding me of a scene in the animation movie, Shark Tale.

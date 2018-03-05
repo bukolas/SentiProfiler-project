@@ -1,0 +1,9 @@
+I just finished, well, started and finished, the Twilight series over the weekend. I've been sick, so I've had some extra time on my hands.
+
+As a literature minor, I'd been curious about the books I'd heard were "well written." I wanted to read them to see what the big deal was.
+
+Starting the books, I was initially annoyed. The melodramatic character of Bella Swan is a whiny (irritatingly so), obsessive, dark, misunderstood misfit, or so she feels. But, as I continued the first book, I got attached to its brilliance. Stephanie Meyer captures the emotions, passion, fear and romance for her primary audience of romantically inexperienced preteen and teenage girls. She creates an overwhelming dichotomy of passionate love and perfect friendship with the characters of Edward Cullen and Jacob Black.
+
+In the end, I would never call the series a literary masterpiece. However, its brilliance to entrap the hearts of girls everywhere is undeniable. Even as I was reading it, I felt myself believing in what Edward and Bella have, despite knowing how unrealistic their relationship is, outside of the whole vampire thing.
+
+Deep down, every girl wants an "Edward"--a man who is incredibly passionate, who believes and shares with her that he would die without her. She wants a love relationship where the spark never dies, where every kiss is more intense than the last and where the chemistry tears through her insides. And, she wants a man who longs for her to be with him at all times, who misses her intensely when they are apart, who protects her in every situation and who knows without a doubt that she is his soulmate.

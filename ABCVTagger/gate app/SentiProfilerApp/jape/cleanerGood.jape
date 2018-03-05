@@ -1,0 +1,25 @@
+Phase:cleanerGood
+Input: Lookup Token
+Options: control = all
+
+
+Rule: cleaningGood
+//Priority:30
+
+({Token.category=="DT"})
+({Token.root=="good",Lookup.type=="instance"}):ungood
+
+-->
+{
+
+gate.AnnotationSet ungood = (gate.AnnotationSet) bindings.get("ungood");
+gate.Annotation ann3 = (gate.Annotation) ungood.iterator().next();
+Iterator lookupsIter3 = inputAS.get(ann3.getStartNode().getOffset()).get("Lookup").iterator();
+
+while(lookupsIter3.hasNext()){
+gate.Annotation anAnnot3 = (gate.Annotation)lookupsIter3.next();
+inputAS.remove(anAnnot3);
+}
+
+}
+

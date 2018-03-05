@@ -1,0 +1,28 @@
+Phase:cleanerGetTo
+Input: Lookup Token
+Options: control = all
+
+
+Rule: cleaningGetTo
+//Priority:30
+
+//(({Token.category=="RB"})?({Token.root=="get"}{Token.category==~"VB.*"}))|
+({Token.category==~"PRP.*"})?
+({Token.root=="get"}):unget
+({Token.root=="to"}({Token.category==~"VB.*"}|{Token.category=="NN"}))
+
+-->
+{
+
+
+gate.AnnotationSet unget = (gate.AnnotationSet) bindings.get("unget");
+gate.Annotation ann4 = (gate.Annotation) unget.iterator().next();
+Iterator lookupsIter4 = inputAS.get(ann4.getStartNode().getOffset()).get("Lookup").iterator();
+
+while(lookupsIter4.hasNext()){
+gate.Annotation anAnnot4 = (gate.Annotation)lookupsIter4.next();
+inputAS.remove(anAnnot4);
+}
+
+
+}

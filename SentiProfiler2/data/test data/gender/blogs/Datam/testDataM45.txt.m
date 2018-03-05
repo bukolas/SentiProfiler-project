@@ -1,0 +1,12 @@
+THE REVENG OF THE 'GEEK'!! -  Well ,I am supposed to be Preparing my Market Research questionairre right now... but as my mind is ... it keeps me away from anything important i try to do and brings me back to things like blogging n chatting!!
+
+So , While I was preparing the survey questions ... I realized that all that is happening in this world right now is marketing and business. Companies today rely more on the marketing and advertising than on the quality on their products. They hire the best MBA people in the hope that they can lure more customers into buying their products. And this is the reason more and more people today see more oppertunity in MBA. Even in an Engineering course , companies see the communication skill and marketing appeal of the candidate more than his technical capabilities. That is , if you do not have good communication skills , you cannot expect to get placed in a company even if you have great tecchnical skills.
+
+Even during our UFMR( User Friendly Market Research) class ... all we learn is how to fool people into buying a particulatar product. And questionnaires and surveys are some amazzing analyzing tools which ask people ' HOW THEY CAN BE FOOLED INTO BUYING A PRODUCT ??'
+A great example for this is DOVE SOAP , which , on the pretext of reducing the contact area of water and soap so as to reduce wastage of soap due to melting , gave a curved shape to its soap , reducing the overall volume of the soap in the process.And it ws portrayed as a pathbreaking idea while all the company did was to reduce the volume and increase the price.
+
+The best example for this, though, would be POLO - The Mint With A Hole. Even the tagline shouts at peoples faces that it is again reducing its volume by cutting a hole in the tablet. But by the sheer power of marketing , the company was not only able to turn it into a grand success but it made the line - 'A MINT WITH A HOLE' a USP for the product. And to add cherry on top , they released the cut holes as another product too!!
+
+So , no offence to marketing people , but i believe that marketing is just an art of fooling people and Market Research is the art of asking the people how best to fool them!!( No offence to my UFMR sir too...)
+
+That is why , I believe that in today the world needs more and more geeks, who can develop the products he way they were supposed to be and sell them on the basis of their quality, not on the basis of driving the consumer's mind. And when the time comes when 'the world is run by geeks' , it surely will be a better place to live in .

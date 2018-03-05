@@ -1,0 +1,1 @@
+I graduated Culinary Arts school in to years  and started to working at a steak house. I have also worked hotels I like hotels because I can work banquets, sautéing, broiler cooking and baking. I worked Executive Chef, Working Chef, Sous Chef, Banquet Chef and Line Cook. I have worked in a lot of Restaurants and the Arrowhead Country Club.

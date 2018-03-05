@@ -1,0 +1,5 @@
+As the ministry of Partners for Care expands, God brings people to help us.  We plan to feature these people through our Partner Profiles. You will hear from them how they have a heart for those God calls them to serve. The first Partner Profile features Bridgette Boylan. I have known Bridgette only for a short time but it seems like she has always been a part of our ministry.  She is passionate and compassionate. She is energetic and enthusiastic. She has become a real partner to me personally and to the ministry... AND, she is raising funds to buy the team in Kenya a van. Those of you who have been in Kenya with us know we need a van to reach the people of Kenya with the messages of HIV/Aids prevention and salvation.  Some of you have even pushed the PFC van more than once to get it to start! Please see her profile below and help if you can. If you have a small group Bridgette would love to come and speak to them about how God interrupted her life when she went to Kenya.
+
+Thanking God for Bridgette - our partner in reaching the lost and helping the hurting,
+
+Connie

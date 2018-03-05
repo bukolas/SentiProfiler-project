@@ -1,0 +1,1762 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://somewere/emotions/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://somewere/emotions/merriment">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/merriment"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/with_happiness">
+    <rdf:type rdf:resource="http://somewere/emotions/happiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/excitement">
+    <rdf:type rdf:resource="http://somewere/emotions/exhilaration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/with_sympathy">
+    <rdf:type rdf:resource="http://somewere/emotions/empathy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sympathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/frisson">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-fear"/>
+    <rdf:type rdf:resource="http://somewere/emotions/frisson"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/dauntlessly">
+    <rdf:type rdf:resource="http://somewere/emotions/fearlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/glee">
+    <rdf:type rdf:resource="http://somewere/emotions/hilarity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gloat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/satisfying">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jump_for_joy">
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/endearingly">
+    <rdf:type rdf:resource="http://somewere/emotions/love"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lift_up">
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exhilarated">
+    <rdf:type rdf:resource="http://somewere/emotions/exhilaration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bewitch">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/comfortableness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/belonging"/>
+    <rdf:type rdf:resource="http://somewere/emotions/comfortableness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/elate">
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/carefreeness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/cheerfulness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/carefreeness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hearten">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hopefully">
+    <rdf:type rdf:resource="http://somewere/emotions/hopefulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/amicability">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/friendliness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/amicability"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/affectionateness">
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/happy">
+    <rdf:type rdf:resource="http://somewere/emotions/happiness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/contentment"/>
+    <rdf:type rdf:resource="http://somewere/emotions/euphoria"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/giving_protection">
+    <rdf:type rdf:resource="http://somewere/emotions/protectiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/entrance">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/happiness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/happiness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/closeness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/belonging"/>
+    <rdf:type rdf:resource="http://somewere/emotions/closeness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bang">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/exhilaration"/>
+    <rdf:type rdf:resource="http://somewere/emotions/bang"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heart">
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enchantment">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exultingly">
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/wallow">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/quiet">
+    <rdf:type rdf:resource="http://somewere/emotions/placidity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/captivating">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/satisfaction">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/contentment"/>
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/elation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/phlegm">
+    <rdf:type rdf:resource="http://somewere/emotions/coolness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mirthfulness">
+    <rdf:type rdf:resource="http://somewere/emotions/hilarity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/taste">
+    <rdf:type rdf:resource="http://somewere/emotions/preference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cheerfully">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/contentment">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/contentment"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/peace">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/tranquillity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/peace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/perkiness">
+    <rdf:type rdf:resource="http://somewere/emotions/buoyancy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/self-esteem">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/self-pride"/>
+    <rdf:type rdf:resource="http://somewere/emotions/self-esteem"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/teased">
+    <rdf:type rdf:resource="http://somewere/emotions/titillation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/commendable">
+    <rdf:type rdf:resource="http://somewere/emotions/admiration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hope">
+    <rdf:type rdf:resource="http://somewere/emotions/hopefulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/positive-fear">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/positive-fear"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/allay">
+    <rdf:type rdf:resource="http://somewere/emotions/easiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enchanting">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/content">
+    <rdf:type rdf:resource="http://somewere/emotions/contentment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/favorable">
+    <rdf:type rdf:resource="http://somewere/emotions/favor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/flush">
+    <rdf:type rdf:resource="http://somewere/emotions/bang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/appreciativeness">
+    <rdf:type rdf:resource="http://somewere/emotions/gratefulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/affectional">
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/protectively">
+    <rdf:type rdf:resource="http://somewere/emotions/protectiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/likeable">
+    <rdf:type rdf:resource="http://somewere/emotions/liking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exhilaration">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exhilaration"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/comfortably">
+    <rdf:type rdf:resource="http://somewere/emotions/comfortableness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/smugness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/complacency"/>
+    <rdf:type rdf:resource="http://somewere/emotions/smugness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exultation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exuberance">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/enthusiasm"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exuberance"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fulfillment">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/satisfaction"/>
+    <rdf:type rdf:resource="http://somewere/emotions/fulfillment"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/rush">
+    <rdf:type rdf:resource="http://somewere/emotions/bang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mirthful">
+    <rdf:type rdf:resource="http://somewere/emotions/jollity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jocundity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/easily">
+    <rdf:type rdf:resource="http://somewere/emotions/easiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fascination">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/beneficence">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/benevolence"/>
+    <rdf:type rdf:resource="http://somewere/emotions/beneficence"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gleefulness">
+    <rdf:type rdf:resource="http://somewere/emotions/hilarity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/warmheartedness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/lovingness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/warmheartedness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/delighted">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/quietude">
+    <rdf:type rdf:resource="http://somewere/emotions/tranquillity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gusto">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/enthusiasm"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gusto"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/thankful">
+    <rdf:type rdf:resource="http://somewere/emotions/gratefulness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gratitude"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/emotive">
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/becharm">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unafraid">
+    <rdf:type rdf:resource="http://somewere/emotions/fearlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/euphoria">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/elation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/euphoria"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/warmhearted">
+    <rdf:type rdf:resource="http://somewere/emotions/warmheartedness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fulfil">
+    <rdf:type rdf:resource="http://somewere/emotions/fulfillment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/joyful">
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/reassured">
+    <rdf:type rdf:resource="http://somewere/emotions/security"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/serenity">
+    <rdf:type rdf:resource="http://somewere/emotions/peace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gratefully">
+    <rdf:type rdf:resource="http://somewere/emotions/gratefulness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gratitude"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/protectiveness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/affection"/>
+    <rdf:type rdf:resource="http://somewere/emotions/protectiveness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/favor">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/approval"/>
+    <rdf:type rdf:resource="http://somewere/emotions/favor"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tenderness">
+    <rdf:type rdf:resource="http://somewere/emotions/softheartedness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gladsomeness">
+    <rdf:type rdf:resource="http://somewere/emotions/gladness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enamour">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/uproariously">
+    <rdf:type rdf:resource="http://somewere/emotions/hilarity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enthusiasm">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/enthusiasm"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/relaxation">
+    <rdf:type rdf:resource="http://somewere/emotions/easiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/look_up_to">
+    <rdf:type rdf:resource="http://somewere/emotions/admiration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/at_ease">
+    <rdf:type rdf:resource="http://somewere/emotions/easiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/approved">
+    <rdf:type rdf:resource="http://somewere/emotions/approval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/good">
+    <rdf:type rdf:resource="http://somewere/emotions/benevolence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/soothe">
+    <rdf:type rdf:resource="http://somewere/emotions/comfortableness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bravery">
+    <rdf:type rdf:resource="http://somewere/emotions/fearlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/thankfulness">
+    <rdf:type rdf:resource="http://somewere/emotions/gratefulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gladfulness">
+    <rdf:type rdf:resource="http://somewere/emotions/gladness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/optimistically">
+    <rdf:type rdf:resource="http://somewere/emotions/optimism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/friendliness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/liking"/>
+    <rdf:type rdf:resource="http://somewere/emotions/friendliness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/self-complacency">
+    <rdf:type rdf:resource="http://somewere/emotions/complacency"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/admirable">
+    <rdf:type rdf:resource="http://somewere/emotions/admiration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/respect">
+    <rdf:type rdf:resource="http://somewere/emotions/regard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/prideful">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/complacency">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/satisfaction"/>
+    <rdf:type rdf:resource="http://somewere/emotions/complacency"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/devotion">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/love"/>
+    <rdf:type rdf:resource="http://somewere/emotions/devotion"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/levity">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/levity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/charm">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/euphoric">
+    <rdf:type rdf:resource="http://somewere/emotions/happiness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/euphoria"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/convinced">
+    <rdf:type rdf:resource="http://somewere/emotions/confidence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enchant">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/benevolence">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/love"/>
+    <rdf:type rdf:resource="http://somewere/emotions/benevolence"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fondly">
+    <rdf:type rdf:resource="http://somewere/emotions/love"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/soothing">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/eager">
+    <rdf:type rdf:resource="http://somewere/emotions/eagerness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/confident">
+    <rdf:type rdf:resource="http://somewere/emotions/confidence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/captivation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/liking"/>
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lightsomeness">
+    <rdf:type rdf:resource="http://somewere/emotions/carefreeness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/titillated">
+    <rdf:type rdf:resource="http://somewere/emotions/titillation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/relish">
+    <rdf:type rdf:resource="http://somewere/emotions/gusto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/kid">
+    <rdf:type rdf:resource="http://somewere/emotions/jollity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/positive-expectation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/positive-expectation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/be_on_cloud_nine">
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jovial">
+    <rdf:type rdf:resource="http://somewere/emotions/jollity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jocundity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/placid">
+    <rdf:type rdf:resource="http://somewere/emotions/placidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/romantic">
+    <rdf:type rdf:resource="http://somewere/emotions/amorousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fondness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/liking"/>
+    <rdf:type rdf:resource="http://somewere/emotions/fondness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/peaceable">
+    <rdf:type rdf:resource="http://somewere/emotions/peace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/impress">
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/puppy-love">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/love"/>
+    <rdf:type rdf:resource="http://somewere/emotions/puppy-love"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jubilance">
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/soft-spot">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/affection"/>
+    <rdf:type rdf:resource="http://somewere/emotions/soft-spot"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/insouciance">
+    <rdf:type rdf:resource="http://somewere/emotions/carefreeness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/positive">
+    <rdf:type rdf:resource="http://somewere/emotions/confidence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/blithely">
+    <rdf:type rdf:resource="http://somewere/emotions/happiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/approve">
+    <rdf:type rdf:resource="http://somewere/emotions/approval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enamoredness">
+    <rdf:type rdf:resource="http://somewere/emotions/amorousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pacifying">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tickle">
+    <rdf:type rdf:resource="http://somewere/emotions/titillation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/peaceably">
+    <rdf:type rdf:resource="http://somewere/emotions/peace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hero-worship">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/admiration"/>
+    <rdf:type rdf:resource="http://somewere/emotions/hero-worship"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/quieten">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/positive-languor">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/easiness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/positive-languor"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sympathy">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/liking"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sympathy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/joyous">
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/with_empathy">
+    <rdf:type rdf:resource="http://somewere/emotions/empathy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sympathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/entrancing">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jubilate">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/identify">
+    <rdf:type rdf:resource="http://somewere/emotions/identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/affective">
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/kindhearted">
+    <rdf:type rdf:resource="http://somewere/emotions/kindheartedness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/triumphantly">
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/affect">
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/admirably">
+    <rdf:type rdf:resource="http://somewere/emotions/admiration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/captivated">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/stimulating">
+    <rdf:type rdf:resource="http://somewere/emotions/exhilaration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lovesome">
+    <rdf:type rdf:resource="http://somewere/emotions/fondness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/like">
+    <rdf:type rdf:resource="http://somewere/emotions/liking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enthralling">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/amicableness">
+    <rdf:type rdf:resource="http://somewere/emotions/amicability"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hopeful">
+    <rdf:type rdf:resource="http://somewere/emotions/hopefulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/heartsease">
+    <rdf:type rdf:resource="http://somewere/emotions/peace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unworried">
+    <rdf:type rdf:resource="http://somewere/emotions/carefreeness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/chill">
+    <rdf:type rdf:resource="http://somewere/emotions/frisson"/>
+    <rdf:type rdf:resource="http://somewere/emotions/coolness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/serene">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/joyousness">
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/zest">
+    <rdf:type rdf:resource="http://somewere/emotions/gusto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pacifically">
+    <rdf:type rdf:resource="http://somewere/emotions/peace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gratifying">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/comfort">
+    <rdf:type rdf:resource="http://somewere/emotions/comfortableness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/smug">
+    <rdf:type rdf:resource="http://somewere/emotions/smugness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enthrallment">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jubilantly">
+    <rdf:type rdf:resource="http://somewere/emotions/happiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/reassuringly">
+    <rdf:type rdf:resource="http://somewere/emotions/security"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/captivate">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tranquillize">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/avidness">
+    <rdf:type rdf:resource="http://somewere/emotions/eagerness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/beneficed">
+    <rdf:type rdf:resource="http://somewere/emotions/beneficence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cheer_up">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/adoring">
+    <rdf:type rdf:resource="http://somewere/emotions/worship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/schadenfreude">
+    <rdf:type rdf:resource="http://somewere/emotions/gloat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/worshipful">
+    <rdf:type rdf:resource="http://somewere/emotions/worship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/self-pride">
+    <rdf:type rdf:resource="http://somewere/emotions/self-esteem"/>
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/self-pride"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/empathic">
+    <rdf:type rdf:resource="http://somewere/emotions/empathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gleeful">
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gloatingly">
+    <rdf:type rdf:resource="http://somewere/emotions/gloat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/esteem">
+    <rdf:type rdf:resource="http://somewere/emotions/admiration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/benefic">
+    <rdf:type rdf:resource="http://somewere/emotions/beneficence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/benevolent">
+    <rdf:type rdf:resource="http://somewere/emotions/benevolence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/appreciated">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cool_down">
+    <rdf:type rdf:resource="http://somewere/emotions/coolness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/softheartedness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-concern"/>
+    <rdf:type rdf:resource="http://somewere/emotions/softheartedness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/nigh">
+    <rdf:type rdf:resource="http://somewere/emotions/closeness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/complacent">
+    <rdf:type rdf:resource="http://somewere/emotions/complacency"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/intoxicate">
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exhilarating">
+    <rdf:type rdf:resource="http://somewere/emotions/exhilaration"/>
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/kindly">
+    <rdf:type rdf:resource="http://somewere/emotions/sympathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/calm">
+    <rdf:type rdf:resource="http://somewere/emotions/tranquillity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/doughty">
+    <rdf:type rdf:resource="http://somewere/emotions/fearlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/love">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/love"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/warm">
+    <rdf:type rdf:resource="http://somewere/emotions/fondness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/move">
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/quietness">
+    <rdf:type rdf:resource="http://somewere/emotions/tranquillity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/approving">
+    <rdf:type rdf:resource="http://somewere/emotions/approval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/security">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/fearlessness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/security"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gladsome">
+    <rdf:type rdf:resource="http://somewere/emotions/gladness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/joviality">
+    <rdf:type rdf:resource="http://somewere/emotions/jollity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/regard">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/affection"/>
+    <rdf:type rdf:resource="http://somewere/emotions/regard"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/elated">
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/brotherlike">
+    <rdf:type rdf:resource="http://somewere/emotions/brotherhood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/encouraging">
+    <rdf:type rdf:resource="http://somewere/emotions/encouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exuberantly">
+    <rdf:type rdf:resource="http://somewere/emotions/exuberance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/empathetic">
+    <rdf:type rdf:resource="http://somewere/emotions/empathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mirthfully">
+    <rdf:type rdf:resource="http://somewere/emotions/happiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/near">
+    <rdf:type rdf:resource="http://somewere/emotions/closeness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/calming">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/peacefulness">
+    <rdf:type rdf:resource="http://somewere/emotions/peace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gratitude">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gratitude"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/anticipation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-expectation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/anticipation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/assuasive">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/rapport">
+    <rdf:type rdf:resource="http://somewere/emotions/compatibility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/expansively">
+    <rdf:type rdf:resource="http://somewere/emotions/exuberance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tranquilize">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/amusement">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/amusement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/shiver">
+    <rdf:type rdf:resource="http://somewere/emotions/frisson"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/great">
+    <rdf:type rdf:resource="http://somewere/emotions/eagerness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enjoy">
+    <rdf:type rdf:resource="http://somewere/emotions/love"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/beneficially">
+    <rdf:type rdf:resource="http://somewere/emotions/beneficence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/charmed">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/titillation">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/exhilaration"/>
+    <rdf:type rdf:resource="http://somewere/emotions/titillation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/peace-loving">
+    <rdf:type rdf:resource="http://somewere/emotions/peace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tranquillity">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/calmness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/tranquillity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lightheartedness">
+    <rdf:type rdf:resource="http://somewere/emotions/carefreeness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/amicable">
+    <rdf:type rdf:resource="http://somewere/emotions/amicability"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/devotedness">
+    <rdf:type rdf:resource="http://somewere/emotions/devotion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/compatible">
+    <rdf:type rdf:resource="http://somewere/emotions/compatibility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/togetherness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/closeness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/togetherness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/mirth">
+    <rdf:type rdf:resource="http://somewere/emotions/hilarity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/satisfiable">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/inspire">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sympathetically">
+    <rdf:type rdf:resource="http://somewere/emotions/empathy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sympathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/repose">
+    <rdf:type rdf:resource="http://somewere/emotions/peace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/favourably">
+    <rdf:type rdf:resource="http://somewere/emotions/favor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/amour-propre">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/self-pride"/>
+    <rdf:type rdf:resource="http://somewere/emotions/amour-propre"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fellow_feeling">
+    <rdf:type rdf:resource="http://somewere/emotions/sympathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/playfulness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/levity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/playfulness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/ebulliently">
+    <rdf:type rdf:resource="http://somewere/emotions/exuberance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hardy">
+    <rdf:type rdf:resource="http://somewere/emotions/fearlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fascinate">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/appreciatively">
+    <rdf:type rdf:resource="http://somewere/emotions/gratefulness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gratitude"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/revel">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/favour">
+    <rdf:type rdf:resource="http://somewere/emotions/favor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hopefulness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-hope"/>
+    <rdf:type rdf:resource="http://somewere/emotions/hopefulness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/avidity">
+    <rdf:type rdf:resource="http://somewere/emotions/eagerness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/titillating">
+    <rdf:type rdf:resource="http://somewere/emotions/titillation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/admire">
+    <rdf:type rdf:resource="http://somewere/emotions/admiration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/self-satisfaction">
+    <rdf:type rdf:resource="http://somewere/emotions/complacency"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/worship">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/love"/>
+    <rdf:type rdf:resource="http://somewere/emotions/worship"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/peace_of_mind">
+    <rdf:type rdf:resource="http://somewere/emotions/peace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gratifyingly">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/look_for">
+    <rdf:type rdf:resource="http://somewere/emotions/anticipation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/relieve">
+    <rdf:type rdf:resource="http://somewere/emotions/easiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/shudder">
+    <rdf:type rdf:resource="http://somewere/emotions/frisson"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/weakness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/preference"/>
+    <rdf:type rdf:resource="http://somewere/emotions/weakness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jubilant">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jubilancy">
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gayly">
+    <rdf:type rdf:resource="http://somewere/emotions/happiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enthusiastic">
+    <rdf:type rdf:resource="http://somewere/emotions/enthusiasm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/charge">
+    <rdf:type rdf:resource="http://somewere/emotions/bang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jocund">
+    <rdf:type rdf:resource="http://somewere/emotions/jollity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jocundity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/favourable">
+    <rdf:type rdf:resource="http://somewere/emotions/favor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/joy">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gladness"/>
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/protective">
+    <rdf:type rdf:resource="http://somewere/emotions/protectiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/warmth">
+    <rdf:type rdf:resource="http://somewere/emotions/warmheartedness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/placidness">
+    <rdf:type rdf:resource="http://somewere/emotions/placidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gladdened">
+    <rdf:type rdf:resource="http://somewere/emotions/exhilaration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enthusiasm-ardor">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/eagerness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/enthusiasm-ardor"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/urge_on">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/loyalty">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/love"/>
+    <rdf:type rdf:resource="http://somewere/emotions/loyalty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/intimacy">
+    <rdf:type rdf:resource="http://somewere/emotions/closeness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/assure">
+    <rdf:type rdf:resource="http://somewere/emotions/security"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/walk_on_air">
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/placidly">
+    <rdf:type rdf:resource="http://somewere/emotions/placidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/triumphant">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/encouraged">
+    <rdf:type rdf:resource="http://somewere/emotions/encouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/calm_down">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/affection">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/satisfy">
+    <rdf:type rdf:resource="http://somewere/emotions/fulfillment"/>
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hilariously">
+    <rdf:type rdf:resource="http://somewere/emotions/hilarity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/catch">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/imperturbableness">
+    <rdf:type rdf:resource="http://somewere/emotions/coolness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/avid">
+    <rdf:type rdf:resource="http://somewere/emotions/eagerness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gloating">
+    <rdf:type rdf:resource="http://somewere/emotions/gloat"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/softhearted">
+    <rdf:type rdf:resource="http://somewere/emotions/softheartedness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cool">
+    <rdf:type rdf:resource="http://somewere/emotions/coolness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/triumph">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/exultation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exhilarate">
+    <rdf:type rdf:resource="http://somewere/emotions/exhilaration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/beneficent">
+    <rdf:type rdf:resource="http://somewere/emotions/beneficence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/favorably">
+    <rdf:type rdf:resource="http://somewere/emotions/favor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tranquil">
+    <rdf:type rdf:resource="http://somewere/emotions/placidity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fearlessness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/fearlessness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/praiseworthily">
+    <rdf:type rdf:resource="http://somewere/emotions/admiration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/benevolently">
+    <rdf:type rdf:resource="http://somewere/emotions/benevolence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/love-ardor">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/love"/>
+    <rdf:type rdf:resource="http://somewere/emotions/love-ardor"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/reassuring">
+    <rdf:type rdf:resource="http://somewere/emotions/security"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/penchant">
+    <rdf:type rdf:resource="http://somewere/emotions/preference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/comforting">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/beguiled">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fond_regard">
+    <rdf:type rdf:resource="http://somewere/emotions/attachment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cheerful">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cheerfulness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fascinating">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/comfortable">
+    <rdf:type rdf:resource="http://somewere/emotions/comfortableness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fancy">
+    <rdf:type rdf:resource="http://somewere/emotions/fondness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/euphoriant">
+    <rdf:type rdf:resource="http://somewere/emotions/euphoria"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/optimistic">
+    <rdf:type rdf:resource="http://somewere/emotions/optimism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sanguineness">
+    <rdf:type rdf:resource="http://somewere/emotions/sanguinity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/ego">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/self-pride"/>
+    <rdf:type rdf:resource="http://somewere/emotions/ego"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bonheur">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/bonheur"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/joyously">
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/merry">
+    <rdf:type rdf:resource="http://somewere/emotions/jollity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jocundity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fearlessly">
+    <rdf:type rdf:resource="http://somewere/emotions/fearlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fond">
+    <rdf:type rdf:resource="http://somewere/emotions/fondness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/eagerness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/enthusiasm"/>
+    <rdf:type rdf:resource="http://somewere/emotions/eagerness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/encouragingly">
+    <rdf:type rdf:resource="http://somewere/emotions/encouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enthusiastically">
+    <rdf:type rdf:resource="http://somewere/emotions/enthusiasm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fraternal">
+    <rdf:type rdf:resource="http://somewere/emotions/brotherhood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fulfilment">
+    <rdf:type rdf:resource="http://somewere/emotions/fulfillment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/close">
+    <rdf:type rdf:resource="http://somewere/emotions/closeness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/solace">
+    <rdf:type rdf:resource="http://somewere/emotions/comfortableness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gratify">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/devoted">
+    <rdf:type rdf:resource="http://somewere/emotions/devotion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sanguine">
+    <rdf:type rdf:resource="http://somewere/emotions/sanguinity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exalt">
+    <rdf:type rdf:resource="http://somewere/emotions/exhilaration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/riotously">
+    <rdf:type rdf:resource="http://somewere/emotions/exuberance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gay">
+    <rdf:type rdf:resource="http://somewere/emotions/jollity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jocundity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/triumphal">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tingle">
+    <rdf:type rdf:resource="http://somewere/emotions/frisson"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/uplift">
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/ataraxis">
+    <rdf:type rdf:resource="http://somewere/emotions/peace"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/look_to">
+    <rdf:type rdf:resource="http://somewere/emotions/anticipation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/charitable">
+    <rdf:type rdf:resource="http://somewere/emotions/sympathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/still">
+    <rdf:type rdf:resource="http://somewere/emotions/placidity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/easiness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sanguinity">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/optimism"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sanguinity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exciting">
+    <rdf:type rdf:resource="http://somewere/emotions/enthusiasm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/optimism">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-hope"/>
+    <rdf:type rdf:resource="http://somewere/emotions/optimism"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/empathetically">
+    <rdf:type rdf:resource="http://somewere/emotions/empathy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sympathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exulting">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/barrack">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/good-will">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/friendliness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/good-will"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/eagerly">
+    <rdf:type rdf:resource="http://somewere/emotions/eagerness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/admiration">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/liking"/>
+    <rdf:type rdf:resource="http://somewere/emotions/admiration"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/imperturbability">
+    <rdf:type rdf:resource="http://somewere/emotions/coolness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fulfill">
+    <rdf:type rdf:resource="http://somewere/emotions/fulfillment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tranquility">
+    <rdf:type rdf:resource="http://somewere/emotions/tranquillity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/approbative">
+    <rdf:type rdf:resource="http://somewere/emotions/approval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/feeling_of_identity">
+    <rdf:type rdf:resource="http://somewere/emotions/identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/carefree">
+    <rdf:type rdf:resource="http://somewere/emotions/carefreeness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pleasing">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lulling">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/empathy">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sympathy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/empathy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/glad">
+    <rdf:type rdf:resource="http://somewere/emotions/gladness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/ease">
+    <rdf:type rdf:resource="http://somewere/emotions/easiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/coolness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/calmness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/coolness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/screaming">
+    <rdf:type rdf:resource="http://somewere/emotions/hilarity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/intrepidly">
+    <rdf:type rdf:resource="http://somewere/emotions/fearlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/positive-emotion">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/partiality">
+    <rdf:type rdf:resource="http://somewere/emotions/fondness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/belonging">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/belonging"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/entranced">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/liking">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/liking"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/satisfied">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/sympathetic">
+    <rdf:type rdf:resource="http://somewere/emotions/compatibility"/>
+    <rdf:type rdf:resource="http://somewere/emotions/sympathy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/chirk_up">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pleased">
+    <rdf:type rdf:resource="http://somewere/emotions/happiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/placidity">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/calmness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/placidity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/quietening">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lull">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/banter">
+    <rdf:type rdf:resource="http://somewere/emotions/jollity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/elating">
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exhort">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/thrill">
+    <rdf:type rdf:resource="http://somewere/emotions/bang"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exhilaration"/>
+    <rdf:type rdf:resource="http://somewere/emotions/frisson"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/egotism">
+    <rdf:type rdf:resource="http://somewere/emotions/ego"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/complacence">
+    <rdf:type rdf:resource="http://somewere/emotions/complacency"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exultant">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/attachment">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/affection"/>
+    <rdf:type rdf:resource="http://somewere/emotions/attachment"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/adorably">
+    <rdf:type rdf:resource="http://somewere/emotions/love"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/easiness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/tranquillity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/easiness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/confidence">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/security"/>
+    <rdf:type rdf:resource="http://somewere/emotions/confidence"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/easy">
+    <rdf:type rdf:resource="http://somewere/emotions/easiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cheer">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cheering">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/buoyancy">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/cheerfulness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/buoyancy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lovingly">
+    <rdf:type rdf:resource="http://somewere/emotions/love"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/offering_protection">
+    <rdf:type rdf:resource="http://somewere/emotions/protectiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/capture">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/brotherhood">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/friendliness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/brotherhood"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/live_up_to">
+    <rdf:type rdf:resource="http://somewere/emotions/fulfillment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/amative">
+    <rdf:type rdf:resource="http://somewere/emotions/amorousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/approbatory">
+    <rdf:type rdf:resource="http://somewere/emotions/approval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tender">
+    <rdf:type rdf:resource="http://somewere/emotions/fondness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/friendly">
+    <rdf:type rdf:resource="http://somewere/emotions/friendliness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/calmly">
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/likable">
+    <rdf:type rdf:resource="http://somewere/emotions/liking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/soft-boiled">
+    <rdf:type rdf:resource="http://somewere/emotions/softheartedness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hilarity">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/merriment"/>
+    <rdf:type rdf:resource="http://somewere/emotions/hilarity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enamor">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/embolden">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exult">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/quiver">
+    <rdf:type rdf:resource="http://somewere/emotions/frisson"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/amorousness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/love"/>
+    <rdf:type rdf:resource="http://somewere/emotions/amorousness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/reassure">
+    <rdf:type rdf:resource="http://somewere/emotions/security"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/cold">
+    <rdf:type rdf:resource="http://somewere/emotions/coolness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gladness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gladness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/compatibly">
+    <rdf:type rdf:resource="http://somewere/emotions/compatibility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/identification">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/empathy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/identification"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/console">
+    <rdf:type rdf:resource="http://somewere/emotions/comfortableness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/uproarious">
+    <rdf:type rdf:resource="http://somewere/emotions/hilarity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/satisfaction-pride">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/satisfaction"/>
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction-pride"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/merrily">
+    <rdf:type rdf:resource="http://somewere/emotions/happiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/contented">
+    <rdf:type rdf:resource="http://somewere/emotions/contentment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/affectionate">
+    <rdf:type rdf:resource="http://somewere/emotions/fondness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/amorous">
+    <rdf:type rdf:resource="http://somewere/emotions/amorousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/self-satisfied">
+    <rdf:type rdf:resource="http://somewere/emotions/smugness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/complacency"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/exultantly">
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/joyfulness">
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/fearless">
+    <rdf:type rdf:resource="http://somewere/emotions/fearlessness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/grateful">
+    <rdf:type rdf:resource="http://somewere/emotions/gratefulness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gratitude"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/recreate">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bucked_up">
+    <rdf:type rdf:resource="http://somewere/emotions/encouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jolly">
+    <rdf:type rdf:resource="http://somewere/emotions/jollity"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jocundity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/rejoice">
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jolly_up">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/high_spirits">
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/satisfactory">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/keenness">
+    <rdf:type rdf:resource="http://somewere/emotions/eagerness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/anticipate">
+    <rdf:type rdf:resource="http://somewere/emotions/anticipation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/thirstily">
+    <rdf:type rdf:resource="http://somewere/emotions/eagerness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/tranquilly">
+    <rdf:type rdf:resource="http://somewere/emotions/tranquillity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/amicably">
+    <rdf:type rdf:resource="http://somewere/emotions/amicability"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/strike">
+    <rdf:type rdf:resource="http://somewere/emotions/affection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/loving">
+    <rdf:type rdf:resource="http://somewere/emotions/love"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/beaming">
+    <rdf:type rdf:resource="http://somewere/emotions/gladness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/urge">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/approval">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/liking"/>
+    <rdf:type rdf:resource="http://somewere/emotions/approval"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/kindheartedness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sympathy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/kindheartedness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/zealous">
+    <rdf:type rdf:resource="http://somewere/emotions/eagerness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gleefully">
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/beguile">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/encourage">
+    <rdf:type rdf:resource="http://somewere/emotions/encouragement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/happily">
+    <rdf:type rdf:resource="http://somewere/emotions/happiness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/blitheness">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/rejoicing">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/joy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/rejoicing"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://somewere/emotions/triumph"/>
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/compatibility">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sympathy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/compatibility"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jocularity">
+    <rdf:type rdf:resource="http://somewere/emotions/jocundity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pep_up">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/encouragement">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-hope"/>
+    <rdf:type rdf:resource="http://somewere/emotions/encouragement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/predilection">
+    <rdf:type rdf:resource="http://somewere/emotions/preference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/chaff">
+    <rdf:type rdf:resource="http://somewere/emotions/jollity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jollity">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/merriment"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jollity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unruffled">
+    <rdf:type rdf:resource="http://somewere/emotions/placidity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/positive-suspense">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/anticipation"/>
+    <rdf:type rdf:resource="http://somewere/emotions/positive-suspense"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jolly_along">
+    <rdf:type rdf:resource="http://somewere/emotions/cheerfulness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gratefulness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/gratitude"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gratefulness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/laudably">
+    <rdf:type rdf:resource="http://somewere/emotions/admiration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/unagitated">
+    <rdf:type rdf:resource="http://somewere/emotions/tranquillity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/positive-concern">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/sympathy"/>
+    <rdf:type rdf:resource="http://somewere/emotions/positive-concern"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/calmness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/calmness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jubilation">
+    <rdf:type rdf:resource="http://somewere/emotions/exultation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/lovingness">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/love"/>
+    <rdf:type rdf:resource="http://somewere/emotions/lovingness"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/satisfactorily">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/satisfyingly">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/kick">
+    <rdf:type rdf:resource="http://somewere/emotions/bang"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/trance">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/positive-hope">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/positive-emotion"/>
+    <rdf:type rdf:resource="http://somewere/emotions/positive-hope"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gladden">
+    <rdf:type rdf:resource="http://somewere/emotions/gladness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/amatory">
+    <rdf:type rdf:resource="http://somewere/emotions/amorousness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/adoration">
+    <rdf:type rdf:resource="http://somewere/emotions/worship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/enthralled">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/expectancy">
+    <rdf:type rdf:resource="http://somewere/emotions/anticipation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/preference">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/liking"/>
+    <rdf:type rdf:resource="http://somewere/emotions/preference"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/hilarious">
+    <rdf:type rdf:resource="http://somewere/emotions/hilarity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/brotherly">
+    <rdf:type rdf:resource="http://somewere/emotions/brotherhood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/zestfulness">
+    <rdf:type rdf:resource="http://somewere/emotions/gusto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/emotion">
+    <rdf:type rdf:resource="http://somewere/emotions/emotion"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/jocundity">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/merriment"/>
+    <rdf:type rdf:resource="http://somewere/emotions/jocundity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/gloat">
+    <rdfs:subClassOf rdf:resource="http://somewere/emotions/satisfaction"/>
+    <rdf:type rdf:resource="http://somewere/emotions/gloat"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/self-importance">
+    <rdf:type rdf:resource="http://somewere/emotions/ego"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/titillate">
+    <rdf:type rdf:resource="http://somewere/emotions/titillation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/satiable">
+    <rdf:type rdf:resource="http://somewere/emotions/satisfaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/joyfully">
+    <rdf:type rdf:resource="http://somewere/emotions/joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/caring">
+    <rdf:type rdf:resource="http://somewere/emotions/lovingness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/fondness"/>
+    <rdf:type rdf:resource="http://somewere/emotions/protectiveness"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/bewitching">
+    <rdf:type rdf:resource="http://somewere/emotions/captivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewere/emotions/pick_up">
+    <rdf:type rdf:resource="http://somewere/emotions/elation"/>
+  </rdf:Description>
+</rdf:RDF>

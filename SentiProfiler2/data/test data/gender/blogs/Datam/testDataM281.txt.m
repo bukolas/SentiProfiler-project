@@ -1,0 +1,9 @@
+In his collection you can find the tiny Megatron or the Mini Optimus Prime or the micro Starscream.
+
+...and of course they transform. A little cruel LEGO vignette from dbol39. He wrote that he built it for his girlfriend...hmmm don't ask me why. Maybe they broke off or I don't. But it's not to important. Let's see the vig ;) OchreJelly made an amazing LEGO sculpture of the genius Math professor Stephen Hawking. It's so realistic that I didn't need to tell you the name of the model you would instantly know who is it.
+
+Did you know that his book "A Brief History of Time" stayed on the British Sunday Times bestseller list for a record-breaking 237 weeks. Wowww the proff knows something ;)  These little Pocket Monsters have left their ordinary life for a short time and took a trip to the world of LEGO bricks :)
+
+THX to Amuzu the whole little crew is here: Pikachu, Chimecho, Hikozaru, Wurmple, and the others... Chris Deck has a tone of great Star Wars MINI Models such as an Imperial Star Destroyer, a TIE Fighter, a Death Star or a Droid Starfighter just to name a few. I brought you some of them ;) Have you ever imagined what you get when you xrays a LEGO brick or a minifg? Well Gravitation's medtech friend has been experimenting with it...These are the results: In Japan there's a TV show called Human Tetris. They get bored with playing tetris on the PC, so they play it now in another way (here is a video to see how exactly).
+
+UniqueBuilder got inspiration after watching the show and built this nice LEGO vignette. Guys at BattleBricks.com built a LEGO NXT robot that plays a video game called Wii Bowling. Check out the video to see the robot in action. If you like this little digital mechanism and want to have a same one, here you can find the instructions for building it.

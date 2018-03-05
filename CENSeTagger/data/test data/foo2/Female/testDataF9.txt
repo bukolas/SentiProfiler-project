@@ -1,0 +1,25 @@
+<class>f</class>
+<fScore>70
+<doc>
+When shooting outside at or around twilight, it’s pretty important to know where the sun’s going to go down (or where it’s going to come up). It’s easy enough to look up sunrise/sunset times, but the sunset/rise moves across the horizon throughout the year.
+
+This took some digging to find, but it’s actually very easy to figure this out. You’ll need:
+
+This link to the NOAA Solar Calculator
+A compass, which you can get pretty much anywhere.
+Then do this:
+
+Find your location (the location where you’ll be at sunse) on the map in that link
+Enter the date you’re interested in
+Note the sunset time. Under “AZ/EI” you’re getting a degree measurement, which is what we need eventually; but it’s actually showing the current azimuth instead of the azimuth at sunset.
+Enter the sunset time in the time fields next to the date fields. The AZ/EI field will update. That’s the number you’ll need.
+The number you’ve just found should be a degree measurement, between 0 and 360. This is the solar azimuth angle at sunset. Generically, an azimuth is an angular measurement in a spherical coordinate system. The solar azimuth is calculated (by the application at that link, anyway) as the number of degrees clockwise from true north that corresponds to the position on the horizon that the sun is directly above. If that seems confusing, it’s because it is. On the bright side: it’s really easy to work with when you get to where you want to shoot:
+
+When you get to your location, take out your trusty compass and:
+
+Align the compass with magnetic north
+Find the degree measurement on the compass that matches the number you got earler
+That direction is pointing toward where the sun will go down.
+
+There’s definitely a margin of error here. First, this doesn’t account for topography getting in the way (if you’re next to a mountain, the sun will go behind it long before it’s “down”, so the angle will be off). Second, the compass is reading magnetic north instead of due north, and the reported azimuth is measured from due north. But: it’s free, it’s pretty easy, and for my purposes, it’s good enough.
+</doc>

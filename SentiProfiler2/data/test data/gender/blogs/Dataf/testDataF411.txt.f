@@ -1,0 +1,1 @@
+Several foreigners were also staying at the island to dive at nearby reefs and diving spots. But for us, we were contented with just snorkeling at the periphery of Bonito. We couldn’t go too far because the current were strong and large passenger vessels plying the Batangas-Mindoro route pass by the island.

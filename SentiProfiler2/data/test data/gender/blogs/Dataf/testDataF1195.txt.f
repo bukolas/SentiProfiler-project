@@ -1,0 +1,1 @@
+After we had our filling meal, we headed to a nearby cave, which had a very large opening. The cave was like a theater stage, large enough to accommodate a house inside. We were told that the cave is now considered biologically dead, brought about by the damage done by treasure hunters and the bright lights of the Survivor shoot.

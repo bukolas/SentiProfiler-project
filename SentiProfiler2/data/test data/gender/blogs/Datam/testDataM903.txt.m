@@ -1,0 +1,1 @@
+In Mario 3 it's your job as Mario or his 'supporting role' brother Luigi to rescue 7 different and unique kingdoms that are being taking over by the 7 rotten Koppa kids of the original King Bowser from the first game. The story still doesn't explain why two Italian plumbers are in this fantasy world but I don't care.

@@ -1,0 +1,9 @@
+Well helllloooo!! Do I even have friends anymore? LOL It’s been so log. Well, life with two kids has been an adjustment. My cooking has revolved around simple casseroles and incredibly sweet things. A weird thing about breastfeeding is that you get to keep the pregnancy appetite. Unfortunately, I just don’t have the time to devote to recipes like I did. I have to work in intervals before the baby needs me. I love her to pieces.
+
+Awww. I know right?! LOL Ok, so last semester I took an Honors Composition course. The professor mixed ecology in with the class and focused on the Locavore movement. If you don’t know what it is, it’s the decision to eat food made only in a certain radius from your own home. We tried this as a class. Half of the class became locavore and the other half remained everywhereavores LOL. At the end of the semester we all got together and made a dinner. The most interesting thing happened! Those who could get anything they wanted only brought in a chicken, potatoes, veggies, and a case of water! Our locavore group brought eggplant lasagna, fish tacos, guacamole, salads, homemade honey papaya ice cream, and smoothies! We went ALL out and it was awesome. I learned a lot from that class. I try to find local produce as much as possible now. So what better place to go than the Florida Strawberry Festival?! 
+
+Ok, ok, so aside from the strawberries, nothing seemed to be local. And NOTHING was produce. Chocolate DIPT bacon. Fried BUTTER. Donut burger. I was in foodie overload. If you want to know what a deep fried Snickers bar and deep fried Oreos look like: 
+
+I STILL have indigestion from those damn things and we went LAST weekend. :D 
+
+So the Strawberry Festival wasn’t exactly what I’d recommend for someone looking to eat locally, but I did buy some strawberries from Plant City, which is in the 100 mile radius of my own home.

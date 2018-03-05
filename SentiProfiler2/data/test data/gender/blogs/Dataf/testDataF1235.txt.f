@@ -1,0 +1,1 @@
+And that's it, remember these 5 key areas and your golden, you'll be miles ahead of 99% of guys out there and finally be able to attract and date that beautiful girl you've been spying on for the past few months.

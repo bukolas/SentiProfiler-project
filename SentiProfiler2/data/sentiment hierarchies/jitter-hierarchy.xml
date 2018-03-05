@@ -1,0 +1,196 @@
+<categ-list>
+
+  <categ name="negative-fear" isa="negative-emotion"/>
+  <categ name="sadness" isa="negative-emotion"/>
+  <categ name="general-dislike" isa="negative-emotion"/>
+  <categ name="ingratitude" isa="negative-emotion"/>
+  <categ name="humility" isa="negative-emotion"/>
+  <categ name="despair" isa="negative-emotion"/>
+  <categ name="anxiety" isa="negative-emotion"/>
+  <categ name="daze" isa="negative-emotion"/>
+
+  <categ name="alarm" isa="negative-fear"/>
+  <categ name="creeps" isa="negative-fear"/>
+  <categ name="horror" isa="negative-fear"/>
+  <categ name="hysteria" isa="negative-fear"/>
+  <categ name="panic" isa="negative-fear"/>
+  <categ name="scare" isa="negative-fear"/>
+  <categ name="stage-fright" isa="negative-fear"/>
+  <categ name="apprehension" isa="negative-fear"/>
+  <categ name="timidity" isa="negative-fear"/>
+  <categ name="fear-intimidation" isa="negative-fear"/>
+  <categ name="negative-unconcern" isa="negative-fear"/>
+
+  <categ name="trepidation" isa="apprehension"/>
+  <categ name="foreboding" isa="apprehension"/>
+  <categ name="negative-suspense" isa="apprehension"/>
+  <categ name="chill" isa="apprehension"/>
+
+  <categ name="shadow" isa="foreboding"/>
+  <categ name="presage" isa="foreboding"/>
+
+  <categ name="shyness" isa="timidity"/>
+  <categ name="diffidence" isa="timidity"/>
+
+  <categ name="hesitance" isa="diffidence"/>
+  <categ name="unassertiveness" isa="diffidence"/>
+
+  <categ name="heartlessness" isa="negative-unconcern"/>
+
+  <categ name="cruelty" isa="heartlessness"/>
+
+  <categ name="dolefulness" isa="sadness"/>
+  <categ name="melancholy" isa="sadness"/>
+  <categ name="misery" isa="sadness"/>
+  <categ name="forlornness" isa="sadness"/>
+  <categ name="weepiness" isa="sadness"/>
+  <categ name="sorrow" isa="sadness"/>
+  <categ name="cheerlessness" isa="sadness"/>
+  <categ name="depression" isa="sadness"/>
+  <categ name="downheartedness" isa="sadness"/>
+
+  <categ name="gloom" isa="melancholy"/>
+  <categ name="heavyheartedness" isa="melancholy"/>
+  <categ name="world-weariness" isa="melancholy"/>
+
+  <categ name="lost-sorrow" isa="sorrow"/>
+  <categ name="regret-sorrow" isa="sorrow"/>
+
+  <categ name="grief" isa="lost-sorrow"/>
+  <categ name="mournfulness" isa="lost-sorrow"/>
+  <categ name="self-pity" isa="lost-sorrow"/>
+
+  <categ name="dolor" isa="grief"/>
+
+  <categ name="woe" isa="mournfulness"/>
+  <categ name="plaintiveness" isa="mournfulness"/>
+
+  <categ name="attrition" isa="regret-sorrow"/>
+  <categ name="compunction" isa="regret-sorrow"/>
+
+  <categ name="guilt" isa="compunction"/>
+  <categ name="repentance" isa="compunction"/>
+
+  <categ name="joylessness" isa="cheerlessness"/>
+
+
+  <categ name="demoralization" isa="depression"/>
+  <categ name="helplessness" isa="depression"/>
+  <categ name="despondency" isa="depression"/>
+  <categ name="oppression" isa="depression"/>
+  <categ name="dysphoria" isa="depression"/>
+
+  <categ name="blue-devils" isa="despondency"/>
+
+  <categ name="weight" isa="oppression"/>
+
+  <categ name="anger" isa="general-dislike"/>
+  <categ name="hate" isa="general-dislike"/>
+  <categ name="dislike" isa="general-dislike"/>
+
+  <categ name="fury" isa="anger"/>
+  <categ name="infuriation" isa="anger"/>
+  <categ name="umbrage" isa="anger"/>
+  <categ name="indignation" isa="anger"/>
+  <categ name="huffiness" isa="anger"/>
+  <categ name="dander" isa="anger"/>
+  <categ name="bad-temper" isa="anger"/>
+  <categ name="annoyance" isa="anger"/>
+
+  <categ name="wrath" isa="fury"/>
+  <categ name="lividity" isa="fury"/>
+
+  <categ name="dudgeon" isa="indignation"/>
+
+  <categ name="irascibility" isa="bad-temper"/>
+  <categ name="fit" isa="bad-temper"/>
+
+  <categ name="pique" isa="annoyance"/>
+  <categ name="frustration" isa="annoyance"/>
+  <categ name="aggravation" isa="annoyance"/>
+  <categ name="harassment" isa="annoyance"/>
+  <categ name="displeasure" isa="annoyance"/>
+
+  <categ name="abhorrence" isa="hate"/>
+  <categ name="misanthropy" isa="hate"/>
+  <categ name="misogamy" isa="hate"/>
+  <categ name="misogyny" isa="hate"/>
+  <categ name="misology" isa="hate"/>
+  <categ name="misoneism" isa="hate"/>
+  <categ name="misopedia" isa="hate"/>
+  <categ name="murderousness" isa="hate"/>
+  <categ name="despisal" isa="hate"/>
+  <categ name="hostility" isa="hate"/>
+  <categ name="malevolence" isa="hate"/>
+
+  <categ name="misocainea" isa="misoneism"/>
+
+  <categ name="animosity" isa="hostility"/>
+  <categ name="class-feeling" isa="hostility"/>
+  <categ name="antagonism" isa="hostility"/>
+  <categ name="aggression" isa="hostility"/>
+  <categ name="belligerence" isa="hostility"/>
+  <categ name="resentment" isa="hostility"/>
+
+  <categ name="warpath" isa="belligerence"/>
+
+  <categ name="heartburning" isa="resentment"/>
+  <categ name="sulkiness" isa="resentment"/>
+  <categ name="grudge" isa="resentment"/>
+  <categ name="envy" isa="resentment"/>
+
+  <categ name="covetousness" isa="envy"/>
+  <categ name="jealousy" isa="envy"/>
+
+  <categ name="maleficence" isa="malevolence"/>
+  <categ name="malice" isa="malevolence"/>
+  <categ name="vindictiveness" isa="malevolence"/>
+
+  <categ name="disinclination" isa="dislike"/>
+  <categ name="unfriendliness" isa="dislike"/>
+  <categ name="alienation" isa="dislike"/>
+  <categ name="antipathy" isa="dislike"/>
+  <categ name="disapproval" isa="dislike"/>
+  <categ name="contempt" isa="dislike"/>
+  <categ name="disgust" isa="dislike"/>
+
+  <categ name="isolation" isa="alienation"/>
+
+  <categ name="repugnance" isa="disgust"/>
+  <categ name="nausea" isa="disgust"/>
+
+  <categ name="self-depreciation" isa="humility"/>
+  <categ name="meekness" isa="humility"/>
+
+  <categ name="hopelessness" isa="despair"/>
+  <categ name="resignation" isa="despair"/>
+  <categ name="discouragement" isa="despair"/>
+  <categ name="pessimism" isa="despair"/>
+
+  <categ name="defeatism" isa="resignation"/>
+
+  <categ name="despair-intimidation" isa="discouragement"/>
+
+  <categ name="cynicism" isa="pessimism"/>
+
+  <categ name="discomfiture" isa="anxiety"/>
+  <categ name="negative-agitation" isa="anxiety"/>
+  <categ name="distress" isa="anxiety"/>
+  <categ name="negative-concern" isa="anxiety"/>
+  <categ name="anxiousness" isa="anxiety"/>
+  <categ name="insecurity" isa="anxiety"/>
+  <categ name="edginess" isa="anxiety"/>
+  <categ name="sinking" isa="anxiety"/>
+  <categ name="scruple" isa="anxiety"/>
+  <categ name="jitteriness" isa="anxiety"/>
+  <categ name="angst" isa="anxiety"/>
+  <categ name="solicitude" isa="anxiety"/>
+
+  <categ name="fidget" isa="negative-agitation"/>
+  <categ name="stewing" isa="negative-agitation"/>
+  <categ name="tumult" isa="negative-agitation"/>
+
+  <categ name="impatience" isa="fidget"/>
+
+</categ-list>
+

@@ -1,0 +1,7 @@
+In a warning shot to wavering Democrats, the progressive action group MoveOn.org is making a major push to raise money on behalf of primary challengers to those House lawmakers who vote against health care reform.
+
+The group is set to blast out an email to its five million member list Monday asking recipients to pledge anywhere from $25 to $200 (or more) for the purposes of defeating conservative Democrats who help defeat the legislation.
+
+"Health care reform is in serious danger in the House of Representatives: with a handful of conservative Democrats wavering, we don't yet have the votes to pass the final bill," reads the email, which was sent in advance to the Huffington Post. "So we're asking every MoveOn member: will you pledge to support progressive primary challengers to House Democrats who side with Republicans to kill health care reform?
+
+"With the big vote happening as early as this Friday, conservative Democrats need to know the stakes if they choose to side with Big Insurance over the voters on health care reform," the email goes on. "Our pledge will send that message loud and clear. We'll publicize the amount pledged, and make sure the media and every wavering representative know about it."

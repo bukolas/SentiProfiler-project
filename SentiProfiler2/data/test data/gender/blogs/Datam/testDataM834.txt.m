@@ -1,0 +1,1 @@
+The session began quietly for me. On my brow and temples I felt a pain on the right side of my head. It was strange and only bothered me during the session while on my head. Michelyne felt short zaps of electricity particulary on my brow. Also on the temples I felt like I was squinting my eyes light one would from a bright light. I didn't really notice any colors.

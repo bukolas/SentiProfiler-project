@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- $Id: creole.xml,v 1.1 2011/01/14 13:18:40 textmine Exp $ -->
+<CREOLE-DIRECTORY>
+  <CREOLE>   
+    <!-- creole.xml for SearchPR -->
+    <RESOURCE>
+      <JAR SCAN="true">crawl.jar</JAR>
+      <JAR>lib/websphinx.jar</JAR>
+      <NAME>CrawlerPR</NAME>
+      <CLASS>crawl.CrawlPR</CLASS>
+    </RESOURCE>
+  </CREOLE>
+</CREOLE-DIRECTORY>

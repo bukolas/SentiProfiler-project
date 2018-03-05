@@ -1,0 +1,3 @@
+I always joked around whenever I heard Roy Orbison sing his "You Got It" song that he would have to spend a lot of money. He says that anything his girl wants, needs, or anything, he would give it to her. I knew that he was just speaking metaphorically, but it was still a little humorous to think that she could sit there and go: "Okay...I want a car, a yacht, a pony, etc." So, if Roy was truthful, he would spend a mass of money on his girl. This song is dedicated to that mindset, and to all those guys in those types of relationships.
+
+Let me just clarify: this, thank God, is not how my relationship is with my fiance. It is just the stereotypical relationship with girls.

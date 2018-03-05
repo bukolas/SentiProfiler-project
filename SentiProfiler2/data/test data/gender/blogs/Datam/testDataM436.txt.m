@@ -1,0 +1,1 @@
+yes I believe it is because us guys have Testosterone which makes us more active and so we burn off fat by eating and exercising I was really skinny as a kid because I could go play until I finished my food so shoveled my food so I could play and I burned off the food before it had time to become fat

@@ -1,0 +1,1 @@
+OMG, I would have never known that CTS was related to the spine cause I always thought it was localized to the wrists and arm. Thanks for the reference to Pain Free at Your PC by Pete Egoscu. I am pretty young right now and I don't show/feel any symptoms but I try to keep aware of these things as it would affect my career in computers in the not so distant future. Thx!

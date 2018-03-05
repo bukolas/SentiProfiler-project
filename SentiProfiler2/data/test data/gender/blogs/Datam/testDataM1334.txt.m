@@ -1,0 +1,1 @@
+No this is not True. But what is, is we have a stronger will power. Women have a Tendance to cheat on their diets. I went on a slim fast diet and lost 50lb in 30 days, so it dose work and I kept it off for more then 6 years. And so can everyone.

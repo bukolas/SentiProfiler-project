@@ -1,0 +1,1 @@
+Finally our dinner was served and we feasted on the local delicacies including grilled fishes. Chatter filled the air with the sound of the sea providing a beautiful background. We met a German woman who was there on her own, embarking on the adventure of solo traveling, and engaged her to talks about the place.

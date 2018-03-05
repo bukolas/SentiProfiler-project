@@ -1,0 +1,1 @@
+While waiting, we stepped out of the restaurant to look around the neighborhood. The restaurant was strategically located at the corner of Mason, Turk, and Market St. A neon light sign “Soul Food” was adorning the window. President Obama’s face was displayed at the entrance. Everything was quiet outside, where everyone seemed oblivious of the cheery atmosphere inside Farmerbrown.

@@ -1,0 +1,3 @@
+Welcome to my review of the above product. I hope this helps someone out there. 
+
+First of all, this product's name is way too long. However, in its defense, it is in no way a marketing ploy and is pretty spot-on about what it does. For example, a "spot corrector" could be a great concealer, a pimple buster, a bleaching agent, some to remove unsightly blood stains with, a dog-killing agent (but only for dogs names "spot") etc. But no, this product is an Overnight Whitening Peeling Cream.

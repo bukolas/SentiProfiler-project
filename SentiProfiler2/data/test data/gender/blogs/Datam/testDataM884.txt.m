@@ -1,0 +1,3 @@
+Stopped by the post office this morning to pick up a package on my way to the lab. I thought it would be as good a time as any to clean up my desk and at the very least make it appear that I am more organized than I really am (seriously, it's a mess). It's pretty nice here on the weekends, it's quiet, there's less worry of disturbing undergrad classes if I do any experiments in the daytime.
+
+Anyway, it turns out the t-shirt I ordered from Concrete Rocket arrived! Here's how the design looks:

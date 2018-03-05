@@ -1,0 +1,3 @@
+I've had some nasty experiences with dentist over the years. In fact I'm sort of glad you have posted this 'cos I might dig out a letter I sent in a moment of pique to my dentist surgery. I'll dig it out and post it.
+
+My own teeth - despite regular servicing and dental care - are falling like that pack of dominoes. I have few at the back to usefully chew. This makes me favor my front teeth for chewing which has the effect of making me accidentally bite and chew my lips. But I hate the idea of falsies; though I have heard that they are better than the wooden ones they offered folk when I was much younger.

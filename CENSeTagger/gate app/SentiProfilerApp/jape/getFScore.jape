@@ -1,0 +1,16 @@
+Phase:getClass
+Input: Token 
+Options: control = once
+
+Rule: classAssign
+
+(
+({Token.root=="<"}
+{Token.root=="fscore"}
+{Token.root==">"})
+({Token.kind=="number"}):score
+
+)
+-->
+:score.FScore = {measure = :score.Token.root}
+//:class.Document = {Class = :class.Token.root}

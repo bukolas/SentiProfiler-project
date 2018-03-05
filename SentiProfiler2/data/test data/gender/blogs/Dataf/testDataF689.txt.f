@@ -1,0 +1,2 @@
+There are a variety of anti aging skin care products available in the market, be it anti-wrinkle creams or face-lifting skin care formulations. Anti aging products claim to prevent and/or erase the common signs of aging like wrinkles and fine lines and enhance the overall skin quality.
+Often, women become increasingly concerned with their skin condition as they grow older, and as a result they try out various anti aging skin care formulations to correct the situation.

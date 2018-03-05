@@ -1,0 +1,1 @@
+My thoughts often go to the obscure. Not the "big picture" of what we were doing or what we were seeing but some oddity that stands out in my mind. A year ago today we were standing in front of the Taj Mahal. You can read about that on Marty's blog from a year ago. I'm remembering Agra; home to the Taj.

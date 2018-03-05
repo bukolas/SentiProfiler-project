@@ -1,0 +1,1 @@
+We just need to make sure that around home we keep our expectations of him high. I think I baby him and don’t push him and that certainly is not doing him any favors. So I’m working on that!

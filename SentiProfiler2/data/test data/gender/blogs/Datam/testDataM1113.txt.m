@@ -1,0 +1,1 @@
+Observation. I love to watch. Unlike the scene in "Being There", this has nothing to do with Peter Sellers and Shirley Maclaine. More importantly, it involves not just watching, but understanding the world around us. I have a point of view and I express it here.

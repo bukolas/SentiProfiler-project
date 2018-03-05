@@ -1,0 +1,1 @@
+A number of years ago, I talked some of my friends into participating in an urban adventure race with me. The Denver Oyster is a fantastic event ~ lots of fun, great atmosphere, fantastic camaraderie ~ and I'm excited to be doing it again this year.

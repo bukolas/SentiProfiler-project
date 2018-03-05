@@ -1,0 +1,1 @@
+The story itself, evil computer entrepreneur builds the ultimate virtual game with real people and then takes it a step further – a first person shooter where the player controls a real death row prisoner in a real firefight. This is accomplished through the magic of nanotechnology. Add some good music, some hip stars, and mix, you have Gamer.

@@ -1,0 +1,7 @@
+MASKS
+
+Wherever I go, I see masks around me. I don’t see real people walking down the streets and lanes, I see masks. Different shapes and colors and sizes, but only masks no real people. A smile over here and a grimace there; some tears and some anger; some doubt and some happiness; all masks though, no real people at all.
+And then I question myself, “Is it not possible for any human being to be the real himself, without the mask?” I think I know the answer and I don’t want to know it at all. Since there is no one who is totally like you (head and heart, soul and thought), there can be no time when you can be the true you. It is often said and written down in desolate blogs like these that people need to be real and true, but, it is not possible. There are certain aspects of each of us which need to be hidden from someone or the other. This way each of us carry the burden of masks all our lives, the difference is that, some know it and some are just too happy with everything around them and choose to ignore it.
+I have two important questions to ask.
+1. Do we ever have regret for wearing the masks? Does is ever bother us to see the world through masks and compelling the others to see you through the same filter?
+2. What happens to two people who are exactly the same (monozygotic twins)? People with even the same DNA structures have a very strong bond and are virtually the same person in most of the situations. What would happen to such people? (I don't know)

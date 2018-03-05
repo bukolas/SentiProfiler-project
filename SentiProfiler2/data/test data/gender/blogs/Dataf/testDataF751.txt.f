@@ -1,0 +1,1 @@
+So with the holidays over, I can finally post about two things: My mom's shawl and J's afghan. Both were big hits with their intendeds, so I'm thrilled. He was speechless when he figured out what he had, but as we all know, that didn't last for long. He slept in it Christmas night, like a toddler.

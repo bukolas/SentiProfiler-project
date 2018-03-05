@@ -1,0 +1,3 @@
+Have you checked out the Eggcellent Eggs kit in the Occasions Mini Catalog? It was made for decorating Easter Eggs with rub-ons, diecut flowers and rhinestones. There are also stands for resting your eggs on for display but the green stand looks like grass and that was the inspiration for today's card. I used the wide oval punch to make Easter eggs out of designer series paper. Isn't this adorable?!?
+
+Thanks for stopping by!

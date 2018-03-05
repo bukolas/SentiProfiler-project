@@ -1,0 +1,4 @@
+Greetings. 
+I do realize that it's been some time. I apologize for the irregularity in my posting, but I have again been somewhat busy in my studies. Now it's Christmas time again! Consequently, I felt the necessity for a holiday update on my life. 
+Short version: It's been fine.
+Alternate version: School's been good. I've really been enjoying Greek and Biblical Interpretation. My other classes have been fine if not amazing. Next semester I'm required to start my internship. I'm not exactly sure where I'm doing that yet. I'm contemplating (due to the recommendation of some of those over me) either Palm Avenue Baptist Church (which I've been to once) or The Well (which I've never been to.) I'd appreciate your prayers regarding both the reduction of my anxiety and for clarification regarding God's will.

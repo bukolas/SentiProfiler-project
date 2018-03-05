@@ -1,0 +1,3 @@
+I am at the beach on Spring Break.  Not my Spring Break but my daughter's.  Several months ago, Daughter and her friends decided they were going to the beach for Spring Break.  They planned, they analyzed, they researched then realized that they needed someone older to rent a place and it was going to take a lot more money than they thought.  So they invited the Moms.  
+
+Don't get me wrong . . . I don't feel used.  How many 20 year olds would even consider taking their moms along with them on Spring Break?  We are actually quite honored.  And we are having fun.

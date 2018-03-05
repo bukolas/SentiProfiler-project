@@ -1,0 +1,27 @@
+
+Phase:japeCleanerStill
+Input: Lookup Token
+Options: control = all
+
+Rule: cleaningStill
+
+
+({Token.category=="PRP"})
+({Token.category ==~ "VB.*"})?
+({Token.root=="still",Lookup.type=="instance"}):unstill
+({Token.category ==~ "VB.*"})?
+
+-->
+{
+
+gate.AnnotationSet unstill = (gate.AnnotationSet) bindings.get("unstill");
+gate.Annotation ann2 = (gate.Annotation) unstill.iterator().next();
+Iterator lookupsIter2 = inputAS.get(ann2.getStartNode().getOffset()).get("Lookup").iterator();
+
+while(lookupsIter2.hasNext()){
+gate.Annotation anAnnot2 = (gate.Annotation)lookupsIter2.next();
+inputAS.remove(anAnnot2);
+}
+
+}
+

@@ -1,0 +1,1 @@
+Finally, we entered the dining place where a row of Filipino food was set on a table. For less than P400 (less than $10), we availed ourselves of the buffet offering. There was salad, crisp spring rolls, baked clams, beef viand, and chicken viand, among other things.

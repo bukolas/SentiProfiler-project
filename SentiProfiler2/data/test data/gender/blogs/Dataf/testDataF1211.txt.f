@@ -1,0 +1,1 @@
+guys do in fact lose wait faster, guys tend to have a higher metabolism and they are built to be able to gain more muscle than women i mean how many women do you see with an 8-pack let alone a 6-pack?

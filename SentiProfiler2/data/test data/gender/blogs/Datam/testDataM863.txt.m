@@ -1,0 +1,1 @@
+The Heavy Rain game is more of an interactive movie, in which a bloody origami is found near dead people, which suggests very interesting paper-y things happened to them to make their Facebook status a frowny face for a long time before they finally died.

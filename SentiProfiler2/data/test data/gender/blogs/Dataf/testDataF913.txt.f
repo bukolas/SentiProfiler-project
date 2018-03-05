@@ -1,0 +1,5 @@
+My husband was supposed to be at work at 1:30 p.m. today and he ended up late by nearly an hour.  Why?  Daylight Saving Time took effect this morning at 2 a.m. and neither of us knew about it.  I suppose we should have known, but we do not have cable and Hulu, Myspace, and any other websites we have been to in the last three days did not even give any noticeable blurbs about it.
+
+I was under the impression that Daylight Saving Time was begun for farmers, because that is actually what they would tell us in school, but I think they were neglecting world history and trying to claim it for America.  
+
+In reality, Daylight Saving Time was established in 1916 by Germany and Austria in order to “conserve fuel needed to produce electric power” That’s right, the same people responsible for Nazism and the Holocaust brought us this gem…

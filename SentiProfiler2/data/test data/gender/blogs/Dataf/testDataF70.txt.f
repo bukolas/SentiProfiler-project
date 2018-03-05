@@ -1,0 +1,5 @@
+A month ago I decided to research studio lighting and discovered that many experts suggest a variety of lighting sources and types. I've included links to some of those sites at the end of this post. I understood the obstacles to lighting that I had: West and North facing windows, a ceiling fixture, a room about 11 x 11, and not wanting a major lighting project that would make it difficult to convert the space back into a bedroom if the need arose.
+
+The research I did led me to conclude that I needed multiple light sources that I could control, a way to avoid glare and, conversely, shadows by diffusing the light. I needed task lighting that I could direct down on my work space, and I needed lighting that could work for me both in daylight and at night.
+
+I ended up with a compromise in what I could do. First, I replaced the ceiling florescent fixture with one from the home improvement store that allows me to direct the light. This fixture uses 50 watt GU10 bulbs and the light does have a yellow cast.

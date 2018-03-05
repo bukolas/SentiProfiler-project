@@ -1,0 +1,9 @@
+Ever heard the phrases, “standing on principle” or, “following principles,” or “adhering to principles?”  Have you considered that how you run your business is based on your idea of  business principles?  And have you considered that you are the architect of the principles upon which your business is built?
+
+Most businesses of more than 10 employees have organizational charts, documents of policies and procedures and other ways of determining what their principles are upon which they run their enterprises.  The tiny business owner, the solo-preneur, rarely gives this much thought.  Some tiny businesses get born by a good idea and launched into activity without even a written business plan.   However, I’ve said it before – if you haven’t set a destination and know how you’ll get there, you’ll only run in circles.  Principles are important.
+
+At its most basic, what is a business principle?  A principle?  Principles are those things and elements that represent what is desirable and positive for a business to do and they provide forward momentum.  Although principles hold within themselves policy, goals and objectives, they are actually more elemental and are meant to be the baseline governing factor in all manner of doing and operating your business.
+
+Principles have within them the elements of norms, rules and values and these elements all have to be defined and determined individually for each business.
+
+Norms are the “what is normal” guidelines for operations.  Kind of the “the way we’ve always done things;” the comfortable and the known.  Norms are the guidelines or practices you set down.  For example, you send out invoices on the 15th of every month – this is a norm for the accounts receivable function of your business.   You review your business plan on a quarterly basis…this is a normal function for your leadership role.

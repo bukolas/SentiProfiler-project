@@ -1,0 +1,17 @@
+Phase:getDoc
+Input: Token
+Options: control = once
+
+Rule: docAssign
+(
+({Token.root=="<"}
+{Token.root=="doc"}
+{Token.root==">"})
+(({Token})*):doc
+({Token.root=="<"}
+({Token.root=="/"})
+{Token.root=="doc"}
+{Token.root==">"})
+)
+-->
+:doc.Document = {annotation = Doc}

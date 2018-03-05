@@ -1,0 +1,1 @@
+Arvind from Bangalore says, Brian Lara has called for the establishment of a centralised academy for the various cricket-playing islands in the Caribbean to groom young talent. Lara said West Indies relied too much on the natural ability of players. Have West Indies always had poor infrastructure? If so, how did they manage to dominate world cricket in the 1970s and 80s?

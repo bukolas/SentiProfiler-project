@@ -1,0 +1,1 @@
+My last three flights booked on JetBlue were all cancelled. Without notice. Without warning. No phone call. No email. It has been extremely frustrating. While I know flight cancellations happen, I do expect to be notified so I don't get all the way to the airport before I find out!

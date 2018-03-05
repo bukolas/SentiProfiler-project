@@ -1,0 +1,1 @@
+I cannot get enough of this show and its books. The plots and the chemistry between the characters is fantastic and believable. They all seem down to earth. The show has equal part humor and seriousness which I love. Also, when they have emotional story lines the actors portray it so well. Also John Barrowman is just amazing.

@@ -1,0 +1,7 @@
+I'm sitting at my computer on this chilly autumn morning with a gentle breeze floating through my very open window. I can see tall trees and a families backyard and i hear men's voices as they walk around preparing to demolish the house located just behind mine. I hear trucks, cars and buses on the road, the occasional horn and birds singing their cares away and chattering among themselves.
+
+Today I'm more expressing a thought then a questions, will the world really change so severely in the next couple of years that if i were doing this in ten years i wouldn't hear the noises or see the trees? well i know that by next week i wont see the trees, the block of land they are located on is being flattened so that contractors can build housing commission flats on it.
+
+The whether has gotten a lot chillier since autumn began a few weeks ago, i wrap a blanket around myself every time i leave my bed in the morning. I like the mornings that i look back at my bed after leaving it and i see my partner still laying there sleeping peacefully with his head now laying on the very same pillow mine just left. Its lonely mornings like this one that i dislike.
+
+On days like this i wonder about my future, will i achieve all the goals i want to achieve, will i help, will i still be with him? then i casually shake my head and forget about them, its no use worrying over what is going to happen in a few years when you don't even know what might be happening that very day....

@@ -1,0 +1,1 @@
+Make a well in the center of the flour mixture. Add beaten egg and buttermilk to well and mix in with a wooden spoon until dough is too stiff to stir. Dust hands with a little flour, then gently knead dough in the bowl just long enough to form a rough ball. If the dough is too sticky to work with, add in a little more flour. Do not over-knead!

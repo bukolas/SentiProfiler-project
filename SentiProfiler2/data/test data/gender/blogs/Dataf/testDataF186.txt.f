@@ -1,0 +1,9 @@
+With all due respect to it, conceptual art isn’t something I'm crazy about and that's why I was surprised by how much I enjoyed Maya Lin's exhibition at the Arts Club of Chicago, on view until April 23, 2010. Lin, an American artist and architect who explores landscape and geological phenomena, creates uncanny replicas of commonly known locations, such as Blue Lake Pass, wooden rock-like formations that recreate the Rocky Mountain pass. Although her art seems cool and impersonal upon first glance, once you spend a bit of time with it you can't help but be awed by her work.
+
+Lin was awarded a doctorate from Yale and is best known for the Vietnam Veteran's Memorial in Washington, D.C, which she designed in 1982 while an undergraduate at Yale.
+
+The work in the exhibition is a continuation of the artist's previous exhibitions. Lin's 1998 Topologies and the 2006-2009 Systematic Landscapes continue here.
+
+When you think about the vantage point Lin is trying to express, the way computers and scientists view the landscape as circles and squares on satellite grid, the beauty she's imparting has a distinct purpose: to remind us of the importance of nature in our lives.
+
+The interesting thing about Lin's work is that it seems hard and distant on the outside, but when you study it and reach and understanding about it, you warm up to it and become moved by it, to the point of wanting to escape the city to the nearest woods. This hard-shelled, but soft interior is the nature of Lin's art, and is a profound statement about the natural world. In order to become one with it you have to take careful note of it.

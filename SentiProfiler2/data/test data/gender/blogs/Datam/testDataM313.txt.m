@@ -1,0 +1,7 @@
+Simply put, that was because throughout the Nineties websites had been straining at a technological leash – more sophisticated purposes, whether that meant using the web to handle email itself or just more advanced websites, were not possible with dial-up. What ADSL achieved was to utilise frequencies available within old copper wires that were not required for voice transmissions; plugging in “microfilters” to each home phone socket meant that that the two channels were effectively split into separate lines, catering to data and calls respectively. The line is asymmetric because download speeds are greater than upload speeds. Although not ideal for every purpose, that does make relatively passive, consumer browsing much more possible.
+
+The history of the web’s development has shaped the internet, too: video conferencing, for instance, was hailed as the 'next big thing’, but simply wouldn’t work without higher upload rates. And websites have looked as they do – usually static – because the premium was on how much data would fit down each pipe. That history of pre-broadband internet continues to shape many of the websites we have today.
+
+But as broadband access was rolled slowly out across the country, its limitations have become clearer – ideally, it only runs up to two miles from an exchange, although five is possible. And as technology has fostered cleverer websites, the need for better broadband has led to the so-called “digital divide” between the haves and the have nots.
+
+Next week, we’ll look at the state of the broadband nation.

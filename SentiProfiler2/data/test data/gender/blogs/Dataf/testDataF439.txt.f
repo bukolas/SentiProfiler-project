@@ -1,0 +1,1 @@
+The new site, the Our Cancer place, will allow us to continue and even grow with pictures and stories and conversations. So many of you have already found it and have begun to carve out a new place. Spread the word. There's room for so many more who need a place like this to feel welcome. When you're in cancer world, feeling welcome and safe is a gift.

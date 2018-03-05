@@ -1,0 +1,10 @@
+While Metroid director Yoshio Sakamoto may not have played Shadow Complex, the XBLA darling's creators definitely played Metroid. During a panel titled "Designing Shadow Complex," Chair Entertainment Creative Director Donald Mustard encouraged the audience of prospective downloadable game makers to embrace genre limitations. "So, genre is one of your limitations because you aren't just competing against other games that are released in the downloadable space," Mustard said, pacing across the stage. "You really are competing against Gears of War, Mass Effect 2, Uncharted 2. That is the real competition and you need to find a way to differentiate yourself from those kinds of games. And that is an awesome opportunity."
+
+For Mustard, that meant moving "orthogonally" from what the "big $60 retail games" are doing. Mustard said, "For us, what that ultimately meant is target an old and abandoned genre. Which to us was kind of this Metroidvania side scroller adventure genre that had been abandoned. No one was making games in this genre. And we said, 'What if we took that genre and fused that with some of the modern sensibilities that had come out; some of the modern ideas of AI and physics and graphics? That would be a really cool combination.'
+
+Shadow Complex map
+Chair created (and "played through") the entire map in Illustrator
+
+"And guess what? Nobody can do that at the $60 price point. No one can do that. No one's going to make a next-gen side scroller in this style, so we said, 'We're going to and we're going to do it on this platform. If you even wanted to experience that kind of game, you need to either have a Super Nintendo or a Game Boy, or an original PlayStation. There was nothing on 360 even remotely close to this."
+
+Of course, Mustard knew that the media would be "intrinsically interested" in what he and his team were putting together and, with no marketing budget, support from the media was vital to the game's success. In just ten months, six artists and three programmers at Chair Entertainment had created Joystiq's #7 game of 2009.

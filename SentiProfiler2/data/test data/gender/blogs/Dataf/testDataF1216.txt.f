@@ -1,0 +1,1 @@
+Women are built for fat storage to be able to survive & care for children during famine. Their essential minimal fat stores are 5x higher than a males. Women were built to accumulate as much fat as possible and to not lose the accumulations for childbirth, milk production & child rearing. Having year around unlimited carbs to create fat are against the natural order.

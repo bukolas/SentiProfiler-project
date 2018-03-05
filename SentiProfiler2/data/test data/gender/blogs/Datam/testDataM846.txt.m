@@ -1,0 +1,1 @@
+I am a big fan of the zombie apocalypse genre, probably because it usually features lone individuals finding each other and joining forces to survive in a hostile environment filled with mindless infected masses.  I love playing the computer game Left 4 Dead 2 and I enjoy watching zombedies such as Zombieland and Shaun of the Dead.

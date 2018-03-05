@@ -1,0 +1,1 @@
+This is an exceptionally great monitor. It has the menu button conveniently located on the side and the software that comes with it lets you control the way you view things. This is my first flat panel and I absolutely love it and would recommend it to anyone who wants a great monitor.

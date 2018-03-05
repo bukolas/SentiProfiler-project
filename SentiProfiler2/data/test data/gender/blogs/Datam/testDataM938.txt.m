@@ -1,0 +1,1 @@
+There's something about inhaling that fresh morning air. It's soothing and it heals. I feel like I'm taking in optimism and recharging the little batteries that keep me going through the drudge of the week. It's nice.

@@ -1,0 +1,1 @@
+Honda Accord is a a great car. this is the first car i owned and i am really impressed by the looks, performance, durablity and and the long lasting engine. This car is really a worth for the amount spent in its class. you can use it for 200,000 miles (two hundred thousand miles) without much trouble and maintenance required.

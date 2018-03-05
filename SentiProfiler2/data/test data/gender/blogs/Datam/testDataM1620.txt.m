@@ -1,0 +1,6 @@
+In the fitness and nutrition field it's vital that you continue to educate so science doesn't pass you by. New research is reviewed and released almost every day that can have a lasting effect on your programming, so where do you go to keep up?
+
+I link to many of my favorite sources on the sidebar, but there are a few that haven't made it up yet. Here's a short list of some that I've found educational:
+
+The Fitcast : http://thefitcast.com/
+I've been able to listen to snippets of their podcasts on my short drive to work, and the knowledge that Kevin, Leigh, Dr. Fass, and sometimes Tony bring to the table is wonderful. Weekly interviews with top industry professionals brings the listener several different views on varying topics. It's also great that, should I feel the need, I can just drop them a few questions to answer on the next episode. Go ahead and subscribe to the podcast through iTunes and see what it's all about. They each have their own blogs that I've found to be very informative.

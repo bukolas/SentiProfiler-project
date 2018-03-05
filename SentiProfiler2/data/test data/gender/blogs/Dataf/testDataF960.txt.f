@@ -1,0 +1,1 @@
+Wow, this is Bruce! I just put that in the mail on Monday!  I do apologize. After I already sent it, Terri said that the video was poor because of camera placement. She really made it for us to hear the audio. I did not see a copy (I got it Sunday night). Let me know if you want a better video.  I hope you like it all!

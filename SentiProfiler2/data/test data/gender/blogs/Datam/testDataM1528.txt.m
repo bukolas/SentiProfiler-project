@@ -1,0 +1,1 @@
+Oh I may have a few co-workers with me and I know that I will always have plenty to do while at my destination necessitating my businessness (oh yeah, I just made that up), but when all is said and done, the bed just isn't as warm without my wife next to me and my child relatively close.

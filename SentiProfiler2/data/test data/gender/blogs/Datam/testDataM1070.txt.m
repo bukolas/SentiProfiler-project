@@ -1,0 +1,10 @@
+Brief: Write a note about Exams.
+Assigned by a scarecrow-esque human named Kirk Steaggles.
+
+On a couple of a occassions as i walked into the exam hall i would sing 'this is the end, beautiful friend, the end' from the song 'The End' by the doors.
+Kate Bush once sang the words, 'Heathcliff, it's me, it's Cathy, i've come home, i'm cold, let me in-a-your window'.
+We can all sing (except Lilly Allen [1-0]) but do any of us really know what incident Kate Bush was alluding to? The answer is no. Until tonight!!
+
+Heathcliff and Cathy had gone to Oceana. Heathcliff had got all dressed up in a striped shirt and smart trousers and school shoes and put on loads of aftershave. He had gelled his hair up at random points so it looked really good. He had drunk some bacardi breezers and so was feeling in a fine mood as opposed to the usual mood which led him to stand on the windy moors for hours on end. Not even he knew why. Some say he was waiting for a boat to arrive on the horizon, bringing his lost love home. But due to there being no water near the moors, this rumour seems to be unfounded and was probably started by one of his mates on the football team, 'for a laugh'.
+
+Cathy was wearing fluorescent clothing because that was the theme of the night. She looked as radiant as a warm radiator on a summer's eve. Much alcohol later and after some terrific 'banter' from the lads, Heathcliff looks round onto the dancefloor and sees Cathy 'getting off' with someone else. He puts his drink down and storms over, considers punching the boy, but realises he's massive and decides against it. He calls Cathy a 'whore of babylon' and exits the club. He compiles some abusive texts and accidentally sends them to his workplace in his drunken state. He gets a taxi home, wishing later on that he'd got the bus cos it cost about ten quid to go a ridiculously short distance to his country estate....in the country.

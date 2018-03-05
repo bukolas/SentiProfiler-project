@@ -1,0 +1,7 @@
+After I participated in a rousing SXSW panel about content recommendations, Emmanuel Marchal, general manager of London-based LikeCube approached me in the hall to tell me about his company. I thought it was pretty cool, so I captured a video interview with him right there.
+
+LikeCube was co-founded by a semantic web technologist and an anthropologist four years ago, and funded by the UK’s National Endowment for Science Technology and the Arts. It combines metadata, user activity and personalization to help clients recommend locations on a per-user basis (watch the video for more specifics). The service works around the idea that the wisdom of the crowds is too general to make recommendations for everyone. Of course nobody would disagree with that idea when it comes to music or movies, but the principle probably applies to restaurants and hotels too.
+
+The company powers recommendations for Qype, which is a European version of Yelp, and is working to secure other such deals in categories such as travel. LikeCube charges a licensing fee and also splits revenue with its white-label clients.
+
+Marchal pointed out that on TripAdvisor, the single worst dirty U.S. hotel is a place in San Francisco. If you check out the hotel’s reviews, 80 percent of reviewers said they wouldn’t recommend it to a friend, which necessarily means that 20 percent of reviewers would recommend it. Perhaps those folks just aren’t very kind to their friends, but Marchal’s point is that people’s tastes differ; for some, this hotel would be the right value for the price.

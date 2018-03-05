@@ -1,0 +1,1 @@
+I just finished reading Rainbows End by Vernor Vinge and I recommend it. It is science fiction in the style of Gibson's Neuromancer series or Stephenson's Diamond Age but less cyberpunk. In Rainbows End, Vinge describes a near-future which includes augmented reality and life-changing medical advances.

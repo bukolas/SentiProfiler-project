@@ -1,0 +1,1 @@
+Way back in the 1990s I was at Supercuts one day and the tweeker girl doing my buzz cut became fascinated with my Irish heritage and how that related to my sparse-but-there body hair. Are you Irish? she asked. I'm not from Ireland, I replied, but my ancestors were.

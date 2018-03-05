@@ -1,0 +1,1 @@
+It's been five years since I began blogging. It is interesting to note that this blog got out the storyteller in me! Much of my initial blog posts were more personal or non-fiction rather than stories and somewhere in the middle, my storytelling instincts woke up and the result, I ended up even changing the name of my blog to "The storyteller's hut".

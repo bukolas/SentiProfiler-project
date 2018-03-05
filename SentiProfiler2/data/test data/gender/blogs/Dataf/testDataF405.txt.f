@@ -1,0 +1,1 @@
+Laurie Hirth, you have made such giant strides moving on in your life without Neil. Then, boom ... two steps forward, ten steps back. Sasha, Eileen, Patty -- you get it. Whether you're anticipating what's coming or are in the heightened sense of sadness. You get it.

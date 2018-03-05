@@ -1,0 +1,1 @@
+The other aspect is of course personal but with my wife and I both doing reiki, this makes for some interesting dinner conversations. I must say that our relationship over the same cycle as my improvements in general mood has also improved. I guess a good way to put it is that we feel more kindrid. yes that's it. Laughing and doing as we please. That's a good thing.

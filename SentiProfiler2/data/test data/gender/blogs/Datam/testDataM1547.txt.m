@@ -1,0 +1,5 @@
+1. No ice… If your ice maker has stopped making ice then you need to check these things.
+         1. The lever that controls the ice maker has been pushed up which turns it off. If you have a red lever, pull it down to the wire and if you just have a wire then just pull down the wire to start your ice maker up.
+         2. Make sure the freezer temperature is below 10 degrees F If the freezer is too warm ice production will be poor because the ice maker will not cycle properly.
+         3. The ice maker fill tube may have ice formed in it, blocking it. Use a hair dryer to melt the ice. Watch out for the plastic parts, so that you do not melt the plastic. Also check the water inlet valve and the shut off valve, to make sure it is not plugged with debris. The openings in those valves are very small.
+         4. Check the gears in the ice makers to see if they are broken or stripped. Also look to see if the ice rake is broken. All parts in the ice maker are replaceable individually, If you find broken parts replace them.

@@ -1,0 +1,3 @@
+John, really you and Shankar have driven these change improvement initiatives by identifying critical business needs.  So, I greatly appreciate both of you having the passion, drive and interest to continuously improve our IT operations in the Rice Building.
+
+Now the harder part is actually delivering results and implementing high-impact solutions for our stakeholders -- Jim, Prof Shanley, Mary, Shari, Rita, etc.... so that they can recognize the decision and efforts were worthwhile.

@@ -1,0 +1,1 @@
+I had LapBand surgery almost 2 years ago, and I have lost 80 pounds and kept it off with ease! It was the most amazing procedure and I love my band, and I have a totally new life now because of it! I have two young boys and I can run and keep up with them now.

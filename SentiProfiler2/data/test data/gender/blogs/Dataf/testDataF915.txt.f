@@ -1,0 +1,5 @@
+However, the relationship between Edward and Bella is potentially dangerous to young minds as it gives women the idea that the Edward/Bella relationship is real. Even as I was reading the book, I felt a longing for something like that...something I know does not exist. And, as I have the knowledge and experience to know that my marriage is incredibly deep and encompasses more of the aforementioned passions than many, it is a little frightening to think of the expectations that a young, romantically inexperienced woman may pull from this series.
+
+And that is why this series is irresistible. The action is never-ending, giving the books an urgency. The love story is timeless, capturing the hearts and minds of its female readers. And, though Breaking Dawn does fall a little short in comparison to the first three books, the final book is destined to be the lesser as Bella's transformation from vampire to human will ultimately be tragic unless it is even more far fetched. Then again, we are talking about vampires...
+
+Overall, I'd give the series a "read." After doubting it for months, it surprised and pleased me far more than I'd expected.

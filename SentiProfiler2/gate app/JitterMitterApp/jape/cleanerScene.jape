@@ -1,0 +1,25 @@
+Phase:cleannerScene
+Input: Lookup Token
+Options: control = all
+
+
+Rule: cleanningScene
+
+({Token.root != "cause"})
+({Token.category=="DT"})
+({Token})?
+({Token.root=="scene",Lookup.type=="instance"}):unscene
+-->
+{
+
+
+gate.AnnotationSet unscene = (gate.AnnotationSet) bindings.get("unscene");
+gate.Annotation ann5 = (gate.Annotation) unscene.iterator().next();
+Iterator lookupsIter5 = inputAS.get(ann5.getStartNode().getOffset()).get("Lookup").iterator();
+
+while(lookupsIter5.hasNext()){
+gate.Annotation anAnnot5 = (gate.Annotation)lookupsIter5.next();
+inputAS.remove(anAnnot5);
+}
+
+}

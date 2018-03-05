@@ -1,0 +1,9 @@
+What do you do when things you take for granted suddenly disappear on you? I'm not talking people, but things that everyone in a "developed" world takes for granted. Today, for half my day, I got to see such a world, and, well, I'm not sure how I feel.
+
+This afternoon, there was a power outage at work. With no power, and no idea when it would return, a few of us collected in the cafeteria and played some table tennis. It was fun seeing and interacting with colleagues in a new manner. You get to see a new side of people, that you don't really expect of them. After a couple of hours, I decided to head home and catch some much needed R&R.
+
+Reached home, and, thankfully, the blackout had not affected my apartment. What it had done, however, was knock out my cable and internet connection. Now thats something you don't see everyday, and more importantly its not something one expects.
+
+Now if there's a blackout, you obviously cant really do anything sitting at home. This, however, is like a tease. You have electricity, but you cant watch TV, or get online. Everything we do, seems to revolve around this. (I should add, I couldn't go out because of the heavy downpour that was at play. ) I probably should have caught up on my reading, or played with my camera, instead, I pulled out the dvd player, dusty and unused, and cleaned out my netflix queue.
+
+Four hours with no connection to the outside world (yes, I restricted use of the iPhone), and yet, somehow I manage to revolve around some form of technology. Is it an addiction, or just a force of habit, that drives this? I wonder… but I know, today I relived a time when this was natural, and it felt so very unnatural.

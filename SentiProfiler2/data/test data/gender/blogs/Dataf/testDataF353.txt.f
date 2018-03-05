@@ -1,0 +1,1 @@
+My first summer outing with this office came to mind.  I was a fresh employee back then, only more than a month working for this organization. I was still feeling my way in at that time and was getting to know my officemates and regular volunteers better.

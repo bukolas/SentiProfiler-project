@@ -1,0 +1,4 @@
+To take another pill, or to sleep?
+It reminds me of all those extremely stressful moments, when I have to solve the last question of the last problem in a math test with only ten more minutes left. That's the exact moment testing what kind of person you choose to be. Whether hold on the faith to work it out and make yourself outstanding, or give in with the long-lasting regret and admit you're no more than ordinary. I believe it is the experience of sticking to the belief for oneself and walking through the breathtaking moments that make a person into a much stronger one. Even if s/he fail in the end. And a lifelong self-confidence was also established in such a cruel way.
+ 
+So please hold on one more time and work it out. Don't make an easier choice.

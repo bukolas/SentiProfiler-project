@@ -1,0 +1,1 @@
+One of my favorites from my garden this year are the Hyacinth Bean Vines that I planted from beans that I got from my sister who lives in the western part of NC. I was not even sure they would grow here closer to the coast...but it's beautiful and the butterflies love the blossoms.

@@ -1,0 +1,1 @@
+The Lounge (left) gives your iPhone 3GS or 3G a place to recline, whether on your desktop or on a dashboard, so you can easily view the screen. Its main use is with GPS applications, but it's also handy when you want to watch a video. It lists for $49.99.

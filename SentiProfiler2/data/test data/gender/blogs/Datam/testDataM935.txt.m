@@ -1,0 +1,1 @@
+Lately, I've been working on a collection of portraits that aim to capture the various personalities that have populated Major League Baseball throughout its history. I'm a diehard Mets fan (no apologies necessary) so the characters of the '86 Mets were an obvious jump-off point for me.

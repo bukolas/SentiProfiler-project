@@ -1,0 +1,5 @@
+Snow started falling as I went to bed on Sunday night. Although doubtful that it'd lie, I set the alarm on my new 'phone for extra early o'clock. I woke to an odd light, the bedroom walls gently bathed in soft yellow sodium streetlamp diffused by and reflected off a thick layer of white. Pure white, blanketing everything. The other thing that was noticeable, at first almost subliminally, was the hush, a muffling of the usual distant London traffic roar.
+
+Transport for London was all blue Suspended and Severe delays but my route to work seemed just about doable. So I piled on my heaviest sheepskin jacket, gloves, hat and boots and headed out.
+
+8am South London was as I've never seen it before. My street was near-deserted, only a handful of sets of footprints breaking the ankle-depth white. No cars or buses. The sky was television static grey with a hint of yellow, promising more snow. Walking between half-submerged vehicles, with no-one else around, I got a flash of Cormac McCarthy's The Road and fancied myself sole survivor of a frostbound nuclear winter. Drama queen.

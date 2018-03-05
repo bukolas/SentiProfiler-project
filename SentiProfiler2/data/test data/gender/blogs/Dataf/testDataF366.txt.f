@@ -1,0 +1,1 @@
+Coming from a warm country, the slight chilly San Francisco air was already freezing me. Good thing I have a comfortable room with a soft bed and plenty of pillows that warmed me during the night.

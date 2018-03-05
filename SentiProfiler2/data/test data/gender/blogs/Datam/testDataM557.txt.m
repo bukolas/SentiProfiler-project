@@ -1,0 +1,4 @@
+sandeep is one of my best n lovable friend, a great chracter..lot of humour sense..avan kuda iruntha time porathae theriyathu....very very good boy....smart n dearest to all...romba nallavan, vallavan...we had a great time in our school days....he is one of my truthful n trustable friend....more over i dint see him as another person, i see him as part of me,n care him lot lot tat he himself knw...i like him lot...i can realise our frndship bond gettin stronger n stronger day by day... he gonna do higher studies in abroad, i miss him lot :(
+all the very best for ur higher studies n carrier da....
+~with love
+magi

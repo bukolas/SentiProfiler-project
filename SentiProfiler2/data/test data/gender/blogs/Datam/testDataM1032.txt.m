@@ -1,0 +1,4 @@
+You've heard the expression "I've had it up to here (hand parallel to the earth while levitating your hand in front of yer brow)"  It is like we are a vessel that holds negativity, and when there is too much, we overfill and...then... we just plain lose ourselves.   But when positive hits us, the vessel drains.  When I see the level lower, I know that sometime ahead, negative will inevitably be on a future path.  But why let that inevitability lessen the positive?  Savour the great moments, and be prepared to not give the full value of what future negative intends for you.
+
+"If one person can't make a difference, then why does it only take one person to ruin things for everyone else???"
+                                              ----Joel Whitfield

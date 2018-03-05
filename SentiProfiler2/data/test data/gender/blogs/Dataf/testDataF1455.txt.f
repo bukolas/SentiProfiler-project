@@ -1,0 +1,1 @@
+I am swooning over this dresses on the newly discovered Eve Gravel shop. The shop is Canadian based and sells the most wonderful items. The dresses are all I ever wanted for spring (and all year long). And the model photos are gorgeous! Oh pretty dresses, how I pine for you!

@@ -1,0 +1,1 @@
+We've outsourced everything else, why not have video teleconferencing with doctors from other countries? That way-hospitals can refer non-paying non-urgent patients to lower paid doctors to diagnose remotely. This may also solve some of the personal tort issues-if you agree to be seen by a doctor who is not in the country when he diagnoses-you can't sue.

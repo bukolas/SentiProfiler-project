@@ -1,0 +1,1 @@
+our class rep. is the top padips of my class....she is pretty diplomatic in the way she moves with outside ppl... and is really a gud friend to move with...and is one among those who keeps commitment higher than anything else in life!....and ofcourse is also the famous vasool rani of the class... anybody aspiring to become one...do contact her!!!!!

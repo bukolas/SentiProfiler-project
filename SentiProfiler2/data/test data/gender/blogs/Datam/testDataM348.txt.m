@@ -1,0 +1,5 @@
+From wind turbines to cell phones, rare earth minerals play a big role in advanced technology, and they could be key for future clean energy. But congress is worried about the fact that almost all of these materials come from China, and could be subject to tight export controls by that country's government.
+
+The subject was discussed yesterday at a hearing, where experts called on the U.S. government to take steps not only to promote domestic production of these materials, but to fund research to find ways to recycle them, to use less of them, and to do without them altogether.
+
+The work has already started. In one recent example, the new Advanced Research Projects Agency-Energy, recently awarded $4.5 million to develop motors and generators that use magnetics containing low amounts of rare-earth materials. The project is ambitious:

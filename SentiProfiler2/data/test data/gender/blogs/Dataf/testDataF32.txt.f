@@ -1,0 +1,21 @@
+Sleep - I've missed you
+The past few weeks have been a little crazy with our little guy. For some reason he all of a sudden decided to loathe going to bed. He used to be so easy to put down. Give him his pacifier - he starts playing with his hair - and zonk. He's out.
+
+Well he started refusing his pacifier, which I at first thought was great because I didn't want him to have it forever anyway. But then a few days later he started with this bed-hating thing and that has been going on for quite some time now. We decided it was time to just let him cry it out. We've never really had to decide whether or not to let him cry it out because nap time and bed time had never been an issue before, but things changed and we knew he needed to learn to go to sleep and stay asleep by himself.
+
+So...long story short, I've heard a LOT of crying in the past couple weeks but we're finally about there. The past 3-4 nights he's gone to bed at night with less than a minute or two of crying and he's stayed asleep until about 5 am, at which point I feed him and he goes back to bed until about 7 - 7:30. I don't think he's quite ready for all night yet, but we are making progress! We're still figuring out nap time, but we seem to be getting back on track there too - much less crying, much more sleeping.
+
+It's just crazy how all of sudden he can change like that. Of course it always happens right as things are going well and stabilizing. I even took him to the doctor last week. We just didn't seem to be making any progress and I wanted to make sure nothing was wrong with him (I would've felt really bad about making him cry it out if he had an ear infection or something). But, nothing was wrong. I think it was just a combination of teething, growing, wanting our constant attention, and going through some new developments - crawling, standing, etc.
+
+So anyway, this week has been much happier. He wakes up happy now and is much happier during the day too. Babies really do need their sleep and they get pretty miserable when the don't get it. (By the way - he hasn't ever had his pacifier again, so I guess that's good. Some days I miss it, especially at nap time, but I'm glad it's gone).
+
+On another note, we've been enjoying some amazing weather! Eli and I have spent a lot of time outside and it has been wonderful. We go on walks, go to the playground nearby and watch the bigger kids play, sit on the lawn, and eat grass and dirt - oh wait, that's just Eli. 
+
+Anyway, he's a cutie. I bought him a new toy last week at Kid to Kid (have you ever been there? It's second hand stuff, but it's in great condition). Most of his toys are hand-me-downs (I think I've only ever bought him one other toy; poor kid) and he was getting pretty sick of them , so we picked up this cool "new" toy last week (along with a really cute pair of shoes). He really likes it and it holds his attention for more than 10 seconds. Woohoo!So that's probably why my blogging has suffered a bit lately. We've all been tired and cranky, but we're coming out of the fog now. Hooray! It sure feels good to sleep. It's been a long time since I've slept all night, so even though he's not making it all the way until 7, he's doing a lot better than he was, and I sure feel a difference. So that's what's new!
+
+We have some exciting things coming up. Jeremy's brother is coming in town this weekend and he and his fiancee are coming for dinner on Saturday. Then my mom comes into town on Monday and my sister Amy and her 4 kids come into town on Wednesday! It'll be an adventure! We're excited.
+
+Oh, and Happy St. Patrick's Day (whatever - not a holiday I get excited about) and sorry this is the longest post ever...
+POSTED BY SARAH AT 2:14 PM 4 COMMENTS
+Thank you!
+Thank you everyone for your comments/suggestions on car seats and food. It was very much appreciated and Eli is enjoying many new foods lately and is eating a TON (growth spurt? yes). We still need to find a car seat (we haven't really gone shopping yet) but I've been looking online at ones you have suggested, so thanks! I plan on blogging more and putting up pictures later today or tomorrow, but for now, that's all! Thanks again.

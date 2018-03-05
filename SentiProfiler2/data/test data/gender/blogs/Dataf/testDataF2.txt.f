@@ -1,0 +1,8 @@
+Faith - The other day someone remarked that I have too much faith in my Guru. Such remarks/comments do keep flying around me all the time. However, this time it set me thinking. Do I have faith in my Guru? And if so and if not, what is 'faith'?  H H Sri Sri Ravishankar, founder of The Art Of Living says "Faith in the divine and faith in one's faith. You know everything is being protected, and everything is being taken care of."
+
+Osho said "Faith is a leap into the unknown".
+
+Both these conceptualizations I could agree with. After all they have been given by spiritual masters ! But conceptualizations are done merely for the benefit of intellect driven humans trying to fathom truth through their cognitive abilities. My agreeing with them or disagreeing with them does not take me any closer or any farther from truth. As truth stands beyond what I agree with or do not agree with. So, do I have faith? Faith in whom, faith in what? Do I have faith in my Guru? Do I have faith in Him? Do I feel that He is with me? I am protected? Or better still do I feel that I am with Him? Both don't seem to be absolutely true. It is neither. Where is He? Who is He? If He is there then He doesn't seem to be with me and it doesn't seem as though I am with Him. He seems so distant. Yet He is!
+I stand there shorn of His proximity or distance. I am and He is! He is a part of me, an integral part of me, He is me !! Is it blasphemy to say He is me? I don't know. He is me.
+I am also shorn of all protection............ protection from whom, from what. All that is there is a part of me, it is me!
+Is this faith ??

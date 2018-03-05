@@ -1,0 +1,119 @@
+'absolutely right', Angle: 347.719055, Intensity: 0.600000
+'alive and kicking', Angle: 322.825745, Intensity: 0.600000
+'all right', Angle: 65.772255, Intensity: 0.350000
+'amazing', Angle: 344.475891, Intensity: 0.600000
+'among the greats', Angle: 26.565050, Intensity: 0.500000
+'answer the question right', Angle: 30.963758, Intensity: 0.400000
+'as keen as mustard', Angle: 316.862610, Intensity: 0.700000
+'attachment to a region', Angle: 340.836761, Intensity: 0.600000
+'break a code', Angle: 316.618103, Intensity: 0.500000
+'break a record', Angle: 307.476196, Intensity: 0.600000
+'break new ground', Angle: 328.116425, Intensity: 0.600000
+'break the ice', Angle: 341.420715, Intensity: 0.500000
+'breakthrough', Angle: 298.274872, Intensity: 0.600000
+'buckle down', Angle: 295.364410, Intensity: 0.600000
+'bury the hatchet', Angle: 345.149658, Intensity: 0.550000
+'care for', Angle: 339.590118, Intensity: 0.550000
+'congratulations', Angle: 349.098724, Intensity: 0.550000
+'conviction in god', Angle: 337.229614, Intensity: 0.700000
+'conviction in god's', Angle: 335.937286, Intensity: 0.700000
+'craze for', Angle: 319.184906, Intensity: 0.700000
+'crazy about', Angle: 318.721313, Intensity: 0.700000
+'cut (me/you/her/him/us/them) a break', Angle: 339.285828, Intensity: 0.510000
+'do wonders', Angle: 324.462311, Intensity: 0.550000
+'everlasting happiness', Angle: 352.026001, Intensity: 1.000000
+'everlasting love', Angle: 349.819489, Intensity: 1.000000
+'exciting', Angle: 315.806946, Intensity: 0.600000
+'extinguish fire', Angle: 299.538788, Intensity: 0.550000
+'extinguish flames', Angle: 298.244263, Intensity: 0.550000
+'firefighters extinguish', Angle: 297.588074, Intensity: 0.500000
+'get (my/your/her/his/our/their) kicks from', Angle: 296.358215, Intensity: 0.500000
+'get a kick out of', Angle: 326.309937, Intensity: 0.550000
+'give (her/him/us/them) a break', Angle: NaN, Intensity: 0.000000
+'good health', Angle: 8.075897, Intensity: 0.600000
+'great at', Angle: 5.748663, Intensity: 0.600000
+'great leader', Angle: 10.137804, Intensity: 0.610000
+'great time', Angle: 16.735996, Intensity: 0.600000
+'great with', Angle: 17.102728, Intensity: 0.600000
+'health food', Angle: 63.434952, Intensity: 0.350000
+'heart in the right place', Angle: 32.295975, Intensity: 0.500000
+'highlight [n]', Angle: 270.051006, Intensity: 0.560000
+'hit the nail on the head', Angle: 23.916246, Intensity: 0.500000
+'hit the right note', Angle: 26.358210, Intensity: 0.500000
+'homely ambience', Angle: 31.516937, Intensity: 0.500000
+'homely atmosphere ', Angle: 34.200481, Intensity: 0.500000
+'humoristic', Angle: 347.619232, Intensity: 0.500000
+'impervious to fear', Angle: 344.180817, Intensity: 0.500000
+'impervious to wear and tear', Angle: 57.578938, Intensity: 0.350000
+'in great demand', Angle: 11.488981, Intensity: 0.500000
+'in the best of health', Angle: 15.054316, Intensity: 0.600000
+'in the care of', Angle: 12.479073, Intensity: 0.500000
+'in the right direction', Angle: 47.454033, Intensity: 0.400000
+'incredibly ', Angle: 323.130096, Intensity: 0.700000
+'informative', Angle: 49.118191, Intensity: 0.350000
+'inseparable brothers', Angle: 13.559452, Intensity: 0.700000
+'inseparable companions', Angle: 12.528808, Intensity: 0.700000
+'inseparable friend', Angle: 12.600160, Intensity: 0.700000
+'inseparable sisters', Angle: 12.458246, Intensity: 0.700000
+'insightful', Angle: 24.934296, Intensity: 0.500000
+'intricate pattern', Angle: 24.020247, Intensity: 0.400000
+'intrigue (me/him/her/us/them)', Angle: 296.361877, Intensity: 0.500000
+'is intrigued', Angle: 295.542023, Intensity: 0.500000
+'keen ear', Angle: 45.806931, Intensity: 0.400000
+'keen eye', Angle: 48.224522, Intensity: 0.400000
+'keen interest in', Angle: 14.370001, Intensity: 0.500000
+'keen on', Angle: 317.700623, Intensity: 0.600000
+'keen to', Angle: 316.621155, Intensity: 0.600000
+'kick the habit', Angle: 297.181122, Intensity: 0.500000
+'lust for life', Angle: 319.316040, Intensity: 0.600000
+'mad about', Angle: 305.955322, Intensity: 0.700000
+'majesty of ', Angle: 328.585999, Intensity: 0.700000
+'man of principle', Angle: 15.154069, Intensity: 0.400000
+'mate [n]', Angle: 23.581652, Intensity: 0.550000
+'mate [v]', Angle: 297.181122, Intensity: 0.500000
+'mature [a]', Angle: 16.975500, Intensity: 0.400000
+'mature [v]', Angle: 341.748108, Intensity: 0.400000
+'merit [n]', Angle: 13.815025, Intensity: 0.500000
+'merit [v]', Angle: NaN, Intensity: 0.000000
+'mint condition', Angle: 29.859016, Intensity: 0.500000
+'moderate climate', Angle: 34.330219, Intensity: 0.400000
+'moderate drinker', Angle: 32.735226, Intensity: 0.400000
+'moderate price', Angle: 32.905243, Intensity: 0.400000
+'modest person', Angle: 26.821980, Intensity: 0.400000
+'modest price', Angle: 31.159302, Intensity: 0.400000
+'new and shiny', Angle: 340.407715, Intensity: 0.500000
+'notoriety for being able to', Angle: 0.625635, Intensity: 0.500000
+'on the right track', Angle: 343.872437, Intensity: 0.350000
+'overflow with gratitude', Angle: 342.962219, Intensity: 1.000000
+'overflow with joy', Angle: 339.899536, Intensity: 1.000000
+'overflow with love', Angle: 346.575623, Intensity: 1.000000
+'overflow with thankfulness', Angle: 345.289124, Intensity: 1.000000
+'play (your/her/his/our/their) cards right', Angle: 335.444519, Intensity: 0.510000
+'preference for', Angle: NaN, Intensity: 0.000000
+'put things right', Angle: 337.520569, Intensity: 0.500000
+'recommended', Angle: 346.522186, Intensity: 0.500000
+'renaissance of', Angle: 337.350891, Intensity: 0.600000
+'right answer', Angle: 25.324181, Intensity: 0.500000
+'right man', Angle: 6.508956, Intensity: 0.600000
+'right on the money', Angle: 23.078222, Intensity: 0.500000
+'right on time', Angle: 13.477822, Intensity: 0.500000
+'right thing to do', Angle: 67.100136, Intensity: 0.500000
+'right time', Angle: 71.420731, Intensity: 0.500000
+'righteous', Angle: 19.160173, Intensity: 0.500000
+'share [v]', Angle: 340.407715, Intensity: 0.500000
+'shield [v]', Angle: 326.437256, Intensity: 0.500000
+'shiny and new', Angle: 340.989227, Intensity: 0.500000
+'shiny new', Angle: 340.688141, Intensity: 0.500000
+'speak in (your/her/his) behalf', Angle: 330.309933, Intensity: 0.400000
+'strike the right note', Angle: 337.574127, Intensity: 0.550000
+'take a break', Angle: 53.591225, Intensity: 0.400000
+'the majesty and glory', Angle: 335.746094, Intensity: 0.800000
+'the right side', Angle: NaN, Intensity: 0.000000
+'too funny for words', Angle: 343.191315, Intensity: 0.800000
+'was intrigued', Angle: 348.419373, Intensity: 0.500000
+'work great', Angle: 340.307983, Intensity: 0.400000
+'work like a demon', Angle: 295.545044, Intensity: 0.600000
+'work wonders', Angle: 336.921783, Intensity: 0.500000
+'fraught with happiness', Angle: 352.375793, Intensity: 0.800000
+'fraught with joy', Angle: 343.696320, Intensity: 0.800000
+'you are right', Angle: 64.707985, Intensity: 0.400000

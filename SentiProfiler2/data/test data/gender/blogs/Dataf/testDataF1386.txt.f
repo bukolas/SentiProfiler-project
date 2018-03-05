@@ -1,0 +1,1 @@
+Ginger, my daughter-in-law, just sent me this photo of my grandbabies...Ben and Charlie. Ben is a bit over 3 years and Charlie's 7 months old. My cousin saw this photo...wrote me telling me it would be a good advertisement for Cosco! Aren't they so cute and sweet...it's about time for me to go for another visit!

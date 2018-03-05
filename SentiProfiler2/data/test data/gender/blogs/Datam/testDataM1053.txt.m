@@ -1,0 +1,9 @@
+Texas has a lot of history behind her, so far as states go. Her icons like Texas rangers, the Alamo and oil lust are known about throughout the world. We Americans have set the world on fire because Texas oil men wanted to invade Iraq.
+
+Texas is an odd state. Full of natural beauty and the romance of the Old West, led by a crazy Christian cult that cares more for the rights of the rich than life, liberty and pursuit of happiness of the poor costarring horses and bovines. I really enjoyed the place when I was in El Paso and San Antonio and still miss to this day watching storms roll across the desert mountains off in the distance as the desert sun beat down upon me.
+Texans see themselves as independent from the rest of the United States, they dwell in a frontier state between Mexico and the US in their collective imagination. A romantic idea to be sure; a respite from the modern world.
+
+The Texas board of education made the headlines today for embracing Christian philosophy while playing down science and set back schooling standards intellectually by about 100 years. Kinda like Kansas did but with more manure.
+It always gives me pause and makes me wonder why Christians need to try so hard to push their teachings down everyone's throat through social programing. If their message had true meaning and power in the first place then they wouldn't need to strive so hard to make everyone believe it too. Is their faith so small? Or does this lack of real meaning and virtue reflect their true inner state?
+Who's to say?
+I do not pretend to know the answer as to why some folk prefer the darkness to the light.

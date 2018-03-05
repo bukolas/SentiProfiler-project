@@ -1,0 +1,1 @@
+I helped build Blogger between 1999 and 2001. I've been keeping my weblog -- onfocus.com -- since 1998. I co-wrote a book about weblogs with Meg Hourihan and Matt Haughey from the old Blogger crew; it's called We Blog: Publishing Online with Weblogs"

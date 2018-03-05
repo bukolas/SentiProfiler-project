@@ -1,0 +1,1 @@
+When the PS3 was first released, I got my hands on an 80G unit as soon as I could.  Needless to say I was blown away.  Not only were the games already available for the PS3 phenomenal, my old PS2 games also looked much better and played much faster.  Include the fact that the console also serves as an adequate Blu-Ray player, and I was in seventh heaven.

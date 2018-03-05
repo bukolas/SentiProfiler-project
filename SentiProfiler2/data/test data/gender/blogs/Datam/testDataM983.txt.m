@@ -1,0 +1,5 @@
+That would be Sadie, the chinchilla.  So adorable, and soooo soft.  She was a little ball of crazy energy.
+Sunday morning Robb and I planned to go to church, so we got up at 8:30, realized it was actually 9:30, and went back to bed.  I hate rushing to get ready in the morning.  It puts me in a bad mood.  So I just decided we would skip church entirely.  Well...we slept until 11:45.  I hadn't slept well in almost a week, so it was a nice change.  And then I rushed to get ready for my writer's group, which was having a special meeting. 
+I drew this confused cat bird...sort of a way for me to sort out my feelings about a friend of mine who is newly transgendered.  It's really hard to stop calling him Ian and start calling her Elaine...and the pronouns...oh, the pronouns!  I'll get it right one day.
+So...after a full day, Robb and I ordered pizza.  I hadn't eaten all day, so we finished the whole thing.  That night, I had the happiest dream ever!  I got a pygmy hippo as a pet, and he LOVED cat food and potatoes.  So freaking adorable I could spit!
+And this morning?

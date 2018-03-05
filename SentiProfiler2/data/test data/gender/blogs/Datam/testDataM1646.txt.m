@@ -1,0 +1,5 @@
+Life sucks!  I hate it. Not even a new camera makes it any better.  I know now that my whole life has been a fucking waste.  I have accomplished nothing.   I'm an unemployed looser that has made nothing for himself.  Life is nothing more than a cruel joke.  HIV sure is taking it's sweet time with me and I don't expect the fucking heart attack to kick in fast enough.  Only death will be the cure for this incurable infection. 
+
+I am sure I lost a lot of friends over this and well, sorry to say but I honestly don't care.  For most of you I'm just another coin in your collection and not one of the more valuable ones either. If you want to delete me, you go right ahead. The last fucking thing I need right now is someone telling me I got so much to fucking live for.  I'm sorry but you don't know me that well, I would actually prefer that you did delete me if this blog is too much of a downer for you. 
+
+There's nothing left to say.......

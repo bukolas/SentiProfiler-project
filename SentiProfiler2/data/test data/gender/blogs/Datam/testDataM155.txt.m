@@ -1,0 +1,5 @@
+NorthScale, a Mountain View, Calif-based startup co-founded by leaders of memcached open source projects, launched today after spending a year hiding in the shadows. The company, which has raised $5 million in venture funding from Accel Partners and North Bridge Venture Partners, is part of a growing number of startups hoping to cash in on the data deluge facing everyone from small-time publishers to web giants.
+
+According to IDC, in 2012, “the amount of digital information produced in the year should equal nearly 2,500 exabytes (equivalent to 2,500 billion gigabytes), or 5 times that produced in 2008″ driven primarily by the Internet.
+
+Today’s web is a lot different from the web of 10 years ago. More users, more connections and more time spent online are some of the hallmarks of today’s popular web-based services such as Digg, Facebook, Twitter and Zynga. As a result, these services generate mountains of data. The more information there is, the harder it becomes to make sense of it. And the problem is only exacerbated by the use of relational databases, generally viewed by many as yesterday’s technology.

@@ -1,0 +1,1 @@
+I was sick and pukie the whole fuckin' time. I'm buzzed right now, that's why I'm completely derogatory right now. I ate once today. Fried catfish with black beans and rice. One meal a day is not good. I just ate some Captain Crunch Berry Marshmellow Treats made with Cannaba-ghee. I should be feeling it soon.

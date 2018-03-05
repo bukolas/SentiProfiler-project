@@ -1,0 +1,3 @@
+Most tools will let you convert a partition from one file type to another, i.e. from NTFS to FAT/FAT32 or vice versa. Needless to say that in most cases, such a conversion, especially from NTFS to FAT/FAT32 will cause the files to lose their NTFS permissions (ACLs), and in some cases where EFS was used to encrypt the files, it will actually cause you to lose access to these files. So beware!
+
+Some of these tools may be able to help you recover deleted partitions, and if data on that disk was un-damaged, actually help you gain access to that data. Some, but not all of the tools may have the ability to move existing partitions from one location on the disk to another location, again, without losing data.

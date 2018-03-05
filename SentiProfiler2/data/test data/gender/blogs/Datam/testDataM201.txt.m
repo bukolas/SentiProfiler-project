@@ -1,0 +1,9 @@
+Well....shoulder surgery was a success...for the Doctor. He told Christina that "I would be happy I did it.".....Well, I'm still waiting for that joy to overtake me....LOL! It's now been 4 1/2 weeks since the surgery and I'm just now able to do any type of strength exercises. Now don't get too excited for me. The band that I'm using is almost like trying to stretch a small rubber band. It was very depressing to see the difference in my arms when doing rows in front of the mirror. I'm very ansy to get back onto a strict routine, but in the same sense, I want to remain as patient as possible so I don't re-damage my shoulder. 
+
+I have set some fitness goals this year and they include a lot of cycling. I will be doing the Hotter Than Hell 100 Ride in Wichita Falls, TX in August which I feel is a good goal for me with the timing of being able to hit training at the right time. And then after it, I want to do a Sprint Triathlon and possibly a half marathon. The latter two will require me to learn to run distance. I grew up a sprinter and never had to run further than 600 meters other than pre-season which really didn't count. But...that's just part of meeting the goals.
+
+I will be doing a lot of easy upper body and honestly look forward to hitting the One on One Fountain of Youth Yoga.
+
+Christina is hitting P90X hard again which is awesome and I love that she's pressing forward....she's amazing. She has been asked to speak to a group at our church on fitness and P90X/Beachbody products so all is good!
+
+Hope everyone's goals this year are lofty and full of fitness! Please let me know what I can do to help.

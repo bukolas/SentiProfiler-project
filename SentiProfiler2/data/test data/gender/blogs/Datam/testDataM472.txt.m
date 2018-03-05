@@ -1,0 +1,1 @@
+The Night Safari is something special. Showcasing nocturnal animals that sleep during normal zoo daytime hours, the dense humid surrounding jungle pulls you right into the safari experience. Take a train or walk the various paths past tigers, rhinos, deer, flying squirrels and hundreds of others.

@@ -1,0 +1,3 @@
+hmmm sriram...he s one sweet gud guy...kinda those few transparent n straightfrwd guys lik whom to find s difficult in orkut...we ve been chattng fr few months nw n found him to be pretty cool...does lotsa coll wrk in d weekdays n lotsa chattng in d weekend...gud balance dude...lol...jus kiddng ;0
+k i ll write a much bigger n more intrstng testi wen v both kno each othr much more as days go by...tc... :)
+-MADHU :0

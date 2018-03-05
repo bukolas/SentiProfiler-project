@@ -1,0 +1,3 @@
+New Zealand batsman Brendon McCullum is keen to put the lessons learned from a difficult 2009 IPL into practice during this year's tournament.
+
+McCullum is in the middle of a home series against Australia. New Zealand lost the Chapell-Hadlee series 3-2 and the teams will meet in Wellington on Friday for the first of two Test matches. With the 2010 IPL successfully underway amongst security fears, McCullum is still waiting on clearance before confirming his involvement but was eager to participate in the competition because of its massive impact on the cricketing world.

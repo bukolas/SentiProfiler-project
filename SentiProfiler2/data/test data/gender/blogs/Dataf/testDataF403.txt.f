@@ -1,0 +1,1 @@
+The choice of accommodation was made by our organization in the US, being one of the official hotels for the conference. With its quality standard and price, I was fortunate enough to be billeted in Hilton for free.

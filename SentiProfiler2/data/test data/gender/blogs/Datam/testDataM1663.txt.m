@@ -1,0 +1,6 @@
+That's the second book in Timothy Zahn's trilogy.
+I bet y'all thought that I'd forgotten about you concerning our fun trips. I realize that it's been a while since our vacation, but I might as well post the pictures that I was planning. The delay has been caused by our Village Missions conference and my presence here at Zachary and Brenda's house. Hopefully I'll be able to post some pictures of this fun soonish, but until then, without further ado, the unveiling of our Seaworld pictures.
+I'm a big fan of the Orcas. They are much more majestic than their cousins: regulation orcs.
+I was pretty sure, beforehand, that whaling was illegal in most states these days, but I certainly enjoyed my portion.
+There's a likelihood that I was a bigger fan of the Belugas than of anything else. For whatever reason, the all-white whales (or the all-black Pilot Whales which I have no pictures of) just greatly entertain me. Perchance my monochromatic preferences reflect my worldview?
+Here's a good pic of Emily and her Grandma looking at said whales.

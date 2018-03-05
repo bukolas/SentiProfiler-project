@@ -1,0 +1,9 @@
+Not only did i get up first today, but i actually drove the car too!!! I’m not as against driving as i used to be - i wouldn’t say i enjoy it, but i’m happy enough to do it. The main reason for me not having driven up till today is two fold - firstly i’ve not driven this particular car (we are in Sally’s company Ford Focus), and secondly, i am better at navigating, so Sally would rather we sat on our usual sides of the car.
+
+Because we were going to places that we knew fairly well today, i offered to drive, and my offer was taken up.
+
+We had some rain overnight - not too much, but enough to dampen everywhere, and it was still trying to drizzle as we set off for Bamburgh, this time to check out the town itself. Well, i guess that village would be a better description, as it is very small indeed. There is a RNLI gift shop with museum, a couple of gift shops, tea rooms, pubs and hotels, and that’s about your lot. We selected the “Copper Kettle” tea room, and entered the old, wooden beamed cottage and stepped back in time.
+
+Although the building has been there for centuries (originally built to house labourers for the castle) it has only been a tea room for about half a century. Two spinster sisters bought the property and spent a fortune on turning it into the tea room. (The last page of the menu gives a potted history). They bought the building for £8000, but spent £13,000 on the wooden panelling inside alone!!!!
+
+Just like our holiday to Wales last June, it was only on the last day that we found a cream tea! We each had one of their wonderful cream teas, with two lovely warm scones, jam, whipped cream, and a large pot of tea between us. It was heavenly!

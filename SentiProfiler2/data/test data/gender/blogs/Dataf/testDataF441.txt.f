@@ -1,0 +1,1 @@
+If there's anything you take away from this article, make it this. Women want a guy who can make them laugh, if you can do that for them you're 75% of the way there. If you can make them laugh you can screw up with every other area and still get her attracted, and if you can make her laugh as well as remember these other 4 areas, you're set to attract any woman you desire.

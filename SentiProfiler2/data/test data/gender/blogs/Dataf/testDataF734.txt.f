@@ -1,0 +1,1 @@
+I have always wanted to see Stargate SG-1, but didn't want to get into it so late in the show.  I ended up finding all 10 seasons on DVD.  This is such a great value.  There are over 200 hours of SG-1 and plenty of great special features.  If you want to watch this series for the first time or want to own it for your collection this is the way to go.

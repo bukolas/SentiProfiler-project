@@ -1,0 +1,8 @@
+At last night’s “Bigg Digg Shindigg” in Austin, TX, Digg CEO Jay Adelson briefly revealed plans for a massive overhaul of the social news site. This morning, I had an opportunity to chat with Adelson in-depth about the new Digg and what users, publishers, and the web as a whole should expect.
+
+To sum it up, Adelson says the new strategy will “enable social curation of all the world’s content and the conversation around it.” To get there though, Digg (Digg) has re-built its entire site from the ground up, with dramatic changes that will be rolled out over the coming weeks and months.
+New User Experience
+
+The days of the Digg homepage as we know it – the most recently popular stories on the service as a whole – are numbered. The site is shifting towards a personalization model, where the homepage will be based on characters like a user’s interests, location, who they follow not only on Digg but services like Twitter (Twitter) and Facebook (Facebook), and other “signals” from around the web like retweets, Facebook shares, and more.
+
+But Adelson notes that not all of these signals are created equal – for example, a retweet from a Twitter user with millions of followers will weigh much more heavily in the site’s ranking algorithms than one from a user with a few dozen. The concept of a Digg account is also changing. While you can already use Digg via Facebook Connect, the site plans to support logging in with Twitter, Google (Google), Yahoo, and OpenID, among other identity providers.

@@ -1,0 +1,22 @@
+Identity Theft
+Posted by Scott on Mar 15, 2010 in Marketing
+Identity theft is something you always hear about that happens to other people. Well it’s happening to you right now and or you are doing it to someone else. I’m talking about a different kind of identity theft… Your businesses identity! Who is trying to make their business look and act just like yours? Or who are you trying to steal their identity? Who are you and your business and what do you want to be? I think many of us are in an identity crisis right now. Are you taking daily actions that are in-line with your identity? Never loose track of what you want to be. Photographers in your area will try to copy, impersonate, or just learn from your creativity. Now I have a lot of great local friends that are photographers and we respect each other. But some people with cameras have no morals or boundaries. The best advice I can give you is that that you should be flattered when people copy you…. Aww bull shit you should be pissed… Pissed enough to step up your game and make it harder for them to copy you next time. I don’t need to sugar coat life’s lessons like your momma did, make it light your fire.
+Identity crisis – is your business suffering from one? Most photographers are. Don’t try and be everything to everyone! Jack of all trades and master of none is very true all of the time! We even struggle with identity problems and the new studio is helping us look closer at the future that we want for our business. Boutique is a hot industry phrase but we are evolving into a newer version of an upscale portrait studio of the modern world. What would have been considered an upscale studio 10yrs ago is not the same look and environment that it would have today. “Modern” look is part of out identity and something that we will continue to push towards. Art and products are really a part of the modern look. Before I go to far into our struggles with identitiy… I think you should take a snapshot of your business and really see what your identity is. Not just a purdy picture of your entry, look at all of your marketing, clients, bank account, schedule, etc… Who are you and what is is the image that you business is really portraying? And to top it all off “what makes you different than your competition”?
+ 
+76
+votes
+Buzz up!
+ 
+2
+Not to shabby….
+Posted by Scott on Mar 14, 2010 in Marketing
+I had that family session today (Sunday) for a good client.  I knew it would be worth it.. They bought 2 gallery wrap wall portraits and a framed one,  plus an ablum, and 25 gift prints.  Cha-Ching not enough for college for the kids but at least enough to get them into a trade school.       I still hate working on Sundays but sometimes I need to put the business first.  I think I worked 3 Sundays this year but just for a couple of hours on each.  Ideally I would never do it, but if I want to claim to have great customer service I need to go above and beyone for a few special people.  However Sundays have a large minimum deposit required… You have to pay to play with me on my day off!
+ 
+76
+votes
+Buzz up!
+ 
+2
+Why am I pumped up?
+Posted by Scott on Mar 13, 2010 in Marketing
+With out sounding like Hans and Frans I am pumped up about the p90x.  Tonight will be day 4 and I actually can’t wait to do it.  I’m feeling good and I already did my 3mi run this morning, most of the soreness is at least bearable today LOL    I’m glad it’s going good so far.  I wonder how any days most people complete in a program like this before quitting?  My guess is less than 10 days but probably closer to 5.  Watch out for that first day missed, that’s where it all starts to go to hell in a hand-basket….You miss the first day and then two and then two turns to a week and bam you fell off the proverbial wagon.  How much like real life is that?  Something you want to do, or need to do and you start doing it and then you just let it all slip away….  Feel free to call me out if you don’t read about it for a day because I do plan on at least mentioning it on here.  I know some of you are starting it right along with us make sure you keep up posted.  Anyway day 4 is Yoga I think…. Maybe I should make a charity video of that performance…. NOT~!

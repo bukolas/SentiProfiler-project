@@ -1,0 +1,5 @@
+Does life behind the mouthpiece sometimes feel like there's a camera on the front of your bell, and you're on a high speed bobsled going ninety miles an hour? All the notes are flying by faster than they can be processed. We're on a race desperately trying to maintain control, dropping more notes than we nail. Is this a trumpet or a runaway Toyota? Somebody help!
+
+Remember what Dad did when the family would get lost on vacation trips? He drove faster! Why is it that the harder the passage, the faster we go? Instead of the panic button, we should hit the brakes. With treacherous curves at every turn, cooler heads and slower practice speeds ought to prevail.
+
+Dr. Phil has a two-word remedy for this ailment: SLOW DOWN! Everything improves at slower speeds. Notes can be seen, heard and controlled much better in slow motion. Think paycheck. You only get paid for well-played notes, period. Why not perfect as many notes as you can at your own comfortable tempo? High speeds may be resumed when conditions are safe.

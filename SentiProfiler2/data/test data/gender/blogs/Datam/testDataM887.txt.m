@@ -1,0 +1,2 @@
+At the time Debbie and I moved to Rapid City  our family started to grow by one boy and four girls. I'd like to introduce You to my "little kids". On the top row starting left to right, my son Brian and my daughter Leslie. On the bottom row; left-to-right, my youngest daughter Shelley, my eldest daughter Christy and my next eldest daughter Suzanne.
+They are all adults and they all live in Rapid City.

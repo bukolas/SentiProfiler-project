@@ -1,0 +1,1 @@
+Joe's is one of my favorite restaurants in the city.  I love the fresh seafood, the staff and that my husband finds their steak to be one of the best in the city.  He doesn't like seafood so it great to have a place we can both go and indulge on the food we love.

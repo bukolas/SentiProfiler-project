@@ -1,0 +1,9 @@
+Here's an equation I bet you've never seen in a math class:
+
+Buick LaCrosse + Providence at lunchtime = Serious Sandwiches.
+
+Let me explain. Alaina and I cruised out of Boston at around 11:30. Our plan: head to Providence for a mini sandwich tour. (That'd be a limited tour of Providence sandwiches—not a tour of Providence mini-sandwiches.) I've been hearing a lot about the sandwiches made and sold at the the food store-cum-cheese shop Farmstead, by husband and wife chef team Matt and Kate Jennings (owners of the highly regarded bistro La Laiterie).
+
+I figured that we would take our sandwiches and eat them in our roomy LaCrosse as we made our way to our second Providence sandwich shop, Hewtin's Mobile Hot Dog Truck, owned by another Providence based husband and wife team—Matthew and Kristin Gennuso of Chez Pascal. What better time to visit a food truck in New England than on a sunny day in mid-March, with wheels at your disposal? And since we'd left Carey behind in Boston, we rendezvoused with one of our terrific Serious Eats interns, Brown student Leah Douglas.
+
+Sounds like a pretty cool itinerary, doesn't it? When we arrived at Farmstead, it turned out there was seating available at La Laiterie, so we were able to enjoy a leisurely lunch utilizing real tables and chairs. As is our wont, we ordered just about every sandwich on the menu. The highlights? The cheesemonger's grilled cheese was in fact made in a sandwich press rather than grilled. I don't even know what cheeses were in it, but there was definitely something cheddar-y in there because the sandwich had that primordial cheddar ooze. Add in a helpful (if a little disorganized) staff that was eager to please and you end up with a fine lunch first course.

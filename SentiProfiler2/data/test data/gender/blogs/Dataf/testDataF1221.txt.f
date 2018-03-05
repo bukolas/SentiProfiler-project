@@ -1,0 +1,1 @@
+With the high noon sun above us, it was time to take our sumptuous lunch at a nearby cottage. I took off my shoes and buried my feet beneath the smooth powdery sand.

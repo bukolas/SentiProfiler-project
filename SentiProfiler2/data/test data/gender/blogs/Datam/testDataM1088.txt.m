@@ -1,0 +1,5 @@
+Flirting is fun. It provides verification for us as being attractive to the opposite sex. It also provides the Macaroni to our steak dinner now and then that gives us the spice in our lives to constantly strive to renew our sexual relationship at home. My wife and I broke through the monotony of our everyday relationship by discovering the joys of “sexing”. We had forgotten the joys of flirting between each other when; after all, our whole RELATIONSHIP was based on our first flirting exchange.
+
+If you are married, that is your goal. To take the innocent flirtations of everyday life home, and use them to further your relationship there. We get stale, and sometimes that one smile from a returned flirtation gives us the confidence to go home and show our S.O. just how desirable we can be.
+
+    If you guys are single, get to it. There is nothing more attractive than someone who has mastered the art of flirting with confidence. If you need help…as always…I am here for you to try out your flirting on.

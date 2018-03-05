@@ -1,0 +1,47 @@
+Stratum (linguistics)
+
+In linguistics, a stratum or strate (Latin: layer) is a language that influences, or is influenced by another through contact. A substratum is a language which has lower power or prestige than another, while a superstratum is the language that has higher power or prestige. Both substratum and superstratum languages influence each other, but in different ways. An adstratum refers to a language that is in contact with another language in a neighbor population without having identifiably higher or lower prestige. The terms ‘superstrate’ and ‘adstrate’ were first used by two different authors in 1932.[1]
+
+Thus, both terms refer to a situation where an intrusive language establishes itself in the territory of another, typically as the result of migration. Whether the superstratum case (the local language persists and the intrusive language disappears) or the substratum one (the local language disappears and the intrusive language persists) applies will normally only be evident after several generations, during which the intrusive language exists within a diaspora culture. In order for the intrusive language to persist (substratum case), the immigrant population will either need to take the position of a political elite or immigrate in significant numbers relative to the local population (i. e., the intrusion qualifies as an invasion or colonisation, an example would be the Roman Empire giving rise to Romance languages outside of Italy, displacing Gaulish and many other languages).
+
+The superstratum case refers to elite populations which eventually adopt the local language (an example would be the Burgundians and Franks in France, who eventually abandoned their Germanic dialects in favor of Romance).
+Contents
+  
+
+    1 Substratum
+    2 Superstratum
+    3 Adstratum
+    4 Notable examples of substrate inference
+    5 See also
+    6 References
+    7 Further reading
+
+ Substratum
+
+A substratum or substrate (plural: substrata or substrates) is a language that influences an intrusive language that supplants it. The term is also used of substrate interference, i.e. the influence the substratum language exerts on the supplanting language. According to some classifications, this is one of three main types of linguistic interference: substratum interference differs from both adstratum, which involves no language replacement but rather mutual borrowing between languages of roughly equal prestige, and superstratum, which refers to the influence a socially dominating language has on another, receding language that might eventually be relegated to the status of a substratum language.
+
+In a typical case of substrate interference, a language A occupies a given territory and another language B arrives in the same territory (brought, for example, with migrations of population). Language B then begins to supplant language A: the speakers of language A abandon their own language in favour of B, generally because they believe that it is in their best (e.g. economic, political, cultural, social) interests to do so. During the language shift, however, the receding language A still influences language B (for example, through the transfer of loanwords, place names, or grammatical patterns from A to B).
+
+For example, Gaulish is a substratum of French. The Gauls, a Celtic people, lived in the current French-speaking territory before the arrival of the Romans. Given the cultural, economic and political prestige which Latin enjoyed, the Gauls eventually abandoned their language in favor of Latin, which evolved in this region until eventually it took the form of Modern French. The Gaulish speech disappeared, but it remains detectable in some French words (approximately 150) as well as place-names of Gaulish origin.
+
+Another example is the influence of the now extinct North Germanic Norn language on the Scots dialects of the Shetland and Orkney islands.
+
+In the Arab Middle East and North Africa, colloquial Arabic dialects, most especially Levantine, Egyptian, and Maghreb dialects, often exhibit significant subtrata from other regional Semitic, Iranian, Turkic, and Berber languages as well as colonial European languages due to the regions' long histories of indigenous multiculturalism as well as foreign imperialism.
+
+Linguistic substrata may be difficult to detect, especially if the substrate language and its nearest relatives are extinct. For example, the earliest form of the Germanic languages may have been influenced by a non-Indo-European language, purportedly the source of about one quarter of the most ancient Germanic word-stock. There are similar arguments for a Sanskrit substrate, and a Greek one.
+
+Typically, Creole languages have multiple substrata, with the actual influence of such languages being indeterminate.
+ Superstratum
+
+A superstratum or superstrate (plural: superstrata or superstrates) is the counterpart to a substratum. When one language succeeds another, the former is termed the superstratum and the latter the substratum. In the case of French, for example, Vulgar Latin is the superstrate and Gaulic the substrate.
+
+A superstrate may also represent an imposed linguistic element akin to what occurred with English and Norman after the Norman Conquest of 1066 when use of the English language carried low prestige. The international scientific vocabulary coinages from Greek and Latin roots adopted by European languages (and subsequently by other languages) to describe scientific topics (anatomy, medicine, botany, zoology, all the '-ology' words, etc.) can also be termed a superstratum, although for this last case, "adstratum" might be a better designation (despite the prestige of science and of its language).
+
+Several theories infer an Altaic superstratum in the phylogenetic make-up of the languages of East Asia. For instance, some linguists contend that Japanese consists of an Altaic superstratum projected onto an Austronesian substratum.[2] Similarly, some scholars suggest that the Chinese language of Northern China underwent Altaicization to different degrees, though this has also been attributed to contact and/or substrate effects.[3]
+ Adstratum
+
+An adstratum or adstrate (plural: adstrata or adstrates) refers to a language which is equal in prestige to another. Generally the term is used only when speaking about languages in a particular country or geopolitical region. For example, early in England's history, Old English and Norse had an adstratal relationship.
+
+The phenomenon is relatively rare today, since modern nations generally have only one dominant language (often corresponding to the dialect of the capital). In India, where dozens of languages are widespread, many could be said to share an adstratal relationship, although Hindi is certainly dominant in North India. A more accurate example would be the situation in Belgium, where the French and Dutch languages have roughly the same status, and could justifiably be called adstrates.
+
+The term is also used to identify systematic influences or a layer of borrowings in a given language from another language where the two languages coexist as separate entities. Many modern languages have an appreciable adstratum from English. The Neo-Latin and Neo-Greek coinages adopted by European languages (and now, languages worldwide) to describe scientific topics (anatomy, medicine, botany, zoology, all the '-ology' words, etc.) can also justifiably be called adstrata. Another example is found in the Spanish and Portuguese languages, which contain a heavy Semitic (particularly Arabic) adstratum.

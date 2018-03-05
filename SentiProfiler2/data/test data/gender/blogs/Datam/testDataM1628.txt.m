@@ -1,0 +1,5 @@
+I loved reading about Vijendra Singh - the boxer who became popular after winning an Olympic medal this year. Here is very good write up on his life done by INDRANI RAJKHOWA BANERJEE from Times of India. Here we go!
+
+A rugged village boy who rubs shoulders with the swish set and flirts with Bipasha Basu, Olympiad boxer Vijender Singh is aware he is an outsider. He is proud of his rustic roots and fights prejudices with charming confidence and a quiet dignity.
+
+First things first. What do you look forward to when you set out to interview a hot-blooded Jat boxer? You would expect him to look you over and size you up mentally or probably greet you with a few colourful expletives... especially when the guy is a 24-year-old basking in newfound glory. But this one is different. He throws a disarming smile as his eyes meet your eyes and stay right there! That’s Vijender Singh Beniwal for you, India’s lone boxer to have won an Olympic medal.

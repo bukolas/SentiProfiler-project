@@ -1,0 +1,3 @@
+Pretty cool that Scorsese’s forst “comic book movie” is this wonderful, serious little picture book and not some dreck for Marvel or DC.
+
+Like “Diary of a Wimpy Kid,” this book shows that awesome commercial success can be had outside of the spandex realm of muscle-bulging men having super-fights with each other. And it’s kind of surprising that Disney hasn’t inserted themselves in this deal because it would be an amazing brand for them to get involved in. This is a new classic that kids will be reading for years to come.

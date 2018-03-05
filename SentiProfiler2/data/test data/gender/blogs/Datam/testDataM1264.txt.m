@@ -1,0 +1,9 @@
+Last week we reprinted an article discussing the 3 steps design teams take when creating an experience vision to guide the direction of design toward their users’ ideal experience. Once a design team creates that experience vision, they need to share it with everyone involved in the project to make sure everyone is on the same page as the design process progresses.
+
+While the process of conveying the vision to key decision makers on the project and within the organization is very important, the methods used to share the vision can vary greatly depending on budget, available resources, and the pool of creative talent. Teams can use any technique, from expensive video-shoots with actors to low-fidelity stop-motion animation, as long as the vision helps the design team and stakeholders progress in the same direction and inspires team members to produce an improved experience.
+
+In this week’s UIEtips article, I once again go back to an article UIE published in June 2007. In this article, Knowledge Navigator Deconstructed: Building an Envisionment, I discuss how a successful envisionment that focuses on the users’ ideal experiences can lead a design team’s direction for years to come. I also explore the many creative techniques for making that vision clear to everyone involved with the project.
+
+Does your organization have an experience vision? How are you guiding your design direction toward your users’ ideal experiences? What methods to share this vision have you used? Join the discussion about this week’s topic below.
+
+Also, I’m conducting a one day workshop in three different cities on Secrets Behind Designing Great User Experiences. One of the topics covered is the Making of a UX Vision. I take the concepts I discuss in the article into greater depth.

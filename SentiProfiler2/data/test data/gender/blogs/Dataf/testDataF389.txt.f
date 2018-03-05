@@ -1,0 +1,1 @@
+i want to make my own fried rice but im not sure what kind of rice to use i tried jasmin rice but it was too mushy i tried uncle ben rice but it didnt taste good what kind do the resturants use also if there is a certain brand let me know there is asian store were i live but im not sure which to choose

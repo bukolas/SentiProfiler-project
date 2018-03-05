@@ -1,0 +1,53 @@
+/Annotation.java/1.1/Thu Jan 13 16:50:46 2011//
+/AnnotationGraph.java/1.1/Thu Jan 13 16:50:46 2011//
+/AnnotationSet.java/1.1/Thu Jan 13 16:50:46 2011//
+/Controller.java/1.1/Thu Jan 13 16:50:46 2011//
+/CookBook.java/1.1/Thu Jan 13 16:50:46 2011//
+/Corpus.java/1.1/Thu Jan 13 16:50:46 2011//
+/CorpusController.java/1.1/Thu Jan 13 16:50:46 2011//
+/CreoleRegister.java/1.1/Thu Jan 13 16:50:46 2011//
+/DataStore.java/1.1/Thu Jan 13 16:50:46 2011//
+/DataStoreRegister.java/1.1/Thu Jan 13 16:50:46 2011//
+/Document.java/1.1/Thu Jan 13 16:50:46 2011//
+/DocumentContent.java/1.1/Thu Jan 13 16:50:46 2011//
+/DocumentFormat.java/1.1/Thu Jan 13 16:50:46 2011//
+/Executable.java/1.1/Thu Jan 13 16:50:46 2011//
+/Factory.java/1.1/Thu Jan 13 16:50:46 2011//
+/FeatureMap.java/1.1/Thu Jan 13 16:50:46 2011//
+/Gate.java/1.1/Thu Jan 13 16:50:46 2011//
+/GateConstants.java/1.1/Thu Jan 13 16:50:46 2011//
+/LanguageAnalyser.java/1.1/Thu Jan 13 16:50:46 2011//
+/LanguageResource.java/1.1/Thu Jan 13 16:50:46 2011//
+/Main.java/1.1/Thu Jan 13 16:50:46 2011//
+/Node.java/1.1/Thu Jan 13 16:50:46 2011//
+/ProcessingResource.java/1.1/Thu Jan 13 16:50:46 2011//
+/Resource.java/1.1/Thu Jan 13 16:50:46 2011//
+/SimpleAnnotation.java/1.1/Thu Jan 13 16:50:46 2011//
+/SimpleAnnotationSet.java/1.1/Thu Jan 13 16:50:46 2011//
+/SimpleCorpus.java/1.1/Thu Jan 13 16:50:46 2011//
+/SimpleDocument.java/1.1/Thu Jan 13 16:50:46 2011//
+/SimpleFeatureMap.java/1.1/Thu Jan 13 16:50:46 2011//
+/TestGate.java/1.1/Thu Jan 13 16:50:46 2011//
+/TextualDocument.java/1.1/Thu Jan 13 16:50:46 2011//
+/Utils.java/1.1/Thu Jan 13 16:50:46 2011//
+/VisualResource.java/1.1/Thu Jan 13 16:50:46 2011//
+D/annotation////
+D/config////
+D/corpora////
+D/creole////
+D/email////
+D/event////
+D/fsm////
+D/gui////
+D/html////
+D/jape////
+/package.html/1.1/Thu Jan 13 16:50:46 2011//
+D/persist////
+D/print////
+D/resources////
+D/security////
+D/sgml////
+D/swing////
+D/util////
+D/wordnet////
+D/xml////

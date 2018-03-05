@@ -1,0 +1,6 @@
+All right. So, here we go. The first parody of many to come. Please let me know what you think. Also, I will post a link to a youtube video of the original song so you may get the full experience of mine...ya know, if you play it while reading mine.
+
+This was the very first parody that I made and wrote down to remember. For a long time in my life, I had been making up parodies to myself - just silly little changes to the songs - and they amused me. But if I ever tried to tell someone about it, I couldn't remember what I said. So, I promised myself that I would start writing down my parodies, and this was the next one to come.
+Bailey is a cat. But not just any cat. He is a seventeen pound cat belonging to my fiancé. For those of you not familiar with pet weights, seventeen is freaking huge for a cat. You can't really blame my fiancé's family though. They found the cat as a stray and apparently wanted it to eat it's fill.
+Anyway, I had the song Lady by Styx stuck in my head all day as I cut my fiancé's grass. I took a shower after I was done and when I walked out of the shower, there was Bailey sleeping soundly. I started singing Lady, but replaced Lady with Bailey. Upon hearing his name, he opened one eye and glared at me for waking him up. I then made up the second verse then and there. The rest of the song I made up later.
+Enjoy!

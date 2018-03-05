@@ -1,0 +1,5 @@
+How many memories carries on this jewel of Submarine. It left London on January 15, 1944 to sail for the Pacific Ocean to join up with the war. It arrived in Pearl Harbor on Valentine's Day, the most romantic day, where you will think about the loved one, while you need to face an incoming war.
+The crew onboard was prepared as much as possible for the dangerous experience that lay ahead and that they will face during the next days. During that period, for night and days, drills were conducted in the warm waters around Hawaii where torpedoes were fired and gun crews drilled and Pampanito even suffered a depth charging.
+Exactly one year after, on March 15, 1944, her keel was laid down at Portsmouth, Pampanito left on her first patrol. 
+
+I have to say that going inside a submarine for my 1st time was an experiece that I could never forget. You put yourself in a marine's shoes. You are inside, the vent-hole is closing. You re going underneath the surface, ready for the battle, not sure if you will see your beloved again. You are there! There is few little space for you to move! And you need to move fast if you do not want to be the bombarded and destroyed!

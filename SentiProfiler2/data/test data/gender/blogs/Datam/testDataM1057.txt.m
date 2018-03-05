@@ -1,0 +1,5 @@
+I am going to vote on November 4. I never miss an opportunity to cast a ballot. Ever.
+
+I just want to make a quick comment on the state of slander in the Presidential race. I just can't imagine how far people are willing to go to make a demon of someone. If you don't want to vote for a particular candidate -- fine, but, the fact you aren't voting for that person does not make them a devil, the anti-christ, the precursor to the anti-christ, a marxist, a pal of terrorists, etc. on and on.
+Sickening to me.
+These are two brilliant, well-qualified men who are running for President. They have both distinguished themselves. They have different views of how to move the country forward. Discuss that. Stay on point. Then, go vote. The one who gets the most votes wins -- and then becomes our President like it or not.

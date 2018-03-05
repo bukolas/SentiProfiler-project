@@ -1,0 +1,5 @@
+It seems that I may have neglected to inform you of the release of issue 7 of IGMS. I personally just barely realized it and am sorry for the delay of information. But it is...though without the Ender Saga story as of yet. I feel neglectful of this blog...but at least I am not with my new husband. So...I have my priorities straight. Oh and I think I might finally get him to read EG. Finally.
+
+I only have a few weeks left in the school year and I am still eagerly awaiting the arrival of Keeper of Dreams. Yay! Then I might have something to write about...then you might have something worth reading. (besides my life.)
+
+So anyway...I am happily married now and look forward to starting my life with my husband. Thanks everyone in my family and everyone that is there to support us--thanks for everything!! SMILE!!!

@@ -1,0 +1,1 @@
+I handed my passport to the Serbian police officer. He scowled, not from the encroaching cold, but because I was American and had Kosovo visa stamps. Thankfully, I also had a Serbian entry stamp so there was nothing he could do but waive me through. A few kilometers down a windy country road I reached the Kosovar border checkpoint.

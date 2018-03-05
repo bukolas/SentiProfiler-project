@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<shortcuts>
+
+  <programGroup defaultName="GATE $APP_VER" location="applications"/>
+
+   <shortcut
+     name="GATE $APP_VER GUI"
+     programGroup="yes"
+     target="$INSTALL_PATH/gate.exe"
+     workingDirectory="$INSTALL_PATH"
+     description="Starts the GATE $APP_VER GUI"
+     initialState="normal"
+     iconFile="$INSTALL_PATH/icons/gate-icon.ico"
+     desktop="no"
+		 type="Application"
+     encoding="UTF-8">
+     <createForPack name="Core"/>
+   </shortcut>
+   <shortcut
+     name="GATE User Guide"
+     programGroup="yes"
+     target="$INSTALL_PATH/tao.pdf"
+     description="The GATE User Guide"
+     desktop="no">
+     <createForPack name="User guide"/>
+   </shortcut>
+</shortcuts>

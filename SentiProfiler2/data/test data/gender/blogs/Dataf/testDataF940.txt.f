@@ -1,0 +1,3 @@
+Don't let anyone tell you what is right or what is best for your life. Do what is best for yourself and follow your heart. Stand tall and stand by your decisions, but always be prepared to admit your mistakes and admit when you were wrong.
+
+I have made a big decision in my life about my future. My family and friends have been very supportive of that decision, but there are some people that haven't. At first I let it get me down until I realized that I am the one that has to live my life and no one else can do it for me. So, I shouldn't let a few non-supporters choose the direction of my future. I have to do what is best for me. You should do the same.

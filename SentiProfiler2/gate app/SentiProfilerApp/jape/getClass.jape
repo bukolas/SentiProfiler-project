@@ -1,0 +1,17 @@
+Phase:getClass
+Input: Token 
+Options: control = once
+
+Rule: classAssign
+
+(
+({Token.root=="<"}
+{Token.root=="class"}
+{Token.root==">"})
+({Token.root=~"[htlsfm]"}):class
+
+)
+-->
+:class.Gender = {Class = :class.Token.root}
+//:class.Document = {Class = :class.Token.root}
+

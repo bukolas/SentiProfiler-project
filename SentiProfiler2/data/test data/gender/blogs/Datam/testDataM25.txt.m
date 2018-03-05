@@ -1,0 +1,5 @@
+As a former schoolteacher, I know just how broken education is and how far away it is from hitting the mark of supporting the development and exploring personal potential for young people. One thing you can do for the next generation of young people is share what you know on the internet. If you lay down the breadcrumbs as you live and you share what you know, it will live on and help others stand on your shoulders and build past what you have done. There are lots of benefits to going to school, but it doesn't have a monopoly on knowledge or hold the only keys to a great job.
+
+I see sharing as the future of business too. By sharing our designs with the MakeBot community, we've found a fantastic community of passionate people who are willing to tell us what we're doing right and support us in figuring out how to improve. The examples go on and on.
+
+What are you sharing? What frontiers do you see for sharing. Are there things that you're not sharing that you could?

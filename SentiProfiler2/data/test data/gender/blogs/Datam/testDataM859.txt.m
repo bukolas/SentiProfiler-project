@@ -1,0 +1,1 @@
+As I sit here late at night I mourn what I have lost. I have perhaps mourn what I have lost for too long. It seems as life moves forward I keep glancing in the rearview mirror to mourn rather than look forward to what is to come. This has crippled my life. I have stopped to gaze into where I have been rather than charge forward to where I am going.

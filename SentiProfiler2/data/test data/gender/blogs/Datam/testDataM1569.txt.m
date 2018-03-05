@@ -1,0 +1,3 @@
+I guess there's not too much to say. There never really is. I'm stuck in an odd "other" realm where I have no time to invest in things that would further my own personal happiness but I have all the time in the world to sit and wish I was doing something else. I guess I'm spoiled, at least a little.
+
+After looking at my last credit card bill, yikes, I picked up freelance writing to fill the cracks my paycheck doesn't want to cover and, for the most part, it's working well.

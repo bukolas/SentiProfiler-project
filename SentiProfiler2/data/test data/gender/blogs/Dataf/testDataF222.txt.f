@@ -1,0 +1,12 @@
+Her radiant, larger-than-life image is everywhere: on snow-fringed billboards in Stockholm's chic shopping district, on stately buildings in the capital's picturesque Old Town, on the side of city buses. Ebba von Sydow, 25, is Sweden's current it girl: the face of Swedish fashion brand MQ's antismoking campaign and editor-in-chief of the nation's largest magazine for young women, Vecko Revyn ("Weekly Review"). "Every girl in Sweden wants to be Ebba," says a 28-year-old female office worker from Stockholm. "She is the woman with everything — success, power, brains, and beauty."
+
+In other words, Ebba is the perfect example of what the latest research shows: that Sweden is a country in which women truly thrive. In fact, a 2005 report by the World Economic Forum found this Scandinavian nation to be the world's "most advanced country" for women, with greater levels of equality, power, health, and well-being among women than anywhere else. (The survey ranked the U.S. an abysmal 17th place — one above Costa Rica.)
+
+Relaxing with coworkers at an exclusive spa to celebrate her 25th birthday, Ebba sips champagne while explaining that Sweden's pro-female culture has helped her achieve her dreams. "I have a fantastic life and a job I love. Women here are judged on their talents, not their gender," she says. "If you're good at what you do, you can get to the top very fast."
+
+Sweden, which has a population of 9 million — around the same as the state of New Jersey — has a long history of female-friendly policies. The government gave women equal rights to inherit property way back in 1845; in 1901, it introduced the world's first formalized maternity-leave program. In 1958, the Swedish Lutheran church changed its doctrine to permit women to become priests. And today, female politicians make up around half of the Swedish parliament.
+
+The goal of equality starts young: "Anti-Sexism Awareness Training" begins in kindergarten, where male toddlers are encouraged to play with dolls, and females with toy tractors. In school, classes in cooking, sewing, metalworking, and woodworking are compulsory for both sexes. All education, including college, is free, and girls routinely outperform boys; in 2005, women made up more than 60 percent of all Swedish college students. All this adds up to more flexible gender roles later: As one Swedish website puts it, "In our country, women drive the buses and men push the baby buggies."
+1 of 5
+1 2 3 4 5
+Next »

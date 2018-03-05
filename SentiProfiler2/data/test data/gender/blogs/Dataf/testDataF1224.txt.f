@@ -1,0 +1,1 @@
+Malatapay Beach Resort may be far from the city but it is accessible to the national highway. It has a beautiful location with cottages close to the sea facing Apo Island, a strategic spot to serve as a gateway to the tourist-attractive island. They have several cottages that can accommodate a large group (we were 16 all in all when we went there).

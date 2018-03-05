@@ -1,0 +1,154 @@
+Phase:	Conditional
+Input: Split VG ConditionalIndicator
+Options: control = appelt
+
+Rule: Conditional0
+// If + simple present --> simple present
+
+(
+ {ConditionalIndicator}
+ ({VG.tense == SimPre}):firstverb
+ ({VG.tense == SimPre}):secondverb
+ {Split}
+):tag
+-->
+// :tag.Conditional = {type = "0", sentence_sentiment = "pos+pos"}
+
+{
+  AnnotationSet tagSet = bindings.get("tag");
+  Annotation firstVG = bindings.get("firstverb").iterator().next();
+  Annotation secondVG = bindings.get("secondverb").iterator().next();
+
+  String firstPol = "yes".equals(firstVG.getFeatures().get("neg"))
+                         ? "neg" : "pos";  
+  String secondPol = "yes".equals(secondVG.getFeatures().get("neg"))
+                         ? "neg" : "pos";  
+  FeatureMap features = Factory.newFeatureMap();
+  features.put("type", "0");
+  features.put("polarity", firstPol + "+" + secondPol);
+  features.put("opinion_holder", "author");
+  try {
+    outputAS.add(tagSet.firstNode().getOffset(),
+                 tagSet.lastNode().getOffset(),
+                 "Conditional", features);
+  }
+  catch(InvalidOffsetException ioe) {
+    // can't happen
+    throw new JapeException(ioe);
+  }
+}
+
+
+
+
+Rule: Conditional1
+// If + simple present --> simple future
+
+(
+ {ConditionalIndicator}
+ ({VG.tense == SimPre}):firstverb
+ ({VG.tense == SimFut}):secondverb
+ {Split}
+):tag
+-->
+{
+  AnnotationSet tagSet = bindings.get("tag");
+  Annotation firstVG = bindings.get("firstverb").iterator().next();
+  Annotation secondVG = bindings.get("secondverb").iterator().next();
+
+  String firstPol = "yes".equals(firstVG.getFeatures().get("neg"))
+                         ? "neg" : "pos";  
+  String secondPol = "yes".equals(secondVG.getFeatures().get("neg"))
+                         ? "neg" : "pos";  
+  FeatureMap features = Factory.newFeatureMap();
+  features.put("type", "1");
+  features.put("polarity", firstPol + "+" + secondPol);
+  features.put("opinion_holder", "author");
+  try {
+    outputAS.add(tagSet.firstNode().getOffset(),
+                 tagSet.lastNode().getOffset(),
+                 "Conditional", features);
+  }
+  catch(InvalidOffsetException ioe) {
+    // can't happen
+    throw new JapeException(ioe);
+  }
+}
+
+
+
+
+Rule: Conditional2
+// If + past --> would + infinitive
+
+(
+ {ConditionalIndicator}
+ ({VG.tense == SimPas}):firstverb
+ ({VG.tense == none, VG.type == MODAL}):secondverb
+ {Split}
+):tag
+-->
+
+{
+  AnnotationSet tagSet = bindings.get("tag");
+  Annotation firstVG = bindings.get("firstverb").iterator().next();
+  Annotation secondVG = bindings.get("secondverb").iterator().next();
+
+  String firstPol = "yes".equals(firstVG.getFeatures().get("neg"))
+                         ? "neg" : "pos";  
+  String secondPol = "yes".equals(secondVG.getFeatures().get("neg"))
+                         ? "neg" : "pos";  
+  FeatureMap features = Factory.newFeatureMap();
+  features.put("type", "2");
+  features.put("polarity", firstPol + "+" + secondPol);
+  features.put("opinion_holder", "author");
+  try {
+    outputAS.add(tagSet.firstNode().getOffset(),
+                 tagSet.lastNode().getOffset(),
+                 "Conditional", features);
+  }
+  catch(InvalidOffsetException ioe) {
+    // can't happen
+    throw new JapeException(ioe);
+  }
+}
+
+
+
+Rule: Conditional3
+// If + past perfect --> present perfect
+
+(
+ {ConditionalIndicator}
+ ({VG.tense == PasPer}):firstverb
+ ({VG.tense == HaveVBN, VG.type == MODAL}):secondverb
+ {Split}
+):tag
+-->
+
+{
+  AnnotationSet tagSet = bindings.get("tag");
+  Annotation firstVG = bindings.get("firstverb").iterator().next();
+  Annotation secondVG = bindings.get("secondverb").iterator().next();
+
+  String firstPol = "yes".equals(firstVG.getFeatures().get("neg"))
+                         ? "neg" : "pos";  
+  String secondPol = "yes".equals(secondVG.getFeatures().get("neg"))
+                         ? "neg" : "pos";  
+  FeatureMap features = Factory.newFeatureMap();
+  features.put("type", "3");
+  features.put("polarity", firstPol + "+" + secondPol);
+  features.put("opinion_holder", "author");
+  try {
+    outputAS.add(tagSet.firstNode().getOffset(),
+                 tagSet.lastNode().getOffset(),
+                 "Conditional", features);
+  }
+  catch(InvalidOffsetException ioe) {
+    // can't happen
+    throw new JapeException(ioe);
+  }
+}
+
+
+

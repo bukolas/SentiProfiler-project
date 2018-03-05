@@ -1,0 +1,1 @@
+Well, as you might have guessed, I wasn’t exactly Mr. Popular growing up. At recess the kids used to crowd around me and start chanting “Wordy-Wordy-Word-Butt” and claim they’d only stop it if I said the “F” word. Of course, as soon as I did that, they’d grab it and show it to the teacher and I’d end up with detention for a week.

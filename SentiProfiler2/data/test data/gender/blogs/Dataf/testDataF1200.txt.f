@@ -1,0 +1,1 @@
+Arriving at noon, we were instantly mesmerized by the rustic garden at its front yard, as well as the sounds of the birds at the mini-aviary. The gravel pathway led us to a an archway of vines and tree branches hanging over the front door of the restaurant, which evoked a mysterious appeal to us. Wood carvings, antique and art pieces, and dolls, caught our roving eyes.

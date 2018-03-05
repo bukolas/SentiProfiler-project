@@ -1,0 +1,5 @@
+So I went shopping today for my diet food, and I was pleasantly surprised to find a huge selection of food that are not only low in calories and carbs, but that also actually taste good! I loaded up on plenty of fruit and the fruit bars that Special-K makes....They are super good! Between eating right (the biggest problem is cutting out all the Coke I drink!) and doing my two miles a day on the treadmill, I should be bikini/tattoo ready for Orlando! I'm one of those lucky woman that not only had seven kids who were all very large at birth, but I don't have one stretch mark on me....So I get the tummy flat and I'll look good in that two piece this June:)
+
+Mark is dieting with me, so it's making it so much easier. We ate salads for dinner last night, but tonight I think I'll try us out on some fresh fish and veggies, along with some Skinny Cow ice-cream treats for dessert. I think we can handle that:)
+
+OKay people, meet me back here in June and I'll show off my new body! I'm excited! I think this is going to be a great Summer.

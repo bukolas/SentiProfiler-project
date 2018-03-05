@@ -1,0 +1,1 @@
+I've called this the "honorary" word of the day because it doesn't pertain to me, but to my sister. I couldn't pass it up because I'm so very excited about my niece-or-nephew-to-be, but if it were my only word of the day, it might cause some worry on the part of you, my dear readers, in terms of to whom the word refers... Hence, "honorary."

@@ -1,0 +1,1 @@
+She felt her life was sprinting away from her as she scrubbed baby food off the kitchen floors and folded baskets of laundry. Wasn't she more than just a mother? She read books, sang songs and was more than capable of holding a conversation on any topic under the sun for over 10 minutes.

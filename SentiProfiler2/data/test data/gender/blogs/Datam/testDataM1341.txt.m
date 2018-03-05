@@ -1,0 +1,1 @@
+Having lived in Australia for five years, I am in favor of some form of universal health care system. I am one of the many un-insured with in this country and without having VA benefits, I would be forced to go without health care or face great debt. Being unemployed and disabled makes it even more difficult.

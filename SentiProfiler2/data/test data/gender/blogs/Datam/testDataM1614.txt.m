@@ -1,0 +1,8 @@
+I figured while I was unemployed, I would try to do something useful. One thing I thought somebody might benefit from was a Facebook page that gives advice on finding a job. (Here's the link) Then I thought about the things going through my mind these days as I struggle to stay positive and engaged in the face of a job market that isn't exactly smiling upon those over 40. Finding a job in this economy is tough for anybody, but being over 40, you might start asking yourself things like, "Do they think I'm too old to do this?"
+Well, listen, now you have a chance to prove to them that you are capable, talented, and right for the job. Some people develop a lot of negative self-talk and that negative attitude begins to show through on the surface. Not many employers can afford to hire someone who is late to work, can't spell, doesn't produce results, has so much drama in their life they aren't present at work, etc.
+So you're still in the game, old-timer!
+I created the Over 40 Unemployed Facebook Fan page as a place where people (you don't have to be over 40 and unemployed) can share their experience, their strategies, their job search tips, and their success stories.
+
+I believe that in this economy, if you're over 40 and unemployed then all the more reason to work harder and work smarter. It's a chance to show how all those years of "experience" can benefit a potential employer.
+
+And here's the logo I created for the Over Forty and Unemployed Facebook page:

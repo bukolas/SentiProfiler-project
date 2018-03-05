@@ -1,0 +1,29 @@
+/ActiveLearningSetting.java/1.1/Fri Jan 14 08:36:34 2011//
+/ArgOfRelation.java/1.1/Fri Jan 14 08:36:34 2011//
+/ArraysDataSetDefinition.java/1.1/Fri Jan 14 08:36:34 2011//
+/Attribute.java/1.1/Fri Jan 14 08:36:34 2011//
+/AttributeRelation.java/1.1/Fri Jan 14 08:36:34 2011//
+/ChunkLengthStats.java/1.1/Fri Jan 14 08:36:34 2011//
+/ConstantParameters.java/1.1/Fri Jan 14 08:36:34 2011//
+/DataSetDefinition.java/1.1/Fri Jan 14 08:36:34 2011//
+/DocFeatureVectors.java/1.1/Fri Jan 14 08:36:34 2011//
+/EvaluationBasedOnDocs.java/1.1/Fri Jan 14 08:36:34 2011//
+/EvaluationConfiguration.java/1.1/Fri Jan 14 08:36:34 2011//
+/EvaluationMeasuresComputation.java/1.1/Fri Jan 14 08:36:34 2011//
+/Label2Id.java/1.1/Fri Jan 14 08:36:34 2011//
+/LabelsOfFV.java/1.1/Fri Jan 14 08:36:34 2011//
+/LabelsOfFeatureVectorDoc.java/1.1/Fri Jan 14 08:36:34 2011//
+/LearnerSettings.java/1.1/Fri Jan 14 08:36:34 2011//
+/LearningAPIMain.java/1.1/Fri Jan 14 08:36:34 2011//
+/LearningEngineSettings.java/1.1/Fri Jan 14 08:36:34 2011//
+/LightWeightLearningApi.java/1.1/Fri Jan 14 08:36:34 2011//
+/LogService.java/1.1/Fri Jan 14 08:36:34 2011//
+/MiLearningInformation.java/1.1/Fri Jan 14 08:36:34 2011//
+/NLPFeaturesList.java/1.1/Fri Jan 14 08:36:34 2011//
+/NLPFeaturesOfDoc.java/1.1/Fri Jan 14 08:36:34 2011//
+/Ngram.java/1.1/Fri Jan 14 08:36:34 2011//
+/RunMode.java/1.1/Fri Jan 14 08:36:34 2011//
+/SparseFeatureVector.java/1.1/Fri Jan 14 08:36:34 2011//
+/UsefulFunctions.java/1.1/Fri Jan 14 08:36:34 2011//
+D/learners////
+D/test////

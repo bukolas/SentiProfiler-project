@@ -1,0 +1,5 @@
+Sure, it is a new world out there! Especially if you owned Yahoo! stock last night. After an overnight gain of 48% following Microsoft's bid offer to buy yahoo, I don't blame you if you have a grin the size of a football field.
+
+Anyway, this only brings to focus the new dynamics of the game - How software and business have changed over the past to adapt and embrace the medium of the Internet. So, if you are a CS/IT or a business student, you will do well to take these points into consideration:
+
+1. The net is now the universal computer - the machine where we run software and store data. When was the last time you accessed an encyclopedia or a dictionary in print or DVD form, or get an entire roll of film or card full of images printed? With online applications like Wikipedia, Facebook and Flickr, we are buying less and less packaged software and going online more and more for our computation needs. With traditionally packaged software such as Office being available for use online as well, it definitely signals the "Net is the Computer" era.

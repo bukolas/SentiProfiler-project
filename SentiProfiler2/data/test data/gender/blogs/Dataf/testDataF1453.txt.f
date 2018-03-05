@@ -1,0 +1,1 @@
+In a medium saucepan, melt the remaining 2 tablespoons butter. Stir in the turkey and flour. Add the milk, and heat through. Stir the turkey mixture into the vegetable mixture, and cook until thickened. Cool slightly, then pour mixture into the unbaked pie shell. Roll out the top crust, and place on top of filling. Flute edges, and make 4 slits in the top crust to let out steam.

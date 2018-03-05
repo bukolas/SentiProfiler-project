@@ -1,0 +1,1 @@
+I put off getting braces for my son long enough. He's 13, and it's just time, at least if I want to do it before it's time for dentures. I'm not even sure why I put it off for so long, but there just always seemed to be something else that needed to get done before we got around to it. Once he broke his ankle in football, and was laid up anyway, it seemed like the perfect time.

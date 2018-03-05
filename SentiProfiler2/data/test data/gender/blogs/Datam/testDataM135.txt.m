@@ -1,0 +1,17 @@
+It’s worth wondering what liberals will celebrate when they sit down to their free-range turkey or yummy tofu loafs. We can be certain that they’ll lift a glass of sulfate-free wine or organic apple cider to family and friends, while the rest of us drink our sulfates and pesticides.
+
+Liberals might, like many of us, root for their favorite pro or college football teams — that is, if they don’t object to the violence of a male-dominated sport.
+
+Otherwise, what will liberals and conservatives have in common this Thanksgiving? Not overeating, as liberals don’t overeat. After all, obesity is a crisis in America, along with a thousand and one other crises that liberals have catalogued.
+
+Liberals won’t be thankful for McDonald’s or Burger King or Nathan’s. Or Little Debbie Snack Cakes or Hostess Ho-Hos or Hershey’s chocolate bars. Those, along with a lot of other enterprises and products, are part of the vast industrial food complex, hell-bent on making a profit from expanding waistlines. It’s about the fat grams, stupid.
+
+Perhaps they’ll celebrate the nation’s economy. Though now sputtering under the benign hand of Barack Obama, the American economy is the greatest on the planet. It has lifted the lives of not only Americans and the nation’s sizable illegal population, but has spread the benefits of capitalism, individual initiative, and creativity across the globe.
+
+But liberals can’t celebrate economic liberty or American economic success. All that economic freedom is a bad thing. Along with their Big Macs and Twinkies, Americans consume too much of the world’s diminishing resources. Take energy, for instance — Americans are energy gluttons. They keep their houses too warm in the winter and too cool in the summer. They drive gas-guzzlers. Some even have powerboats or RVs. Others refuse to put low-flow toilets in their bathrooms and use more than a square of toilet paper at a time.
+
+Go and get more energy? Exploit the natural resources that abound on American soil and off its shores? Use technology to build nuclear power plants? Nonsense. Getting more crude oil or natural gas or coal means raping the environment. And anyone remember Three Mile Island or Chernobyl?
+
+Conventional energy use just spews greater amounts of life-choking carbon into the air. Despite nine consecutive years of global cooling, despite the fraud perpetrated by global warming zealots, liberals know — just know in the marrow of their bones — the world is getting hotter. What are we — twenty years, ten years, or five years from the oceans rising and swamping coastlines? Or are the oceans supposed to boil off? What about all those polar bears dropping from melting icebergs into the briny seas?
+
+Perhaps liberals can celebrate the success of fellow liberal and mountebank Al Gore. The former vice president parlayed his global warming flimflam into a fat bank account and a Nobel Prize. You see, it’s okay for liberals to get rich — or filthy rich, in Gore’s case — selling carbon offsets or hemp clothes or books bashing George W. Bush or Sarah Palin. Or making lots of money on Wall Street, though that’s supposed to be a secret. But Gore has been celebrated so much by liberals that he’s getting to be like the cousin who outstays his welcome.

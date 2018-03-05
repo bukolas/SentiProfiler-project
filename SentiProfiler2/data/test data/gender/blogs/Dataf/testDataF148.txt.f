@@ -1,0 +1,5 @@
+I just finished reading one of my textbooks, written by Eugene Peterson, and he was talking about discipling relationships and what people need.  I loved one of his quotes: 
+
+"Sometimes I need a teacher, someone to explain the Scriptures, to clarify the Christian belief in some circumstance or relationship.  But mostly I do not: I need to become what I already know.  Sometimes I need a helper, someone to assist me out of a jam, someone to keep me accountable to my commitments.  But mostly I do not: I need to enter into the reality that is already God in and around me."
+
+I am pretty passionate about mentorship relationships in the Christian context, and I think Peterson hits the nail on the head.  Too often when we are walking with people, we are trying to tell them how to be, when they already know.  We need to do more listening and ask more questions, aiming to help each other see the bigger picture of who we are in Christ.  It could really change things!

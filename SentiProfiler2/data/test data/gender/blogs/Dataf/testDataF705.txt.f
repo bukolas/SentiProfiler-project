@@ -1,0 +1,1 @@
+I used to use this airlines a lot when I lived in Long Beach.  They were veyr down to earth and very conscious of giving quality service. Not quite as cheap as Southwest and I only regret that they don't fly into LA more often but for what it is, it's a good airline.  I love the TVs by every seat too. It really came in handy on the red eye flight to New England.

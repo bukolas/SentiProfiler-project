@@ -1,0 +1,2 @@
+Awakening expansion (Bioware/EA – PC, PS3, Xbox360) – Give us more, we say! Awakeing adds new levels set after the events of Origins, with new spells and talents for old characters and new villains (like The Architect) and playable character, the Grey Warden. $39.99
+Command a Conquer 4: Tiberian Twilight (EA – PC) – After 15 years, the Tiberium saga of Command and Conquer comes to an end. Live action cut scenes merge with new objectives and RPG elements in this chapter of the strategy franchise. $49.99

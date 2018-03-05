@@ -1,0 +1,1 @@
+i am an introspective, quiet, thoughtful, often lost, sometimes found, conglomeration of people, events, and expectations filled and unfulfilled who meanders around a relatively small portion of this earth bringing what goodness i can to the time i am given. some recognize, accept, and cherish the somewhat insular sometimes bewildered by it all person that i actually am.

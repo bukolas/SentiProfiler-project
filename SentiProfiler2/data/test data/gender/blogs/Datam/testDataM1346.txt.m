@@ -1,0 +1,1 @@
+This was high season and spoilt and busy? We were soaked and there was no place to stay, yet after the noisy crowds of the other islands, this was a chance to exhale.

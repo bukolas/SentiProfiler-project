@@ -1,0 +1,11 @@
+2 New Teeth, Crawling, and Self-Pacifier-Weaning
+How's that for a title?
+
+Eli finally cut his 2 top front teeth this past week. They'd been bumps there forever and they finally made their way through. Can I tell you how hard it is to catch those two little teeth on camera though? Very hard. This is as close as I got:
+And yes, Jeremy is holding him upside down so I could get this. Luckily Eli thought that was a blast. The left one came in first and a couple days later, the right one joined in. Very exciting. And it looks like there are several more also on their way. Fun fun!
+
+Next up: crawling. Eli took his first few real forward crawls today (crawls? they're not steps; i don't know what you call them). He's been scooting, rolling, army crawling, getting on his hands and knees, going backward, and so forth, but today we saw the first glimpses of the real deal. He takes a few crawls (again, that sounds so weird) and then drops to his tummy again for the army crawl, but I'm sure he will be crawling the length of our house in no time. :) I managed to catch a bit of it on video (please ignore my encouraging sounds - I hate hearing myself on video, but I forget to shut my mouth when I press record; and it's really short because I ran out of memory).
+ 
+And last but not least...no more pacifier! At least I think so. It seems like I got off way too easy, so I'm not sure if we've really seen the end of it here, but it appears so. I usually only would give Eli his pacifier when he went to sleep and when we were at church (they should call it a "muter"); oh, and sometimes when I teach lessons. Anyway, but lately he has refused it at bed time so I just stopped giving it to him and he hasn't seemed to miss it at all! I was planning on trying to wean him from it soon anyway, but I certainly didn't think it would be this easy. Here's hoping it's really over! I should just throw them away and then it really will be over...hmm. We'll see.
+
+So that's the update! This boy's changing fast! He pulls himself up to stand a lot now too. It's so fun to see him growing up. He'll be running around by the time the warm summer weather gets here. Yea!!!

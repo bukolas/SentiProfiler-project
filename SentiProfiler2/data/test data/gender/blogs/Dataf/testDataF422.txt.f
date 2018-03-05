@@ -1,0 +1,1 @@
+My first nights in the US, specifically in San Francisco, were spent in a cozy bed in Hilton San Francisco Union Square. I arrived late at night, after a grueling trip across the Pacific Ocean. Traveling alone to attend the National Conference on Volunteering and Service, I bravely proceeded from the airport to the hotel through the metro train.

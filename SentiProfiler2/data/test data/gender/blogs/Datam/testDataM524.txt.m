@@ -1,0 +1,1 @@
+Talk to your ex-spouse the way you want them to talk to you, and you have a better chance of getting what you want. Talk to them in a condescending, angry, blaming tone and I promise you will not get what you want.
